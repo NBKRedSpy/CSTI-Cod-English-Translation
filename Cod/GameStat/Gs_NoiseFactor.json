@@ -1,0 +1,1021 @@
+{
+    "BarColor": {
+        "a": 1.0,
+        "b": 0.827451050281525,
+        "g": 0.298039227724075,
+        "r": 0.0941176563501358
+    },
+    "BarHighlightColor": {
+        "a": 1.0,
+        "b": 0.0,
+        "g": 0.728510022163391,
+        "r": 1.0
+    },
+    "BaseRatePerTick": -1.0,
+    "BaseValue": 0.0,
+    "CannotBeInspected": false,
+    "DefaultStatusDescription": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "DefaultStatusIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "DefaultStatusName": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "Description": {
+        "DefaultText": "各类生物在该地区的活跃程度。",
+        "LocalizationKey": "COD_Gs_NoiseFactor_Description",
+        "ParentObjectID": "a436c5b4dc204eb5aea182d8a06e0d6c"
+    },
+    "FeedbackInfo": {
+        "Icon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "IconWarpData": "Gs_NoiseFactor",
+        "IconWarpType": 3,
+        "Inverted": false,
+        "NegativeIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "StepValue": 10.0
+    },
+    "GameName": {
+        "DefaultText": "区域热度",
+        "LocalizationKey": "COD_Gs_NoiseFactor_GameName",
+        "ParentObjectID": "a436c5b4dc204eb5aea182d8a06e0d6c"
+    },
+    "InvertedDirection": false,
+    "MaxStalenessStack": 0,
+    "MinMaxRate": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "MinMaxValue": {
+        "x": 0.0,
+        "y": 40.0
+    },
+    "NotEnoughIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "NotEnoughText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "NoveltyCooldownDuration": 0,
+    "OverrideFeedbackPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "RequiredPerks": [],
+    "ShowActionEffects": true,
+    "StalenessMultiplier": 0.0,
+    "StatPriority": 0,
+    "StatusDebugMode": false,
+    "Statuses": [
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 2.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "858aacd84fbc4741b8e7625810f3f536",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 2.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "37456f8830a04e71b28ae31c3a4f38dd",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "1c443198d6724d8e8ba5e60a8c252c2c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "ca6acdb56b9d4c2d8edc9cd86ce7b154",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "5b0d21f2a9004699a51ed83ea22a90d0",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "a633d25458414e5e8c40aa9eede4d858",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "eb4c883856cb4870b28530d90e5eb4b3",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "区域苏醒",
+                "LocalizationKey": "COD_Gs_NoiseFactor_Statuses[3].GameName",
+                "ParentObjectID": "a436c5b4dc204eb5aea182d8a06e0d6c"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "Gs_NoiseFactor_LevelOne",
+            "IconWarpType": 3,
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 1,
+                "y": 8
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 1,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 2.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "858aacd84fbc4741b8e7625810f3f536",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 2.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "37456f8830a04e71b28ae31c3a4f38dd",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "1c443198d6724d8e8ba5e60a8c252c2c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "ca6acdb56b9d4c2d8edc9cd86ce7b154",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 2.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "5b0d21f2a9004699a51ed83ea22a90d0",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "a633d25458414e5e8c40aa9eede4d858",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "eb4c883856cb4870b28530d90e5eb4b3",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "区域起温",
+                "LocalizationKey": "COD_Gs_NoiseFactor_Statuses[3].GameName",
+                "ParentObjectID": "a436c5b4dc204eb5aea182d8a06e0d6c"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "Gs_NoiseFactor_LevelOne",
+            "IconWarpType": 3,
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 9,
+                "y": 16
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 2,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "858aacd84fbc4741b8e7625810f3f536",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "37456f8830a04e71b28ae31c3a4f38dd",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "1c443198d6724d8e8ba5e60a8c252c2c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "ca6acdb56b9d4c2d8edc9cd86ce7b154",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "5b0d21f2a9004699a51ed83ea22a90d0",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "a633d25458414e5e8c40aa9eede4d858",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "eb4c883856cb4870b28530d90e5eb4b3",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "区域活跃",
+                "LocalizationKey": "COD_Gs_NoiseFactor_Statuses[3].GameName",
+                "ParentObjectID": "a436c5b4dc204eb5aea182d8a06e0d6c"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "Gs_NoiseFactor_LevelThree",
+            "IconWarpType": 3,
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 17,
+                "y": 24
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 3,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "858aacd84fbc4741b8e7625810f3f536",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "37456f8830a04e71b28ae31c3a4f38dd",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "1c443198d6724d8e8ba5e60a8c252c2c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "ca6acdb56b9d4c2d8edc9cd86ce7b154",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "5b0d21f2a9004699a51ed83ea22a90d0",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "a633d25458414e5e8c40aa9eede4d858",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "eb4c883856cb4870b28530d90e5eb4b3",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "群魔乱舞",
+                "LocalizationKey": "COD_Gs_NoiseFactor_Statuses[3].GameName",
+                "ParentObjectID": "a436c5b4dc204eb5aea182d8a06e0d6c"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "Gs_NoiseFactor_LevelThree",
+            "IconWarpType": 3,
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 25,
+                "y": 32
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 4,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "858aacd84fbc4741b8e7625810f3f536",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "37456f8830a04e71b28ae31c3a4f38dd",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "1c443198d6724d8e8ba5e60a8c252c2c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "ca6acdb56b9d4c2d8edc9cd86ce7b154",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "5b0d21f2a9004699a51ed83ea22a90d0",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "a633d25458414e5e8c40aa9eede4d858",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 3.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "eb4c883856cb4870b28530d90e5eb4b3",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "世界舞台",
+                "LocalizationKey": "COD_Gs_NoiseFactor_Statuses[3].GameName",
+                "ParentObjectID": "a436c5b4dc204eb5aea182d8a06e0d6c"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "Gs_NoiseFactor_LevelThree",
+            "IconWarpType": 3,
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 33,
+                "y": 40
+            }
+        }
+    ],
+    "StatusesHaveNoBar": false,
+    "TimeOfDayMods": [],
+    "TooMuchText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "TrendIndicatorRateRange": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "UniqueID": "a436c5b4dc204eb5aea182d8a06e0d6c",
+    "UsesNovelty": false,
+    "Visibility": 0,
+    "VisibleGameStatStatListTab": "Skills",
+    "VisibleInDetailedList": false,
+    "VisibleValueRange": {
+        "x": 0.0,
+        "y": 0.0
+    }
+}

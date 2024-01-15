@@ -1,0 +1,352 @@
+{
+    "BarColor": {
+        "a": 1.0,
+        "b": 0.61176472902298,
+        "g": 0.909803986549377,
+        "r": 0.0745098069310188
+    },
+    "BarHighlightColor": {
+        "a": 1.0,
+        "b": 0.0,
+        "g": 0.728510022163391,
+        "r": 1.0
+    },
+    "BaseRatePerTick": 0.0,
+    "BaseValue": 0.0,
+    "CannotBeInspected": false,
+    "DefaultStatusDescription": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "DefaultStatusIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "DefaultStatusIconWarpData": "Appetite",
+    "DefaultStatusIconWarpType": 3,
+    "DefaultStatusName": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "Description": {
+        "DefaultText": "Shows how good your eating place is. Gives you a bonus to eating.",
+        "LocalizationKey": "COD_Foodplace_Description",
+        "ParentObjectID": "444463646904413db0132b37cf4fe8df"
+    },
+    "FeedbackInfo": {
+        "Icon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "IconWarpData": "Comfort",
+        "IconWarpType": 3,
+        "Inverted": false,
+        "NegativeIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "StepValue": 100.0
+    },
+    "GameName": {
+        "DefaultText": "Foodplace",
+        "LocalizationKey": "COD_Foodplace_GameName",
+        "ParentObjectID": "444463646904413db0132b37cf4fe8df"
+    },
+    "InvertedDirection": false,
+    "MaxStalenessStack": 0,
+    "MinMaxRate": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "MinMaxValue": {
+        "x": 0.0,
+        "y": 1.0
+    },
+    "NotEnoughIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "NotEnoughText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "NoveltyCooldownDuration": 0,
+    "OverrideFeedbackPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "RequiredPerks": [],
+    "ShowActionEffects": true,
+    "StalenessMultiplier": 0.0,
+    "StatPriority": 100,
+    "StatusDebugMode": false,
+    "Statuses": [
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "Moderate Effect",
+                "LocalizationKey": "COD_Foodplace_Statuses[0].Description",
+                "ParentObjectID": "444463646904413db0132b37cf4fe8df"
+            },
+            "EffectsOnActions": [
+                {
+                    "ActionBlockMessage": {
+                        "DefaultText": "",
+                        "LocalizationKey": "",
+                        "ParentObjectID": ""
+                    },
+                    "AddedStatModifiers": [
+                        {
+                            "ApplyEachTick": false,
+                            "InstantModifier": false,
+                            "IsInverse": false,
+                            "RateModifier": {
+                                "x": -0.75,
+                                "y": -0.75
+                            },
+                            "Stat": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "StatWarpData": "111606ba528c30e4f8e38494f41b92c7",
+                            "StatWarpType": 3,
+                            "ValueModifier": {
+                                "x": -10.0,
+                                "y": -10.0
+                            }
+                        },
+                        {
+                            "ApplyEachTick": false,
+                            "InstantModifier": false,
+                            "IsInverse": false,
+                            "RateModifier": {
+                                "x": -0.75,
+                                "y": -0.75
+                            },
+                            "Stat": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "StatWarpData": "4a27fb5da9326b545a5ef73f2b80316e",
+                            "StatWarpType": 3,
+                            "ValueModifier": {
+                                "x": 4.0,
+                                "y": 4.0
+                            }
+                        },
+                        {
+                            "ApplyEachTick": false,
+                            "InstantModifier": false,
+                            "IsInverse": false,
+                            "RateModifier": {
+                                "x": -0.75,
+                                "y": -0.75
+                            },
+                            "Stat": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "StatWarpData": "c672b35248e9f2349a084e1514d6c9f8",
+                            "StatWarpType": 3,
+                            "ValueModifier": {
+                                "x": 6.0,
+                                "y": 6.0
+                            }
+                        }
+                    ],
+                    "AppliesTo": [],
+                    "AppliesToWarpData": [
+                        "EatingAction"
+                    ],
+                    "AppliesToWarpType": 3,
+                    "BlocksAction": false,
+                    "Conditions": {
+                        "NotInBackground": false,
+                        "RequiredCardsInInventory": [],
+                        "RequiredCardsNOTOnBoard": [],
+                        "RequiredCardsOnBoard": [],
+                        "RequiredContainer": [],
+                        "RequiredContainerTags": [],
+                        "RequiredDurabilityRanges": {
+                            "FuelRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "LiquidQuantityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "ProgressRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "Special1Range": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "Special2Range": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "Special3Range": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "Special4Range": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "SpoilageRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "UsageRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            }
+                        },
+                        "RequiredEnvironment": {
+                            "m_FileID": 0,
+                            "m_PathID": 0
+                        },
+                        "RequiredEnvironmentTags": [],
+                        "RequiredLiquidContainers": [],
+                        "RequiredStatValues": [],
+                        "RequiredTagsInInventory": [],
+                        "RequiredTagsNOTOnBoard": [],
+                        "RequiredTagsOnBoard": []
+                    },
+                    "DurationModifier": 0,
+                    "GivenDurabilities": {
+                        "ChargesChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "FuelChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special1Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special2Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special3Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special4Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "SpoilageChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "UsageChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "ReceivingDurabilities": {
+                        "ChargesChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "FuelChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special1Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special2Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special3Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special4Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "SpoilageChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "UsageChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    }
+                }
+            ],
+            "EffectsOnStats": [],
+            "GameName": {
+                "DefaultText": "Eating Utensils",
+                "LocalizationKey": "COD_Foodplace_Statuses[0].GameName",
+                "ParentObjectID": "444463646904413db0132b37cf4fe8df"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 1,
+                "y": 1
+            }
+        }
+    ],
+    "StatusesHaveNoBar": true,
+    "TimeOfDayMods": [],
+    "TooMuchText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "TrendIndicatorRateRange": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "UniqueID": "444463646904413db0132b37cf4fe8df",
+    "UsesNovelty": false,
+    "Visibility": 2,
+    "VisibleInDetailedList": false,
+    "VisibleValueRange": {
+        "x": 0.0,
+        "y": 0.0
+    }
+}

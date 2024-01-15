@@ -1,0 +1,35 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "ShopSortingList": [],
+    "ShopSortingListWarpData": [],
+    "ShopSortingListWarpType": 3,
+    "SubGroups": [],
+    "SubGroupsWarpData": [
+        "Tab_Deal_LaoHuJi",
+        "Tab_deall",
+        "Tab_Deal_Toolss",
+        "Tab_job",
+        "Tab_Quest",
+        "Tab_Deal_Joy",
+        "Tab_Deal_Seal",
+        "Tab_Deal_Menu",
+        "Tab_Deal_Production",
+        "Tab_Deal_BloodPlage"
+    ],
+    "SubGroupsWarpType": 3,
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabIconWarpData": "icon_jiaoyi",
+    "TabIconWarpType": 3,
+    "TabName": {
+        "DefaultText": "交易",
+        "LocalizationKey": "COD_cod_Cooking_TabName",
+        "ParentObjectID": "41bdd5c59e22a344a9f7e4df87a835c0"
+    }
+}

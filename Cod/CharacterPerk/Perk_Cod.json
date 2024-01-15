@@ -1,0 +1,110 @@
+{
+    "ActionModifiers": [],
+    "ActionObjectives": [],
+    "AddedCards": [],
+    "AddedCardsWarpData": [
+        "0de7d87ca2244f4db93816c0c5d597ff"
+    ],
+    "AddedCardsWarpType": 3,
+    "AddedStartingHours": 0,
+    "CardsOnBoardObjectives": [],
+    "CheckingNotificationDetails": 0,
+    "CompleteOnLose": false,
+    "CompleteOnWin": false,
+    "DifficultyRating": 12500,
+    "DisplayPriority": 10000.0,
+    "EditorOnly": false,
+    "EquippedCards": [],
+    "HiddenUntilUnlocked": false,
+    "MoonsCost": 0,
+    "NestedObjectives": [],
+    "NoSafetyMode": false,
+    "NotifyWhenNotChecked": false,
+    "OverrideEnvironment": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideEnvironmentWarpData": "5dd47b73591d45c5a504110031294b48",
+    "OverrideEnvironmentWarpType": 3,
+    "OverrideEquipment": false,
+    "OverrideWeather": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideWeatherWarpData": "30fb6c80d9a0497b98127b5a45bb0992",
+    "OverrideWeatherWarpType": 3,
+    "PassiveStatModifiers": [],
+    "PerkDescription": {
+        "DefaultText": "生者在前，亡者在后。",
+        "LocalizationKey": "COD_cod_1_AbandonedFarm_PerkDescription",
+        "ParentObjectID": "40626a92cebe4cd5a4c8b1f6a2c98068"
+    },
+    "PerkIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PerkIconWarpData": "Perk_Cod",
+    "PerkIconWarpType": 3,
+    "PerkName": {
+        "DefaultText": "废城",
+        "LocalizationKey": "COD_cod_1_AbandonedFarm_PerkName",
+        "ParentObjectID": "40626a92cebe4cd5a4c8b1f6a2c98068"
+    },
+    "PerkUnlockConditions": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "PlayedCharacter": [],
+    "RequiredDifficultyScore": {
+        "x": 0,
+        "y": 0
+    },
+    "ResetLockInEditor": false,
+    "StartUnlocked": true,
+    "StartingStatModifiers": [
+        {
+            "ApplyEachTick": false,
+            "InstantModifier": false,
+            "IsInverse": false,
+            "RateModifier": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Stat": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "StatWarpData": "111606ba528c30e4f8e38494f41b92c7",
+            "StatWarpType": 3,
+            "ValueModifier": {
+                "x": -225.0,
+                "y": -225.0
+            }
+        },
+        {
+            "ApplyEachTick": false,
+            "InstantModifier": false,
+            "IsInverse": false,
+            "RateModifier": {
+                "x": 0,
+                "y": 0
+            },
+            "Stat": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "StatWarpData": "390252148194475ab20fd9f61d7381ae",
+            "StatWarpType": 3,
+            "ValueModifier": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "StatsObjectives": [],
+    "SunsCost": 0,
+    "TagsOnBoardObjectives": [],
+    "TimeObjectives": [],
+    "UniqueID": "40626a92cebe4cd5a4c8b1f6a2c98068"
+}

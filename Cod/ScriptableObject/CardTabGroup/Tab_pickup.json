@@ -1,0 +1,36 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "BlueprintCardDataCardTabGroup": "Tab_Base",
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "9a103e5766bc44dfa8379a267849b52a",
+        "45333359fdcd4730b0400e368970592c",
+        "cdcffbc7f71b473bbbd8aa3e1d45844b",
+        "173fb46e8bf04a078b63d735dd87adf4",
+        "d0caf4d94c7d4d12b9cc9e628f877ebb",
+        "3c5b10fe7a5f4e3094d65c2057aaca70",
+        "43b78e6d2be04dbb89098c66a35081f9",
+        "afa3b70de9c0480b998fda3b993ccf35",
+        "fecc3336ced247a69d286667d92558cb",
+        "3c3e095925204e19a77032e4d6b3fc83",
+        "597c3756f25c431bb07e6dcb53cdbb8a",
+        "f7d6a3fe1ec243e2ae1b9456615d361b"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabIconWarpData": "一捆原木",
+    "TabIconWarpType": 3,
+    "TabName": {
+        "DefaultText": "打包",
+        "LocalizationKey": "COD_Tab_pickUp_TabName",
+        "ParentObjectID": "69cddd8ab2bc2764a9369993edc8aeb0"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "BarColor": {
+        "a": 0.0,
+        "b": 0.107864081859589,
+        "g": 0.104263097047806,
+        "r": 0.311320781707764
+    },
+    "BarHighlightColor": {
+        "a": 0.0,
+        "b": 0.0,
+        "g": 0.0,
+        "r": 0.0
+    },
+    "BaseRatePerTick": 0.0,
+    "BaseValue": 0.0,
+    "CannotBeInspected": false,
+    "DefaultStatusDescription": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "DefaultStatusIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "DefaultStatusIconWarpData": "NeedleWooden",
+    "DefaultStatusIconWarpType": 3,
+    "DefaultStatusName": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "Description": {
+        "DefaultText": "对于各类锁具解法的技术程度。",
+        "LocalizationKey": "COD_Gs_Ruins_Skill_Locksmithing_Description",
+        "ParentObjectID": "221aa25558a94e4a828318b565ea744f"
+    },
+    "FeedbackInfo": {
+        "Icon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "Inverted": false,
+        "NegativeIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "StepValue": 1.0
+    },
+    "GameName": {
+        "DefaultText": "开锁",
+        "LocalizationKey": "COD_Gs_Ruins_Skill_Locksmithing_GameName",
+        "ParentObjectID": "221aa25558a94e4a828318b565ea744f"
+    },
+    "InvertedDirection": false,
+    "MaxStalenessStack": 0,
+    "MinMaxRate": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "MinMaxValue": {
+        "x": 0.0,
+        "y": 150.0
+    },
+    "NotEnoughIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "NotEnoughText": {
+        "DefaultText": "需要更高的开锁技能",
+        "LocalizationKey": "COD_Gs_Ruins_Skill_Locksmithing_NotEnoughText",
+        "ParentObjectID": "221aa25558a94e4a828318b565ea744f"
+    },
+    "NoveltyCooldownDuration": 0,
+    "OverrideFeedbackPrefab": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "RequiredPerks": [],
+    "ShowActionEffects": false,
+    "StalenessMultiplier": 0.0,
+    "StatPriority": 0,
+    "StatusDebugMode": false,
+    "Statuses": [],
+    "StatusesHaveNoBar": false,
+    "TimeOfDayMods": [],
+    "TooMuchText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "TrendIndicatorRateRange": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "UniqueID": "221aa25558a94e4a828318b565ea744f",
+    "UsesNovelty": false,
+    "Visibility": 0,
+    "VisibleGameStatStatListTab": "Skills",
+    "VisibleInDetailedList": false,
+    "VisibleValueRange": {
+        "x": 0.0,
+        "y": 0.0
+    }
+}

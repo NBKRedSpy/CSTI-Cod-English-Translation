@@ -1,0 +1,25 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "6a86b5400cdd4152a568c3e7fcba9a7b",
+        "19a17bb01ded441f82a9d2493305b3fc"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabIconWarpData": "Nc_InfectedPlant_Base_Blade",
+    "TabIconWarpType": 3,
+    "TabName": {
+        "DefaultText": "感染材料",
+        "LocalizationKey": "Cod_Tab_InfectedMaterial_TabName",
+        "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
+    }
+}

@@ -1,0 +1,691 @@
+{
+    "Actions": [
+        {
+            "ActionDescription": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ActionLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            },
+            "ActionName": {
+                "DefaultText": "Sta_MobileCorpse_PreservationCount_Port",
+                "LocalizationKey": "Cod_Sta_MobileCorpse_PreservationCount_Port_Actions[0].ActionName",
+                "ParentObjectID": "b92ca7616754419e805da48f89872f18"
+            },
+            "ActionSounds": [],
+            "ActionTags": [],
+            "BlueprintsFullUnlock": [],
+            "Cancellable": false,
+            "ConfirmPopup": false,
+            "CustomDestroyMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "CustomWindowPrefab": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DaytimeCost": 0,
+            "DisablePitchVariation": false,
+            "DontShowDestroyMessage": false,
+            "ExtraDurabilityModifications": [],
+            "FadeMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "FadeTips": false,
+            "FadeToBlack": 0,
+            "InstantStatModifications": false,
+            "NoCardsAffectedMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "NotBaseAction": false,
+            "NoveltyShared": false,
+            "OncePerTick": false,
+            "ProducedCards": [
+                {
+                    "CardDropChanceModifiers": [],
+                    "CollectionMessages": [],
+                    "CollectionName": "YoYo",
+                    "CollectionUses": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "CollectionWeight": 1,
+                    "CountsAsSuccess": false,
+                    "CreatedLiquid": {
+                        "LiquidCard": {
+                            "m_FileID": 0,
+                            "m_PathID": 0
+                        },
+                        "Quantity": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "DroppedCards": [
+                        {
+                            "DroppedCard": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "DroppedCardWarpData": "f80820e286c04a46a012ef03b804f5e6",
+                            "DroppedCardWarpType": 3,
+                            "Quantity": {
+                                "x": 0,
+                                "y": 1
+                            }
+                        },
+                        {
+                            "DroppedCard": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "DroppedCardWarpData": "82f12666b7f84bb0bde13279f1552602",
+                            "DroppedCardWarpType": 3,
+                            "Quantity": {
+                                "x": 0,
+                                "y": 1
+                            }
+                        },
+                        {
+                            "DroppedCard": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "DroppedCardWarpData": "672ffbf986aa4e678421aa0699e7a695",
+                            "DroppedCardWarpType": 3,
+                            "Quantity": {
+                                "x": 0,
+                                "y": 1
+                            }
+                        },
+                        {
+                            "DroppedCard": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "DroppedCardWarpData": "421472ebb98742f2a033b8e1218a9781",
+                            "DroppedCardWarpType": 3,
+                            "Quantity": {
+                                "x": 0,
+                                "y": 1
+                            }
+                        }
+                    ],
+                    "DroppedEncounter": {},
+                    "DurabilitiesDropChanceModifier": {
+                        "Fuel": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Progress": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Special1": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Special2": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Special3": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Special4": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Spoilage": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Usage": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        }
+                    },
+                    "DurabilityModifications": {
+                        "ChargesChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "FuelChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special1Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special2Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special3Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special4Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "SpoilageChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "UsageChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "RevealInventory": false,
+                    "StatModifications": [],
+                    "StatsDropChanceModifiers": []
+                },
+                {
+                    "CardDropChanceModifiers": [],
+                    "CollectionMessages": [],
+                    "CollectionName": "YoYo",
+                    "CollectionUses": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "CollectionWeight": 1,
+                    "CountsAsSuccess": false,
+                    "CreatedLiquid": {
+                        "LiquidCard": {
+                            "m_FileID": 0,
+                            "m_PathID": 0
+                        },
+                        "Quantity": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "DroppedCards": [
+                        {
+                            "DroppedCard": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "DroppedCardWarpData": "7f09373aa1e3424fa5aeb5ecc5ade0ae",
+                            "DroppedCardWarpType": 3,
+                            "Quantity": {
+                                "x": 0,
+                                "y": 1
+                            }
+                        },
+                        {
+                            "DroppedCard": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "DroppedCardWarpData": "92104d4b92494039982609aafa211e43",
+                            "DroppedCardWarpType": 3,
+                            "Quantity": {
+                                "x": 0,
+                                "y": 1
+                            }
+                        },
+                        {
+                            "DroppedCard": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "DroppedCardWarpData": "194ec25e29a24bfdbb22f23feac4cefb",
+                            "DroppedCardWarpType": 3,
+                            "Quantity": {
+                                "x": 0,
+                                "y": 1
+                            }
+                        },
+                        {
+                            "DroppedCard": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "DroppedCardWarpData": "a4756feb4870413ab18635daa62b14ff",
+                            "DroppedCardWarpType": 3,
+                            "Quantity": {
+                                "x": 0,
+                                "y": 1
+                            }
+                        }
+                    ],
+                    "DroppedEncounter": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "DurabilitiesDropChanceModifier": {
+                        "Fuel": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Progress": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Special1": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Special2": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Special3": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Special4": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Spoilage": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        },
+                        "Usage": {
+                            "Active": false,
+                            "DurabilityRange": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "InterpWeightRange": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "WhenOutOfRange": 0
+                        }
+                    },
+                    "DurabilityModifications": {
+                        "ChargesChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "FuelChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special1Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special2Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special3Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "Special4Change": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "SpoilageChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "UsageChange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    },
+                    "RevealInventory": false,
+                    "StatModifications": [],
+                    "StatsDropChanceModifiers": []
+                }
+            ],
+            "ReceivingCardChanges": {
+                "ChargesChange": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "DropOnDestroyList": false,
+                "FuelChange": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "LiquidEffectScaling": 0,
+                "LiquidQuantityChange": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "ModType": 0,
+                "ModifyDurability": false,
+                "ModifyLiquid": false,
+                "Special1Change": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Special2Change": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Special3Change": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Special4Change": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "SpoilageChange": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "TransferCharges": false,
+                "TransferFuel": false,
+                "TransferInventory": false,
+                "TransferLiquid": false,
+                "TransferSpecial1": false,
+                "TransferSpecial2": false,
+                "TransferSpecial3": false,
+                "TransferSpecial4": false,
+                "TransferSpoilage": false,
+                "TransferUsage": false,
+                "TransformInto": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "UsageChange": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            },
+            "RepeatOptions": 0,
+            "RequiredCardsOnBoard": [],
+            "RequiredReceivingContainer": [],
+            "RequiredReceivingContainerTag": [],
+            "RequiredReceivingDurabilities": {
+                "FailMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "HideActionIfNotMet": false,
+                "RequiredFuelPercent": {
+                    "Active": false,
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
+                },
+                "RequiredLiquidQuantity": 0.0,
+                "RequiredProgressPercent": {
+                    "Active": false,
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
+                },
+                "RequiredSpecial1Percent": {
+                    "Active": false,
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
+                },
+                "RequiredSpecial2Percent": {
+                    "Active": false,
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
+                },
+                "RequiredSpecial3Percent": {
+                    "Active": false,
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
+                },
+                "RequiredSpecial4Percent": {
+                    "Active": false,
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
+                },
+                "RequiredSpoilagePercent": {
+                    "Active": false,
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
+                },
+                "RequiredUsagePercent": {
+                    "Active": false,
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
+                }
+            },
+            "RequiredReceivingLiquidContent": {
+                "IsActive": false,
+                "RequiredGroup": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredLiquid": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredQuantity": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            },
+            "RequiredStatValues": [],
+            "RequiredTagsOnBoard": [
+                {
+                    "ExcludeInventories": false,
+                    "Inverted": false,
+                    "NotInHand": false,
+                    "OnlyInHand": false,
+                    "TriggerTag": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "TriggerTagWarpData": "CardTag_Map_Port",
+                    "TriggerTagWarpType": 3
+                }
+            ],
+            "ResetWhenDone": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "SaveGame": false,
+            "StackCompatible": false,
+            "StatChangeTrigger": [
+                {
+                    "HideAllWhenNotMet": false,
+                    "NotifyWhenNotMet": false,
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "0aa4929ffc834256a72c73fdc0f55935",
+                    "StatWarpType": 3,
+                    "TriggerRange": {
+                        "x": 1.0,
+                        "y": 16.0
+                    }
+                },
+                {
+                    "HideAllWhenNotMet": false,
+                    "NotifyWhenNotMet": false,
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "1a8b258ddb49480885b98ab4464ed323",
+                    "StatWarpType": 3,
+                    "TriggerRange": {
+                        "x": 1.0,
+                        "y": 1.0
+                    }
+                }
+            ],
+            "StatInterruptions": [],
+            "StatModifications": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "0aa4929ffc834256a72c73fdc0f55935",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": -16.0,
+                        "y": -16.0
+                    }
+                }
+            ],
+            "TravelToPreviousEnv": false,
+            "UnavailableInDemo": false,
+            "UseMiniTicks": 0,
+            "VictorySettings": {
+                "SpecialEnding": false,
+                "Victory": false,
+                "VictoryMessage": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                }
+            }
+        }
+    ],
+    "UniqueID": "b92ca7616754419e805da48f89872f18"
+}

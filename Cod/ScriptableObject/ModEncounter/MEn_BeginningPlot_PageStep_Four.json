@@ -1,0 +1,16 @@
+{
+    "DefaultEnemyAudio": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "DefaultPlayerAudio": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "ModEncounterNodes": [],
+    "ModEncounterNodesWarpData": [
+        "MEnn_BeginningPlot_PageStep_Four_Start"
+    ],
+    "ModEncounterNodesWarpType": 3,
+    "ThisId": "c8b48c5bd0cd4f1a8f688a312d4e951f"
+}

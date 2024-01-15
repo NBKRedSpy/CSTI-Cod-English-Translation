@@ -1,0 +1,3506 @@
+{
+    "Blood": {
+        "MaxValue": 0.0,
+        "Name": "Blood",
+        "OnZeroEncounterResult": 1,
+        "StartingValue": {
+            "x": 100.0,
+            "y": 100.0
+        }
+    },
+    "DefaultPlayerWounds": {
+        "MediumWounds": [],
+        "MinorWounds": [],
+        "SeriousWounds": [],
+        "UnharmedResults": []
+    },
+    "EncounterImage": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "EncounterImageWarpData": "MacaqueEvent",
+    "EncounterImageWarpType": 3,
+    "EncounterStartingLog": {
+        "AlternateLogTexts": [],
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ScreenShake": false,
+        "SoundEffects": []
+    },
+    "EncounterTitle": {
+        "DefaultText": "Macaque Encounter",
+        "LocalizationKey": "testMod_trade_EncounterTitle",
+        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+    },
+    "EnemyActions": [
+        {
+            "ActionLog": {
+                "AlternateLogTexts": [
+                    {
+                        "DefaultText": "Swinging its arms wildly, it lunges at you with its teeth bared!",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[0]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "It thrashes about, arms flapping, and attempts to sink its teeth into you!",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[1]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "Arms waving in a frenzy, it makes a bold attempt to bite you!",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[2]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "With arms flying erratically, it tries to land a bite on you!",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[3]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "It jerks its arms around in a flurry and aims for a bite!",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[4]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "It lashes out with its arms, trying to snag you with a quick bite!",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[5]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "Flapping its arms with intent, it lunges forward to nip at you!",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[6]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "The macaque brandishes its arms and snaps its jaws in your direction!",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[7]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "It thrashes its arms and lunges forward, teeth first!",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[8]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "It whirls its arms and takes a snap at you with bared teeth!",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[9]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    }
+                ],
+                "LogText": {
+                    "DefaultText": "It flails its arms at you and tries to go for a bite!",
+                    "LocalizationKey": "testMod_trade_EnemyActions[0].ActionLog.LogText",
+                    "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                },
+                "ScreenShake": false,
+                "SoundEffects": []
+            },
+            "ActionRange": 0,
+            "AddedPlayerLocationHitProbabilities": {
+                "HeadHitProbabilityModifier": -1000.0,
+                "LArmHitProbabilityModifier": 0.0,
+                "LLegHitProbabilityModifier": 0.0,
+                "RArmHitProbabilityModifier": 0.0,
+                "RLegHitProbabilityModifier": 0.0,
+                "TorsoHitProbabilityModifier": 0.0
+            },
+            "ArmorDurabilityDamage": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "BaseClashValue": 0.0,
+            "BaseWeight": 1,
+            "CannotFailClash": false,
+            "CardsOnBoardWeightModifiers": [],
+            "ClashRangedInaccuracy": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ClashStealthBonus": {
+                "x": 150.0,
+                "y": 150.0
+            },
+            "ClashVsEscapeModifier": {
+                "x": -50.0,
+                "y": -100.0
+            },
+            "CloseRangeWeightModifier": 0,
+            "Damage": {
+                "x": 0.0,
+                "y": 50.0
+            },
+            "DamageTypes": [],
+            "DamageTypesWarpData": [
+                "DMG_Piercing"
+            ],
+            "DamageTypesWarpType": 3,
+            "DistanceWeightModifier": 0,
+            "DoesNotAttack": false,
+            "EncounterResult": 0,
+            "EnemyHiddenWeightModifier": 0,
+            "EnemySkillClashModifier": {
+                "EnemyBloodMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": true,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 100.0
+                        },
+                        "OutputValueRange": {
+                            "x": -100.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMeleeSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": true,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 100.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 150.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMoraleMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyRangedSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyStaminaMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": true,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 100.0
+                        },
+                        "OutputValueRange": {
+                            "x": -50.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue1Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue2Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue3Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue4Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "EnemySkillDamageModifier": {
+                "EnemyBloodMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": true,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 100.0
+                        },
+                        "OutputValueRange": {
+                            "x": -25.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMeleeSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": true,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 100.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 25.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMoraleMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyRangedSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyStaminaMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": true,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 100.0
+                        },
+                        "OutputValueRange": {
+                            "x": -25.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue1Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue2Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue3Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue4Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "EnemyValueChanges": {
+                "BloodApplies": 0,
+                "BloodModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "MeleeApplies": 0,
+                "MeleeSkillModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "MoraleApplies": 0,
+                "MoraleModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "RangedApplies": 0,
+                "RangedSkillModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "StaminaApplies": 0,
+                "StaminaModifier": {
+                    "x": -15.0,
+                    "y": -15.0
+                },
+                "Value1Applies": 0,
+                "Value1Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value2Applies": 0,
+                "Value2Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value3Applies": 0,
+                "Value3Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value4Applies": 0,
+                "Value4Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            },
+            "EnemyWoundClashModifier": {
+                "AllWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 18.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": -150.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "HeadWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "TorsoWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "EnemyWoundDamageModifier": {
+                "AllWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 25.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "HeadWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "TorsoWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "FailureLog": {
+                "AlternateLogTexts": [
+                    {
+                        "DefaultText": "You nimbly dodge to the side...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[0]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "You manage to evade just in time...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[1]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "With swift reflexes, you move out of harm's way...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[2]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "You deftly sidestep the incoming attack...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[3]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "You narrowly escape the impending bite...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[4]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "You skillfully avoid the strike...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[5]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "With quick thinking, you duck out of the way...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[6]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "You leap clear of the attack with a split second to spare...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[7]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "You adroitly dart away from the danger...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[8]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "With a swift maneuver, you avoid the potential wound...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[9]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    }
+                ],
+                "LogText": {
+                    "DefaultText": "You successfully get out of the way...",
+                    "LocalizationKey": "testMod_trade_EnemyActions[0].FailureLog.LogText",
+                    "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                },
+                "ScreenShake": false,
+                "SoundEffects": []
+            },
+            "IneffectiveRangeMalus": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "IsEscapeAction": false,
+            "PlayerHiddenWeightModifier": 0,
+            "PlayerWounds": {
+                "MediumWounds": [
+                    {
+                        "DroppedCards": [],
+                        "DroppedCardsWarpData": [
+                            "0c9df6c0f942fd349acd9a54b64177a5"
+                        ],
+                        "DroppedCardsWarpType": 3,
+                        "EncounterResult": 0,
+                        "LocationFilter": {
+                            "Head": false,
+                            "LArm": false,
+                            "LLeg": false,
+                            "RArm": false,
+                            "RLeg": false,
+                            "Torso": false
+                        },
+                        "StatChanges": [],
+                        "WoundLog": {
+                            "AlternateLogTexts": [],
+                            "LogText": {
+                                "DefaultText": "The Macaque bit you! ",
+                                "LocalizationKey": "testMod_trade_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText",
+                                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                            },
+                            "ScreenShake": false,
+                            "SoundEffects": []
+                        },
+                        "WoundSelectionWeight": 0.0
+                    },
+                    {
+                        "DroppedCards": [],
+                        "DroppedCardsWarpData": [
+                            "5ce7e11b3b068784ab27b8c69a77cae8",
+                            "08a3dbbfe9e596e4d85e0c078939b960"
+                        ],
+                        "DroppedCardsWarpType": 3,
+                        "EncounterResult": 0,
+                        "LocationFilter": {
+                            "Head": false,
+                            "LArm": false,
+                            "LLeg": false,
+                            "RArm": false,
+                            "RLeg": false,
+                            "Torso": false
+                        },
+                        "StatChanges": [],
+                        "WoundLog": {
+                            "AlternateLogTexts": [],
+                            "LogText": {
+                                "DefaultText": "You've been seriously roughed up. This is gonna sting later.",
+                                "LocalizationKey": "testMod_trade_EnemyActions[0].PlayerWounds.MediumWounds[1].WoundLog.LogText",
+                                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                            },
+                            "ScreenShake": false,
+                            "SoundEffects": []
+                        },
+                        "WoundSelectionWeight": 1.0
+                    }
+                ],
+                "MinorWounds": [
+                    {
+                        "DroppedCards": [],
+                        "DroppedCardsWarpData": [
+                            "08a3dbbfe9e596e4d85e0c078939b960"
+                        ],
+                        "DroppedCardsWarpType": 3,
+                        "EncounterResult": 0,
+                        "LocationFilter": {
+                            "Head": false,
+                            "LArm": false,
+                            "LLeg": false,
+                            "RArm": false,
+                            "RLeg": false,
+                            "Torso": false
+                        },
+                        "StatChanges": [],
+                        "WoundLog": {
+                            "AlternateLogTexts": [],
+                            "LogText": {
+                                "DefaultText": "That Macaque hit is likely to leave a nasty bruise...",
+                                "LocalizationKey": "testMod_trade_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText",
+                                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                            },
+                            "ScreenShake": false,
+                            "SoundEffects": []
+                        },
+                        "WoundSelectionWeight": 0.0
+                    },
+                    {
+                        "DroppedCards": [],
+                        "DroppedCardsWarpData": [
+                            "0c9df6c0f942fd349acd9a54b64177a5"
+                        ],
+                        "DroppedCardsWarpType": 3,
+                        "EncounterResult": 0,
+                        "LocationFilter": {
+                            "Head": false,
+                            "LArm": false,
+                            "LLeg": false,
+                            "RArm": false,
+                            "RLeg": false,
+                            "Torso": false
+                        },
+                        "StatChanges": [],
+                        "WoundLog": {
+                            "AlternateLogTexts": [],
+                            "LogText": {
+                                "DefaultText": "The Macaque bit you! ",
+                                "LocalizationKey": "testMod_trade_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText",
+                                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                            },
+                            "ScreenShake": false,
+                            "SoundEffects": []
+                        },
+                        "WoundSelectionWeight": 0.0
+                    },
+                    {
+                        "DroppedCards": [],
+                        "DroppedCardsWarpData": [
+                            "5ce7e11b3b068784ab27b8c69a77cae8"
+                        ],
+                        "DroppedCardsWarpType": 3,
+                        "EncounterResult": 0,
+                        "LocationFilter": {
+                            "Head": false,
+                            "LArm": false,
+                            "LLeg": false,
+                            "RArm": false,
+                            "RLeg": false,
+                            "Torso": false
+                        },
+                        "StatChanges": [],
+                        "WoundLog": {
+                            "AlternateLogTexts": [],
+                            "LogText": {
+                                "DefaultText": "You got a abrasion while trying to defend yourself.",
+                                "LocalizationKey": "testMod_trade_EnemyActions[0].PlayerWounds.MinorWounds[2].WoundLog.LogText",
+                                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                            },
+                            "ScreenShake": false,
+                            "SoundEffects": []
+                        },
+                        "WoundSelectionWeight": 0.0
+                    }
+                ],
+                "SeriousWounds": [
+                    {
+                        "DroppedCards": [],
+                        "DroppedCardsWarpData": [
+                            "0c9df6c0f942fd349acd9a54b64177a5",
+                            "0c9df6c0f942fd349acd9a54b64177a5",
+                            "5ce7e11b3b068784ab27b8c69a77cae8"
+                        ],
+                        "DroppedCardsWarpType": 3,
+                        "EncounterResult": 0,
+                        "LocationFilter": {
+                            "Head": false,
+                            "LArm": false,
+                            "LLeg": false,
+                            "RArm": false,
+                            "RLeg": false,
+                            "Torso": false
+                        },
+                        "StatChanges": [],
+                        "WoundLog": {
+                            "AlternateLogTexts": [],
+                            "LogText": {
+                                "DefaultText": "The Macaque bit you a few times. What a horrible creature.",
+                                "LocalizationKey": "testMod_trade_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText",
+                                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                            },
+                            "ScreenShake": false,
+                            "SoundEffects": []
+                        },
+                        "WoundSelectionWeight": 1.0
+                    }
+                ],
+                "UnharmedResults": [
+                    {
+                        "DroppedCards": [],
+                        "EncounterResult": 0,
+                        "LocationFilter": {
+                            "Head": false,
+                            "LArm": false,
+                            "LLeg": false,
+                            "RArm": false,
+                            "RLeg": false,
+                            "Torso": false
+                        },
+                        "StatChanges": [],
+                        "WoundLog": {
+                            "AlternateLogTexts": [],
+                            "LogText": {
+                                "DefaultText": "Fortunately, the attack wasn't enough to hurt you.",
+                                "LocalizationKey": "testMod_trade_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText",
+                                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                            },
+                            "ScreenShake": false,
+                            "SoundEffects": []
+                        },
+                        "WoundSelectionWeight": 0.0
+                    }
+                ]
+            },
+            "PreClashDistanceChange": 0,
+            "Reach": 25.0,
+            "RequiredDistance": 0,
+            "StatsWeightModifiers": [],
+            "SuccessLog": {
+                "AlternateLogTexts": [
+                    {
+                        "DefaultText": "A sudden sting of pain hits you...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[0]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "A jolt of sharp discomfort surges through you...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[1]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "You wince at a sudden burst of pain...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[2]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "You grit your teeth against a flash of pain...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[3]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "An unexpected pang of agony jolts you...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[4]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "A searing pain abruptly shoots through you...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[5]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "You are momentarily staggered by a sharp stab of pain...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[6]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "A piercing discomfort takes hold...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[7]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "You cringe as a harsh pain flares up...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[8]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    },
+                    {
+                        "DefaultText": "An intense twinge of pain momentarily takes your breath away...",
+                        "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[9]",
+                        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                    }
+                ],
+                "LogText": {
+                    "DefaultText": "You feel a sharp pain...",
+                    "LocalizationKey": "testMod_trade_EnemyActions[0].SuccessLog.LogText",
+                    "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                },
+                "ScreenShake": true,
+                "SoundEffects": []
+            },
+            "TransferValuesToStats": [],
+            "ValuesWeightModifiers": {
+                "WeightPerBlood": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerMeleeSkill": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerMorale": {
+                    "Active": true,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": -1,
+                        "y": -1
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerRangedSkill": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerStamina": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 32.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": -1000
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue1": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue2": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue3": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue4": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                }
+            },
+            "WoundsWeightModifiers": {
+                "WeightPerAllWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerHeadWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerLArmWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerLLegWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerRArmWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerRLegWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerTorsoWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                }
+            }
+        },
+        {
+            "ActionLog": {
+                "AlternateLogTexts": [],
+                "LogText": {
+                    "DefaultText": "It turns around and tries to escape...",
+                    "LocalizationKey": "testMod_trade_EnemyActions[1].ActionLog.LogText",
+                    "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                },
+                "ScreenShake": false,
+                "SoundEffects": []
+            },
+            "ActionRange": 0,
+            "AddedPlayerLocationHitProbabilities": {
+                "HeadHitProbabilityModifier": 0.0,
+                "LArmHitProbabilityModifier": 0.0,
+                "LLegHitProbabilityModifier": 0.0,
+                "RArmHitProbabilityModifier": 0.0,
+                "RLegHitProbabilityModifier": 0.0,
+                "TorsoHitProbabilityModifier": 0.0
+            },
+            "ArmorDurabilityDamage": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "BaseClashValue": 300.0,
+            "BaseWeight": 0,
+            "CannotFailClash": true,
+            "CardsOnBoardWeightModifiers": [],
+            "ClashRangedInaccuracy": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ClashStealthBonus": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ClashVsEscapeModifier": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "CloseRangeWeightModifier": 0,
+            "Damage": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "DamageTypes": [],
+            "DistanceWeightModifier": 0,
+            "DoesNotAttack": true,
+            "EncounterResult": 4,
+            "EnemyHiddenWeightModifier": 0,
+            "EnemySkillClashModifier": {
+                "EnemyBloodMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMeleeSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMoraleMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyRangedSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyStaminaMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue1Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue2Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue3Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue4Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "EnemySkillDamageModifier": {
+                "EnemyBloodMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMeleeSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMoraleMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyRangedSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyStaminaMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue1Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue2Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue3Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue4Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "EnemyValueChanges": {
+                "BloodApplies": 0,
+                "BloodModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "MeleeApplies": 0,
+                "MeleeSkillModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "MoraleApplies": 0,
+                "MoraleModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "RangedApplies": 0,
+                "RangedSkillModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "StaminaApplies": 0,
+                "StaminaModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value1Applies": 0,
+                "Value1Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value2Applies": 0,
+                "Value2Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value3Applies": 0,
+                "Value3Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value4Applies": 0,
+                "Value4Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            },
+            "EnemyWoundClashModifier": {
+                "AllWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "HeadWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "TorsoWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "EnemyWoundDamageModifier": {
+                "AllWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "HeadWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "TorsoWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "FailureLog": {
+                "AlternateLogTexts": [],
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "ScreenShake": false,
+                "SoundEffects": []
+            },
+            "IneffectiveRangeMalus": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "IsEscapeAction": true,
+            "PlayerHiddenWeightModifier": 0,
+            "PlayerWounds": {
+                "MediumWounds": [],
+                "MinorWounds": [],
+                "SeriousWounds": [],
+                "UnharmedResults": []
+            },
+            "PreClashDistanceChange": 1,
+            "Reach": 0.0,
+            "RequiredDistance": 0,
+            "StatsWeightModifiers": [],
+            "SuccessLog": {
+                "AlternateLogTexts": [],
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "ScreenShake": false,
+                "SoundEffects": []
+            },
+            "TransferValuesToStats": [],
+            "ValuesWeightModifiers": {
+                "WeightPerBlood": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerMeleeSkill": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerMorale": {
+                    "Active": true,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerRangedSkill": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerStamina": {
+                    "Active": true,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue1": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue2": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue3": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue4": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                }
+            },
+            "WoundsWeightModifiers": {
+                "WeightPerAllWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerHeadWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerLArmWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerLLegWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerRArmWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerRLegWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerTorsoWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                }
+            }
+        },
+        {
+            "ActionLog": {
+                "AlternateLogTexts": [],
+                "LogText": {
+                    "DefaultText": "It turns around and tries to escape...",
+                    "LocalizationKey": "testMod_trade_EnemyActions[2].ActionLog.LogText",
+                    "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+                },
+                "ScreenShake": false,
+                "SoundEffects": []
+            },
+            "ActionRange": 0,
+            "AddedPlayerLocationHitProbabilities": {
+                "HeadHitProbabilityModifier": 0.0,
+                "LArmHitProbabilityModifier": 0.0,
+                "LLegHitProbabilityModifier": 0.0,
+                "RArmHitProbabilityModifier": 0.0,
+                "RLegHitProbabilityModifier": 0.0,
+                "TorsoHitProbabilityModifier": 0.0
+            },
+            "ArmorDurabilityDamage": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "BaseClashValue": 300.0,
+            "BaseWeight": 0,
+            "CannotFailClash": true,
+            "CardsOnBoardWeightModifiers": [],
+            "ClashRangedInaccuracy": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ClashStealthBonus": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ClashVsEscapeModifier": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "CloseRangeWeightModifier": 0,
+            "Damage": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "DamageTypes": [],
+            "DistanceWeightModifier": 0,
+            "DoesNotAttack": true,
+            "EncounterResult": 4,
+            "EnemyHiddenWeightModifier": 0,
+            "EnemySkillClashModifier": {
+                "EnemyBloodMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMeleeSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMoraleMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyRangedSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyStaminaMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue1Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue2Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue3Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue4Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "EnemySkillDamageModifier": {
+                "EnemyBloodMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMeleeSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyMoraleMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyRangedSkillMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyStaminaMod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue1Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue2Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue3Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "EnemyValue4Mod": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "EnemyValueChanges": {
+                "BloodApplies": 0,
+                "BloodModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "MeleeApplies": 0,
+                "MeleeSkillModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "MoraleApplies": 0,
+                "MoraleModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "RangedApplies": 0,
+                "RangedSkillModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "StaminaApplies": 0,
+                "StaminaModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value1Applies": 0,
+                "Value1Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value2Applies": 0,
+                "Value2Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value3Applies": 0,
+                "Value3Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Value4Applies": 0,
+                "Value4Modifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            },
+            "EnemyWoundClashModifier": {
+                "AllWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "HeadWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "TorsoWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "EnemyWoundDamageModifier": {
+                "AllWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "HeadWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "LLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RArmWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RLegWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "TorsoWoundModifier": {
+                    "InterpolatedAddedValue": {
+                        "Active": false,
+                        "InputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "OutputValueRange": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "WhenOutOfRange": 0
+                    },
+                    "RandomAddedValue": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            },
+            "FailureLog": {
+                "AlternateLogTexts": [],
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "ScreenShake": false,
+                "SoundEffects": []
+            },
+            "IneffectiveRangeMalus": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "IsEscapeAction": true,
+            "PlayerHiddenWeightModifier": 0,
+            "PlayerWounds": {
+                "MediumWounds": [],
+                "MinorWounds": [],
+                "SeriousWounds": [],
+                "UnharmedResults": []
+            },
+            "PreClashDistanceChange": 1,
+            "Reach": 0.0,
+            "RequiredDistance": 1,
+            "StatsWeightModifiers": [],
+            "SuccessLog": {
+                "AlternateLogTexts": [],
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "ScreenShake": false,
+                "SoundEffects": []
+            },
+            "TransferValuesToStats": [],
+            "ValuesWeightModifiers": {
+                "WeightPerBlood": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerMeleeSkill": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerMorale": {
+                    "Active": true,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerRangedSkill": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerStamina": {
+                    "Active": true,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue1": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue2": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue3": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerValue4": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                }
+            },
+            "WoundsWeightModifiers": {
+                "WeightPerAllWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerHeadWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerLArmWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerLLegWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerRArmWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerRLegWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                },
+                "WeightPerTorsoWounds": {
+                    "Active": false,
+                    "DurabilityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "InterpWeightRange": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "WhenOutOfRange": 0
+                }
+            }
+        }
+    ],
+    "EnemyArmor": {
+        "HeadArmor": 0.0,
+        "HeadArmorModifiers": [],
+        "HeadHitProbabilityModifier": 0.0,
+        "LArmArmor": 0.0,
+        "LArmArmorModifiers": [],
+        "LArmHitProbabilityModifier": 0.0,
+        "LLegArmor": 0.0,
+        "LLegArmorModifiers": [],
+        "LLegHitProbabilityModifier": 0.0,
+        "RArmArmor": 0.0,
+        "RArmArmorModifiers": [],
+        "RArmHitProbabilityModifier": 0.0,
+        "RLegArmor": 0.0,
+        "RLegArmorModifiers": [],
+        "RLegHitProbabilityModifier": 0.0,
+        "TorsoArmor": 0.0,
+        "TorsoArmorModifiers": [],
+        "TorsoHitProbabilityModifier": 0.0
+    },
+    "EnemyAwareness": {
+        "x": 25.0,
+        "y": 50.0
+    },
+    "EnemyBodyTemplate": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "EnemyBodyTemplateWarpData": "Combat_ BTMacaque",
+    "EnemyBodyTemplateWarpType": 3,
+    "EnemyCover": {
+        "x": 75.0,
+        "y": 75.0
+    },
+    "EnemyGettingCloseLog": {
+        "AlternateLogTexts": [],
+        "LogText": {
+            "DefaultText": "The Macaque charges at you!",
+            "LocalizationKey": "testMod_trade_EnemyGettingCloseLog.LogText",
+            "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+        },
+        "ScreenShake": false,
+        "SoundEffects": []
+    },
+    "EnemyName": {
+        "DefaultText": "The Macaque",
+        "LocalizationKey": "testMod_trade_EnemyName",
+        "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+    },
+    "EnemySize": {
+        "x": 50.0,
+        "y": 50.0
+    },
+    "EnemyStealth": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "EnemyWinEffects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "The Macaque disappears into the foliage....",
+                "LocalizationKey": "testMod_trade_EnemyWinEffects.ResultLog.LogText",
+                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "MeleeSkill": {
+        "MaxValue": 0.0,
+        "Name": "Melee Skill",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 100.0,
+            "y": 100.0
+        }
+    },
+    "Morale": {
+        "MaxValue": 0.0,
+        "Name": "Morale",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 100.0,
+            "y": 100.0
+        }
+    },
+    "OverrideEscapeActionLog": {
+        "AlternateLogTexts": [],
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ScreenShake": false,
+        "SoundEffects": []
+    },
+    "OverrideEscapeActionName": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "PlayerActions": [],
+    "PlayerCover": {
+        "x": 75.0,
+        "y": 75.0
+    },
+    "PlayerWinEffects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "DroppedCardsWarpData": [
+            "9d4972b777d238249a27d8cda18f564a"
+        ],
+        "DroppedCardsWarpType": 3,
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "The Macaque collapses on the floor.",
+                "LocalizationKey": "testMod_trade_PlayerWinEffects.ResultLog.LogText",
+                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [
+            {
+                "ApplyEachTick": false,
+                "InstantModifier": false,
+                "IsInverse": false,
+                "RateModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Stat": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "StatWarpData": "b6d49d9d79406ee41a670c301bf742ba",
+                "StatWarpType": 3,
+                "ValueModifier": {
+                    "x": -1000.0,
+                    "y": -1000.0
+                }
+            },
+            {
+                "ApplyEachTick": false,
+                "InstantModifier": false,
+                "IsInverse": false,
+                "RateModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Stat": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "StatWarpData": "f737eac3f61cc554d85129bda782213a",
+                "StatWarpType": 3,
+                "ValueModifier": {
+                    "x": 500.0,
+                    "y": 500.0
+                }
+            },
+            {
+                "ApplyEachTick": false,
+                "InstantModifier": false,
+                "IsInverse": false,
+                "RateModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Stat": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "StatWarpData": "4a27fb5da9326b545a5ef73f2b80316e",
+                "StatWarpType": 3,
+                "ValueModifier": {
+                    "x": 20.0,
+                    "y": 20.0
+                }
+            },
+            {
+                "ApplyEachTick": false,
+                "InstantModifier": false,
+                "IsInverse": false,
+                "RateModifier": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Stat": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "StatWarpData": "74754cc9c9bffdb4893bc5241d4c051a",
+                "StatWarpType": 3,
+                "ValueModifier": {
+                    "x": -1.0,
+                    "y": -1.0
+                }
+            }
+        ],
+        "TransferValuesToStats": []
+    },
+    "RangedSkill": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "Special1Effects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "Macaque runs away",
+                "LocalizationKey": "testMod_trade_Special1Effects.ResultLog.LogText",
+                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": [
+            {
+                "FromValue": 2,
+                "ToStat": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "ToStatWarpData": "ebf23e5d333b0c94b9364ce4c32269c7",
+                "ToStatWarpType": 3,
+                "TransferType": 2
+            }
+        ]
+    },
+    "Special2Effects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "Special3Effects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "Special4Effects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "Stamina": {
+        "MaxValue": 0.0,
+        "Name": "Stamina",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 100.0,
+            "y": 100.0
+        }
+    },
+    "TieEffects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "The Macaque disappears into the foliage....",
+                "LocalizationKey": "testMod_trade_TieEffects.ResultLog.LogText",
+                "ParentObjectID": "c2b17c98ba674fc1a9d7ee216ab7c706"
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": [
+            {
+                "FromValue": 2,
+                "ToStat": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "ToStatWarpData": "ebf23e5d333b0c94b9364ce4c32269c7",
+                "ToStatWarpType": 3,
+                "TransferType": 2
+            }
+        ]
+    },
+    "UniqueID": "c2b17c98ba674fc1a9d7ee216ab7c706",
+    "Value1": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "Value2": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "Value3": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "Value4": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    }
+}

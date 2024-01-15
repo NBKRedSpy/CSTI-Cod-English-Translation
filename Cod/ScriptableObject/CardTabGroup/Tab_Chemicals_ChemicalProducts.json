@@ -1,0 +1,33 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "761cdc949b0640c5ba8e023411511c8f",
+        "b12b5e2cfce64bb1b820edffd2888dc1",
+        "f27971a3e7c84455a0114c3a32ba62d0",
+        "00cbe42b72594d52af80d26299b54d8b",
+        "05246e5c772d4dba8f7fe5c689083382",
+        "0fad3727c7334d09983dc584758727af",
+        "e50af3fd92014cc8822c615a5700ab84",
+        "76b443012a2247978b24219b06eaef98",
+        "e65436524fc642cf98e915abb3df6b8b",
+        "0a19689ad89f4657b62061748755c778",
+        "1cddda153a8b4bd9baa21731d46b33aa",
+        "d358c409b0a44553a7f582bbfeb2c23e"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabName": {
+        "DefaultText": "ChemicalProducts",
+        "LocalizationKey": "Tab_Chemicals_ChemicalProducts_TabName",
+        "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
+    }
+}

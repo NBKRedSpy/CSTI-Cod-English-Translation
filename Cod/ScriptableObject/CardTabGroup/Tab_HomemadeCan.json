@@ -1,0 +1,32 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "BlueprintCardDataCardTabGroup": "Tab_Cooking",
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "f8eddc4c8b9640f39a40f6893ebe02a8",
+        "a8d82546b479467199eefcecb77c6392",
+        "3683e4024d6847e688b07e0dd26d2145",
+        "7a85da39ac2c47c098b9235e7be97b5f",
+        "7d1cc907cb7e409f8dbdf9dea1607ca3",
+        "c221e86e72414bfa87880e00292404ee",
+        "f94eb72673c74510ba3d8c79bfdb3179",
+        "f6cb1290c337437c9859c7c543fdc426"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabIconWarpData": "al_icon",
+    "TabIconWarpType": 3,
+    "TabName": {
+        "DefaultText": "罐装食物",
+        "LocalizationKey": "COD_cod_Cooking_Special_TabName",
+        "ParentObjectID": "b4069c5ce031c1946a6111ce73e16500"
+    }
+}

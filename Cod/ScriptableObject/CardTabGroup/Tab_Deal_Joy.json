@@ -1,0 +1,28 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "9ac339dade67457e906e72373e291696",
+        "9321ac80e3894c46a0a5a2660ea1880f",
+        "69c45205c10f4ad7bac53b05cf1a3f32",
+        "f2a0c3ffb558425b8c722035f7385870",
+        "3dff5f67ff8e4d3598b290943673a17d"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabIconWarpData": "一篓泥土",
+    "TabIconWarpType": 3,
+    "TabName": {
+        "DefaultText": "购买原材料",
+        "LocalizationKey": "COD_cod_Base_Camp_TabName",
+        "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
+    }
+}

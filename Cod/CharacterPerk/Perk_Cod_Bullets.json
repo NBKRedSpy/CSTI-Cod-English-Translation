@@ -1,0 +1,69 @@
+{
+    "ActionModifiers": [],
+    "ActionObjectives": [],
+    "AddedCards": [],
+    "AddedCardsWarpData": [
+        "1cee339226bf40cab3b1d7e4fd598eaa",
+        "1cee339226bf40cab3b1d7e4fd598eaa",
+        "1cee339226bf40cab3b1d7e4fd598eaa"
+    ],
+    "AddedCardsWarpType": 3,
+    "AddedStartingHours": 0,
+    "CardsOnBoardObjectives": [],
+    "CheckingNotificationDetails": 0,
+    "CompleteOnLose": false,
+    "CompleteOnWin": false,
+    "DifficultyRating": -1500,
+    "DisplayPriority": 1000.0,
+    "EditorOnly": false,
+    "EquippedCards": [],
+    "HiddenUntilUnlocked": false,
+    "MoonsCost": 0,
+    "NestedObjectives": [],
+    "NoSafetyMode": false,
+    "NotifyWhenNotChecked": false,
+    "OverrideEnvironment": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideEquipment": false,
+    "OverrideWeather": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PassiveStatModifiers": [],
+    "PerkDescription": {
+        "DefaultText": "三次机会。",
+        "LocalizationKey": "COD_Perk_Cod_Bullets_PerkDescription",
+        "ParentObjectID": "eb962242aab44d38a57b2231bee92b8b"
+    },
+    "PerkIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PerkIconWarpData": "al_zd",
+    "PerkIconWarpType": 3,
+    "PerkName": {
+        "DefaultText": "子弹",
+        "LocalizationKey": "COD_Perk_Cod_Bullets_PerkName",
+        "ParentObjectID": "eb962242aab44d38a57b2231bee92b8b"
+    },
+    "PerkUnlockConditions": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "PlayedCharacter": [],
+    "RequiredDifficultyScore": {
+        "x": 0,
+        "y": 0
+    },
+    "ResetLockInEditor": false,
+    "StartUnlocked": true,
+    "StartingStatModifiers": [],
+    "StatsObjectives": [],
+    "SunsCost": 0,
+    "TagsOnBoardObjectives": [],
+    "TimeObjectives": [],
+    "UniqueID": "eb962242aab44d38a57b2231bee92b8b"
+}

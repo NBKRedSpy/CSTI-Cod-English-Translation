@@ -1,0 +1,301 @@
+{
+    "Blood": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "DefaultPlayerWounds": {
+        "MediumWounds": [],
+        "MinorWounds": [],
+        "SeriousWounds": [],
+        "UnharmedResults": []
+    },
+    "EncounterImage": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "EncounterImageWarpData": "Nc_Npc_ResidentialArea_LvyPharmacy_Li",
+    "EncounterImageWarpType": 3,
+    "EncounterStartingLog": {
+        "AlternateLogTexts": [],
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ScreenShake": false,
+        "SoundEffects": []
+    },
+    "EncounterTitle": {
+        "DefaultText": "人间",
+        "LocalizationKey": "DistrictTwo_En_BeginningPlot_PageStep_Five_EncounterTitle",
+        "ParentObjectID": "9fd58d8ec7554b50943e324d820ab2c9"
+    },
+    "EnemyActions": [],
+    "EnemyArmor": {
+        "HeadArmor": 0.0,
+        "HeadArmorModifiers": [],
+        "HeadHitProbabilityModifier": 0.0,
+        "LArmArmor": 0.0,
+        "LArmArmorModifiers": [],
+        "LArmHitProbabilityModifier": 0.0,
+        "LLegArmor": 0.0,
+        "LLegArmorModifiers": [],
+        "LLegHitProbabilityModifier": 0.0,
+        "RArmArmor": 0.0,
+        "RArmArmorModifiers": [],
+        "RArmHitProbabilityModifier": 0.0,
+        "RLegArmor": 0.0,
+        "RLegArmorModifiers": [],
+        "RLegHitProbabilityModifier": 0.0,
+        "TorsoArmor": 0.0,
+        "TorsoArmorModifiers": [],
+        "TorsoHitProbabilityModifier": 0.0
+    },
+    "EnemyAwareness": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "EnemyBodyTemplate": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "EnemyBodyTemplateWarpData": "Combat_ BTBoar",
+    "EnemyBodyTemplateWarpType": 3,
+    "EnemyCover": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "EnemyGettingCloseLog": {
+        "AlternateLogTexts": [],
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ScreenShake": false,
+        "SoundEffects": []
+    },
+    "EnemyName": {
+        "DefaultText": "时光",
+        "LocalizationKey": "DistrictTwo_En_BeginningPlot_PageStep_Five_EnemyName",
+        "ParentObjectID": "9fd58d8ec7554b50943e324d820ab2c9"
+    },
+    "EnemySize": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "EnemyStealth": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "EnemyWinEffects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "MeleeSkill": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "Morale": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "OverrideEscapeActionLog": {
+        "AlternateLogTexts": [],
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ScreenShake": false,
+        "SoundEffects": []
+    },
+    "OverrideEscapeActionName": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "PlayerActions": [],
+    "PlayerCover": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "PlayerWinEffects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "RangedSkill": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "Special1Effects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "Special2Effects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "Special3Effects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "Special4Effects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "Stamina": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "TieEffects": {
+        "AmmoRecovery": 0,
+        "DroppedCards": [],
+        "ResultLog": {
+            "AlternateLogTexts": [],
+            "LogText": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "ScreenShake": false,
+            "SoundEffects": []
+        },
+        "StatChanges": [],
+        "TransferValuesToStats": []
+    },
+    "UniqueID": "9fd58d8ec7554b50943e324d820ab2c9",
+    "Value1": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "Value2": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "Value3": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "Value4": {
+        "MaxValue": 0.0,
+        "Name": "",
+        "OnZeroEncounterResult": 0,
+        "StartingValue": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    }
+}

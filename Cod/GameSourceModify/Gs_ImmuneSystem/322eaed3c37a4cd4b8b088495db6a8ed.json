@@ -1,0 +1,477 @@
+{
+    "StatusesWarpData": [
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "GameName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "GameOver": false,
+            "Icon": {},
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "GameName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "GameOver": false,
+            "Icon": {},
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "GameName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "GameOver": false,
+            "Icon": {},
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "EffectsOnStatsWarpData": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.25,
+                        "y": -0.25
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "EffectsOnStatsWarpType": 4,
+            "GameName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "GameOver": false,
+            "Icon": {},
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "EffectsOnStatsWarpData": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -1.0,
+                        "y": -1.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "EffectsOnStatsWarpType": 4,
+            "GameName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "GameOver": false,
+            "Icon": {},
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "EffectsOnStatsWarpData": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -1.5,
+                        "y": -1.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.75,
+                        "y": -0.75
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "EffectsOnStatsWarpType": 4,
+            "GameName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "GameOver": false,
+            "Icon": {},
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "EffectsOnStatsWarpData": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -2.0,
+                        "y": -2.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -1.0,
+                        "y": -1.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "EffectsOnStatsWarpType": 4,
+            "GameName": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "GameOver": false,
+            "Icon": {},
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ],
+    "StatusesWarpType": 5
+}

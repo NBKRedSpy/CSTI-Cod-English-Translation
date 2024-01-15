@@ -1,0 +1,93 @@
+{
+    "ColorsOfTheDay": [
+        {
+            "ColorName": "Pre-Dawn",
+            "LightSourceAllowed": true,
+            "MainColor": {
+                "a": 1.0,
+                "b": 0.764705896377563,
+                "g": 0.768627464771271,
+                "r": 1.0
+            },
+            "TimeRange": {
+                "x": 4,
+                "y": 5
+            }
+        },
+        {
+            "ColorName": "Dawn",
+            "LightSourceAllowed": false,
+            "MainColor": {
+                "a": 1.0,
+                "b": 0.764705896377563,
+                "g": 0.832968294620514,
+                "r": 1.0
+            },
+            "TimeRange": {
+                "x": 5,
+                "y": 7
+            }
+        },
+        {
+            "ColorName": "Day",
+            "LightSourceAllowed": false,
+            "MainColor": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 1.0,
+                "r": 1.0
+            },
+            "TimeRange": {
+                "x": 7,
+                "y": 17
+            }
+        },
+        {
+            "ColorName": "Dusk",
+            "LightSourceAllowed": false,
+            "MainColor": {
+                "a": 1.0,
+                "b": 0.764705896377563,
+                "g": 0.768771946430206,
+                "r": 1.0
+            },
+            "TimeRange": {
+                "x": 17,
+                "y": 18
+            }
+        },
+        {
+            "ColorName": "Dusk",
+            "LightSourceAllowed": false,
+            "MainColor": {
+                "a": 1.0,
+                "b": 0.764705896377563,
+                "g": 0.768771946430206,
+                "r": 1.0
+            },
+            "TimeRange": {
+                "x": 18,
+                "y": 20
+            }
+        },
+        {
+            "ColorName": "Night",
+            "LightSourceAllowed": true,
+            "MainColor": {
+                "a": 1.0,
+                "b": 1.0,
+                "g": 0.690021097660065,
+                "r": 0.636792421340942
+            },
+            "TimeRange": {
+                "x": 20,
+                "y": 4
+            }
+        }
+    ],
+    "EffectsToSpawn": [],
+    "EffectsToSpawnWarpData": [
+        "NoSupport"
+    ],
+    "EffectsToSpawnWarpType": 3
+}
