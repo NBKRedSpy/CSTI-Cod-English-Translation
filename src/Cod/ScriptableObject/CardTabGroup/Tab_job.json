@@ -1,0 +1,37 @@
+{
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [
+    "0ec422d74a764434936c9f66bdede0d5",
+    "f893e86f1de5478485a388770d91d403",
+    "0dc826d8bc334efb8b41a6ae40ea2daa",
+    "244c8de536f341edb61f96842ec2684f",
+    "6cf4d57a33b7457dad4fd731c1340ad0",
+    "d2d0447c4ffd4e338dc4976415c8293e",
+    "98330cee689b4cbb96a9030cb183c7db",
+    "ebe5d4e897404eb79fa653a88c8509e1",
+    "a062bc2c3c98407089f320090513ee7d",
+    "e47b284407ef4357bafd736e77d68232",
+    "1a8ed70b56134c058d6930ea5985e3c7",
+    "4943821f78ba46d4ac0e81944f717172",
+    "efb05c0db97a43079aad277c2a9ec1b1",
+    "e1326d2bed2e45e7b92da86d6235ea4e"
+  ],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabIconWarpData": "icon_job",
+  "TabIconWarpType": 3,
+  "TabName": {
+    "DefaultText": "工作",
+    "LocalizationKey": "T-3Z/CwKGqTKVctugRDawOJvxl5Tc=",
+    "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
+  }
+}

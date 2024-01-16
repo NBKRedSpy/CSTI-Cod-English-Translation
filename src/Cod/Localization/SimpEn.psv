@@ -1,0 +1,3095 @@
+COD_Nc_Standard_Event_CardDescription||You can't find it anywhere. You seem to have lost its trail.
+COD_Nc_Standard_Event_CardName||Fail
+COD_Nc_Standard_Event_DismantleActions[0].ActionName||Continue
+COD_Nc_Standard_Item_CardDescription||A pile of feathers.
+COD_Nc_Standard_Item_CardName||Feathers
+COD_Nc_Standard_Location_CardDescription||A pile of feathers.
+COD_Nc_Standard_Location_CardName||Feathers
+COD_Weather_Storm_CardDescription||I should stay away from the coast and seek shelter.
+COD_Weather_Storm_CardName||Storm
+COD_cod_1_AbandonedFarm_PerkDescription||生者在前，亡者在后。
+COD_cod_1_AbandonedFarm_PerkName||废城
+COD_Perk_Cod_Bullets_PerkDescription||三次机会。
+COD_Perk_Cod_Bullets_PerkName||子弹
+Cod_Perk_Cod_ExerciseDegree_PerkDescription||体态优良，以力克刚。
+Cod_Perk_Cod_ExerciseDegree_PerkName||体格
+DistrictTwo_En_BeginningPlot_PageStart_EncounterTitle||人间
+DistrictTwo_En_BeginningPlot_PageStart_EnemyName||时光
+DistrictTwo_En_BeginningPlot_PageStep_Five_EncounterTitle||人间
+DistrictTwo_En_BeginningPlot_PageStep_Five_EnemyName||时光
+DistrictTwo_En_BeginningPlot_PageStep_Four_EncounterTitle||人间
+DistrictTwo_En_BeginningPlot_PageStep_Four_EnemyName||时光
+DistrictTwo_En_BeginningPlot_PageStep_Six_EncounterTitle||人间
+DistrictTwo_En_BeginningPlot_PageStep_Six_EnemyName||时光
+DistrictTwo_En_BeginningPlot_PageStep_Three_EncounterTitle||人间
+DistrictTwo_En_BeginningPlot_PageStep_Three_EnemyName||时光
+DistrictTwo_En_BeginningPlot_PageStep_Two_EncounterTitle||人间
+DistrictTwo_En_BeginningPlot_PageStep_Two_EnemyName||时光
+Cod_En_DecayCity_Base_FirstEntry_Start_EncounterTitle||探索
+Cod_En_DecayCity_Base_FirstEntry_Start_EnemyName||探索
+Cod_En_DecayCity_Base_FirstEntry_PageStep_StrugglesFail_EncounterTitle||对抗
+Cod_En_DecayCity_Base_FirstEntry_PageStep_StrugglesFail_EnemyName||对抗
+Cod_En_DecayCity_Base_FirstEntry_PageStep_StrugglesSuccess_EncounterTitle||对抗
+Cod_En_DecayCity_Base_FirstEntry_PageStep_StrugglesSuccess_EnemyName||对抗
+testMod_test_EncounterTitle||对话测试
+testMod_test_EnemyName||大对话测试
+testMod_trade_EncounterTitle||Macaque Encounter
+testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[0]||Swinging its arms wildly, it lunges at you with its teeth bared!
+testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[1]||It thrashes about, arms flapping, and attempts to sink its teeth into you!
+testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[2]||Arms waving in a frenzy, it makes a bold attempt to bite you!
+testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[3]||With arms flying erratically, it tries to land a bite on you!
+testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[4]||It jerks its arms around in a flurry and aims for a bite!
+testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[5]||It lashes out with its arms, trying to snag you with a quick bite!
+testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[6]||Flapping its arms with intent, it lunges forward to nip at you!
+testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[7]||The macaque brandishes its arms and snaps its jaws in your direction!
+testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[8]||It thrashes its arms and lunges forward, teeth first!
+testMod_trade_EnemyActions[0].ActionLog.AlternateLogTexts[9]||It whirls its arms and takes a snap at you with bared teeth!
+testMod_trade_EnemyActions[0].ActionLog.LogText||It flails its arms at you and tries to go for a bite!
+testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[0]||You nimbly dodge to the side...
+testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[1]||You manage to evade just in time...
+testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[2]||With swift reflexes, you move out of harm's way...
+testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[3]||You deftly sidestep the incoming attack...
+testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[4]||You narrowly escape the impending bite...
+testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[5]||You skillfully avoid the strike...
+testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[6]||With quick thinking, you duck out of the way...
+testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[7]||You leap clear of the attack with a split second to spare...
+testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[8]||You adroitly dart away from the danger...
+testMod_trade_EnemyActions[0].FailureLog.AlternateLogTexts[9]||With a swift maneuver, you avoid the potential wound...
+testMod_trade_EnemyActions[0].FailureLog.LogText||You successfully get out of the way...
+testMod_trade_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText||The Macaque bit you!
+testMod_trade_EnemyActions[0].PlayerWounds.MediumWounds[1].WoundLog.LogText||You've been seriously roughed up. This is gonna sting later.
+testMod_trade_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText||That Macaque hit is likely to leave a nasty bruise...
+testMod_trade_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText||The Macaque bit you!
+testMod_trade_EnemyActions[0].PlayerWounds.MinorWounds[2].WoundLog.LogText||You got a abrasion while trying to defend yourself.
+testMod_trade_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText||The Macaque bit you a few times. What a horrible creature.
+testMod_trade_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText||Fortunately, the attack wasn't enough to hurt you.
+testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[0]||A sudden sting of pain hits you...
+testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[1]||A jolt of sharp discomfort surges through you...
+testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[2]||You wince at a sudden burst of pain...
+testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[3]||You grit your teeth against a flash of pain...
+testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[4]||An unexpected pang of agony jolts you...
+testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[5]||A searing pain abruptly shoots through you...
+testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[6]||You are momentarily staggered by a sharp stab of pain...
+testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[7]||A piercing discomfort takes hold...
+testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[8]||You cringe as a harsh pain flares up...
+testMod_trade_EnemyActions[0].SuccessLog.AlternateLogTexts[9]||An intense twinge of pain momentarily takes your breath away...
+testMod_trade_EnemyActions[0].SuccessLog.LogText||You feel a sharp pain...
+testMod_trade_EnemyActions[1].ActionLog.LogText||It turns around and tries to escape...
+testMod_trade_EnemyActions[2].ActionLog.LogText||It turns around and tries to escape...
+testMod_trade_EnemyGettingCloseLog.LogText||The Macaque charges at you!
+testMod_trade_EnemyName||The Macaque
+testMod_trade_EnemyWinEffects.ResultLog.LogText||The Macaque disappears into the foliage....
+testMod_trade_PlayerWinEffects.ResultLog.LogText||The Macaque collapses on the floor.
+testMod_trade_Special1Effects.ResultLog.LogText||Macaque runs away
+testMod_trade_TieEffects.ResultLog.LogText||The Macaque disappears into the foliage....
+testMod_trade1_EncounterTitle||Boar Encounter
+testMod_trade1_EnemyActions[0].ActionLog.AlternateLogTexts[0]||The Boar lunges its head towards you with force...
+testMod_trade1_EnemyActions[0].ActionLog.AlternateLogTexts[1]||The Boar thrusts its head in your direction with aggression...
+testMod_trade1_EnemyActions[0].ActionLog.AlternateLogTexts[2]||The Boar's head jerks your way fiercely...
+testMod_trade1_EnemyActions[0].ActionLog.AlternateLogTexts[3]||The Boar flings its head at you with rapid force...
+testMod_trade1_EnemyActions[0].ActionLog.AlternateLogTexts[4]||With a forceful motion, the Boar tosses its head in your direction...
+testMod_trade1_EnemyActions[0].ActionLog.AlternateLogTexts[5]||The Boar's head sways towards you with violent intent...
+testMod_trade1_EnemyActions[0].ActionLog.AlternateLogTexts[6]||The Boar propels its head towards you in an aggressive display...
+testMod_trade1_EnemyActions[0].ActionLog.AlternateLogTexts[7]||With a wild thrust, the Boar swings its head at you...
+testMod_trade1_EnemyActions[0].ActionLog.AlternateLogTexts[8]||The Boar jerks its head with a powerful motion in your direction...
+testMod_trade1_EnemyActions[0].ActionLog.AlternateLogTexts[9]||The Boar jolts its head at you, demonstrating its raw power...
+testMod_trade1_EnemyActions[0].ActionLog.LogText||The Boar swings its head violently at you!
+testMod_trade1_EnemyActions[0].FailureLog.AlternateLogTexts[0]||You nimbly dodge to the side...
+testMod_trade1_EnemyActions[0].FailureLog.AlternateLogTexts[1]||You manage to evade just in time...
+testMod_trade1_EnemyActions[0].FailureLog.AlternateLogTexts[2]||With swift reflexes, you move out of harm's way...
+testMod_trade1_EnemyActions[0].FailureLog.AlternateLogTexts[3]||You deftly sidestep the incoming attack...
+testMod_trade1_EnemyActions[0].FailureLog.AlternateLogTexts[4]||You narrowly escape the attack...
+testMod_trade1_EnemyActions[0].FailureLog.AlternateLogTexts[5]||You skillfully avoid the strike...
+testMod_trade1_EnemyActions[0].FailureLog.AlternateLogTexts[6]||With quick thinking, you duck out of the way...
+testMod_trade1_EnemyActions[0].FailureLog.AlternateLogTexts[7]||You leap clear of the attack with a split second to spare...
+testMod_trade1_EnemyActions[0].FailureLog.AlternateLogTexts[8]||You adroitly dart away from the danger...
+testMod_trade1_EnemyActions[0].FailureLog.AlternateLogTexts[9]||With a swift maneuver, you avoid the potential wound...
+testMod_trade1_EnemyActions[0].FailureLog.LogText||You successfully get out of the way...
+testMod_trade1_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText||Your arm was hit and is now throbbing in pain.
+testMod_trade1_EnemyActions[0].PlayerWounds.MediumWounds[1].WoundLog.LogText||Your arm was hit and is now throbbing in pain.
+testMod_trade1_EnemyActions[0].PlayerWounds.MediumWounds[2].WoundLog.LogText||Your leg was hit and is now throbbing in pain.
+testMod_trade1_EnemyActions[0].PlayerWounds.MediumWounds[3].WoundLog.LogText||Your leg was hit and is now throbbing in pain.
+testMod_trade1_EnemyActions[0].PlayerWounds.MediumWounds[4].WoundLog.LogText||You got a pretty ugly bite.
+testMod_trade1_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText||You got a nasty bruise.
+testMod_trade1_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText||Your skin was pierced, causing a minor laceration.
+testMod_trade1_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText||There's a deep gash across your leg... It's bleeding profusely!
+testMod_trade1_EnemyActions[0].PlayerWounds.SeriousWounds[1].WoundLog.LogText||There's a deep gash across your leg... It's bleeding profusely!
+testMod_trade1_EnemyActions[0].PlayerWounds.SeriousWounds[2].WoundLog.LogText||There's a deep gash across your arm... It's bleeding profusely!
+testMod_trade1_EnemyActions[0].PlayerWounds.SeriousWounds[3].WoundLog.LogText||There's a deep gash across your arm... It's bleeding profusely!
+testMod_trade1_EnemyActions[0].PlayerWounds.SeriousWounds[4].WoundLog.LogText||Your skin has been repeatedly pierced by the Boar's tusks, causing multiple lacerations.
+testMod_trade1_EnemyActions[0].PlayerWounds.SeriousWounds[5].WoundLog.LogText||Your arm was badly hit, you think you might have a fracture.
+testMod_trade1_EnemyActions[0].PlayerWounds.SeriousWounds[6].WoundLog.LogText||Your arm was badly hit, you think you might have a fracture.
+testMod_trade1_EnemyActions[0].PlayerWounds.SeriousWounds[7].WoundLog.LogText||Your leg was badly hit, you think you might have a fracture.
+testMod_trade1_EnemyActions[0].PlayerWounds.SeriousWounds[8].WoundLog.LogText||Your leg was badly hit, you think you might have a fracture.
+testMod_trade1_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText||Fortunately, the attack wasn't enough to hurt you.
+testMod_trade1_EnemyActions[0].SuccessLog.AlternateLogTexts[0]||A sudden sting of pain hits you...
+testMod_trade1_EnemyActions[0].SuccessLog.AlternateLogTexts[1]||A jolt of sharp discomfort surges through you...
+testMod_trade1_EnemyActions[0].SuccessLog.AlternateLogTexts[2]||You wince at a sudden burst of pain...
+testMod_trade1_EnemyActions[0].SuccessLog.AlternateLogTexts[3]||An unexpected pang of agony jolts you...
+testMod_trade1_EnemyActions[0].SuccessLog.AlternateLogTexts[4]||You grit your teeth against a flash of pain...
+testMod_trade1_EnemyActions[0].SuccessLog.AlternateLogTexts[5]||A searing pain abruptly shoots through you...
+testMod_trade1_EnemyActions[0].SuccessLog.AlternateLogTexts[6]||You are momentarily staggered by a sharp stab of pain...
+testMod_trade1_EnemyActions[0].SuccessLog.AlternateLogTexts[7]||A piercing discomfort takes hold...
+testMod_trade1_EnemyActions[0].SuccessLog.AlternateLogTexts[8]||You cringe as a harsh pain flares up...
+testMod_trade1_EnemyActions[0].SuccessLog.AlternateLogTexts[9]||An intense twinge of pain momentarily takes your breath away...
+testMod_trade1_EnemyActions[0].SuccessLog.LogText||You feel a sharp pain...
+testMod_trade1_EnemyActions[1].ActionLog.LogText||It turns around and tries to escape...
+testMod_trade1_EnemyActions[2].ActionLog.LogText||It turns around and tries to escape...
+testMod_trade1_EnemyGettingCloseLog.LogText||The Boar charges at you!
+testMod_trade1_EnemyName||The Boar
+testMod_trade1_EnemyWinEffects.ResultLog.LogText||The Boar disappears into the foliage....
+testMod_trade1_PlayerWinEffects.ResultLog.LogText||The Boar collapses to the ground.
+testMod_trade1_Special1Effects.ResultLog.LogText||Boar runs away
+testMod_trade1_TieEffects.ResultLog.LogText||The Boar disappears into the foliage....
+COD_Gs_AirDropCount_GameName||Gs_AirDropCount
+COD_Gs_AirDrop_AirDropCount_GameName||Gs_AirDrop_AirDropCount
+COD_Gs_AirDrop_BrokenPortCount_GameName||Gs_AirDrop_BrokenPortCount
+COD_Gs_AirDrop_DecayCityCount_GameName||Gs_AirDrop_DecayCityCount
+COD_Gs_AirDrop_ModernStreetCount_GameName||Gs_AirDrop_ModernStreetCount
+COD_Gs_AirDrop_SmallTownCount_GameName||Gs_AirDrop_SmallTownCount
+COD_Gs_Antidote_Description||身体上绿色的纹路渐渐褪去..
+COD_Gs_Antidote_GameName||血清
+COD_Gs_Antidote_Statuses[3].GameName||解毒
+COD_Gs_BloodHeart_BloodMist_ProducedZombieCount_GameName||Gs_BloodHeart_BloodMist_ProducedZombieCount
+COD_Gs_BloodHeart_Macy_ExistCount_GameName||Gs_BloodHeart_Macy_ExistCount
+COD_Gs_BloodHeart_PresenceCount_ModernStreet__GameName||Gs_BloodHeart_PresenceCount_ModernStreet
+Cod_Gs_BloodPlage_BloodMist_Description||区域的血雾弥漫程度。
+Cod_Gs_BloodPlage_BloodMist_GameName||血雾
+Cod_Gs_BloodPlage_BloodMist_NotEnoughText||这个区域尚未被血雾弥漫。
+T-ygeRe7E5AzvuX8Z9QEYVTkcEaOk=||空气隐约可见红色的颗粒
+T-FW1j9ph64dfwZqgiD16mRkKVdQk=||鼻腔间充满了淡淡的血腥味
+T-3HaU/nh5hlHWDw5PKmAeVug4h+s=||区域红雾弥漫
+T-+yDawsFElN0MSZR9snRqtUdHle4=||视野所及一片猩红
+T-rS3OUdp+x5qZwZh7eSjYoTDaSaQ=||猩红地狱
+COD_Gs_Ruins_BloodPlague_Description||视野一片血色，在一切还来得及之前..
+COD_Gs_Ruins_BloodPlague_GameName||血疫
+COD_Gs_Ruins_BloodPlague_Statuses[0].Description||感觉自己开始发烧了..
+COD_Gs_Ruins_BloodPlague_Statuses[0].GameName||轻度感染
+COD_Gs_Ruins_BloodPlague_Statuses[1].Description||全身感觉没有力气..
+COD_Gs_Ruins_BloodPlague_Statuses[1].GameName||中度感染
+COD_Gs_Ruins_BloodPlague_Statuses[2].Description||咳咳咳...
+COD_Gs_Ruins_BloodPlague_Statuses[2].GameName||高度感染
+COD_Gs_Ruins_BloodPlague_Statuses[3].Description||身体在燃烧！
+COD_Gs_Ruins_BloodPlague_Statuses[3].GameName||重度感染
+COD_Gs_Ruins_BloodPlague_Statuses[4].Description||僵尸化
+Cod_Gs_BloodPlage_BloodProtein_GameName||猩红素
+Cod_Gs_BloodPlage_BloodProtein_Statuses[0].Description||皮肤表面有些浅红色的纹路
+Cod_Gs_BloodPlage_BloodProtein_Statuses[0].GameName||猩红
+Cod_Gs_BloodPlage_BloodProtein_Statuses[1].Description||身体表面纹路遍布
+Cod_Gs_BloodPlage_BloodProtein_Statuses[1].GameName||猩红素
+Cod_Gs_BloodPlage_BloodProtein_Statuses[2].Description||密集纹路伴随着高温..
+Cod_Gs_BloodPlage_BloodProtein_Statuses[2].GameName||猩红素
+Cod_Gs_BloodPlage_BloodProtein_Statuses[3].Description||通明红色在体表流淌
+Cod_Gs_BloodPlage_BloodProtein_Statuses[3].GameName||猩红素
+COD_Gs_Civilization_ElectricalPower_GameName||区域电力
+COD_Gs_Civilization_ElectricalPower_NotEnoughText||地区没有足够的电力。
+Cod_Gs_Civilization_Infected_Port_GameName||Gs_Civilization_Infected_Port
+Cod_Gs_Civilization_Infected_Port_NotEnoughText||港口尚未被感染。
+Cod_Gs_Civilization_Infected_Port_PortBeach_GameName||Gs_Civilization_Infected_Port_PortBeach
+Cod_Gs_Civilization_Infected_Port_PortBeach_NotEnoughText||海峡尚未被感染。
+COD_Gs_Eleven_ExplorationCount_GameName||Gs_Eleven_ExplorationCount
+COD_Gs_ExerciseDegree_Description||自我塑造的过程。
+COD_Gs_ExerciseDegree_GameName||锻炼程度
+COD_Gs_ExerciseDegree_Statuses[0].GameName||锻炼适度
+COD_Gs_ExerciseDegree_Statuses[1].GameName||局部酸痛
+COD_Gs_ExerciseDegree_Statuses[2].GameName||锻炼过度
+COD_Gs_ExerciseDegree_Statuses[3].GameName||肌肉拉伤
+Cod_Gs_InfectedPlant_Giant_FirstGenerationCount_Port_GameName||Gs_InfectedPlant_Giant_FirstGenerationCount_Port
+Cod_Gs_InfectedPlant_Giant_FirstGenerationCount_Port_PortBeach_GameName||Gs_InfectedPlant_Giant_FirstGenerationCount_Port_PortBeach
+Cod_Gs_InfectedPlant_Giant_FirstGenerationCount_Port_Sanitisation_GameName||Gs_InfectedPlant_Giant_FirstGenerationCount_Port_Sanitisation
+Cod_Gs_InfectedPlant_Giant_PreservationCount_Port_GameName||Gs_InfectedPlant_Giant_PreservationCount_Port
+Cod_Gs_InfectedPlant_Giant_PreservationCount_Port_PortBeach_GameName||Gs_InfectedPlant_Giant_PreservationCount_Port_PortBeach
+T-yX2HvYtHFl2+Kpne/G30Broza0o=||Gs_InfectedPlant_Giant_ReprovisionCount_Port
+T-p50OgTfuUi7BtakxFJvNL3zLFkM=||血疫增生
+T-K1RU18WVIm54raI8f3fRCsS4Lok=||Gs_InfectedPlant_Giant_ReprovisionCount_Port_PortBeach
+Cod_Gs_InfectedPlant_Intensity_GameName||Gs_InfectedPlant_Intensity
+Cod_Gs_InfectedPlant_Intensity_NotEnoughText||猩红植株还未蔓延这片区域。
+T-6vQUNYwdREN/P3WaubNsPfFyOQc=||自然增生
+T-labKgoq2wvw4759oWqlPjlsB/k0=||区域蔓延
+COD_Gs_Pharmacy_ExplorationCount_GameName||Gs_Pharmacy_ExplorationCount
+Cod_Gs_Map_Port_ContainerArea_OpenCount_GameName||Gs_Map_Port_ContainerArea_OpenCount
+Cod_Gs_Map_Port_ContainerArea_OpenCount_NotEnoughText||前方区域被集装箱挡住了。
+COD_Gs_SeaKing_ExplorationCount_GameName||Gs_SeaKing_ExplorationCount
+Cod_Gs_MobileCorpse_PreservationCount_DecayCity_GameName||Gs_MobileCorpse_PreservationCount_DecayCity
+Cod_Gs_MobileCorpse_PreservationCount_ModernStreet_GameName||Gs_MobileCorpse_PreservationCount_ModernStreet
+Cod_Gs_MobileCorpse_PreservationCount_Port_GameName||Gs_MobileCorpse_PreservationCount_Port
+Cod_Gs_MobileCorpse_PreservationCount_SmallTown_GameName||Gs_MobileCorpse_PreservationCount_SmallTown
+T-AuAmczuDi1fRjnsUuxOuSbw7h6M=||Gs_MobileCorpse_ReFreshCount_DecayCity
+T-icZqh0zylRQSnxdy7bvWeHIOn2A=||城市生态
+T-weVvX8bLiBRg5oACUVa4JmnPahE=||Gs_MobileCorpse_ReFreshCount_ModernStreet
+T-88VBpaUYtlXvQLAdPfW2JkcoZhc=||Gs_MobileCorpse_ReFreshCount_Port
+COD_Gs_NoiseFactor_Description||各类生物在该地区的活跃程度。
+COD_Gs_NoiseFactor_GameName||区域热度
+T-OJ9Sjl4Bulkez32+m8s9J69aQvE=||区域苏醒
+T-l6StZPh92LtnuzVCiWVIKJUwunQ=||区域起温
+T-AfAt3wadLkD63pKazYrKUkdMxRU=||区域活跃
+T-TBhCXjq7T+M3WInS9gHYYMqzMuo=||群魔乱舞
+T-JDiMAJq8fAZh+UaH3GM6PLw2KGs=||世界舞台
+COD_Gs_NoiseLevel_Description||区域内的产生的声音程度。
+COD_Gs_NoiseLevel_GameName||噪声系数
+COD_Gs_NoiseLevel_Statuses[0].GameName||轻微噪声
+COD_Gs_NoiseLevel_Statuses[1].GameName||局部噪声
+COD_Gs_NoiseLevel_Statuses[2].GameName||巨大噪声
+COD_Gs_NoiseLevel_Statuses[3].GameName||地区重音
+COD_Gs_Noise_FilthyZombie_AttackCount_GameName||Gs_Noise_FilthyZombie_AttackCount
+COD_Gs_Noise_GiantBusterZombie_AttackCount_GameName||Gs_Noise_GiantBusterZombie_AttackCount
+COD_Gs_Ruins_NoiseGeneratingBehaviorCount_GameName||Gs_Noise_NoiseGeneratingBehaviorCount
+COD_Gs_Noise_OrdinaryZombie_AttackCount_GameName||Noise_OrdinaryZombie_AttackCount
+COD_Gs_Noise_PetrifiedZombie_AttackCount_GameName||Gs_Noise_PetrifiedZombie_AttackCount
+COD_Gs_Noise_ScreamingZombies_AttackCount._GameName||Gs_Noise_ScreamingZombies_AttackCount
+COD_Gs_Noise_SharpClawZombies_AttackCount_GameName||Gs_Noise_SharpClawZombies_AttackCount
+COD_Gs_Noise_SwiftZombie_AttackCount_GameName||Gs_Noise_SwiftZombie_AttackCount
+COD_Gs_Noise_ZombieProducedCount_GameName||Gs_Noise_ZombieProducedCount
+T-fjkh0/Lf+Z5Y3aMFjkj8bpzxaS0=||Gs_Noise_ZombieProducedCount
+T-1QXzGZxHwke+lqKM8D2l9A5sp7o=||Gs_Noise_ZombieProducedCount_ReCount
+COD_Gs_FatGeorge_PresenceCount_GameName||Gs_Npc_FatGeorge_PresenceCount
+COD_Gs_FatGeorge_PresenceCount_NotEnoughText||肥乔不在场景中。
+COD_Gs_Garvin_PresenceCount_GameName||Gs_Garvin_PresenceCount
+COD_Gs_Garvin_PresenceCount_NotEnoughText||加文不在场景中。
+COD_Gs_Npc_Negan_PresenceCount_GameName||Gs_Npc_Negan_PresenceCount
+COD_Gs_Npc_Negan_PresenceCount_NotEnoughText||尼根不在场景中。
+COD_Gs_Npc_Ron_PresenceCount_GameName||Gs_Npc_Ron_PresenceCount
+COD_Gs_Npc_Ron_PresenceCount_NotEnoughText||罗恩不在场景中。
+COD_Gs_Npc_SlotMachine_PresenceCount_GameName||Gs_Npc_SlotMachine_PresenceCount
+COD_Gs_Npc_SlotMachine_PresenceCount_NotEnoughText||老虎机不在场景中。
+COD_Gs_VendingMachines_PresenceCount_GameName||Gs_VendingMachines_PresenceCount
+COD_Gs_VendingMachines_PresenceCount_NotEnoughtTest||自动贩卖机不在场景中。
+Cod_Gs_Plot_Base_FirstEntryCount_GameName||Gs_Plot_Base_FirstEntryCount
+COD_Gs_Rains_BodyStrength_Description||身体各项的综合素质。
+COD_Gs_Rains_BodyStrength_GameNamy||身体强度
+COD_Gs_Rains_BodyStrength_Statuses[0].GameName||小有所成
+COD_Gs_Rains_BodyStrength_Statuses[1].GameName||强健体魄
+COD_Gs_Rains_BodyStrength_Statuses[2].GameName||身形皆具
+COD_Gs_Rains_BodyStrength_Statuses[3].GameName||奥林匹克
+COD_Gs_Ruins_DisasterBeason_StartJourneyCounter_GameName||DisasterBeason_ToShipCounter
+COD_Gs_Ruins_GoldCoins_GameName||金币
+COD_Gs_Ruins_MapCount_GameName||Ruins_MapCount
+Cod_Gs_Ruins_MapCount_DecayCity_GameName||Gs_Ruins_MapCount_DecayCity
+COD_Gs_Ruins_MapCount_OutSide_GameName||Gs_Ruins_MapCount_OutSide
+COD_Gs_Ruins_Skill_Locksmithing_Description||对于各类锁具解法的技术程度。
+COD_Gs_Ruins_Skill_Locksmithing_GameName||开锁
+COD_Gs_Ruins_Skill_Locksmithing_NotEnoughText||需要更高的开锁技能
+Cod_Gs_Ruins_Visibility_GameDescription||地区的可视程度。
+Cod_Gs_Ruins_Visibility_GameName||能见度
+Cod_Gs_Ruins_Visibility_NotEnoughText||附近的能见度太低了..
+COD_Gs_Ruins_ZombieInfectivity_Description||在一切还来得及之前..
+COD_Gs_Ruins_ZombieInfectivity_GameName||感染度
+COD_Gs_Ruins_ZombieInfectivity_Statuses[0].Description||感觉自己开始发烧了..
+COD_Gs_Ruins_ZombieInfectivity_Statuses[0].GameName||轻度感染
+COD_Gs_Ruins_ZombieInfectivity_Statuses[1].Description||全身感觉没有力气..
+COD_Gs_Ruins_ZombieInfectivity_Statuses[1].GameName||中度感染
+COD_Gs_Ruins_ZombieInfectivity_Statuses[2].Description||咳咳咳...
+COD_Gs_Ruins_ZombieInfectivity_Statuses[2].GameName||高度感染
+COD_Gs_Ruins_ZombieInfectivity_Statuses[3].Description||前面一片血色..
+COD_Gs_Ruins_ZombieInfectivity_Statuses[3].GameName||重度感染
+COD_Gs_Ruins_ZombieInfectivity_Statuses[4].Description||僵尸化
+Cod_Gs_Skill_SurvivalKnowledge_Description||对野外求生相关知识的掌握程度。
+Cod_Gs_Skill_SurvivalKnowledge_GameName||求生知识
+COD_Gs_SpecialEvent_BigBen_BeatTimeCount_GameName||Gs_SpecialEvent_BigBen_BeatTimeCount
+Cod_Gs_SpecialEvent_Foggy_DecayCount_GameName||Gs_SpecialEvent_Foggy_DecayCity_Count
+Cod_Gs_SpecialEvent_Foggy_DecayCity_Count_GameName||迷雾蔓延
+Cod_Gs_SpecialEvent_Foggy_DecayCity_PersistentCount_GameName||Gs_SpecialEvent_Foggy_DecayCity_PersistentCount
+Cod_Gs_SpecialEvent_Foggy_DecayCity_PersistentCount_NotEnoughText||迷雾逐渐退散了..
+Cod_Gs_SpecialEvent_Foggy_DegreeFog_Description||地区的迷雾程度。
+T-0d8shGhp00B2LqNaJrFa8N/gjWE=||迷雾
+T-ydOn8+3LV/pGavUX43BTyYvy59I=||迷雾弥漫
+Cod_Gs_SpecialEvent_Foggy_PortBeach_PresenceCount_GameName||Gs_SpecialEvent_Foggy_PortBeach_PresenceCount
+Cod_Gs_SpecialEvent_Foggy_PortBeach_PresenceCount_NotEnoughText||海雾尚未蔓延至该地区。
+Cod_Gs_SpecialEvent_Foggy_Port_Count_GameName||Gs_SpecialEvent_Foggy_Port_Count
+Cod_Gs_SpecialEvent_Foggy_Port_PersistentCount_GameName||Gs_SpecialEvent_Foggy_Port_PersistentCount
+Cod_Gs_SpecialEvent_Foggy_Port_PersistentCount_NotEnoughText||迷雾逐渐退散了..
+Cod_Gs_SpecialEvent_Foggy_Port_PresenceCount_GameName||Gs_SpecialEvent_Foggy_Port_PresenceCount
+Cod_Gs_SpecialEvent_Foggy_Port_PresenceCount_NotEnoughText||海雾尚未蔓延至该地区。
+Cod_Gs_SpecialWeapon_UnLock_IncendiaryBottle_GameName||Gs_SpecialWeapon_UnLock_IncendiaryBottle
+Cod_Gs_SpecialWeapon_UnLock_IncendiaryBottle_NotEnoughText||需要更高燃烧瓶制作熟练度
+Gs_StartingItem_HumanNecklace_GameName||StartingItem_HumanNecklace
+COD_Gs_Vultures_FlyDownCount_GameName||Vultures_FlyDownCount
+COD_Gs_Vultures_FlyDownCount_RestrictionsCounter_GameName||Vultures_FlyDownCount
+COD_Gs_ZombiePresenceCounter_GameName||Gs_ZombiePresenceCounter
+Cod_Gs_ZombieSiegeBattle_AerialBombardmentCount_GameName||Gs_ZombieSiegeBattle_AerialBombardmentCount
+Cod_Gs_ZombieSiegeBattle_ZombieSiegeBattleCount_GameName||Gs_ZombieSiegeBattle_ZombieSiegeBattleCount
+T-JQVitp73VkX9inf6GQEPFKH/riU=||弹药学技能
+T-Yjw6HUsRDm5IOSzFiMsKlVUgrRI=||弹药学
+T-DVdjyEwZpEuLf8Tsj3fK9fEY9vY=||救世军帮派信任度
+T-YlvM2RGi8fSPFQnGWKapIcuJiNI=||救世军信任度
+COD_Foodplace_Description||Shows how good your eating place is. Gives you a bonus to eating.
+COD_Foodplace_GameName||Foodplace
+COD_Foodplace_Statuses[0].Description||Moderate Effect
+COD_Foodplace_Statuses[0].GameName||Eating Utensils
+T-BVpWg9W0al7R1WLX3muh8GEhcXM=||餐馆好感度
+COD_Obj_SkillSpearFighting_OnCompleteActions[0].ActionName||Determination
+T-5FmhnJoVtUJtjQxsHORLBf8dPFQ=||餐馆好感
+COD_Sta_AirDrop_Actions[0].ActionName||Sta_AirDrop
+COD_Sta_AirDrop_BrokenPort_Actions[0].ActionName||Sta_AirDrop_BrokenPort
+COD_Sta_AirDrop_DecayCity_Actions[0].ActionName||Sta_AirDrop_DecayCity
+COD_Sta_AirDrop_ModernStreet_Actions[0].ActionName||Sta_AirDrop_ModernStreet
+COD_Sta_AirDrop_SmallTown_Actions[0].ActionName||Sta_AirDrop_SmallTown
+COD_Sta_BloodHeart_BloodMist_ProducedZombie_Actions[0].ActionName||Sta_BloodHeart_BloodMist_ProducedZombie
+Cod_Sta_Cod_StartingItem_Necklace_Actions[0].ActionName||Sta_Cod_StartingItem_Necklace
+Cod_Sta_InfectedPlant_Giant_DeleteDetection_Port_Actions[0].ActionName||Sta_InfectedPlant_Giant_DeleteDetection_Port
+Cod_Sta_InfectedPlant_Giant_DeleteDetection_Port_PortBeach_Actions[0].ActionName||Sta_InfectedPlant_Giant_DeleteDetection_Port_PortBeach
+Cod_Sta_InfectedPlant_Giant_FirstGeneration_Port_Actions[0].ActionName||Sta_InfectedPlant_Giant_FirstGeneration_Port
+Cod_Sta_InfectedPlant_Giant_FirstGeneration_Port_PortBeach_Actions[0].ActionName||Sta_InfectedPlant_Giant_FirstGeneration_Port_PortBeach
+Cod_Sta_InfectedPlant_Giant_ReprovisionCount_Port_Actions[0].ActionName||Sta_InfectedPlant_Giant_ReprovisionCount_Port
+Cod_Sta_InfectedPlant_Giant_ReprovisionCount_Port_PortBeach_Actions[0].ActionName||Sta_InfectedPlant_Giant_ReprovisionCount_Port_PortBeach
+Cod_Sta_MobileCorpse_PreservationCount_DecayCity_Actions[0].ActionName||Sta_MobileCorpse_PreservationCount_DecayCity
+Cod_Sta_MobileCorpse_PreservationCount_ModernStreet_Actions[0].ActionName||Sta_MobileCorpse_PreservationCount_ModernStreet
+Cod_Sta_MobileCorpse_PreservationCount_Port_Actions[0].ActionName||Sta_MobileCorpse_PreservationCount_Port
+Cod_Sta_MobileCorpse_PreservationCount_SmallTown_Actions[0].ActionName||Sta_MobileCorpse_PreservationCount_SmallTown
+Cod_Sta_MobileCorpse_ReFreshCount_DecayCity_Actions[0].ActionName||Sta_MobileCorpse_ReFreshCount_DecayCity
+Cod_Sta_MobileCorpse_ReFreshCount_ModernStreet_Actions[0].ActionName||Sta_MobileCorpse_ReFreshCount_ModernStreet
+Cod_Sta_MobileCorpse_ReFreshCount_Port_Actions[0].ActionName||Sta_MobileCorpse_ReFreshCount_Port
+Cod_Sta_MobileCorpse_ReFreshCount_SmallTown_Actions[0].ActionName||Sta_MobileCorpse_ReFreshCount_SmallTown
+COD_Sta_Noise_FilthyZombie_AttackCount_Actions[0].ActionName||Sta_Noise_FilthyZombie_AttackCount
+COD_Sta_Noise_GiantBusterZombie_AttackCount_Actions[0].ActionName||Sta_Noise_GiantBusterZombie_AttackCount
+COD_Sta_Noise_OrdinaryZombie_AttackCount_Actions[0].ActionName||Sta_Noise_OrdinaryZombie_AttackCount
+COD_Sta_Noise_PetrifiedZombie_AttackCount_Actions[0].ActionName||Sta_Noise_PetrifiedZombie_AttackCount
+COD_Sta_Noise_ScreamingZombiesZombie_AttackCount_Actions[0].ActionName||Sta_Noise_ScreamingZombiesZombie_AttackCount
+COD_Sta_Noise_SharpClawZombies_AttackCount_Actions[0].ActionName||Sta_Noise_ScreamingZombiesZombie_AttackCount
+COD_Sta_Noise_SwiftZombie_AttackCount_Actions[0].ActionName||Sta_Noise_SwiftZombie_AttackCount
+COD_Sta_Noise_ZombieProducedCount_ReCount_Actions[0].ActionName||Sta_Noise_ZombieProducedCount_ReCount
+COD_Sta_SpecialEvent_BigBen_BeatTime_Actions[0].ActionName||BeatTime
+COD_Sta_SpecialEvent_BigBen_BeatTime_ReSet_Actions[0].ActionName||BeatTime_ReSet
+Cod_Sta_SpecialEvent_Foggy_DecayCity_Produced_Actions[0].ActionName||Sta_SpecialEvent_Foggy_DecayCity_Produced
+Cod_Sta_SpecialEvent_Foggy_DecayCity_ProducedFirst_Actions[0].ActionName||Sta_SpecialEvent_Foggy_DecayCity_ProducedFirst
+Cod_Sta_SpecialEvent_Foggy_DecayCity_ProducedPersistentCount_Actions[0].ActionName||Sta_SpecialEvent_Foggy_DecayCity_ProducedPersistentCount
+Cod_Sta_SpecialEvent_Foggy_DecayCity_Start_Actions[0].ActionName||Sta_SpecialEvent_Foggy_DecayCity_Start
+Cod_Sta_SpecialEvent_Foggy_PortBeach_Produced_Actions[0].ActionName||Sta_SpecialEvent_Foggy_PortBeach_Produced
+Cod_Sta_SpecialEvent_Foggy_Port_Produced_Actions[0].ActionName||Sta_SpecialEvent_Foggy_Port_Produced
+Cod_Sta_SpecialEvent_Foggy_Port_ProducedPersistentCount_Actions[0].ActionName||Sta_SpecialEvent_Foggy_Port_ProducedPersistentCount
+Cod_Sta_StartingItem_NeckLace_Actions[0].ActionName||Sta_StartingItem_NeckLace
+COD_Sta_Vultures_FlyDown_Actions[0].ActionName||秃鹫！
+COD_cod_Skill_Archery1_Actions[0].ActionName||救世军信任度奖励
+AnimalMaterialization_Nc_Ruins_Animal_Boar_CardDescription||Should I attack it or leave it alone?
+AnimalMaterialization_Nc_Ruins_Animal_Boar_CardName||I see a Boar!
+AnimalMaterialization_Nc_Ruins_Animal_Boar_DismantleActions[0].ActionName||Attack with Spear!
+AnimalMaterialization_Nc_Ruins_Animal_Boar_DismantleActions[1].ActionName||Attack with Bow!
+AnimalMaterialization_Nc_Ruins_Animal_Boar_DismantleActions[2].ActionName||Attack with Gun!
+AnimalMaterialization_Nc_Ruins_Animal_Boar_DismantleActions[3].ActionName||Attack with Sling!
+AnimalMaterialization_Nc_Ruins_Animal_Boar_DismantleActions[4].ActionName||Retreat
+AnimalMaterialization_Nc_Ruins_Animal_Cobra_CardDescription||Should I attack it or leave it alone?
+AnimalMaterialization_Nc_Ruins_Animal_Cobra_CardName||Spitting Cobra!
+AnimalMaterialization_Nc_Ruins_Animal_Cobra_DismantleActions[0].ActionName||Attack with Spear!
+AnimalMaterialization_Nc_Ruins_Animal_Cobra_DismantleActions[1].ActionName||Attack with Bow!
+AnimalMaterialization_Nc_Ruins_Animal_Cobra_DismantleActions[2].ActionName||Attack with Gun!
+AnimalMaterialization_Nc_Ruins_Animal_Cobra_DismantleActions[3].ActionName||Attack with Sling!
+AnimalMaterialization_Nc_Ruins_Animal_Cobra_DismantleActions[4].ActionName||Retreat
+AnimalMaterialization_Nc_Ruins_Animal_Goat_CardDescription||Should I try to catch it?
+AnimalMaterialization_Nc_Ruins_Animal_Goat_CardName||A Goat!
+AnimalMaterialization_Nc_Ruins_Animal_Goat_DismantleActions[0].ActionDescription||(does not consume stones)
+AnimalMaterialization_Nc_Ruins_Animal_Goat_DismantleActions[0].ActionName||Throw Rock at it
+AnimalMaterialization_Nc_Ruins_Animal_Goat_DismantleActions[2].ActionName||Use Spear
+AnimalMaterialization_Nc_Ruins_Animal_Goat_DismantleActions[1].ActionName||Use Sling
+AnimalMaterialization_Nc_Ruins_Animal_Goat_DismantleActions[3].ActionName||Attack with Bow
+AnimalMaterialization_Nc_Ruins_Animal_Goat_DismantleActions[4].ActionName||Attack with Gun!
+AnimalMaterialization_Nc_Ruins_Animal_Goat_DismantleActions[5].ActionName||Ignore
+AnimalMaterialization_Nc_Ruins_Animal_Macaque_CardDescription||Should I attack it or leave it alone?
+AnimalMaterialization_Nc_Ruins_Animal_Macaque_CardName||A Macaque!
+AnimalMaterialization_Nc_Ruins_Animal_Macaque_DismantleActions[0].ActionName||Attack with Spear!
+AnimalMaterialization_Nc_Ruins_Animal_Macaque_DismantleActions[1].ActionName||Attack with Bow!
+AnimalMaterialization_Nc_Ruins_Animal_Macaque_DismantleActions[2].ActionName||Attack with Gun!
+AnimalMaterialization_Nc_Ruins_Animal_Macaque_DismantleActions[3].ActionName||Attack with Sling!
+AnimalMaterialization_Nc_Ruins_Animal_Macaque_DismantleActions[4].ActionName||Retreat
+AnimalMaterialization_Nc_Ruins_Animal_Monitor_CardDescription||Should I attack it or leave it alone?
+AnimalMaterialization_Nc_Ruins_Animal_Monitor_CardName||A Monitor Lizard!
+AnimalMaterialization_Nc_Ruins_Animal_Monitor_DismantleActions[0].ActionName||Attack with Spear!
+AnimalMaterialization_Nc_Ruins_Animal_Monitor_DismantleActions[1].ActionName||Attack with Bow!
+AnimalMaterialization_Nc_Ruins_Animal_Monitor_DismantleActions[2].ActionName||Attack with Gun!
+AnimalMaterialization_Nc_Ruins_Animal_Monitor_DismantleActions[3].ActionName||Attack with Sling!
+AnimalMaterialization_Nc_Ruins_Animal_Monitor_DismantleActions[4].ActionName||Retreat
+AnimalMaterialization_Nc_Ruins_Animal_Monitor_DismantleActions[5].ActionDescription||While slowly retreating...
+AnimalMaterialization_Nc_Ruins_Animal_Monitor_DismantleActions[5].ActionName||Take Picture!
+AnimalMaterialization_Nc_Ruins_Animal_PartridgeFight_CardDescription||Should I try to catch it?
+AnimalMaterialization_Nc_Ruins_Animal_PartridgeFight_CardName||A partridge!
+AnimalMaterialization_Nc_Ruins_Animal_PartridgeFight_DismantleActions[0].ActionDescription||(does not consume stones)
+AnimalMaterialization_Nc_Ruins_Animal_PartridgeFight_DismantleActions[0].ActionName||Throw Rock at it
+AnimalMaterialization_Nc_Ruins_Animal_PartridgeFight_DismantleActions[0].ProducedCards[1].CollectionMessages[0]||I missed
+AnimalMaterialization_Nc_Ruins_Animal_PartridgeFight_DismantleActions[1].ActionName||Use Spear
+AnimalMaterialization_Nc_Ruins_Animal_PartridgeFight_DismantleActions[2].ActionName||Use Sling
+AnimalMaterialization_Nc_Ruins_Animal_PartridgeFight_DismantleActions[3].ActionName||Attack with Bow
+AnimalMaterialization_Nc_Ruins_Animal_PartridgeFight_DismantleActions[4].ActionName||Attack with Gun!
+AnimalMaterialization_Nc_Ruins_Animal_PartridgeFight_DismantleActions[5].ActionName||Ignore
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_CardDescription||Should I try to catch it?
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_CardName||A seagull!
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_DismantleActions[0].ActionDescription||(does not consume stones)
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_DismantleActions[0].ActionName||Throw Rock at it
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_DismantleActions[0].ProducedCards[1].CollectionMessages[0]||I missed!
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_DismantleActions[1].ActionName||Use Sling
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_DismantleActions[1].ProducedCards[1].CollectionMessages[0]||I missed!
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_DismantleActions[2].ActionName||Use Spear
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_DismantleActions[2].ProducedCards[1].CollectionMessages[0]||I missed!
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_DismantleActions[3].ActionName||Attack with Bow
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_DismantleActions[4].ActionName||Attack with Gun!
+AnimalMaterialization_Nc_Ruins_Animal_Seagull_DismantleActions[5].ActionName||Ignore
+COD_Nc_BasicTools_Cutter_CardDescription||基础性工具，上面贴着塔克工业的标签。
+COD_Nc_BasicTools_Cutter_CardName||刀具
+COD_Nc_BasicTools_Hammer_CardDescription||基础性工具，上面贴着塔克工业的标签。
+COD_Nc_BasicTools_Hammer_CardName||锤子
+COD_Nc_BasicTools_Wrenches_CardDescription||基础性工具，上面贴着塔克工业的标签。
+COD_Nc_BasicTools_Wrenches_CardName||扳手
+COD_cod_SaltBed1_CardDescription||更好的盐田，防雨水
+COD_cod_SaltBedh_CardName||高级盐田
+COD_SaltBed_DismantleActions[0].ActionName||Scrape Salt
+COD_SaltBed_DismantleActions[1].ActionName||Scrape Salt
+COD_SaltBed_DismantleActions[2].ActionDescription||Collect Salt from Salt Bed
+COD_SaltBed_DismantleActions[2].ActionName||Scrape Salt
+COD_SaltBed_FuelCapacity.CardStatName||Salt
+COD_SaltBed_SpecialDurability1.CardStatName||Dissolved Niter
+COD_SaltBed_UsageDurability.CardStatName||Water
+COD_Bp_SaltBed_BlueprintFinishedLog.LogText||I made a Salt Bed
+COD_Bp_SaltBed_CardDescription||Ideal for extracting Salt from Seawater.
+COD_cod_SaltbetterBed_CardName||高级盐田
+COD_Bento_SaltBed_UnlockConditionsDesc||cordfiber Reservoir Needed
+COD_Event_BloodHeart_BloodBoom_CardDescription||鲜血在眼前飞溅，猩红色迷雾遮蔽视野。下一刻尖叫伴随着迷雾喷薄而出！
+COD_Event_BloodHeart_BloodBoom_CardName||爆发
+COD_Event_BloodHeart_BloodBoom_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_BloodHeart_BloodBoom_DismantleActions[0].ActionName||继续
+COD_Event_BloodHeart_Death_CardDescription||迷雾粘稠如水，一声撕裂的惨叫迸发而出！下一刻整座肉山炸成碎肉四处横飞，不再动弹。
+COD_Event_BloodHeart_Death_CardName||风暴
+COD_Event_BloodHeart_Death_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_BloodHeart_Death_DismantleActions[0].ActionName||咳咳咳..
+COD_Nc_BloodHeart_BloodMist_Dissipate_ModernStreet_CardDescription||血雾稀薄，缓慢消散。
+COD_Nc_BloodHeart_BloodMist_Dissipate_ModernStreet_CardName||血雾
+COD_Nc_BloodHeart_BloodMist_CardDescription||空气变得十分粘稠，每次呼吸都带来一种灼烧感。
+COD_Nc_BloodHeart_BloodMist_CardName||血雾
+COD_Nc_BloodHeart_BloodPlagueSamples_CardDescription||从各类特殊感染生物上取下的样本...呃..
+COD_Nc_BloodHeart_BloodPlagueSamples_CardName||血疫样本
+COD_Nc_BloodHeart_Death_CardDescription||粘稠的血肉中隐约可见一些东西..
+COD_Nc_BloodHeart_Death_CardName||残骸
+COD_Nc_BloodHeart_Death_ActionName||挖开..
+COD_Nc_BloodHeart_Death_FadeMessage||扫荡一空
+COD_Nc_BloodHeart_CardDescription||扭曲盘缠，猩红色的血肉在不断蠕动，红色的雾气伴随着每次蠕动喷薄而出。
+COD_Nc_ModernStreet_BloodHeart_ModernStreet_Macy_CardInteractions||投掷！
+COD_Nc_BloodHeart_CardName||血疫之心
+COD_Nc_BloodHeart_DismantleActions[0].ActionName||长矛攻击
+COD_Nc_BloodHeart_DismantleActions[1].ActionName||弓箭射击
+COD_Nc_BloodHeart_DismantleActions[3].ActionName||投石索投掷
+T-EM3Bep23WVWTixjqp8G0phHNq8c=||左轮射击
+T-hFzK958TN86nkE5YhVDn5jyL9Rk=||枪械射击
+COD_Nc_Civilization_StreetLights_CardDescription||灯罩上灰尘覆盖了整个表面。
+COD_Nc_Civilization_StreetLights_On_TypeOne_CardDescription||黑夜明灯。
+COD_Bento_ban2BlueprintFinishedLog.LogText||I mad
+T-TndB0tq3NZucZruwnoFFX3AUB1A=||装入五袋铸币
+T-t/SzrUTyMv6ohE5MGRQKPT3c0aQ=||装入5袋铸币
+T-rc2N6Xnx0C3Ez+x/dTjLm44RClY=||需要铸币
+T-rPbvxmv/NA4fZZq/GVXIy2wamME=||风败残枯，无人应答。
+T-vHqm9t1/AE4kbfxkp4+xHdtjcBo=||腐败之城
+T-V/NtDVvbI6dXZmxM+JLLa9cAxOs=||尸群中一个僵尸缓缓转过身，空洞的眼神聚焦在身上。伴随着一声吼叫，尸群开始了移动。
+T-+l6NOvdPmtenSodZMbRZw7941BA=||尸群
+T-U8mmq7yPcqt12AUUtCmmlaWfThs=||我受伤了
+eve_城市僵尸攻击事件1_DismantleActions[0].ActionName||它们走过来了！
+eve_城市僵尸攻击事件2_DismantleActions[0].ActionName||它们走过来了！
+eve_CodAlert_CardDescription||大量生物汇集于此，可以看到不远处尸群聚集。
+eve_CodAlert_CardName||腐败城市
+T-hBUU0cePPHEAVJCxrpBhFf53XSs=||保持警惕
+T-jRMO0wbo5mE/Uh7Hc48tc7ofP7E=||风败残枯，凋零回响。
+T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=||探索
+T-y8h9tjh+CbF2DTYHbA03tTZ7Eko=||Deep Jungle
+T-On/DWONBM+ps9X29RJQy12i7IdQ=||Area Explored
+T-2HxEgETe+3ePMxWNjM+UogUx1gA=||all
+T-KNXKEzcmpZWvG2NEMILZitLr05c=||Found Jungle Outskirts
+T-Jw0qhqpfS+cFINQ/k9EJHu8o76Q=||Are
+T-jkGtmkgYJnxVGIbwDYUFMQOewgk=||finnishi
+T-T8QHFPdfz7zwIO58pIEWL1o6sEc=||finnishiss
+Cod_Exp_DecayCity_Foggy_CardDescription||风败残枯，无人应答。
+Cod_Exp_DecayCity_Foggy_CardName||腐败之城
+Cod_Exp_DecayCity_Foggy_DismantleActions[0].ActionName||探索
+T-ucRI1s1PT56oYn6uz3kzCWMzUS0=||灰尘与血迹遍布。
+T-5Vbc1DoG2wO5Cu6T4mTWzns33Yg=||拆除
+T-oFf/RnYk1SsIxapSuqDivl8FIKs=||废弃长椅
+COD_Debris_UsageDurability.OnZero.ActionDescription||Debris Cleared!
+T-8kqlmu3DzGMvPEDWQMaLbxKl45Y=||伫立于公园之间，喷水口早已干涸。
+T-r7nGdzyMLd/Iimbx19GuvJFtfiw=||女神雕像
+T-R+M0EkFgIoBDN4TDPkGtbk6f+So=||祈祷
+T-J4bXRQXtXZr9R5B0R0O+oAyu1MQ=||也许仍有一些可用的物品..
+T-zwvtRznggPKBiyxFzoTNJALLodo=||垃圾桶
+T-8ECQgFxu69/H+ctpuB8+RMOjY2o=||搜索
+T-EszQ/+VQas6C7dsgsXaUkthOjIA=||废弃的车辆，不知道里面会不会有东西
+T-vvvA5a5Jm8AoYEQGFxdtTO7sAkQ=||废弃车辆
+T-LgtF8qRW6NtV8I17Zeh1k6PpoUA=||Go
+T-u65YObm8FVasObrfEeZRAlcir5k=||移动中
+T-cBLY/17sZ/t0I2SmFpL4nAP9yMw=||一条隐蔽的小路，门前的锁链布满了裂痕。
+T-I5JtYUaM5gqjt7WyL+xsaNA49jY=||前往
+T-yOQXRG4sIck74nhKnNQKfXwWY6o=||前往中..
+T-iypL2F1fvUtD7cRuwRJcim1nsIE=||废弃的农场
+T-hbo/+PZ6F5X8ylImDZfwxvZIyCs=||废弃农场
+T-KteoQ9kN0Sj6qaazpmBnzD+ESTI=||废弃矿区
+COD_Path_PortCityToModernStreet_CardDescription||曾经的商业中心。
+COD_Path_PortCityToModernStreet_CardName||摩登街道
+COD_Path_PortCityToModernStreet_DismantleActions[0].ActionName||Go
+COD_Path_PortCityToModernStreet_DismantleActions[0].FadeMessage||移动中
+T-66lBgY/2xjZqz1k7tLQzVjLUyMo=||无声安静，零散的报纸在空中漂泊，偶尔能听到海鸥的叫声。
+T-DeuTx/nI8IM8jYaN5ypwy+Ic10I=||破败港口
+T-KkOeJezPAT/ojYRYH2ERrzPnmeI=||废弃的锯木厂
+T-vkfMeAAMCNa2yQeY2Yjkjg+NJ7s=||废弃锯木厂
+T-nnV1mCnX9YYFGPe4xNS1F7ZN35k=||零散的杂物堆积在各处，偶尔能听到人们小声交谈的声音。
+T-9ah0N4s1XCWhMWTv+ISLdbH9k4Q=||基地
+Cod_Env_DecayCity_Base_DoorWay_CardDescription||一片隐秘的空地，地上的车胎印记清晰可见。
+T-3Rnl3d+Phl0YQ7J/4/+IDW/SM8Q=||安静无声，散落的物资隐约可见人们生活的痕迹。
+T-NWoZK3kTsExUV00Ywo1G5jlUKKs=||1
+T-2kuSN7rMzfGcB2DKt67EqDWQELA=||2
+T-d95o2uzYI7q7tY7bHI4U1xBug7s=||3
+Cod_Exp_DecayCity_Base_DoorWay_CardDescription||一片隐秘的空地，地上的车胎印记清晰可见。
+Cod_Exp_DecayCity_Base_DoorWay_DismantleActions[0].ActionName||探索
+COD_Nc_PhotoWall_CardDescription||上面有着很多照片。
+COD_Nc_PhotoWall_Girl_CardDescription||一位小女孩的照片，旁边有着模糊不清的字迹：安娜....在戴森街24号失踪——
+Cod_Nc_DecayCity_Base_Wall_CardDescription||厚重墙壁血印遍布。
+T-acyOZakKA4LhTqBitydAFZsRKf8=||视野遍及高楼大厦无数，眼下只有门前空旷的广场。
+T-XdNdA/9vGtWaVwoGGhJ3e8iV8zw=||一家饭馆
+T-1lwCjZme2cPOVCYcT7/HqbIqGSs=||饭馆
+Cod_Path_DecayCity_Base_DoorWayToBase_CardDescription||大门前的锁链表面有着巨大的切面。
+Cod_Path_DecayCity_Base_DoorWayToBase_DismantleActions[0].ActionName||前往
+Cod_Path_DecayCity_Base_DoorWayToBase_DismantleActions[0].FadeMessage||前往中..
+Cod_Path_DecayCity_Base_DoorWayToDecayCity_CardDescription||未知城市
+Cod_Path_DecayCity_Base_DoorWayToDecayCity_CardName||腐败之城
+Cod_Path_DecayCity_Base_DoorWayToDecayCity_DismantleActions[0].ActionName||前往
+Cod_Path_DecayCity_Base_DoorWayToDecayCity_DismantleActions[0].FadeMessage||移动中
+T-gW1wzc9yezHsvwzg50czusskST0=||是啊，在这时代也有餐馆。曾经这里也有不少老伙计在这里凑一顿，可惜了他们在进去那片红雾之后就再也没回来..
+T-wxq8y/OlwUBwMKatS1jvcbJw2gk=||服务员
+COD_Event_CobraFightSuccess_DismantleActions[0].ActionLog.LogText||I killed a spitting cobra.
+T-H8GvxcVe2MDMKPmXFbU8rOTDcig=||继续
+T-TR3suI+z5UVWrWlZ2KdxWHWUYJg=||食物的香气从中飘扬而出。
+T-uWWuZvzELdYo2b32mys3GcXLLSY=||Explore
+T-Hx0JftpI71YFlnuMJjI6fvSWKQw=||请问您需要点一些什么吗？
+Nc_饭馆服务员_CardName||罗恩
+T-swWLVLudN7YdlRZOddQ35B+pauo=||交谈
+T-pu23HCKv9Ykf415I/DS0pEjbuVE=||一栋建筑，里面好像有人
+T-WXYzkPz7pjZB1v/NW15t+DTMpD4=||返回基地
+T-gDVK77c/1mU51dCD8MPmpJJ1xTQ=||一桌人正在吃饭
+T-SzTEadxffzKqlmsqi1icUwWDswI=||一桌客人
+T-c3gCP0fLPWZ4ZjRpXNEatfKIjE4=||攀谈
+T-bFbVutIycDmplnKc3cetg3G0Dqw=||有了这个桌子我可以更好的进食
+T-dvicGeAleISPdGyTlKVwfofVYfE=||餐桌
+T-F1iirwzdiIeKbQyqJgOppLgB1Wc=||废弃的车辆
+T-J1Uq2PbGlq/ECe8f0xeeC5i5jz0=||红色砖房
+T-I9LitC7iLTgZ7BIkN+cESccTkwU=||汽车抽屉
+COD_cod_UsageDurability.OnZero.ActionDescription||拆除了柜子
+T-UcC31XFDYW27RKx7UegIlUohm6Q=||未知城市
+T-USByCDsiHh9tkD2wffCbMigWAd8=||荒草丛生，废弃已久。
+T-AQ8CDdlxK6jlMV+MfJW5dbdkveA=||农场
+T-+Qs+XsmgqqOThA4eHaGHsGSGSQw=||杂草横生，灰尘遍布。
+T-QWg8EE111rpRtGBKH81Gl9ibmYA=||废弃谷仓
+COD_cod_Cellar_CardName||地窖
+T-HlcmpULLjoOAGjBpRhw0qqT+Wqk=||一大群僵尸占据着农场，把他们全部清理干净我才能安全在这里落脚
+T-B/nFaWOPSfYNjQK/gj6wofpj4rs=||我该准备好战斗
+T-W5u2f+2pI1XsmeOlDm4OjqUaw6Q=||“嗡嗡嗡,嗡嗡嗡”血压上来了，血压+5
+T-FnSwb1UlzpekYDMkmts8BVo40fM=||无人机
+T-/mS2LqTHmdEf85MNMeXN7uQqyaQ=||行吧
+COD_SecretValley_CardInteractions[0].ActionName||Dig Up Soil
+COD_DampChamber_ExplorationResults[0].Action.ActionName||Cave Pond
+Cod_Exp_DecayCity_Farm_Barns_CardDescription||周围很安静。
+Cod_Exp_DecayCity_Farm_Barns_CardInteractions[0].ActionName||打扫
+Cod_Exp_DecayCity_Farm_Barns_CardName||谷仓
+Cod_Exp_DecayCity_Farm_Barns_SpoilageTime.CardStatName||Filthiness
+COD_Cellar_CardDescription||An underground room, food stored here will last longer.
+COD_Cellar_CardInteractions[0].ActionName||Clean
+COD_Cellar_CardName||地窖
+COD_Cellar_SpecialDurability1.OnFull.ActionName||Preserve
+COD_Cellar_SpoilageTime.CardStatName||Filthiness
+T-o5+ZqioCtglHwNYPOPzBww2S9nA=||一个废弃地窖，不知道里面的情况
+T-o0xg/PU7MoKjA8tDsMA9uK+SaYQ=||地窖
+T-lnyVJNpUqrJg0iICMTR3zrQJOsM=||离开谷仓
+T-pftQyT//l/5orHr6HEpimVt4dD8=||离开地窖
+T-XXDpjkOChOptITxssjdxQ9srq3g=||神秘的小镇
+T-r4gDQ26cQ1tzQDTk54i8g/hoF9c=||神秘小镇
+COD_Event_JungleExplored_CardDescription||I think I found all landmarks in this area.
+COD_Event_JungleExplored_CardName||Area Explored
+COD_cod_JungleExplored_DismantleActions[0].ActionLog.LogText||我完成了探索
+COD_Event_JungleExplored_DismantleActions[0].ActionName||Continue
+T-6KQXewBoipemYalr1nFaZrnqvZ4=||一个大型的加工工厂，各种重型器械遍布。
+T-eIRie7QXwRzc5dkGc41j2S5tzmo=||锯木厂
+T-0gpzj6hrS643taQp1BxZ72an0Bo=||Exp_Sawmill_ExplorationResults_2
+COD_Exp_锯木厂_ExplorationResults[0].Action.ActionName||探索
+T-RmDoIhE0GufDVk9bLH2MpWFOuWU=||大批量的机械零件，暗红色的金属上沾满的灰尘。
+T-hkH7ZdgAIeFpIZr5Vwil9CHvNwQ=||废弃机械
+T-Oi8B0jNCXV2YcK0Jy+GrLx/7l7w=||材料分拣
+T-tleh5dNKkiciBZVkTwtoAZO4sQs=||一个老唱机，可以播放优美的音乐
+T-L2J82AKARUXlcfj7r0L610grbbY=||老式唱机
+T-1NOmPRsupN7JYHLaeIYHtMNpieE=||播放音乐
+T-8qCh3mYh+GyXKwe2NTW1NANQ0Xg=||木材层层堆积，表面布满了层层尘埃。
+T-Bak90XOflP3oVCc2d/3MFxsDdwU=||木材堆
+T-k8f0gVpJRlzr/fMD9zjfK+dxNcI=||原木搬运
+T-U2+Q4MUUgtmuRy/20zh1U+3TpF0=||前往腐败城市
+T-44IGHNhCkYcRBju+kwcUMyokvN4=||离开锯木厂
+Cod_Event_InfectedPlant_Giant_Death_CardDescription||树干崩裂，大量滚烫的液体从其中流出。
+Cod_Event_InfectedPlant_Giant_Death_CardName||继续
+Cod_Event_InfectedPlant_Giant_Death_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+Cod_Event_InfectedPlant_Giant_Death_DismantleActions[0].ActionName||继续
+Cod_Nc_InfectedPlant_BaseBlade_CardDescription||叶片表面触感黏腻。
+Cod_Nc_InfectedPlant_Base_Blade_ActionName||食用
+Cod_Nc_InfectedPlant_Base_BloodMist_CardDescription||周围空气充满了红色颗粒。
+Cod_Nc_InfectedPlant_Base_Picking_TypeOne_CardDescription||一片鲜红色的植株，大部分叶片已被摘取干净。
+T-74fS2RsuWMLN7rNfw1qT5dYbN6I=||点燃
+T-FUemMSgdb8iihvCMjwUWjbnfwrs=||投掷
+Cod_Nc_InfectedPlant_Base_Picking_TypeTwo_CardDescription||一片鲜红色的植株，大部分叶片已被摘取干净。
+Cod_Nc_InfectedPlant_Base_Spores_CardDescription||周围区域有红色丝状物悬浮于空。
+Cod_Nc_InfectedPlant_Base_CardDescription||一片鲜红色的植株，叶片表面有蒸汽浮动。
+Cod_Nc_InfectedPlant_Base_DismantleActions[0].ActionName||采摘
+Cod_Nc_InfectedPlant_Base_TypeTwo_CardDescription||一片鲜红色的植株，叶片表面有蒸汽浮动。
+Cod_Nc_InfectedPlant_Base_TypeTwo_DismantleActions[0].ActionName||采摘
+Cod_Nc_InfectedPlant_Giant_PortBeach_Death_CardDescription||大量粘稠的液体从树干间流出..
+Cod_Nc_InfectedPlant_Giant_PortBeach_Death_CardInteractions[0].ActionName||挖掘
+Cod_Nc_InfectedPlant_Giant_PortBeach_Death_ActionName||搜刮
+Cod_Nc_InfectedPlant_Giant_Port_CardDescription||枯枝败叶上覆盖着猩红色的纹路，周围大量红色气体围绕。
+T-R5f9+Ml8rknbEY6gSYyhoGgthj8=||砍伐
+Cod_Nc_InfectedPlant_Giant_PortBeach_CardDescription||枯枝败叶上覆盖着猩红色的纹路，周围大量红色气体围绕。
+COD_Nc_EmergencyWaterBags_TypeEight_CardDescription||WERO识别码，满足临时水源需求。
+COD_Nc_EmergencyWaterBags_TypeEight_CardName||应急水袋
+COD_Nc_EmergencyWaterBags_TypeEight_DismantleActions[0].ActionName||饮用
+COD_Nc_EmergencyWaterBags_TypeFive_CardDescription||WERO识别码，满足临时水源需求。
+COD_Nc_EmergencyWaterBags_TypeFive_CardName||应急水袋
+COD_Nc_EmergencyWaterBags_TypeFive_DismantleActions[0].ActionName||饮用
+COD_Nc_EmergencyWaterBags_TypeFour_CardDescription||WERO识别码，满足临时水源需求。
+COD_Nc_EmergencyWaterBags_TypeFour_CardName||应急水袋
+COD_Nc_EmergencyWaterBags_TypeFour_DismantleActions[0].ActionName||饮用
+COD_Nc_EmergencyWaterBags_TypeNine_CardDescription||WERO识别码，满足临时水源需求。
+COD_Nc_EmergencyWaterBags_TypeNine_CardName||应急水袋
+COD_Nc_EmergencyWaterBags_TypeNine_DismantleActions[0].ActionName||饮用
+COD_Nc_EmergencyWaterBags_CardDescription||WERO识别码，满足临时水源需求。
+COD_Nc_EmergencyWaterBags_CardName||应急水袋
+COD_Nc_EmergencyWaterBags_DismantleActions[0].ActionName||饮用
+COD_Nc_EmergencyWaterBags_TypeSeven_CardDescription||WERO识别码，满足临时水源需求。
+COD_Nc_EmergencyWaterBags_TypeSeven_CardName||应急水袋
+COD_Nc_EmergencyWaterBags_TypeSeven_DismantleActions[0].ActionName||饮用
+COD_Nc_EmergencyWaterBags_TypeSix_CardDescription||WERO识别码，满足临时水源需求。
+COD_Nc_EmergencyWaterBags_TypeSix_CardName||应急水袋
+COD_Nc_EmergencyWaterBags_TypeSix_DismantleActions[0].ActionName||饮用
+COD_Nc_EmergencyWaterBags_TypeTen_CardDescription||WERO识别码，满足临时水源需求。
+COD_Nc_EmergencyWaterBags_TypeTen_CardName||应急水袋
+COD_Nc_EmergencyWaterBags_TypeTen_DismantleActions[0].ActionName||饮用
+COD_Nc_EmergencyWaterBags_TypeThree_CardDescription||WERO识别码，满足临时水源需求。
+COD_Nc_EmergencyWaterBags_TypeThree_CardName||应急水袋
+COD_Nc_EmergencyWaterBags_TypeThree_DismantleActions[0].ActionName||饮用
+COD_Nc_EmergencyWaterBags_TypeTwo_CardDescription||WERO识别码，满足临时水源需求。
+COD_Nc_EmergencyWaterBags_TypeTwo_CardName||应急水袋
+COD_Nc_EmergencyWaterBags_TypeTwo_DismantleActions[0].ActionName||饮用
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeEight_CardDescription||一些化学制品，在某些条件下也许会有特殊的变化。
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeEight_CardName||化学制品
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeFive_CardDescription||一些化学制品，在某些条件下也许会有特殊的变化。
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeFive_CardName||化学制品
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeFour_CardDescription||一些化学制品，在某些条件下也许会有特殊的变化。
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeFour_CardName||化学制品
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeNine_CardDescription||一些化学制品，在某些条件下也许会有特殊的变化。
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeNine_CardName||化学制品
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeOne_CardDescription||一些化学制品，在某些条件下也许会有特殊的变化。
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeOne_CardName||化学制品
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeSeven_CardDescription||一些化学制品，在某些条件下也许会有特殊的变化。
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeSeven_CardName||化学制品
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeSix_CardDescription||一些化学制品，在某些条件下也许会有特殊的变化。
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeSix_CardName||化学制品
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeTen_CardDescription||一些化学制品，在某些条件下也许会有特殊的变化。
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeTen_CardName||化学制品
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeThree_CardDescription||一些化学制品，在某些条件下也许会有特殊的变化。
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeThree_CardName||化学制品
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeTwo_CardDescription||一些化学制品，在某些条件下也许会有特殊的变化。
+COD_Nc_ScavengingSuppiles_Chemicals_ChemicalProducts_TypeTwo_CardName||化学制品
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeEight_CardDescription||满满一大袋食品。
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeEight_CardName||袋装食品
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeEight_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeFive_CardDescription||满满一大袋食品。
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeFive_CardName||袋装食品
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeFive_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeFour_CardDescription||满满一大袋食品。
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeFour_CardName||袋装食品
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeFour_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeNine_CardDescription||满满一大袋食品。
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeNine_CardName||袋装食品
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeNine_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeOne_CardDescription||满满一大袋坚果。
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeOne_CardName||格林曲奇
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeOne_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeSeven_CardDescription||满满一大袋食品。
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeSeven_CardName||袋装食品
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeSeven_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeSix_CardDescription||满满一大袋食品。
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeSix_CardName||袋装食品
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeSix_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeTen_CardDescription||满满一大袋食品。
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeTen_CardName||袋装食品
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeTen_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeThree_CardDescription||满满一大袋食品。
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeThree_CardName||袋装食品
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeThree_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeTwo_CardDescription||满满一大袋食品。
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeTwo_CardName||袋装食品
+COD_Nc_ScavengingSupplies_Food_BaggedFood_TypeTwo_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEight_CardDescription||自制蛋罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEight_CardName||罐装蛋
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEight_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEighteen_CardDescription||一罐金枪鱼罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEighteen_CardName||金枪鱼罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEighteen_DismantleActions[0].ActionLog.LogText||我吃了牛肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEighteen_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEleven_CardDescription||一罐午餐肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEleven_CardName||午餐肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEleven_DismantleActions[0].ActionLog.LogText||我吃了罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeEleven_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFive_CardDescription||一份芒果罐头，打开时甜蜜的气息围绕在鼻尖。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFive_CardName||泰园芒果
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFive_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFivteen_CardDescription||一罐陈旧的狗粮罐头，但是还能吃
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFivteen_CardName||陈旧的狗粮罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFivteen_DismantleActions[0].ActionLog.LogText||我吃了陈旧的狗粮罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFivteen_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFour_CardDescription||一份瓶装香肠罐头，韧性口感，在汤汁中夹杂着许多肉丁。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFour_CardName||德式肉肠
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFour_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFourteen_CardDescription||里面有椰肉和椰汁
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFourteen_CardName||椰子罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFourteen_DismantleActions[0].ActionLog.LogText||我喝了红酒
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeFourteen_DismantleActions[0].ActionName||饮用
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeNine_CardDescription||自制辣椒罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeNine_CardName||罐装辣椒
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeNine_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeOne_CardDescription||开罐为其弥漫的香气所吸引，软嫩的牛肉浸泡在深色的汤汁中。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeOne_CardName||梅林牛肉
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeOne_DismantleActions[0].ActionLog.LogText||我吃了牛肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeOne_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSeven_CardDescription||来自极地海洋的味道，每个虾仁饱满而味足。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSeven_CardName||冰原虾品
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSeven_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSeventeen_CardDescription||一罐豆子罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSeventeen_CardName||豆子罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSeventeen_DismantleActions[0].ActionLog.LogText||我吃了牛肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSeventeen_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSix_CardDescription||在一众罐头中最为独特的那一类，饱满的蘑菇伴随着浓郁的汤汁。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSix_CardName||莱斯蘑菇
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSix_DismantleActions[0].ActionLog.LogText||我喝了红酒
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSix_DismantleActions[0].ActionName||吃
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSixteen_CardDescription||一罐猪肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSixteen_CardName||猪肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSixteen_DismantleActions[0].ActionLog.LogText||我吃了牛肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeSixteen_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTen_CardDescription||自制香蕉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTen_CardName||罐装香蕉片
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTen_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeThirteen_CardDescription||一罐大马哈鱼罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeThirteen_CardName||大马哈鱼罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeThirteen_DismantleActions[0].ActionLog.LogText||我吃了罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeThirteen_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeThree_CardDescription||入口时传来舌尖的清新，酸涩中带着薄荷的感觉。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeThree_CardName||世家草本
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeThree_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwelve_CardDescription||一罐咖喱罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwelve_CardName||咖喱罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwelve_DismantleActions[0].ActionLog.LogText||我吃了罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwelve_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwenty_CardDescription||一罐香蕉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwenty_CardName||香蕉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwenty_DismantleActions[0].ActionLog.LogText||我吃了罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwenty_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyFive_CardDescription||常见的罐头系列，上面附有海王的标识。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyFive_CardName||沙丁鱼罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyFive_DismantleActions[0].ActionLog.LogText||我吃了牛肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyFive_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyFour_CardDescription||常见的罐头系列，上面附有海王的标识。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyFour_CardName||金枪鱼罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyFour_DismantleActions[0].ActionLog.LogText||我吃了牛肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyFour_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyOne_CardDescription||常见的罐头系列，上面附有海王的标识。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyOne_CardName||鱿鱼罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyOne_DismantleActions[0].ActionLog.LogText||我吃了牛肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyOne_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyThree_CardDescription||常见的罐头系列，上面附有海王的标识。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyThree_CardName||酥鱼罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyThree_DismantleActions[0].ActionLog.LogText||我吃了牛肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyThree_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyTwo_CardDescription||常见的罐头系列，上面附有海王的标识。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyTwo_CardName||鲨鱼罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyTwo_DismantleActions[0].ActionLog.LogText||我吃了牛肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwentyTwo_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwo_CardDescription||梅林牛肉，风味极佳。看保质期已有一段时间了。
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwo_CardName||梅林牛肉
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwo_DismantleActions[0].ActionLog.LogText||我吃了陈旧的牛肉罐头
+COD_Nc_ScavengingSupplies_Food_CannedGood_TypeTwo_DismantleActions[0].ActionName||Eat
+COD_Nc_ScavengingSupplies_Food_Suger_TypeEight_CardDescription||甜蜜总能让人想起美好的回忆。
+COD_Nc_ScavengingSupplies_Food_Suger_TypeEight_CardName||糖果
+COD_Nc_ScavengingSupplies_Food_Suger_TypeEight_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_Suger_TypeFive_CardDescription||甜蜜总能让人想起美好的回忆。
+COD_Nc_ScavengingSupplies_Food_Suger_TypeFive_CardName||糖果
+COD_Nc_ScavengingSupplies_Food_Suger_TypeFive_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_Suger_TypeFour_CardDescription||雅心巧克力块，入口微苦，随后甘甜。
+COD_Nc_ScavengingSupplies_Food_Suger_TypeFour_CardName||糖果
+COD_Nc_ScavengingSupplies_Food_Suger_TypeFour_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_Suger_TypeNine_CardDescription||甜蜜总能让人想起美好的回忆。
+COD_Nc_ScavengingSupplies_Food_Suger_TypeNine_CardName||金蒂
+COD_Nc_ScavengingSupplies_Food_Suger_TypeNine_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Suger_CannedGood_TypeOne_CardDescription||巧克力球，甜蜜总能让人想起美好的回忆。
+COD_Nc_ScavengingSupplies_Suger_CannedGood_TypeOne_CardName||糖果
+COD_Nc_ScavengingSupplies_Suger_CannedGood_TypeOne_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_Suger_TypeSeven_CardDescription||甜蜜往往伴随着美好的回忆。
+COD_Nc_ScavengingSupplies_Food_Suger_TypeSeven_CardName||童年
+COD_Nc_ScavengingSupplies_Food_Suger_TypeSeven_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_Suger_TypeSix_CardDescription||甜蜜往往伴随着美好的回忆。
+COD_Nc_ScavengingSupplies_Food_Suger_TypeSix_CardName||童心
+COD_Nc_ScavengingSupplies_Food_Suger_TypeSix_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_Suger_TypeTen_CardDescription||甜蜜总能让人想起美好的回忆。
+COD_Nc_ScavengingSupplies_Food_Suger_TypeTen_CardName||糖果
+COD_Nc_ScavengingSupplies_Food_Suger_TypeTen_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_Suger_TypeThree_CardDescription||清爽冰橙，甜蜜总能让人想起美好的回忆。
+COD_Nc_ScavengingSupplies_Food_Suger_TypeThree_CardName||糖果
+COD_Nc_ScavengingSupplies_Food_Suger_TypeThree_DismantleActions[0].ActionName||食用
+COD_Nc_ScavengingSupplies_Food_Suger_TypeTwo_CardDescription||甜蜜总能让人想起美好的回忆。
+COD_Nc_ScavengingSupplies_Food_Suger_TypeTwo_CardName||金蒂
+COD_Nc_ScavengingSupplies_Food_Suger_TypeTwo_DismantleActions[0].ActionName||食用
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeOne_CardDescription||破烂如同碎絮，一个人类的信物。
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeOne_CardName||破烂衣服
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeOne_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeOne_DismantleActions[0].ActionName||撕开
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeThree_CardDescription||破烂如同碎絮，一个人类的信物。
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeThree_CardName||破烂衣服
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeThree_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeThree_DismantleActions[0].ActionName||撕开
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeTwo_CardDescription||破烂如同碎絮，一个人类的信物。
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeTwo_CardName||破烂衣服
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeTwo_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Nc_ZombieDeathDrop_TatteredClothes_TypeTwo_DismantleActions[0].ActionName||撕开
+T-uM6qJPSAXelQ9tZGrAyBogBQLhg=||一把钥匙，需要宝箱
+T-GH5ubYu09Wid/lcYOChQs6AH66w=||钥匙
+COD_cod_JarCoc_CardDescription||一包曲奇
+COD_cod_JarCoC_CardName||一包曲奇
+COD_GoatStew_DismantleActions[0].ActionName||Eat
+T-Frp7ypG+1guBXsnChtjyuPF2Xxs=||一大袋物品，打开看看是什么
+T-t0hXPXCYX9hNTnj/ajX0vO8EGiA=||大袋子
+T-15ft55z/18hW7R2weCTYopJr5C4=||打开袋子
+T-U2NIxyvNXgL7yv94b0MfRkKhHdA=||什么？82年的？
+T-eleEtWsGNQZfQAlXnVSZyTpP13E=||一瓶红酒
+T-1SbgnKBZL8vojI9loUWhbYiDg+g=||我喝了红酒
+T-dZh6limxWBhNJc+0VQstnCG2Q5I=||饮用
+T-XHeIGsb+HeqI7mR37uvNT1t+Mvw=||一箱玻璃罐
+T-eXcCsPFbnhTqYI1aVDTJYHlLZPQ=||取出玻璃罐
+T-aKSH9960K3HiGweGtRW7NW39Ugc=||一罐油脂块
+T-TLpbhrmaYDBeoT9KvC1xENydJsc=||脂肪块罐头
+T-t/m3UTaoiNdzJTcQ8yFVnrz9xPE=||取出脂肪
+T-aZbV4BQ/kx+LyTcrChpb034nUMY=||一袋装好的大米
+T-Nmo/6OwHXQgEREFnWiGSf3XhVI4=||一袋大米
+T-zSYmc18k6aIjUsgU+oWoap9aajA=||取出大米
+COD_Antibiotics_CardDescription||Should help me fight infections.
+COD_Antibiotics_CardName||Antibiotics
+COD_Antibiotics_DismantleActions[0].ActionName||Take a pill
+T-jRKNsoBp6thmjfzcQTzZEEq9YvI=||鱼罐头制作机使用手册
+T-zDQdc+hZsNrTeRX6mfRLGOkKBtI=||吃完就又勇了
+T-W/jx/OnCytpRxHqKJW2GdEycOa4=||勇气药品
+COD_Painkillers_DismantleActions[0].ActionName||Take
+T-V8cuGx8LimY/inHM150nf/9KrIk=||吃完血压就上来了
+T-rtXCxENsw/0P6z8/JOU5B9N2bPE=||升压药品
+T-tJZNq9GVfvoQJDfvdrAM5Cl3uEM=||一罐午餐肉罐头
+T-/HsvBfWDh40Aqmi1gadt/405Jjo=||午餐肉罐头
+T-t1Vxp0RM2ExmPcLQEjTOqH9nNX8=||我吃了罐头
+COD_IslandChicken_DismantleActions[0].ActionName||Eat
+T-c5BQmchUNRsSe2UkxbaortVj8bk=||想喝百事？那就对不起了
+T-ZeVCWlxnAjFhOYoz1DoUUOgRYrY=||可口可乐
+T-mYLFztGa7MR3eYQxvsuzRaYu/cA=||喝
+T-f7bqOECoOA/4rPzt4xwaxVDPdTI=||一罐咖喱罐头
+T-4THXTYC6xP/9Ctm13fS5fWZxC+8=||咖喱罐头
+T-HMVVyo6XnH+3U8hIbEa0JK+UGGs=||里面有各式各样的工具
+T-5IM3UX0cGDF5wNt8NMTWd7jkqno=||多功能工具箱
+COD_Jerrycan_CardDescription||I can fill it with water.
+T-jBX2ATVrJIJdi+nphp/eYnv4180=||大油桶
+COD_Jerrycan_DismantleActions[0].ActionName||Collect Rain
+COD_BeltBag_CardDescription||Comfortable and practical.
+T-Rkzn8r2m1ITSNh+LDWP+RT44h58=||大腰包
+T-g9FiDC09TCxT/Q9Zoy8eVVCVbmg=||一罐大马哈鱼罐头
+T-AihaMZaf9KcV+SKZxu387Uc2suU=||大马哈鱼罐头
+T-D7e+WcpXm6W20SXhfm4fqq4E+U0=||一个小型熔炉
+T-ZI8tNl4KCApz/OyiI7l0I5SimGQ=||小型熔炉
+T-fNxuDqzTwS70b7wUf9na8l4oAg4=||宝箱，需要钥匙
+T-JWeDt9TqDsbzB52yv4h31mpeWME=||开启
+T-42h2U/G+s7XNEMP6rJqibkr+mRA=||宝箱
+T-ECAeCzzOc5w8iWsgfVg+HI3KOIA=||有了工作证才能找到工作
+T-o186WTzAKLFukC5iV7G3xctckzY=||工作证（救世军）
+T-UVuj+uZkYZilulvRc+QHMknRcko=||一大堆干草
+T-f5kjDCqcVUTIJYUyM9guKW5e47Y=||干草堆
+T-Hp2U610rteMVq2WxoyfJoFOseFY=||取出纤维
+T-xqGqC59O1zfslf2cqYv4zRnQwP0=||“嗡嗡”。一架无人机，装备可以提升你的所有技能，提供20护甲值，但是会降低潜行，因为跟它说小点声它一点也不听
+T-TIKUG84IspITSXUh+VOLKS+7PTw=||无人机伙伴
+T-VkLwQT/i/V7Ho5CZHnMDfSz51qs=||你~没有朋友吗 ？
+T-ZlQECiPO6nT3Aq848a/tDxY8Hgc=||你能不能小点声？能不能？
+COD_BackpackSurvivalist_CardDescription||I can store things inside. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>
+T-/6j96M/AvhxgYNDZZ+01BMjLBHo=||末日背包
+T-3qHNDTApzJNPo3yUzX5yvf6Xd5g=||里面有椰肉和椰汁
+T-YI90FTydxrhhDptRSP1dosZNHuo=||椰子罐头
+T-bXAXWy8H5itdyqGvN3g07SwyghU=||一罐牛肉罐头
+T-LrE4W/NSLozcNhswW3Kh1EKFCfQ=||牛肉罐头
+T-1nn2K3hF4coFSXwitm7X5rW6OQw=||我吃了牛肉罐头
+T-psAObiKdy72kS6dq1rx90HhfQrU=||一罐陈旧的狗粮罐头，但是还能吃
+T-lZ9EYlyBUSfYSWlsR/dgiDPQuhM=||陈旧的狗粮罐头
+T-xwUn3/CI2r1tMnxvCh25jIpo9bE=||我吃了陈旧的狗粮罐头
+T-hHC++Q4etzJ5CBf8b/U6YRiIiBY=||一罐猪肉罐头
+T-pboMWYvxV7N2EzCJTAtPGQih5dA=||猪肉罐头
+T-CSFrP0xP6TiYGWHEQXP2wrgfr0M=||如果我找到秘方的话，我就能制作罐装食物了
+T-xabMkEjLMfYwH/bXv3Gog3gnjZQ=||空玻璃罐
+T-8IokhQHT5USfPkMfBx5CnBvd+cE=||接雨水
+T-Ip763j6KLpIAef6K71kk9n+q21g=||里面没有一滴液体，但仍是不错的容器。
+T-2EEZzzogwk5d+BQAXQWsIzL3AXc=||空锡罐
+T-HLNHWBM4cQeerMc0kHWSW+qgIoo=||喝乐虎，激发正能量！不是...
+T-U9zsejctCMRsTTxd+G9W3Mf2iJg=||一瓶红牛
+T-bQa457XVXfElwPfQ8SfPVcUQhBo=||砌啥好呢
+COD_MudBrick_CardInteractions[0].ActionName||Break
+T-xiYP52oOADLcVYlMHexZEnFharI=||红砖
+T-t/qPT2YeA5Mrg3hOT2xDX+EcfRc=||罐装素食秘方
+T-01mJCaoPsalsi2bsBgeOJ+oVgKw=||罐装肉食秘方
+T-eIsUdprhQBKU0pfF2ZuXReb/FJk=||饿货，你就是个饿货
+T-D0NrbDTael85350ilTzb6/Je0o8=||能量棒
+T-gL59FE/6siikUEpG3Fwy2EIQ+EE=||苏打气泡水
+T-kyhm9tUM+wteztoOSFp4LS05xGA=||一瓶苏打饮料
+T-5WXn2KQPR9d49v1sfDvO5LPptps=||一包薯片
+T-oQ1NWmPmbe/kxl/bNf8nZSkCwvg=||吃
+T-nhnR0/S2WlGUh+fiNadURFNkFwQ=||蘑菇汤罐头
+T-aIp9HKbU2GZ59uc5FcpAp1oWF3U=||一罐豆子罐头
+T-0/8u3S9XvB450lZermIfLq8dGbQ=||豆子罐头
+T-VG6eAAJHQW8XcHx1z7knprQJKyc=||一罐金枪鱼罐头
+T-AaLFhkaleAREWrGc+Fyp0V+no/8=||金枪鱼罐头
+T-rxhVa3MimHsdvzqEiJPJ/6FuNEs=||一枚铸币，也许有用
+T-S2d9vXErXEIzGJwe33Yq6N1CBmk=||铸币
+T-4T+GDre7ci4LH166psiJ4CWpPuA=||一罐陈旧的牛肉罐头，但是还能吃
+T-pVH9VCVi3QTd7ahrkCdCQC54TpA=||陈旧的牛肉罐头
+T-b7chZ+vht7gtMuhzs1cDdbEQuEE=||我吃了陈旧的牛肉罐头
+T-LUcBx/36+JdgzQKaJgZYhmlgn7M=||一罐香蕉罐头
+T-2nTumRnOfPB1fIxYWqMTUGP+9is=||香蕉罐头
+T-HkH4EROwiGjNt6ah3+ticnVreAU=||一罐鱼罐头
+T-3tBCPA6vWk9ddIkObPSpFH5hJww=||鱼罐头
+T-ETEHzmNmeOxhdMWCyeALxnlKNSY=||我吃了鱼罐头
+T-MRL2ldVD5HW+FMp0GE35smIHFHo=||可以用来制作鱼罐头,还内置印刷罐头包装的功能,我还需要拥有它的使用手册才行
+T-ZCh2V65QseQ+h2bLX6iaR6eTM3c=||鱼罐头制作机
+Cod_Lq_InfectedBlood_CardDescription||液体间有丝状物浮动。
+Cod_Lq_InfectedBlood_CardName||红水
+Cod_Lq_InfectedBlood_DismantleActions[0].ActionName||饮用
+COD_Nc_AirDrop_Food_LevelOne_CardDescription||箱上有着WERO识别码，高度密封。
+T-gAXU5Mn3qchMZHs3/x3zBDZmlaE=||强拆
+T-63z3txpf46KrCasZ8to2ApYEhdU=||解锁
+COD_Nc_AirDrop_Food_LevelOne_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_AirDrop_Food_LevelOne_CardName||空投
+COD_Nc_AirDrop_Food_LevelOne_ActionName||打开
+COD_Nc_AirDrop_Food_LevelOne_FadeMessage||空投未解封
+COD_Nc_ScavengingSupplies_AmmunitionWrapping_CardDescription||一大袋被人为密封的物资，分量很重。
+COD_Nc_ScavengingSupplies_AmmunitionWrapping_CardName||包囊
+COD_Nc_ScavengingSupplies_AmmunitionWrapping_DismantleActions[2].ActionName||打开
+COD_Nc_ScavengingSupplies_BuildingMaterialWrapping_CardDescription||一大袋被人为密封的物资，分量很重。
+COD_Nc_ScavengingSupplies_BuildingMaterialWrapping_CardName||包囊
+COD_Nc_ScavengingSupplies_BuildingMaterialWrapping_DismantleActions[2].ActionName||打开
+COD_Nc_ScavengingSupplies_FoodWrapping_CardDescription||一大袋被人为密封的物资，分量很重。
+COD_Nc_ScavengingSupplies_FoodWrapping_CardName||包囊
+COD_Nc_ScavengingSupplies_FoodWrapping_DismantleActions[2].ActionName||取出
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeFive_CardDescription||一大盒糖果，零散的糖果落在附近。
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeFive_CardName||糖果盒
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeFive_DismantleActions[0].ActionName||取出糖果
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeFour_CardDescription||一大盒糖果，零散的糖果落在附近。
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeFour_CardName||糖果盒
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeFour_DismantleActions[0].ActionName||取出糖果
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeOne_CardDescription||一大盒糖果，零散的糖果落在附近。
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeOne_CardName||糖果盒
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeOne_DismantleActions[0].ActionName||取出糖果
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeSix_CardDescription||一大盒糖果，零散的糖果落在附近。
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeSix_CardName||糖果盒
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeSix_DismantleActions[0].ActionName||取出糖果
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeThree_CardDescription||一大盒糖果，零散的糖果落在附近。
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeThree_CardName||糖果盒
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeThree_DismantleActions[0].ActionName||取出糖果
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeTwo_CardDescription||一大盒糖果，零散的糖果落在附近。
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeTwo_CardName||糖果盒
+COD_Nc_ScavengingSupplies_Food_SugerBag_TypeTwo_DismantleActions[0].ActionName||取出糖果
+COD_Nc_ScavengingSupplies_Location_Box_TypeOne_CardDescription||抱起来很重，箱上被人为上锁了。
+COD_Nc_ScavengingSupplies_Location_Box_TypeOne_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_ScavengingSupplies_Location_Box_TypeOne_CardName||铁箱
+COD_Nc_ScavengingSupplies_Location_Box_TypeOne_ActionName||打开
+COD_Nc_ScavengingSupplies_Location_Box_TypeOne_FadeMessage||锁闭合的很紧
+COD_Nc_ScavengingSupplies_Location_Box_TypeThree_CardDescription||抱起来很重，箱上被人为上锁了。
+COD_Nc_ScavengingSupplies_Location_Box_TypeThree_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_ScavengingSupplies_Location_Box_TypeThree_CardName||铁箱
+COD_Nc_ScavengingSupplies_Location_Box_TypeThree_ActionName||打开
+COD_Nc_ScavengingSupplies_Location_Box_TypeThree_FadeMessage||锁闭合的很紧
+COD_Nc_ScavengingSupplies_Location_Box_TypeTwo_CardDescription||抱起来很重，箱上被人为上锁了。
+COD_Nc_ScavengingSupplies_Location_Box_TypeTwo_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_ScavengingSupplies_Location_Box_TypeTwo_CardName||铁箱
+COD_Nc_ScavengingSupplies_Location_Box_TypeTwo_ActionName||打开
+COD_Nc_ScavengingSupplies_Location_Box_TypeTwo_FadeMessage||锁闭合的很紧
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFive_CardDescription||可以看到有零散的物品分布。
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFive_CardInteractions[0].ActionName||拆解
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFive_CardName||支架
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFive_ActionName||搜刮
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFive_FadeMessage||扫荡一空
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFive_FailMessage||空无一物
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFour_CardDescription||可以看到有零散的物品分布。
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFour_CardInteractions[0].ActionName||拆解
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFour_CardName||支架
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFour_ActionName||搜刮
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFour_FadeMessage||扫荡一空
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeFour_FailMessage||空无一物
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeOne_CardDescription||可以看到有零散的物品分布。
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeOne_CardInteractions[0].ActionName||拆解
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeOne_CardName||支架
+Nc_ScavengingSupplies_Location_Brackets_TypeOne_DismantleAction_ActionName||搜刮
+Nc_ScavengingSupplies_Location_Brackets_TypeOne_DismantleAction_FadeMessage||扫荡一空
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeOne_FailMessage||空无一物
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeThree_CardDescription||可以看到有零散的物品分布。
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeThree_CardInteractions[0].ActionName||拆解
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeThree_CardName||支架
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeThree_ActionName||搜刮
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeThree_FadeMessage||扫荡一空
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeThree_FailMessage||空无一物
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeTwo_CardDescription||可以看到有零散的物品分布。
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeTwo_CardInteractions[0].ActionName||拆解
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeTwo_CardName||支架
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeTwo_ActionName||搜刮
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeTwo_FadeMessage||扫荡一空
+COD_Nc_ScavengingSupplies_Location_Brackets_TypeTwo_FailMessage||空无一物
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeOne_CardDescription||箱上被人为上锁了。
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeOne_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeOne_CardName||铁柜
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeOne_ActionName||打开
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeOne_FadeMessage||锁闭合的很紧或已经没有其他物资。
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeThree_CardDescription||箱上被人为上锁了。
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeThree_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeThree_CardName||铁柜
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeThree_ActionName||打开
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeThree_FadeMessage||锁闭合的很紧或已经没有其他物资。
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeTwo_CardDescription||箱上被人为上锁了。
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeTwo_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeTwo_CardName||铁柜
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeTwo_ActionName||打开
+COD_Nc_ScavengingSupplies_Location_Cabinet_TypeTwo_FadeMessage||锁闭合的很紧或已经没有其他物资。
+COD_Nc_ScavengingSupplies_Location_PileItems_Random_CardDescription||遗落的物品遍地。
+COD_Nc_ScavengingSupplies_Location_PileItems_Random_CardName||物品堆
+COD_Nc_ScavengingSupplies_Location_PileItems_Random_DismantleActions[2].ActionName||探索
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFive_CardDescription||散落的纸盒上沾满了血迹。
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFive_CardInteractions[0].ActionName||拆解
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFive_CardName||物品堆
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFive_ActionName||搜刮
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFive_FadeMessage||扫荡一空
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFive_FailMessage||搜刮一空
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFour_CardDescription||散落的纸盒上沾满了血迹。
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFour_CardInteractions[0].ActionName||拆解
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFour_CardName||物品堆
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFour_ActionName||搜刮
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFour_FadeMessage||扫荡一空
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeFour_FailMessage||搜刮一空
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeOne_CardDescription||散落的纸盒上沾满了血迹。
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeOne_CardInteractions[0].ActionName||拆解
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeOne_CardName||物品堆
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeOne_ActionName||搜刮
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeOne_FadeMessage||扫荡一空
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeOne_FailMessage||搜刮一空
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeThree_CardDescription||散落的纸盒上沾满了血迹。
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeThree_CardInteractions[0].ActionName||拆解
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeThree_CardName||物品堆
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeThree_ActionName||搜刮
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeThree_FadeMessage||扫荡一空
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeThree_FailMessage||搜刮一空
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeTwo_CardDescription||散落的纸盒上沾满了血迹。
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeTwo_CardInteractions[0].ActionName||拆解
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeTwo_CardName||物品堆
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeTwo_ActionName||搜刮
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeTwo_FadeMessage||扫荡一空
+COD_Nc_ScavengingSupplies_Location_PileItems_TypeTwo_FailMessage||搜刮一空
+COD_Nc_ScavengingSupplies_Location_RandomDrop_CardDescription||一个未知的建筑。
+COD_Nc_ScavengingSupplies_Location_RandomDrop_CardName||设施
+COD_Nc_ScavengingSupplies_Location_RandomDrop_DismantleActions[2].ActionName||探索
+COD_Nc_ScavengingSupplies_MaterialWrapping_CardDescription||一大袋被人为密封的物资，分量很重。
+COD_Nc_ScavengingSupplies_MaterialWrapping_CardName||包囊
+COD_Nc_ScavengingSupplies_MaterialWrapping_DismantleActions[2].ActionName||打开
+COD_Nc_ScavengingSupplies_MedicineWrapping_CardDescription||一大袋被人为密封的物资，分量不轻。
+COD_Nc_ScavengingSupplies_MedicineWrapping_CardName||包囊
+COD_Nc_ScavengingSupplies_MedicineWrapping_DismantleActions[2].ActionName||打开
+COD_Nc_ScavengingSupplies_WrappingBag_CardDescription||一大袋被人为密封的物资，分量很重。
+COD_Nc_ScavengingSupplies_WrappingBag_CardName||巨大包囊
+COD_Nc_ScavengingSupplies_WrappingBag_DismantleActions[2].ActionName||打开
+COD_Nc_ScavengingSupplies_WrappingBag_Random_CardDescription||一大袋被人为密封的物资，分量很重。
+COD_Nc_ScavengingSupplies_WrappingBag_Random_CardName||巨大包囊
+COD_Nc_ScavengingSupplies_WrappingBag_Random_DismantleActions[2].ActionName||打开
+COD_Nc_BasicMaterials_Electrical_Wires_CardDescription||一根细长的电线。
+COD_Nc_BasicMaterials_Electrical_Wires_CardName||电线
+COD_Nc_IndustrialMaterials_CardDescription||可塑性较高的工业材料。
+COD_Nc_IndustrialMaterials_CardName||铁制材料
+COD_Nc_BasicMaterials_Iron_MetalParts_CardDescription||一些散装的器械零件。
+COD_Nc_BasicMaterials_Iron_MetalParts_CardName||零件
+COD_Nc_BasicMaterials_Iron_Nails_CardDescription||一根铁制钉。
+COD_Nc_BasicMaterials_Iron_Nails_CardName||铁钉
+COD_Nc_BasicMaterials_Wood_Plank_CardDescription||一块精细加工好的木板。
+COD_Nc_BasicMaterials_Wood_Plank_CardName||木板
+COD_Bp_Bandage_BlueprintFinishedLog.LogText||I made an ash dressing.
+COD_Bp_Bandage_CardDescription||Sterile wound dressing, should help protect wounds from infection and help them heal faster.
+COD_Bp_Bandage_CardName||绷带
+COD_Bp_Bandage_UnlockConditionsDesc||Ash Needed
+COD_Nc_Bandage_CardDescription||我只能祈祷伤口不要感染..
+COD_Nc_Bandage_CardName||绷带
+T-LMfteWQ4TeNTVqm3rf1HbIU7BvY=||废弃矿洞，我需要小心探查一下情况
+T-HojZtcIG0f/j2fFuz6uC1Mnjakw=||废弃矿洞
+T-0dlCV7sPSZlWxh1TbkY0agaIR90=||一个废弃的靠海矿区
+T-qv63ajq49p6JnM2Z3PHWKhAP+lY=||挖石头
+T-dhUX8JKMaFg+DuiNuQH4MlTq2lA=||矿区
+T-+BBli6PLRDdnbzxW9/1jlfRDzhM=||Go for a Walk
+T-Gn6YbLTFK4aRDx9qOBWgalKACMM=||废弃的矿洞
+T-LOe6+rTaeJWb8vYXan2pDGFgI+0=||dxz
+T-GVlSFFWVXYWcaL+ap4CTJDTfWEw=||煤块，可以当做燃料或者交易
+COD_Wood_CardInteractions[2].ActionName||Prepare Fire
+T-C04LtmRXTHzNHMKpgk6iCxzz1XI=||煤块
+T-LUUoVCmef2AkZ7kwu73mD1XwU5w=||煤矿脉，可以用工具开采
+COD_CopperVein_CardInteractions[0].ActionName||Mine
+COD_CopperVein_CardInteractions[1].ActionName||Boom!
+T-TELVJ0xwFg9vp0jas+DnoPvZ1QY=||煤矿脉
+T-1KN0TWC1JBnfcxZaCL7iJmk41/A=||腐败城市
+T-dxpJNpHmKqBpgt60FwAZaFhtg1Y=||神秘农场
+T-aCDAsZ6Ys9D1tg+NnGzPsNpESaQ=||废弃矿洞，未知情况
+T-apBco8ZmEqeX/gDqjuIJAL+8ido=||时间会给你答案的，孩子，这些是你的报酬
+T-UBccY5lC2EpqC0sY8ZUHa5AqDjY=||尼根
+T-iT90PYKMnhy8o/0Sc3oYytYC8aI=||我很满意，这是几张代金券，祝你玩的开心（信任度增加）
+T-wZ7eSTKYaTa/zmKFgGPadfdyP98=||也许是才能，也许是运气，也许我长得比他们都帅，谁知道呢？就在上周，我们的哨站被人偷袭了，我的人民在睡梦中死去，对方手段卑劣不讲武德，我的手下建议我把那伙偷袭我们的人全部杀掉，而我却没有，我只杀掉一个。杀掉所有的人把问题解决，这是最简单的方法，这不是我们的风格、不是我们的所做所为。拯救人们是艰难的，而这就是我要做的，因为，我们是救世军
+T-ZaeoQlNoxQw58Qhw/7ieF0kVU74=||这个破箱子当然不重要，重要的是你成功的把这个破箱子送到我的手里，而我要找的重要的东西就是你，而不是什么破箱子。恭喜你，成功了。加文，别忘了给我们的“英雄”拿瓶好酒。
+T-PGv2UFU2cFJdVr9FgqdMudbTjqE=||你为什么会成为这里的领袖？
+T-h9MPAUcUPOxaJoZuHhbk7rpwPxE=||我想，我已经找到重要的东西了
+T-5z0egfyyXzMDgBqLA1X4pbGrBqg=||这个小箱子里有什么？这么重要？
+T-PFh/h8jPPbC4Lh3nz4kY9lvt6S0=||如果你看到这张纸条，那就说明你没有通过我的考验，我很失望（救世军信任度降低）
+T-V1a85bDJrISJMrR2b4zg5+30taY=||尼根的纸条
+T-Dxp+phvOjAwYcosMlrK+9ggeHxY=||可恶
+T-G/2NYBYeU05yxFVQ9138/KLloqU=||所以，你是谁？
+T-DKsBdW2lF8S88ksSSnCyQlywb68=||I'm 尼根
+COD_codt_CobraFightSuccess_DismantleActions[0].ActionLog.LogText||n
+T-Pk+Lx6VFK18wCzHIeKKk2+TzG4s=||我就是我
+T-MrnEGRw/MAwy/WImo3raA1V2xlI=||厚礼谢，看看是谁来了，只身一人穿梭城市，这可不是一般人能做到的；我们正在寻找一个重要的东西，正好你来了，就交给你了，就是一个破箱子，你会找到的，回见
+T-OMVh7qOho/bePrWPzIA7oOQlZRM=||尼根找的应该就是这个东西，或许我该给他或站为私有
+T-dxSFsfFa0r4dTHt5JrPllyI+2Y4=||木箱子
+T-QpIzNMCBHGZiJrz1FP3zpiHdsbU=||打开占为私有
+T-btCP2ecUwgsau9ds7AZSiLq6HSI=||木箱任务
+T-EaYzIAKqZ06HiENnf5xg4C7HyCk=||需要任务物品
+COD_Env_ModernStreet_CardName||摩登街道
+COD_Env_Macy_CardName||梅西百货
+COD_Exp_ModernStreet_CardDescription||可以依稀看到曾经繁华的身影..如今它被红雾所弥漫。
+COD_Exp_ModernStreet_CardName||摩登街道
+COD_Exp_ModernStreet_DismantleActions[0].ActionName||探索
+COD_Exp_ModernStreet_ExplorationResults[0].Action.ActionName||探索
+COD_Exp_Macy_CardDescription||可以依稀看到曾经繁华的身影..
+COD_Exp_Macy_CardName||梅西百货
+COD_Exp_Macy_DismantleActions[0].ActionName||探索
+COD_Exp_Macy_ExplorationResults[0].Action.ActionName||探索
+COD_Nc_Macy_ExploreScene_TypeEight_CardDescription||碎裂的地板、杂乱的物品布满了整个空间。
+T-Knnyu4nK3ay+C1UqAj8h6ywSdZ0=||搜刮
+COD_Nc_Macy_ExploreScene_TypeEight_FadeMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeEight_FailMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeFive_CardDescription||碎裂的地板、杂乱的物品布满了整个空间。
+COD_Nc_Macy_ExploreScene_TypeFive_FadeMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeFive_FailMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeFour_CardDescription||碎裂的地板、杂乱的物品布满了整个空间。
+COD_Nc_Macy_ExploreScene_TypeFour_FadeMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeFour_FailMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeNine_CardDescription||碎裂的地板、杂乱的物品布满了整个空间。
+COD_Nc_Macy_ExploreScene_TypeNine_FadeMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeNine_FailMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeOne_CardDescription||碎裂的地板、杂乱的物品布满了整个空间。
+COD_Nc_Macy_ExploreScene_TypeOne_FadeMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeOne_FailMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeSeven_CardDescription||碎裂的地板、杂乱的物品布满了整个空间。
+COD_Nc_Macy_ExploreScene_TypeSeven_FadeMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeSeven_FailMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeSix_CardDescription||碎裂的地板、杂乱的物品布满了整个空间。
+COD_Nc_Macy_ExploreScene_TypeSix_CardName||设施
+COD_Nc_Macy_ExploreScene_TypeSix_FadeMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeSix_FailMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeTen_CardDescription||碎裂的地板、杂乱的物品布满了整个空间。
+COD_Nc_Macy_ExploreScene_TypeTen_FadeMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeTen_FailMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeThree_CardDescription||碎裂的地板、杂乱的物品布满了整个空间。
+COD_Nc_Macy_ExploreScene_TypeThree_FadeMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeThree_FailMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeTwo_CardDescription||碎裂的地板、杂乱的物品布满了整个空间。
+COD_Nc_Macy_ExploreScene_TypeTwo_FadeMessage||扫荡一空
+COD_Nc_Macy_ExploreScene_TypeTwo_FailMessage||扫荡一空
+COD_Nc_Macy_GoodsShelves_TypeFour_CardDescription||可见上面分布着零星的物资。
+COD_Nc_Macy_GoodsShelves_TypeFour_FadeMessage||扫荡一空
+COD_Nc_Macy_GoodsShelves_TypeFour_FailMessage||扫荡一空
+COD_Nc_Macy_GoodsShelves_TypeOne_CardDescription||可见上面分布着零星的物资。
+COD_Nc_Macy_GoodsShelves_TypeOne_FadeMessage||扫荡一空
+COD_Nc_Macy_GoodsShelves_TypeOne_FailMessage||扫荡一空
+COD_Nc_Macy_GoodsShelves_TypeThree_CardDescription||可见上面分布着零星的物资。
+COD_Nc_Macy_GoodsShelves_TypeThree_FadeMessage||扫荡一空
+COD_Nc_Macy_GoodsShelves_TypeThree_FailMessage||扫荡一空
+COD_Nc_Macy_GoodsShelves_TypeTwo_CardDescription||可见上面分布着零星的物资。
+COD_Nc_Macy_GoodsShelves_TypeTwo_FadeMessage||扫荡一空
+COD_Nc_Macy_GoodsShelves_TypeTwo_FailMessage||扫荡一空
+COD_Path_MacyToModernStreet_CardDescription||返回摩登街道。
+COD_Path_MacyToModernStreet_CardName||摩登街道
+COD_Path_MacyToModernStreet_DismantleActions[0].ActionName||前往
+COD_Path_MacyToModernStreet_DismantleActions[0].FadeMessage||移动中
+COD_Path_ModernStreetToMacy_CardDescription||遍地凌乱的包装，随处可见遗弃的推车。
+COD_Path_ModernStreetToMacy_CardName||梅西百货
+COD_Path_ModernStreetToMacy_DismantleActions[0].ActionName||Go
+COD_Path_ModernStreetToMacy_DismantleActions[0].FadeMessage||移动中
+COD_Path_ModernStreetToPortCity_CardDescription||前往腐败之城。
+COD_Path_ModernStreetToPortCity_CardName||腐败之城
+COD_Path_ModernStreetToPortCity_DismantleActions[0].ActionName||前往
+COD_Path_ModernStreetToPortCity_DismantleActions[0].FadeMessage||移动中
+T-/GoBRqNS8qi2/cwBnZ+Gveswbdg=||“这日子过得越来越艰难了，食物稀少，听说十三区那帮疯子已经开始互啃了。”\n  肥乔停下手中的活计，向你靠近了一些。\n“但我听说附近有个罐头加工厂，可能还有存货。”\n“我试过一次进去，但那里的僵尸比这整个城市的老鼠还要多，而且，那味道…” 他皱起了鼻子。\n“如果我们能搞到那些罐头，至少能撑一阵子。但我得告诉你，那不是件容易的活。那些丧尸，他们…他们不像街上的那些游荡者，被他们沾上臭几天都算少的。”\n“尼根曾拉一大帮人过去一次，不知道他们遇到了什么东西，后面都撤回来了。”
+T-kOv2zi/v4QdeWdaEFW59IBtkmV8=||肥乔
+T-eoX0dku9ba8cNUXvu/DyeabcC+s=||ok
+T-vDEQjM4wUVwEhjn9T5WH9E6Wzk4=||加文的目光看向被深红色的迷雾笼罩的塔楼，他的眼中闪过一丝不易察觉的忧虑。\n“摩登街道的钟楼”，他指着窗外。\n“那片红雾从未散去。我有几个老客户，进去后已经几个月没见人了”。
+T-Udzvbm1O5IGUGmpTs7pRNeEUVlY=||加文
+T-1NNvddLwANIXaNQ0aG3jjl/wiug=||奇怪
+T-Jpng2UZBYgYRAQNnJGyHa6uLXQk=||你是幸存者？不管你是谁，来到我这你只需要知道一点，那就是知道谁是这里的老大。你可以在这里进行贸易或者找份工作，还有，我这里不欢迎不守规矩的家伙。
+T-AqCvaSnNBEij8Px+5hD+naL8TdQ=||我们素不相识，为什么接纳我？
+T-PlKaf+YaNFyzpU+xOvVOjE8nCU8=||你知道末世中最珍贵的资源是什么吗？是食物？是水？都不是。最珍贵的资源是人
+T-3TdgyAq+MSXdjf5V37e89QL5qnw=||我知道了
+T-Yto3MmXOUb0d6scBbE8IL1epE6E=||“你好，幸存者。”肥乔说道。\n“在这末日的混乱中看到新面孔总是一件好事。”\n“我是肥乔，如果你需要补给，或者只是想要交个朋友，你都找对人了。只要别带来那些没脑子的家伙，我们就能好好聊聊。”
+T-CpjvGQGmkZVGs84Xo2RuWiJ9rYM=||“你好。”\n“我是加文，营地的交易由我接手。”\n“你手头里的东西可以拿来交换，一手交钱一手交货，就这么简单。”
+COD_Garvin_Description||兑换钱币
+COD_Garvin_StepOne[0].ActionName||交易
+T-3q7WyScif0c4d4EplFgRjpzexbM=||你是谁？
+T-EF8ljX3el/1DzS5oNc6CCgof92g=||做你该做的事。
+Cod_Event_HelicopterDestruction_CardDescription||冒火的器械伴随着巨大的轰鸣声砸在了远处！
+Cod_Event_HelicopterDestruction_CardName||轰鸣
+Cod_Event_HelicopterDestruction_ActionName||继续
+Cod_Event_DecayCity_Base_FirstEntry_Start_CardDescription||开破旧的木门,门锁和门框已经松动了。门打开时发出刺耳的吱呀声。\n穿过门槛,映入眼帘的是一片开阔的场地,可能曾经是个仓库或车间。\n地面上零散地摊着些生活用品,有破旧的布匹,锈迹斑斑的锅碗瓢盆,还有些碎裂的玻璃器皿。\n一张翻倒的桌子上丢着几本泛黄的书,边上是一个破了个大洞的帆布包。\n这里明显有人居住的痕迹。
+Cod_Event_DecayCity_Base_FirstEntry_Start_CardName||探索
+Cod_Event_DecayCity_Base_FirstEntry_Start_DismantleActions[0].ActionName||继续
+COD_Nc_Plot_Newspaper_TypeOne_CardDescription||彼特时报独家报道：哈兰封城！哈兰市近日爆发了一种未知病毒，引起了当地极大的混乱和恐慌。多家医院已经爆满，大批感染者被迫在街头、公园等地等待救援。国防部发言人约翰表示，封城是必要的工作。对此世界人道救援组织GRE发言人莱德谴责了封城行为，称其严重侵犯了人权和人道主义精神。GRE后续救援计划将会在以下区域投放人道资源救助：摩..
+COD_Nc_Plot_Newspaper_TypeOne_CardInteractions[1].ActionName||取火
+COD_Nc_Plot_Newspaper_TypeOne_CardInteractions[2].ActionName||取火
+COD_Nc_Plot_Newspaper_TypeOne_CardInteractions[3].ActionName||点燃
+COD_Nc_Plot_Newspaper_TypeOne_CardName||报纸
+COD_Nc_Plot_Newspaper_TypeTwo_CardDescription||国防部发言人肯特针对哈兰市封城一事发表了最新的解释。据肯特称，哈兰市的封城决定是出于当地涉及恐怖行动、武装独立等极端情况的考虑，是国家安全和国民生命财产安全的必要举措。国防部军事力量已经介入...
+COD_Nc_Plot_Newspaper_TypeTwo_CardInteractions[1].ActionName||取火
+COD_Nc_Plot_Newspaper_TypeTwo_CardInteractions[2].ActionName||取火
+COD_Nc_Plot_Newspaper_TypeTwo_CardInteractions[3].ActionName||点燃
+COD_Nc_Plot_Newspaper_TypeTwo_CardName||报纸
+T-yDPbhmcqJRVXQHrba7RNfiK7OrQ=||港口
+Cod_Exp_Port_Foggy_CardDescription||从海边吹袭来的白色雾气弥漫在港口各处。
+Cod_Exp_Port_Foggy_CardName||港口
+Cod_Exp_Port_Foggy_DismantleActions[0].ActionName||探索
+Cod_Exp_Port_Foggy_TypeTwo_CardDescription||从海边吹袭来的白色雾气弥漫在港口各处。
+Cod_Exp_Port_Foggy_TypeTwo_CardName||港口
+Cod_Exp_Port_Foggy_TypeTwo_DismantleActions[0].ActionName||探索
+Cod_Exp_Port_Infected_CardDescription||红色的雾气四处弥漫，死寂无声。
+Cod_Exp_Port_Infected_CardName||港口
+Cod_Exp_Port_Infected_DismantleActions[0].ActionName||探索
+COD_Path_BrokenPortToEleven_CardDescription||碎片玻璃遍布，门口上有几个弹孔。
+COD_Path_BrokenPortToEleven_CardName||Eleven
+COD_Path_BrokenPortToEleven_DismantleActions[0].ActionName||前往
+COD_Path_BrokenPortToEleven_DismantleActions[0].FadeMessage||移动中
+COD_Path_BrokenPortToPharmacy_CardDescription||一个破败的药店，门口有着人为破坏的痕迹。
+COD_Path_BrokenPortToPharmacy_CardName||维生
+COD_Path_BrokenPortToPharmacy_DismantleActions[0].ActionName||Go
+COD_Path_BrokenPortToPharmacy_DismantleActions[0].FadeMessage||移动中
+COD_Path_PortCityToPortBeach_CardDescription||能听到海浪拍打的声音。
+COD_Path_PortCityToPortBeach_DismantleActions[0].ActionName||前往
+COD_Path_PortCityToPortBeach_DismantleActions[0].FadeMessage||前往中..
+Cod_Path_Port_PortToPortBeach_Infected_CardDescription||路径布满了红色的植株。
+Cod_Path_Port_PortToPortBeach_Infected_DismantleActions[0].ActionName||前往
+Cod_Path_Port_PortToPortBeach_Infected_DismantleActions[0].FadeMessage||前往中..
+T-b0matD/Q//TZ810HgOWCYRkbdW4=||红色锈迹遍布于整个船体。
+T-Nqg59dAa8cI41vbf9Ho46mr+Ugg=||轮船
+T-EEBwSn6IpCvOBBarP0z6qNvkTC4=||附近存在工业区域建筑。
+Cod_Env_Port_ContainerArea_CardName||库轮运输
+Cod_Exp_Port_ContainerArea_CardDescription||无声安静，零散的报纸在空中漂泊，偶尔能听到海鸥的叫声。
+Cod_Exp_Port_ContainerArea_CardName||港口
+Cod_Exp_Port_ContainerArea_DismantleActions[0].ActionName||探索
+Cod_Path_Port_ContainerAreaToPort_CardDescription||碎片玻璃遍布，门口上有几个弹孔。
+Cod_Path_Port_ContainerAreaToPort_CardName||Eleven
+Cod_Path_Port_ContainerAreaToPort_DismantleActions[0].ActionName||前往
+Cod_Path_Port_ContainerAreaToPort_DismantleActions[0].FadeMessage||移动中
+Cod_Path_Port_ContainerAreaToPortBeach_CardDescription||碎片玻璃遍布，门口上有几个弹孔。
+Cod_Path_Port_ContainerAreaToPortBeach_CardName||Eleven
+Cod_Path_Port_ContainerAreaToPortBeach_DismantleActions[0].ActionName||前往
+Cod_Path_Port_ContainerAreaToPortBeach_DismantleActions[0].FadeMessage||移动中
+Cod_Path_Port_PortBeachToContainerArea_CardDescription||大型集装箱聚集区域，各种重型器械随处可见。
+Cod_Path_Port_PortBeachToContainerArea_DismantleActions[0].ActionName||前往
+Cod_Path_Port_PortBeachToContainerArea_DismantleActions[0].FadeMessage||前往中..
+COD_Env_Eleven_CardDescription||门口有着被人为破坏的痕迹，也许仍有零星的物资。
+COD_Env_Eleven_CardName||Eleven
+Cod_Nc_Book_WildernessSurvival_EndReading_CardDescription||已翻至尾页，夹层里有一副红色标记的图像。
+Cod_Nc_Book_WildernessSurvival_EndReading_CardName||书籍
+Cod_Nc_Book_WildernessSurvival_EndReading_DismantleActions[0].ActionName||继续
+COD_Exp_Eleven_CardDescription||门口有着被人为破坏的痕迹，也许仍有零星的物资。
+COD_Exp_Eleven_CardName||Eleven
+COD_Exp_Eleven_DismantleActions[0].ActionName||探索
+T-OgEAgPXP6/ZN2acfclPuk/xqwc4=||Exp_Pharmacy_DropGoodShelves_One
+T-fzH84mlQVVE/qx0DtQXJn2feRG0=||Exp_Pharmacy_DropGoodShelves_Two
+T-0JIaEi6ynSrOiFj3Orclof7Nenc=||Exp_Pharmacy_DropGoodShelves_Three
+T-mw7qtERJXaOBDhK2S8fTgVOlGl4=||Exp_Pharmacy_DropGoodShelves_Four
+T-8UpnPeS71/sf1DUqfBJ6WDCjcY4=||Exp_Pharmacy_Zombie_0.3
+Cod_Exp_Port_Eleven_ExplorationResults[0].Action.ActionName||Exp_Pharmacy_Zombie_0.95
+Cod_Nc_Book_WildernessSurvival_CardDescription||一本野外求生手册，书页褶皱，有几处有红圈标记。
+Cod_Nc_Book_WildernessSurvival_CardInteractions[2].ActionName||点燃
+Cod_Nc_Book_WildernessSurvival_CardInteractions[3].ActionName||点燃
+Cod_Nc_Book_WildernessSurvival_ActionName||阅读
+Cod_Nc_Book_WildernessSurvival_CustomDestroyMessage||阅读完毕
+COD_Nc_Eleven_GoodsShelves_TypeFour_CardDescription||可以看到有零散的物品分布。
+COD_Nc_Eleven_GoodsShelves_TypeFour_CardInteractions[0].ActionName||拆解
+COD_Nc_Eleven_GoodsShelves_TypeFour_CardName||货架
+COD_Nc_Eleven_GoodsShelves_TypeFour_ActionName||搜刮
+COD_Nc_Eleven_GoodsShelves_TypeFour_FadeMessage||扫荡一空
+COD_Nc_Eleven_GoodsShelves_TypeFour_FailMessage||空无一物
+COD_Nc_Eleven_GoodsShelves_TypeOne_CardDescription||可以看到有零散的物品分布。
+COD_Nc_Eleven_GoodsShelves_TypeOne_CardInteractions[0].ActionName||拆解
+COD_Nc_Eleven_GoodsShelves_TypeOne_CardName||货架
+COD_Nc_Eleven_GoodsShelves_TypeOne_ActionName||搜刮
+COD_Nc_Eleven_GoodsShelves_TypeOne_FadeMessage||扫荡一空
+COD_Nc_Eleven_GoodsShelves_TypeOne_FailMessage||空无一物
+COD_Nc_Eleven_GoodsShelves_TypeThree_CardDescription||可以看到有零散的物品分布。
+COD_Nc_Eleven_GoodsShelves_TypeThree_CardInteractions[0].ActionName||拆解
+COD_Nc_Eleven_GoodsShelves_TypeThree_CardName||货架
+COD_Nc_Eleven_GoodsShelves_TypeThree_ActionName||搜刮
+COD_Nc_Eleven_GoodsShelves_TypeThree_FadeMessage||扫荡一空
+COD_Nc_Eleven_GoodsShelves_TypeThree_FailMessage||空无一物
+COD_Nc_Eleven_GoodsShelves_TypeTwo_CardDescription||可以看到有零散的物品分布。
+COD_Nc_Eleven_GoodsShelves_TypeTwo_CardInteractions[0].ActionName||拆解
+COD_Nc_Eleven_GoodsShelves_TypeTwo_CardName||货架
+COD_Nc_Eleven_GoodsShelves_TypeTwo_ActionName||搜刮
+COD_Nc_Eleven_GoodsShelves_TypeTwo_FadeMessage||扫荡一空
+COD_Nc_Eleven_GoodsShelves_TypeTwo_FailMessage||空无一物
+COD_Path_ElevenToBrokenPort_CardDescription||返回破败港口。
+COD_Path_ElevenToBrokenPort_CardName||破败港口
+COD_Path_ElevenToBrokenPort_DismantleActions[0].ActionName||Go
+COD_Path_ElevenToBrokenPort_DismantleActions[0].FadeMessage||移动中
+COD_Env_Pharmacy_CardDescription||门口有着被人为破坏的痕迹，也许仍有零星的物资。
+COD_Env_Pharmacy_CardName||维生
+COD_Exp_Pharmacy_CardDescription||门口有着被人为破坏的痕迹，也许仍有零星的物资。
+COD_Exp_Pharmacy_CardName||维生
+COD_Exp_Pharmacy_DismantleActions[0].ActionName||探索
+COD_Pharmacy_GoodsShelves_TypeFour_CardDescription||上面分布着零星的物资。
+COD_Pharmacy_GoodsShelves_TypeFour_CardName||货架
+COD_Pharmacy_GoodsShelves_TypeFour_ActionName||搜刮
+COD_Pharmacy_GoodsShelves_TypeOne_CardDescription||上面分布着零星的物资。
+COD_Pharmacy_GoodsShelves_TypeOne_CardName||货架
+COD_Pharmacy_GoodsShelves_TypeOne_DismantleAction_ActionName||搜刮
+COD_Pharmacy_GoodsShelves_TypeThree_CardDescription||上面分布着零星的物资。
+COD_Pharmacy_GoodsShelves_TypeThree_CardName||货架
+COD_Pharmacy_GoodsShelves_TypeThree_ActionName||搜刮
+COD_Pharmacy_GoodsShelves_TypeTwo_CardDescription||上面分布着零星的物资。
+COD_Pharmacy_GoodsShelves_TypeTwo_CardName||货架
+COD_Pharmacy_GoodsShelves_TypeTwo_ActionName||搜刮
+COD_Pharmacy_MedicalKit_CardDescription||这个医疗箱被人为上锁了。
+COD_Pharmacy_MedicalKit_CardName||医疗箱
+COD_Pharmacy_MedicalKit_CardDismantleAction_ActionName||试图打开
+COD_Pharmacy_Pharmaceuticals_TypeEight_CardDescription||一瓶药品，瓶盒的字迹已模糊不清。
+COD_Pharmacy_Pharmaceuticals_TypeEight_CardName||多柔比星
+COD_Pharmacy_Pharmaceuticals_TypeEight_DismantleActions[0].ActionName||服用
+COD_Pharmacy_Pharmaceuticals_TypeFive_CardDescription||一瓶药品，瓶盒的字迹已模糊不清。
+COD_Pharmacy_Pharmaceuticals_TypeFive_CardName||诺绿沙星
+COD_Pharmacy_Pharmaceuticals_TypeFive_DismantleActions[0].ActionName||服用
+COD_Pharmacy_Pharmaceuticals_TypeFour_CardDescription||通用类抗生素，瓶身可见一些裂纹。
+COD_Pharmacy_Pharmaceuticals_TypeFour_CardName||美洛西林
+COD_Pharmacy_Pharmaceuticals_TypeFour_DismantleActions[0].ActionName||服用
+COD_Pharmacy_Pharmaceuticals_TypeNine_CardDescription||一瓶药品，瓶盒的字迹已模糊不清。
+COD_Pharmacy_Pharmaceuticals_TypeNine_CardName||表柔比星
+COD_Pharmacy_Pharmaceuticals_TypeNine_DismantleActions[0].ActionName||服用
+COD_Pharmacy_Pharmaceuticals_TypeOne_CardDescription||通用类抗生素，希望它还没过期..
+COD_Pharmacy_Pharmaceuticals_TypeOne_CardName||阿莫西林
+COD_Pharmacy_Pharmaceuticals_TypeOne_DismantleActions[0].ActionName||服用
+COD_Pharmacy_Pharmaceuticals_TypeSeven_CardDescription||一瓶药品，瓶盒的字迹已模糊不清。
+COD_Pharmacy_Pharmaceuticals_TypeSeven_CardName||头孢拉定
+COD_Pharmacy_Pharmaceuticals_TypeSeven_DismantleActions[0].ActionName||服用
+COD_Pharmacy_Pharmaceuticals_TypeSix_CardDescription||一瓶药品，瓶盒的字迹已模糊不清。
+COD_Pharmacy_Pharmaceuticals_TypeSix_CardName||维拉帕米
+COD_Pharmacy_Pharmaceuticals_TypeSix_DismantleActions[0].ActionName||服用
+COD_Pharmacy_Pharmaceuticals_TypeTen_CardDescription||一瓶药品，瓶盒的字迹已模糊不清。
+COD_Pharmacy_Pharmaceuticals_TypeTen_CardName||可卡因
+COD_Pharmacy_Pharmaceuticals_TypeTen_DismantleActions[0].ActionName||服用
+COD_Pharmacy_Pharmaceuticals_TypeThree_CardDescription||通用类抗生素，希望它还没过期..
+COD_Pharmacy_Pharmaceuticals_TypeThree_CardName||哌拉西林
+COD_Pharmacy_Pharmaceuticals_TypeThree_DismantleActions[0].ActionName||服用
+COD_Pharmacy_Pharmaceuticals_TypeTwo_CardDescription||通用类抗生素，颗粒性服用。
+COD_Pharmacy_Pharmaceuticals_TypeTwo_CardName||阿司匹林
+COD_Pharmacy_Pharmaceuticals_TypeTwo_DismantleActions[0].ActionName||服用
+COD_Pharmarcy_DoorOpen_CardDescription||门后隐约传来一些动静。
+COD_Pharmarcy_DoorOpen_CardName||门
+COD_Pharmarcy_DoorOpen_ActionName||推开
+COD_Path_PharmacyToBrokenPort_CardDescription||返回破败港口
+COD_Path_PharmacyToBrokenPort_CardName||破败港口
+COD_Path_PharmacyToBrokenPort_DismantleActions[0].ActionName||Go
+COD_Path_PharmacyToBrokenPort_DismantleActions[0].FadeMessage||移动中
+COD_Env_PortBeach_CardDescription||血腥随着海风在空中飘荡。
+COD_Env_PortBeach_CardName||海峡
+COD_Exp_PortBeach_CardDescription||血腥随着海风在空中飘荡。
+COD_Exp_PortBeach_CardName||海峡
+COD_Exp_PortBeach_DismantleActions[0].ActionName||探索
+COD_Exp_PortBeach_ExplorationResults[0].Action.ActionName||YoYo_StepOne
+COD_Exp_PortBeach_ExplorationResults[1].Action.ActionName||StepTwo
+COD_Exp_PortBeach_ExplorationResults[2].Action.ActionName||YoYo_StepThree
+T-o3/4tTExvLE/iAqXOV+6/Hs4aE8=||YoYo_StepFour
+T-JEu/vF1FrwbxCvqcRiekZSNgjz4=||YoYo_StepFive
+T-FTehf/i14pR8KdzaCX6hZjOFPN8=||YoYo_StepSix
+T-kt70UtoPgmNyPThVt3vW98lFLqU=||YoYo_StepSeven
+T-cl5yXbrSzBIi1kaJrxFeRYzsnig=||PortBeachComplete
+Cod_Exp_Port_PortBeach_Foggy_TypeOne_CardDescription||海峡附近有海雾飘荡。
+Cod_Exp_Port_PortBeach_Foggy_TypeOne_CardName||海峡
+Cod_Exp_Port_PortBeach_Foggy_TypeOne_DismantleActions[0].ActionName||探索
+Cod_Exp_Port_PortBeach_Foggy_TypeTwo_CardDescription||海峡附近有海雾飘荡。
+Cod_Exp_Port_PortBeach_Foggy_TypeTwo_CardName||海峡
+Cod_Exp_Port_PortBeach_Foggy_TypeTwo_DismantleActions[0].ActionName||探索
+COD_Nc_PortBeach_Dike_CardDescription||表面生长着血色的囊状物。
+COD_Nc_PortBeach_Dike_On_CardDescription||大量液体倾泻而出，流入海洋。
+Cod_Nc_PortBeach_DriftBox_TypeFour_CardDescription||漂流至岸上的集装箱。
+Cod_Nc_PortBeach_DriftBox_TypeOne_CardDescription||海面上有物品漂浮。
+Cod_Nc_PortBeach_DriftBox_TypeThree_CardDescription||海面上有物品漂浮。
+Cod_Nc_PortBeach_DriftBox_TypeTwo_CardDescription||海面上有物品漂浮。
+COD_Nc_PortBeach_SandSource_CardDescription||夹杂着红色的颗粒。
+COD_Nc_PortBeach_SandSource_CardInteractions[0].ActionName||挖掘
+COD_Nc_PortBeach_SandSource_DismantleActions[0].ActionName||收集沙子
+COD_Nc_PortBeach_SandSource_DismantleActions[1].ActionName||制作沙堡
+Cod_Nc_PortBeach_Sea_CardDescription||水中悬浮着大量不明漂浮物。
+Cod_Nc_PortBeach_Sea_CardInteractions[0].ActionName||插鱼
+Cod_Nc_PortBeach_Sea_CardInteractions[0].ProducedCards[0].CollectionMessages[0]||No luck...
+Cod_Nc_PortBeach_Sea_CardInteractions[1].ActionName||钓鱼
+Cod_Nc_PortBeach_Sea_CardInteractions[1].ProducedCards[0].CollectionMessages[0]||No luck...
+Cod_Nc_PortBeach_Sea_CardInteractions[2].ActionName||钓鱼
+Cod_Nc_PortBeach_Sea_CardInteractions[2].ProducedCards[0].CollectionMessages[0]||No luck...
+Cod_Nc_PortBeach_Sea_CardInteractions[3].ActionName||装入
+Cod_Nc_PortBeach_Sea_CardInteractions[4].ActionName||放置
+Cod_Nc_PortBeach_Sea_CardInteractions[5].ActionName||投掷！
+Cod_Nc_PortBeach_Sea_DismantleActions[0].ActionName||饮用
+Cod_Nc_PortBeach_Sea_DismantleActions[1].ActionName||潜水
+Cod_Nc_PortBeach_Sea_DismantleActions[1].ProducedCards[9].CollectionMessages[0]||You found nothing!
+Cod_Nc_PortBeach_Sea_DismantleActions[2].ActionName||洗澡
+Cod_Nc_PortBeach_Sea_DismantleActions[3].ActionDescription||这将会结束游戏
+Cod_Nc_PortBeach_Sea_DismantleActions[3].ActionLog.LogText||I went back to the depths of the ocean.
+Cod_Nc_PortBeach_Sea_DismantleActions[3].ActionName||返回大海
+Cod_Nc_PortBeach_Sea_SpecialDurability1.CardStatName||Sea Damage
+COD_Nc_BrokenPort_Container_TypeFour_CardDescription||重型货箱，高度密封。
+COD_Nc_BrokenPort_Container_TypeFour_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_BrokenPort_Container_TypeFour_ActionName||打开
+COD_Nc_BrokenPort_Container_TypeFour_FadeMessage||锁闭合的很紧
+COD_Nc_BrokenPort_Container_TypeFour_FailMessage||集装箱锁的很紧
+COD_Nc_BrokenPort_Container_TypeOne_CardDescription||重型货箱，高度密封。
+COD_Nc_BrokenPort_Container_TypeOne_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_BrokenPort_Container_TypeOne_ActionName||打开
+COD_Nc_BrokenPort_Container_TypeOne_FadeMessage||锁闭合的很紧
+COD_Nc_BrokenPort_Container_TypeOne_FailMessage||集装箱锁的很紧
+COD_Nc_BrokenPort_Container_TypeThree_CardDescription||重型货箱，高度密封。
+COD_Nc_BrokenPort_Container_TypeThree_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_BrokenPort_Container_TypeThree_ActionName||打开
+COD_Nc_BrokenPort_Container_TypeThree_FadeMessage||锁闭合的很紧
+COD_Nc_BrokenPort_Container_TypeThree_FailMessage||集装箱锁的很紧
+COD_Nc_BrokenPort_Container_TypeTwo_CardDescription||重型货箱，高度密封。
+COD_Nc_BrokenPort_Container_TypeTwo_CardInteractions[0].FailMessage||锁已经被打开了
+COD_Nc_BrokenPort_Container_TypeTwo_ActionName||打开
+COD_Nc_BrokenPort_Container_TypeTwo_FadeMessage||锁闭合的很紧
+COD_Nc_BrokenPort_Container_TypeTwo_FailMessage||集装箱锁的很紧
+Cod_Nc_Port_PortBeach_LifeBelt_Disembarkation_CardDescription||停靠在岸边的救生圈，摸起来已经有些泄气了。
+Cod_Nc_Port_PortBeach_LifeBelt_Disembarkation_CardInteractions[0].ActionName||处理
+Cod_Nc_Port_PortBeach_LifeBelt_TyprOne_CardDescription||不远处有救生圈随波漂浮。
+Cod_Nc_Port_PortBeach_LifeBelt_TyprOne_CardInteractions[0].ActionName||拖拽
+Cod_Nc_Port_PortBeach_LifeBelt_TypeTwo_CardDescription||不远处有救生圈随波漂浮。
+Cod_Nc_Port_PortBeach_LifeBelt_TypeTwo_CardInteractions[0].ActionName||拖拽
+Cod_Path_PortBeachToPort_CardDescription||一条通往港口的小路。
+Cod_Path_PortBeachToPort_DismantleActions[0].ActionName||前往
+Cod_Path_PortBeachToPort_DismantleActions[0].FadeMessage||前往中..
+Cod_Path_Port_PortBeachToPort_Infected_CardDescription||大量红色植株密布在小路之间。
+Cod_Path_Port_PortBeachToPort_Infected_DismantleActions[0].ActionName||前往
+Cod_Path_Port_PortBeachToPort_Infected_DismantleActions[0].FadeMessage||前往中..
+T-R3AAbq7rRPW7wfAiX0PW+9Shpn0=||船舱内部
+T-BNm9dvRi7QCwBM5UcYZ8HlW9/to=||船舱
+T-vVZtKGOGi/vFaDprPOrTJNbYom8=||港口上有危险的东西，我必须小心行事,目前来看，船上是安全的
+T-catPEGy4SOnaeiNDZdQ7z6MH3XA=||港口危险
+T-RTYHMqbYLFVUocMG5rX/6HuXzIA=||我该小心行事
+T-ZD6Lz9T8ayD+gyG19B7zUFngkTI=||照照片
+T-5Jb9IBNtS7eCjrsKuSWxvZdyCOQ=||Bar
+T-RqgIXEIm47e1vLUdlCqAEMux7o8=||SeaView
+T-Njhq0Nj3mq1ciedYdL8zrZz+DbM=||ReturnCabins
+T-hEvCvTWc3Zer48dCzZUIJgQ8zHM=||船外风暴中片刻的安宁。
+T-I5yldnr6yWQVk0ZM4CvEVNasB6k=||Box
+T-zeWJCWBfqPfYaO3yELrnGZcQodk=||YoYo
+T-iMyIkE5gOe/8aMBPDfRSLSlewl4=||ExploreComplete
+COD_Nc_ExerciseEquipment_LevelOne_CardDescription||提起来很重。
+COD_Nc_ExerciseEquipment_LevelOne_CardName||哑铃
+COD_Nc_ExerciseEquipment_LevelOne_DismantleActions[0].ActionName||锻炼
+T-xOZEdoUmpZlMG1TuqCMNV3t+134=||邮轮酒吧
+COD_Trunk_CardDescription||表面积满灰尘。
+T-SmpIPeCF9FBVReq95v2Ndd9NRw4=||大木箱
+T-+HwHw+LXnXl+/7FwS13hN4Wklsw=||放置
+COD_TrunkPlaced_CardDescription||表面积满灰尘。
+COD_TrunkPlaced_DismantleActions[0].ActionName||Pick Up
+T-yn7vAMTIBO+s1DafEkG51GRanxY=||柜子
+COD_BedWooden_CardDescription||A nice and comfortable wooden bed. My back will thank me.
+T-4iR35tfA0OcqeBnfuz4LZ0xAB/A=||船舱床位
+COD_BedWooden_DismantleActions[0].ActionName||Nap
+COD_BedWooden_DismantleActions[0].FadeMessage||Taking a nap...
+COD_BedWooden_DismantleActions[0].StatInterruptions[1].Notification||I'm too thirsty to sleep...
+COD_BedWooden_DismantleActions[0].StatInterruptions[2].Notification||I'm too hot to sleep...
+COD_BedWooden_DismantleActions[0].StatInterruptions[3].Notification||I'm too cold to sleep...
+COD_BedWooden_DismantleActions[0].StatInterruptions[4].Notification||I'm losing too much blood...
+COD_BedWooden_DismantleActions[0].StatInterruptions[5].Notification||I'm not feeling well...
+COD_BedWooden_DismantleActions[0].StatInterruptions[6].Notification||I'm not feeling well...
+COD_BedWooden_DismantleActions[1].ActionName||Sleep
+COD_BedWooden_DismantleActions[1].FadeMessage||Sleeping...
+COD_BedWooden_DismantleActions[1].StatInterruptions[1].Notification||I'm too thirsty to sleep...
+COD_BedWooden_DismantleActions[1].StatInterruptions[2].Notification||I'm too hot to sleep...
+COD_BedWooden_DismantleActions[1].StatInterruptions[3].Notification||I'm too cold to sleep...
+COD_BedWooden_DismantleActions[1].StatInterruptions[4].Notification||I'm losing too much blood...
+COD_BedWooden_DismantleActions[1].StatInterruptions[5].Notification||I'm not feeling well...
+COD_BedWooden_DismantleActions[1].StatInterruptions[6].Notification||I'm not feeling well...
+T-CSdM6U+51q6/CjmSHZBKFop9xvE=||国际象棋，只能一个人下
+T-dwP/2kUuvZfxpaj7+8qCxqvD8UI=||国际象棋
+T-xeRaI9LMx3fzOgbbs90fRNP/Ps4=||独自下棋
+T-KHKX3vuzsVa6yO97jG7Kohm0GgI=||各类器械散落各处，不少沾染血色。
+T-79OkOKPvJrmw2q2a0JdrbbpfDX8=||邮轮健身房
+T-ozUIEVP+3zNCneV5CZEPHofIygo=||锻炼
+T-/Lb58txYvJtyvvSe3pJ8ztTtV1Y=||甲板
+T-oWLi8uUtjV3WpoysEoTCJDSJSUU=||观海
+T-zsNcGipy4Coqz0P5WbOoFB0XdJo=||离开船舱
+T-mfFvUEHzeQh6RB1zuTN9YSpGa6w=||前往中
+T-jV/G/ksYEYkny2cnY39MvAKN3TE=||破旧船舱
+T-HUxk8WyH3CzjrIy6Dfg8b6zkDrE=||鱼类散落遍布，红色遍布整个墙体。
+T-8KA92wE/3fu24dsnhHqgGeem6f4=||海王
+Cod_Env_Port_SeaKing_Forecourt_CardDescription||四周寂静无声，钢筋铁皮锈迹遍布。\n\n附近的标识牌写着：海王工业。
+Cod_Env_Port_SeaKing_Forecourt_CardName||海王前院
+T-1tg16GOBjlHxFYmym4dB7zOYutY=||残缺不全的鱼类散落各处，加工器械随处可见。
+T-G2RTiSRzpGfQc3LUXrBavCAxZHo=||4
+T-rDR41po8gfpi5g9cNpYWWk5easQ=||5
+T-wd/ZbuqMwrYnhSdbyjisJhJW4ng=||6
+Cod_Exp_Port_SeaKing_ExplorationResults[0].Action.ActionName||7
+Cod_Exp_Port_SeaKing_Forecourt_CardDescription||四周寂静无声，钢筋铁皮锈迹遍布。\n\n附近的标识牌写着：海王工业。
+Cod_Exp_Port_SeaKing_Forecourt_DismantleActions[0].ActionName||探索
+Cod_Exp_Port_SeaKing_Forecourt_ExplorationResults[0].Action.ActionName||YoYo_StepOne
+COD_Nc_SeaKing_ProcessingEquipment_TypeFour_CardDescription||油污与血迹遍布。
+COD_Nc_SeaKing_ProcessingEquipment_TypeFour_CardInteractions[0].ActionName||拆解
+COD_Nc_SeaKing_ProcessingEquipment_TypeFour_CardName||器械
+COD_Nc_SeaKing_ProcessingEquipment_TypeFour_ActionName||搜刮
+COD_Nc_SeaKing_ProcessingEquipment_TypeFour_FadeMessage||扫荡一空
+COD_Nc_SeaKing_ProcessingEquipment_TypeFour_FailMessage||空无一物
+COD_Nc_SeaKing_ProcessingEquipment_TypeOne_CardDescription||油污与血迹遍布。
+COD_Nc_SeaKing_ProcessingEquipment_TypeOne_CardInteractions[0].ActionName||拆解
+COD_Nc_SeaKing_ProcessingEquipment_TypeOne_CardName||器械
+COD_Nc_SeaKing_ProcessingEquipment_TypeOne_ActionName||搜刮
+COD_Nc_SeaKing_ProcessingEquipment_TypeOne_FadeMessage||扫荡一空
+COD_Nc_SeaKing_ProcessingEquipment_TypeOne_FailMessage||空无一物
+COD_Nc_SeaKing_ProcessingEquipment_TypeThree_CardDescription||油污与血迹遍布。
+COD_Nc_SeaKing_ProcessingEquipment_TypeThree_CardInteractions[0].ActionName||拆解
+COD_Nc_SeaKing_ProcessingEquipment_TypeThree_CardName||器械
+COD_Nc_SeaKing_ProcessingEquipment_TypeThree_ActionName||搜刮
+COD_Nc_SeaKing_ProcessingEquipment_TypeThree_FadeMessage||扫荡一空
+COD_Nc_SeaKing_ProcessingEquipment_TypeThree_FailMessage||空无一物
+COD_Nc_SeaKing_ProcessingEquipment_TypeTwo_CardDescription||油污与血迹遍布。
+COD_Nc_SeaKing_ProcessingEquipment_TypeTwo_CardInteractions[0].ActionName||拆解
+COD_Nc_SeaKing_ProcessingEquipment_TypeTwo_CardName||器械
+COD_Nc_SeaKing_ProcessingEquipment_TypeTwo_ActionName||搜刮
+COD_Nc_SeaKing_ProcessingEquipment_TypeTwo_FadeMessage||扫荡一空
+COD_Nc_SeaKing_ProcessingEquipment_TypeTwo_FailMessage||空无一物
+Cod_Path_Port_SeaKingForecourtToPort_CardDescription||返回港口区域。
+Cod_Path_Port_SeaKingForecourtToPort_DismantleActions[0].ActionName||前往
+Cod_Path_Port_SeaKingForecourtToPort_DismantleActions[0].FadeMessage||前往中..
+Cod_Path_Port_SeaKingForecourtToSeaKing_CardDescription||四周寂静无声，钢筋铁皮锈迹遍布。\n\n附近的标识牌写着：海王工业。
+Cod_Path_Port_SeaKingForecourtToSeaKing_DismantleActions[0].ActionName||前往
+Cod_Path_Port_SeaKingForecourtToSeaKing_DismantleActions[0].FadeMessage||移动中
+T-05cPDTEtr+yw44SgHnVPOJvRdxM=||返回工厂前院。
+COD_cod_Mangroves_CardDescription||可以钓鱼的小洞
+COD_Sea_Mangroves_CardInteractions[0].ActionName||Spear Fish
+COD_Sea_Mangroves_CardInteractions[0].ProducedCards[0].CollectionMessages[0]||No luck...
+COD_Sea_Mangroves_CardInteractions[1].ActionName||Fish
+COD_Sea_Mangroves_CardInteractions[1].ProducedCards[0].CollectionMessages[0]||No luck...
+COD_Sea_Mangroves_CardInteractions[2].ActionName||Fish
+COD_Sea_Mangroves_CardInteractions[2].ProducedCards[0].CollectionMessages[0]||No luck...
+COD_Sea_Mangroves_CardInteractions[3].ActionName||Fill
+COD_Sea_Mangroves_CardInteractions[4].ActionName||Boom!
+COD_cod_Mangroves_CardName||钓鱼洞
+COD_Sea_Mangroves_DismantleActions[0].ActionName||Drink
+COD_Sea_Mangroves_DismantleActions[2].ActionName||Wash yourself
+COD_Sea_Mangroves_SpecialDurability1.CardStatName||Sea Damage
+T-2H8H2DGatwafUSXYmpBpA1cc55U=||嘿，我送你几本书，这可是聪明人才能看得懂的书，我觉得你就是聪明人，所以才送你
+T-hxa6s6GcvulPQEsBqs5eGDrXaIA=||没错，我是聪明人
+T-BTARDeQEjXfKqyWrzZehfC7KXT0=||嘿，送你个礼物
+T-j9cYKhMFzC6m/pqIso4FkYHFUwc=||现在，你已经获得我的基本信任，这个东西你应该会用的到，我希望你用我们工具做出的子弹打向我们的敌人和丧尸，而不是打向我们。别紧张，我开玩笑的
+T-LP4J0XZTCkbe/OoDBMouVLljFNE=||几本关于弹药学技术的书，虽然我可以学会制作弹药的知识，但制作子弹还需要弹药制作台，跟救世军搞好关系应该就会弄到弹药制作台
+T-tMZdDWx6h0kvLV22HFbpj58EhgI=||弹药学技能书
+T-UDSqqQn+W048OGcWgjgrit/fCkg=||普通学习
+T-KXKb8DyP7X2AyJAuS4bubqbpOkU=||内卷学习
+T-GJm0gznPp9UX3YQFgzkby/pr618=||一个神秘小镇
+T-VOTttUKYiXm8q6tOl4VEqtp+ktw=||大建筑废墟
+T-evukyTAHVExy9ZiMzagQcRU03so=||垃圾箱
+T-93El4YIi132jn5AShCLie0bSbic=||到神秘边境
+T-c+C4SYnSkUF8hyN7YoiDXJuTEL0=||神秘边境
+T-O45DwnHWID4tKEQD8CbV+NLXpOg=||移动到神秘边境
+T-NVnXrM8ANglxlhyhiYmtwGFAicA=||search
+T-h96G/AVym/jFJ0fAudofuaGlzbU=||附近有僵尸，这有个大钟，那接下来怎么办？
+T-JCv8NHsrKCx9NIOA9rSL3/lCgKk=||钟楼
+T-MAehjB1eFGKEgiDDZkjlnIq8q1Q=||敲钟
+T-smZ3uRyxLAFAdpIF9TA466WJLvU=||神秘的边境
+COD_SecretValley_CardDescription||A lush green valley, surrounded by cliffs and jungles.
+T-I6+T4TKsTLxjHxMnxTJ4te28WMo=||神秘的边境，似乎链接着什么地方
+T-IoA6KjQ+Wy/6RwVyJ7TIoRe9vlQ=||神秘谷
+T-+WoFdsHP3sKvy9bIQeyYeTKrOMs=||我可以直接挖，但是用斧头或铲子的话，我应该挖掘的更彻底，发现更多有用的东西
+T-fAkC6Vd6LQsAxWP+tlGYsNFCSgg=||深度挖掘
+COD_Debris_DismantleActions[0].ActionName||Clear
+T-JhmRCmBNYLtbNKHjUF6Ejs/Q2pk=||建筑废墟
+T-r97Mq7+V2I+peB1QQqnNZkRabvQ=||破旧的箱子
+T-cb8I8dh68mbwOsFxpqc8/v+gkRU=||破箱子
+COD_StoveExtinguished_CardDescription||I should be able to light it with some lit tinder.
+COD_StoveExtinguished_CardInteractions[0].ActionName||Feed Coconut
+COD_StoveExtinguished_CardInteractions[1].ActionName||Feed Firewood
+COD_StoveExtinguished_CardInteractions[2].ActionName||Feed Fuel
+COD_StoveExtinguished_CardInteractions[3].ActionName||Feed Charcoal
+COD_StoveExtinguished_CardInteractions[4].ActionName||Feed Leaves
+COD_StoveExtinguished_CardInteractions[5].ActionName||Light Fire
+COD_StoveExtinguished_CardInteractions[6].ActionName||Demolish
+COD_cod_Extinguished_CardName||砖炉
+COD_StoveExtinguished_DismantleActions[0].ActionName||Take Charcoal and Ash
+COD_StoveExtinguished_DismantleActions[0].RequiredReceivingDurabilities.FailMessage||Charcoal not ready yet.
+COD_Stove_CardDescription||I can cook and smoke food here.
+COD_Stove_CardInteractions[0].ActionName||Feed Coconut
+COD_Stove_CardInteractions[1].ActionName||Feed Firewood
+COD_Stove_CardInteractions[2].ActionName||Feed Fuel
+COD_Stove_CardInteractions[3].ActionName||Feed Charcoal
+COD_Stove_CardInteractions[4].ActionName||Light Tinder
+COD_Stove_CardInteractions[5].ActionName||Feed Leaves
+T-7lQFeXIvSB5NoL67QFyw2LLjbMc=||点燃的砖炉
+COD_Stove_CookingRecipes[0].ActionName||Bat
+COD_Stove_CookingRecipes[1].ActionName||Bird
+COD_Stove_CookingRecipes[2].ActionName||Bird Smoked
+COD_Stove_CookingRecipes[2].CustomCookingText||Smoked in {0}
+COD_Stove_CookingRecipes[3].ActionName||Boar
+COD_Stove_CookingRecipes[4].ActionName||Boar Smoked
+COD_Stove_CookingRecipes[4].CustomCookingText||Smoked in {0}
+COD_Stove_CookingRecipes[5].ActionName||Boiling Citronella Mix
+COD_Stove_CookingRecipes[6].ActionName||Boiling Glue
+COD_Stove_CookingRecipes[7].ActionName||Boiling Jasmine Mix
+COD_Stove_CookingRecipes[8].ActionName||Boiling Rice
+COD_Stove_CookingRecipes[9].ActionName||Boiling Salt
+COD_Stove_CookingRecipes[9].CannotCookText||Not enough salt water...
+COD_Stove_CookingRecipes[10].ActionName||Boiling Sap
+COD_Stove_CookingRecipes[10].CannotCookText||Not enough sap...
+COD_Stove_CookingRecipes[12].ActionName||Boiling Water
+COD_Stove_CookingRecipes[11].ActionName||Boiling Water
+COD_Stove_CookingRecipes[16].ActionName*||Boiling Yam
+COD_Stove_CookingRecipes[13].ActionName||Boiling Yam
+COD_Stove_CookingRecipes[14].ActionName||Bonefish
+COD_Stove_CookingRecipes[15].ActionName||Bonefish Smoked
+COD_Stove_CookingRecipes[15].CustomCookingText||Smoked in {0}
+COD_Stove_CookingRecipes[16].ActionName||Butter Baked Oysters
+COD_Stove_CookingRecipes[17].ActionName||Candied Ginger
+COD_Stove_CookingRecipes[18].ActionName||Charred Remains
+COD_Stove_CookingRecipes[18].CustomCookingText||Burned in {0}
+COD_Stove_CookingRecipes[20].ActionName||Coconut Fish
+COD_Stove_CookingRecipes[21].ActionName||Coconut Meat
+COD_Stove_CookingRecipes[22].ActionName||Coffee
+COD_Stove_CookingRecipes[23].ActionName||Conch Meat
+COD_Stove_CookingRecipes[24].ActionName||Cook Jerrycan
+COD_Stove_CookingRecipes[25].ActionName||Crab
+COD_Stove_CookingRecipes[19].ActionName||Drunken Crab
+COD_Stove_CookingRecipes[80].ActionName||Dry Chilies
+COD_Stove_CookingRecipes[80].CustomCookingText||Drying...
+COD_Stove_CookingRecipes[79].ActionName||Dry Cinchona Bark
+COD_Stove_CookingRecipes[79].CustomCookingText||Drying...
+COD_Stove_CookingRecipes[81].ActionName||Dry Ginger
+COD_Stove_CookingRecipes[81].CustomCookingText||Drying...
+COD_Stove_CookingRecipes[82].ActionName||Dry Spider Lily
+COD_Stove_CookingRecipes[82].CustomCookingText||Drying...
+COD_Stove_CookingRecipes[83].ActionName||Dry Kava
+COD_Stove_CookingRecipes[83].CustomCookingText||Drying...
+COD_Stove_CookingRecipes[26].ActionName||Egg
+COD_Stove_CookingRecipes[27].ActionName||Fish N Chips
+COD_Stove_CookingRecipes[28].ActionName||Fish Omelette
+COD_Stove_CookingRecipes[29].ActionName||Fish Scraps
+COD_Stove_CookingRecipes[30].ActionName||Fish Slices
+COD_Stove_CookingRecipes[31].ActionName||Flatbread
+COD_Stove_CookingRecipes[32].ActionName||Fried Bananas
+COD_Stove_CookingRecipes[40].ActionName*||Fried Puffballs
+COD_Stove_CookingRecipes[33].ActionName||Glue Heat Up
+COD_Stove_CookingRecipes[34].ActionName||Goat
+COD_Stove_CookingRecipes[35].ActionName||Goat Smoked
+COD_Stove_CookingRecipes[35].CustomCookingText||Smoked in {0}
+COD_Stove_CookingRecipes[36].ActionName||Goat Stew
+COD_Stove_CookingRecipes[37].ActionName||Goatfish
+COD_Stove_CookingRecipes[38].ActionName||Goatfish Smoked
+COD_Stove_CookingRecipes[38].CustomCookingText||Smoked in {0}
+COD_Stove_CookingRecipes[39].ActionName||Grouper
+COD_Stove_CookingRecipes[40].ActionName||Grouper Smoked
+COD_Stove_CookingRecipes[40].CustomCookingText||Smoked in {0}
+COD_Stove_CookingRecipes[41].ActionName||Heating Up Glue
+COD_Stove_CookingRecipes[42].ActionName||Herring
+COD_Stove_CookingRecipes[43].ActionName||Honey Candy
+COD_Stove_CookingRecipes[44].ActionName||Honey Glazed Pork
+COD_Stove_CookingRecipes[45].ActionName||Island Chicken
+COD_Stove_CookingRecipes[46].ActionName||Lizard
+COD_Stove_CookingRecipes[47].ActionName||Lizard Fry
+COD_Stove_CookingRecipes[48].ActionName||Macaque
+COD_Stove_CookingRecipes[49].ActionName||Macaque Skewers
+COD_Stove_CookingRecipes[50].ActionName||Macaque Smoked
+COD_Stove_CookingRecipes[50].CustomCookingText||Smoked in {0}
+COD_Stove_CookingRecipes[51].ActionName||Make Lye
+COD_Stove_CookingRecipes[62].ActionName*||Make Oil
+COD_Stove_CookingRecipes[52].ActionName||Make Oil
+COD_Stove_CookingRecipes[53].ActionName||Make Soap
+COD_Stove_CookingRecipes[54].ActionName||Monitor
+COD_Stove_CookingRecipes[55].ActionName||Monitor Smoked
+COD_Stove_CookingRecipes[55].CustomCookingText||Smoked in {0}
+COD_Stove_CookingRecipes[56].ActionName||Mouse
+COD_Stove_CookingRecipes[57].ActionName||Mudskipper
+COD_Stove_CookingRecipes[58].ActionName||Oyster
+COD_Stove_CookingRecipes[59].ActionName||Parrotfish
+COD_Stove_CookingRecipes[60].ActionName||Parrotfish Smoked
+COD_Stove_CookingRecipes[60].CustomCookingText||Smoked in {0}
+COD_Stove_CookingRecipes[61].ActionName||Pork Feast
+COD_Stove_CookingRecipes[62].ActionName||Prawns
+COD_Stove_CookingRecipes[63].ActionName||Protein Bars
+COD_Stove_CookingRecipes[64].ActionName||Sago Cake
+COD_Stove_CookingRecipes[65].ActionName||Sago Flatbread
+COD_Stove_CookingRecipes[66].ActionName||Sago Slime
+COD_Stove_CookingRecipes[67].ActionName||Scrappy Soup
+COD_Stove_CookingRecipes[70].ActionName||Seahound
+COD_Stove_CookingRecipes[68].ActionName||Shark
+COD_Stove_CookingRecipes[69].ActionName||Shark Smoked
+COD_Stove_CookingRecipes[71].ActionName||Snake
+COD_Stove_CookingRecipes[72].ActionName||Soft Conch Meat
+COD_Stove_CookingRecipes[73].ActionName||Threadfin
+COD_Stove_CookingRecipes[74].ActionName||Threadfin Smoked
+COD_Stove_CookingRecipes[74].CustomCookingText||Smoked in {0}
+COD_Stove_CookingRecipes[75].ActionName||Tropical Almonds
+COD_Stove_CookingRecipes[76].ActionName||Urchin
+COD_Stove_CookingRecipes[77].ActionName||Yam Curry
+COD_Stove_CookingRecipes[85].ActionName||Egg Fried Rice
+COD_Stove_CookingRecipes[78].ActionName||Yam Jam
+COD_Stove_DismantleActions[0].ActionName||Take Embers
+COD_Stove_DismantleActions[0].RequiredReceivingDurabilities.FailMessage||Charcoal not ready yet.
+COD_Stove_DismantleActions[1].ActionName||Extinguish Fire
+T-vVml4bKFHx/Fj/YMLIJgpFAc3B4=||用斧头或铲子才能挖动
+T-VEh/fFQe/G+M7BShijWqaF9i3JA=||挖掘
+T-5BYWui4GSKtC3e8ZYXZRCp52VUI=||石块堆
+COD_Bp_Stove_BlueprintFinishedLog.LogText||I built a clay stove.
+COD_Bp_Stove_CardDescription||A perfect rustic Kitchen with 4 slots to cook and the ability to smoke food.
+COD_cod_Stove_CardName||砖炉
+COD_cod_Stove_UnlockConditionsDesc||需要红砖
+T-OEjsWrQzIkPZ5AoWi/6qmFkmNLM=||一个瞭望塔，我也许能去看看风景放松放松
+T-/siTt8pNQB6gmC22ZNMAC76I/88=||破败瞭望塔
+T-y0O4zTrNm8eOyaWLO/8+k9xQciw=||欣赏风景
+T-vbEAQaCPanKBRhda01/LRwpCnik=||Shabby cabinet
+T-CuSky5PBw3Hxmao+8Ofi1xMI+u4=||锯木工具，更高效的将原本锯成木板
+T-nofZo5GJ0huPiQiDAyDofMkpH0c=||锯木
+T-1jla/I5Dz8o1e9RMKXR3SKXC2NM=||锯木工具
+T-REaobKR48syvqc0/j3H6EZGWzgQ=||深入神秘小镇
+T-yY0RF3DpfrK5C2lqvlkKtgiOcoA=||深入小镇
+T-5LIMeIolezR2zWU/21bf3GiZz+g=||红色的砖房，灰尘在眼前飞扬。
+T-UvyfDPiEk+yfGRaRUgXMk+qjkAI=||这个僵尸好像对我有敌意
+T-J6vg1juh744IXEC+nVIinmJ5NqM=||站在墙后的僵尸
+T-R4N8qKcgWwxiY8aa9CJ6Cqqh/90=||一些骸骨
+T-U1fQPvVlhp32jLklRp47MomJISk=||他走过来
+T-EwOj/FCxP+u3V+Y09dRQ31hHV4U=||发现一些僵尸
+T-npqDRE+63E5wolQJUWgmgyEaK6Y=||他们来了
+T-14LSsxwg0SKSx1yqPSaNrKHr6BI=||准备战斗
+T-Fw+WjMXEO9qSUaGoRa16+22y+Do=||愿逝者安息
+T-ch9Mc/avlvyyXqKlz40gAjS9QQA=||他们复活了
+T-lX/LSlbw89xEB5+aVi/EyEPu1FE=||骨头还能用？
+T-b91BGFDrZ5x07v9fr+ma0c3oiIk=||一些风干的骸骨
+T-SZ7UR5x+5OorHk3h/TX+T/C67ds=||骸骨
+T-LgJiOWb5OR+s9urvyLB57VtjC+4=||Continue
+T-vtv52AWTPp+ADmOJtzMfrBJlEws=||lajix
+T-Gmws76IDXmYMCBCns0HXATZ5fH0=||红砖房
+T-oG0eXhuS1tmOfC1GgoSL7Fl2iAk=||神秘小镇内部
+T-qy+mP5Fmrk/sk0b9FXTRKn8HgVc=||移动到神秘小镇
+T-JD895ughaHx7HMjItPeBCJENP4w=||一个废弃砖房
+T-c4x218LzRBUtGbaC4jsNoiFoEjg=||Travelling to the Beach...
+T-nAoCo1utVbCmie4RrfyXHebi9PE=||离开红砖房
+COD_Event_BigBen_BeatTime_TypeEight_CardDescription||从远处传来钟声的回响..
+COD_Event_BigBen_BeatTime_TypeEight_CardName||钟
+COD_Event_BigBen_BeatTime_TypeEight_DismantleActions[0].ActionName||继续
+COD_Event_BigBen_BeatTime_TypeFive_CardDescription||从远处传来钟声的回响..
+COD_Event_BigBen_BeatTime_TypeFive_CardName||钟
+COD_Event_BigBen_BeatTime_TypeFive_DismantleActions[0].ActionName||继续
+COD_Event_BigBen_BeatTime_TypeFour_CardDescription||从远处传来钟声的回响..
+COD_Event_BigBen_BeatTime_TypeFour_CardName||钟
+COD_Event_BigBen_BeatTime_TypeFour_DismantleActions[0].ActionName||继续
+COD_Event_BigBen_BeatTime_TypeOne_CardDescription||从远处传来钟声的回响..
+COD_Event_BigBen_BeatTime_TypeOne_CardName||钟
+COD_Event_BigBen_BeatTime_TypeOne_DismantleActions[0].ActionName||继续
+COD_Event_BigBen_BeatTime_TypeSeven_CardDescription||从远处传来钟声的回响..
+COD_Event_BigBen_BeatTime_TypeSeven_CardName||钟
+COD_Event_BigBen_BeatTime_TypeSeven_DismantleActions[0].ActionName||继续
+COD_Event_BigBen_BeatTime_TypeSix_CardDescription||从远处传来钟声的回响..
+COD_Event_BigBen_BeatTime_TypeSix_CardName||钟
+COD_Event_BigBen_BeatTime_TypeSix_DismantleActions[0].ActionName||继续
+COD_Event_BigBen_BeatTime_TypeThree_CardDescription||从远处传来钟声的回响..
+COD_Event_BigBen_BeatTime_TypeThree_CardName||钟
+COD_Event_BigBen_BeatTime_TypeThree_DismantleActions[0].ActionName||继续
+COD_Event_BigBen_BeatTime_TypeTwo_CardDescription||从远处传来钟声的回响..
+COD_Event_BigBen_BeatTime_TypeTwo_CardName||钟
+COD_Event_BigBen_BeatTime_TypeTwo_DismantleActions[0].ActionName||继续
+COD_Event_Heilcopter_AirDropToBrokenPort_CardDescription||一处空投降落在了海岸附近。
+COD_Event_Heilcopter_AirDropToBrokenPort_CardName||直升机
+COD_Event_Heilcopter_AirDropToBrokenPort_DismantleActions[0].ActionLog.LogText||I tried to hunt a boar but it escaped.
+COD_Event_Heilcopter_AirDropToBrokenPort_DismantleActions[0].ActionName||继续
+COD_Event_Heilcopter_AirDropToDecayCity_CardDescription||一处空投降落在了城市附近。
+COD_Event_Heilcopter_AirDropToDecayCity_CardName||直升机
+COD_Event_Heilcopter_AirDropToDecayCity_DismantleActions[0].ActionLog.LogText||I tried to hunt a boar but it escaped.
+COD_Event_Heilcopter_AirDropToDecayCity_DismantleActions[0].ActionName||继续
+COD_Event_Heilcopter_AirDropToModernStreet_CardDescription||一处空投降落在了城市高楼附近。
+COD_Event_Heilcopter_AirDropToModernStreet_CardName||直升机
+COD_Event_Heilcopter_AirDropToModernStreet_DismantleActions[0].ActionLog.LogText||I tried to hunt a boar but it escaped.
+COD_Event_Heilcopter_AirDropToModernStreet_DismantleActions[0].ActionName||继续
+COD_Event_Heilcopter_AirDropToSmallTown_CardDescription||一处空投降落在了郊外附近。
+COD_Event_Heilcopter_AirDropToSmallTown_CardName||直升机
+COD_Event_Heilcopter_AirDropToSmallTown_DismantleActions[0].ActionLog.LogText||I tried to hunt a boar but it escaped.
+COD_Event_Heilcopter_AirDropToSmallTown_DismantleActions[0].ActionName||继续
+COD_Event_HelicopterApproach_CardDescription||直升机就在附近的上空盘旋，探照灯将地面照射的清晰可见。
+COD_Event_HelicopterApproach_CardName||直升机
+COD_Event_HelicopterApproach_DismantleActions[0].ActionLog.LogText||I tried to hunt a boar but it escaped.
+COD_Event_HelicopterApproach_DismantleActions[0].ActionName||继续
+COD_Nc_Heilcopter_CardDescription||直升机悬浮在上空，强大的气流伴随着机器的轰鸣声。
+COD_Nc_Heilcopter_CardName||直升机
+COD_Nc_MassCorpses_TypeFour_CardDescription||它们在追逐直升机！
+COD_Nc_MassCorpses_TypeFour_CardName||尸群
+COD_Nc_MassCorpses_TypeOne_CardDescription||它们在追逐直升机！
+COD_Nc_MassCorpses_TypeOne_CardName||尸群
+COD_Nc_MassCorpses_TypeThree_CardDescription||它们在追逐直升机！
+COD_Nc_MassCorpses_TypeThree_CardName||尸群
+COD_Nc_MassCorpses_TypeTwo_CardDescription||它们在追逐直升机！
+COD_Nc_MassCorpses_TypeTwo_CardName||尸群
+Cod_Nc_SpecailEvent_Foggy_Visualization_DecayCity_TypeFour_CardDescription||迷雾遍及视野，耳边寂静无声。
+Cod_Nc_SpecailEvent_Foggy_Visualization_TypeOne_CardDescription||迷雾遍及视野，耳边寂静无声。
+Cod_Nc_SpecailEvent_Foggy_Visualization_DecayCity_TypeThree_CardDescription||迷雾遍及视野，耳边寂静无声。
+Cod_Nc_SpecailEvent_Foggy_Visualization_DecayCity_TypeTwo_CardDescription||迷雾遍及视野，耳边寂静无声。
+COD_Bp_IncendiaryBottle_BlueprintFinishedLog.LogText||I crafted a bow.
+COD_Bp_IncendiaryBottle_CardDescription||一个简易的燃烧瓶。
+COD_Bp_IncendiaryBottle_CardName||燃烧瓶
+COD_Bp_IncendiaryBottle_UnlockConditionsDesc||需要更高的制作等级
+Cod_Bp_SpecialWeapons_IncendiaryBottle_TypeFour_BlueprintFinishedLog.LogText||I crafted a bow.
+Cod_Bp_SpecialWeapons_IncendiaryBottle_TypeFour_CardDescription||一个简易燃烧瓶。
+Cod_Bp_SpecialWeapons_IncendiaryBottle_TypeFour_CardName||燃烧瓶
+Cod_Bp_SpecialWeapons_IncendiaryBottle_TypeFour_UnlockConditionsDesc||需要更高的制作等级
+Cod_Bp_SpecialWeapons_IncendiaryBottle_TypeThree_BlueprintFinishedLog.LogText||I crafted a bow.
+Cod_Bp_SpecialWeapons_IncendiaryBottle_TypeThree_CardDescription||一组简易燃烧瓶。
+Cod_Bp_SpecialWeapons_IncendiaryBottle_TypeThree_CardName||燃烧瓶组
+Cod_Bp_SpecialWeapons_IncendiaryBottle_TypeThree_UnlockConditionsDesc||需要更高的制作等级
+COD_Bp_IncendiaryBottle_TypeTwo_BlueprintFinishedLog.LogText||I crafted a bow.
+COD_Bp_IncendiaryBottle_TypeTwo_CardDescription||一组简易燃烧瓶。
+COD_Bp_IncendiaryBottle_TypeTwo_CardName||燃烧瓶组
+COD_Bp_IncendiaryBottle_TypeTwo_UnlockConditionsDesc||需要更多的燃烧弹熟练
+COD_Event_IncendiaryBottle_BurnSelf_CardDescription||燃烧瓶在手中爆炸了！
+COD_Event_IncendiaryBottle_BurnSelf_CardName||燃烧瓶
+COD_Event_IncendiaryBottle_BurnSelf_DismantleActions[0].ActionName||啊！
+COD_Nc_IncendiaryBottle_CardDescription||简易制作的燃烧瓶。
+COD_Nc_IncendiaryBottle_CardInteractions[0].ActionDescription||点燃
+COD_Nc_IncendiaryBottle_CardInteractions[0].ActionLog.LogText||I sharpened a stone to use it as a tool.
+COD_Nc_IncendiaryBottle_CardInteractions[0].ActionName||点燃
+COD_Nc_IncendiaryBottle_CardName||燃烧瓶
+COD_Nc_IncendiaryBottle_Fire_CardDescription||汹涌的火焰从瓶口窜出！
+LuaCardOnCardAction||投掷燃烧瓶！
+COD_Nc_IncendiaryBottle_Fire_CardName||燃烧瓶（点燃）
+COD_Nc_IncendiaryBottle_Fire_DismanleActionOneName||扔掉
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeFour_CardDescription||一触即发。
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeFour_CardInteractions[0].ActionName||投掷！
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeFour_CardName||手雷
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeOne_CardDescription||一触即发。
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeOne_CardInteractions[0].ActionName||投掷！
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeOne_CardName||手雷
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeThree_CardDescription||一触即发。
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeThree_CardInteractions[0].ActionName||投掷！
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeThree_CardName||手雷
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeTwo_CardDescription||一触即发。
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeTwo_CardInteractions[0].ActionName||投掷！
+Cod_Nc_SpecialWeapon_Explosives_Grenade_TypeTwo_CardName||手雷
+Cod_Nc_StartingItem_HumanNecklace_CardDescription||生者在前，亡者在后。
+Cod_Nc_StartingItem_HumanNecklace_CardName||项坠
+COD_Nc_Antidote_CardDescription||仅存的希望,,多一点点的时间..
+COD_Nc_Antidote_CardName||解毒剂
+COD_Nc_Antidote_One||注射
+COD_Nc_Antidote_ACGTest_CardDescription||来源不明，背后有一个三角形的图案。
+COD_Nc_Antidote_ACGTest_CardName||ACG试验剂
+COD_Nc_Antidote_ACGTest_One||注射
+COD_cod_flashlight_off_CardDescription||关闭的手电
+COD_cod_flashlight_off_CardName||关闭的手电
+T-ZfyB4WEZi8Zws8gGLIUZraaWRr0=||打开
+COD_PhoneOff_DismantleActions[0].RequiredReceivingDurabilities.FailMessage||Not enough Battery
+COD_cod_charge_hand_DismantleActions[0].ActionName||手动发电
+COD_cod_flashlight_on_CardDescription||手电光源
+COD_cod_flashhight_on_CardName||开启的手电
+T-bBS9f2+eVORgJNNd/ixFSMmjgh0=||关闭
+COD_PhoneOnLight_FuelCapacity.OnZero.ActionName||Battery Empty
+Cod_Test_BoarTiedMale_CardDescription||A live boar. Could feed it to keep it alive or release it inside an enclosure.
+Cod_Test_BoarTiedMale_CardInteractions[0].ActionName||Feed
+Cod_Test_BoarTiedMale_CardInteractions[0].RequiredReceivingDurabilities.FailMessage||Not hungry yet.
+Cod_Test_BoarTiedMale_CardInteractions[1].ActionName||Feed
+Cod_Test_BoarTiedMale_CardInteractions[1].RequiredReceivingDurabilities.FailMessage||Not hungry yet.
+Cod_Test_BoarTiedMale_CardInteractions[2].ActionName||Feed
+Cod_Test_BoarTiedMale_CardInteractions[2].RequiredReceivingDurabilities.FailMessage||Not hungry yet.
+Cod_Test_BoarTiedMale_CardInteractions[3].ActionName||Give Water
+Cod_Test_BoarTiedMale_CardInteractions[3].RequiredReceivingDurabilities.FailMessage||Not thirsty yet.
+Cod_Test_BoarTiedMale_CardInteractions[4].ActionName||Kill
+Cod_Test_BoarTiedMale_CardName||Boar
+Cod_Test_BoarTiedMale_DismantleActions[0].ActionName||Release in Enclosure
+Cod_Test_BoarTiedMale_DismantleActions[1].ActionName||Set Free
+Cod_Test_BoarTiedMale_Progress.CardStatName||Stress
+Cod_Test_BoarTiedMale_SpecialDurability1.CardStatName||Weight
+Cod_Test_BoarTiedMale_SpoilageTime.CardStatName||Hunger
+Cod_Test_BoarTiedMale_UsageDurability.CardStatName||Thirst
+Cod_Test_BoarTiedMale_UsageDurability.OnZero.ActionName||Dead of Thirst
+Cod_Test_CoconutShell_Oil_CardDescription||I could fill it with water.
+Cod_Test_CoconutShell_Oil_CardName||Test_CoconutShell_Oil
+Cod_Test_CoconutShell_Water_CardDescription||I could fill it with water.
+Cod_Test_CoconutShell_Water_CardName||Test_CoconutShell_Oil
+Cod_Test_CopperVein_CardDescription||I think this is copper, perhaps I can do something with it?
+Cod_Test_CopperVein_CardInteractions[0].ActionName||Mine
+Cod_Test_CopperVein_CardInteractions[1].ActionName||Boom!
+Cod_Test_CopperVein_CardName||Copper Vein
+Cod_Test_DtbanuteOff_CardDescription||Very dangerous. Light the fuse and make things explode.
+Cod_Test_DtbanuteOff_CardInteractions[0].ActionName||Light
+Cod_Test_DtbanuteOff_CardName||Dynamite
+Cod_Test_DybanuteOn_CardDescription||Very dangerous. I should use it soon.
+Cod_Test_DybanuteOn_CardName||Dynamite
+Cod_Test_DybanuteOn_DismantleActions[0].ActionName||Extinguish
+Cod_Test_DybanuteOn_FuelCapacity.OnZero.ActionDescription||Dynamite Extinguished
+Cod_Test_Fire_CardDescription||Perfect for cooking food and warming yourself up.
+Cod_Test_Fire_CardInteractions[0].ActionName||Feed Coconut
+Cod_Test_Fire_CardInteractions[1].ActionName||Feed Firewood
+T-25Pqlyz+mxBMKXV7PBRucxC562c=||Feed Fuel
+T-OJiUYugZHjnwBTNB54nSiZa/vH0=||Feed Fuel Weak
+Cod_Test_Fire_CardInteractions[3].ActionName||Feed Charcoal
+Cod_Test_Fire_CardInteractions[4].ActionName||Feed Snakegrass
+Cod_Test_Fire_CardInteractions[5].ActionName||Light Tinder
+Cod_Test_Fire_CardInteractions[6].ActionName||Feed Leaves
+Cod_Test_Fire_CardInteractions[7].ActionName||Make Rustic Spear
+Cod_Test_Fire_CardInteractions[8].ActionName||Feed Husk
+Cod_Test_Fire_CardInteractions[9].ActionName||Place Alembic
+Cod_Test_Fire_CardName||Campfire
+Cod_Test_Fire_CookingRecipes[0].ActionName||Bat
+Cod_Test_Fire_CookingRecipes[1].ActionName||Bird
+Cod_Test_Fire_CookingRecipes[2].ActionName||Boar
+Cod_Test_Fire_CookingRecipes[3].ActionName||Boiling Citronella Mix
+Cod_Test_Fire_CookingRecipes[4].ActionName||Boiling Glue
+Cod_Test_Fire_CookingRecipes[5].ActionName||Boiling Jasmine Mix
+Cod_Test_Fire_CookingRecipes[6].ActionName*||Boiling Rice
+Cod_Test_Fire_CookingRecipes[6].ActionName||Boiling Rice
+Cod_Test_Fire_CookingRecipes[8].ActionName*||Boiling Salt
+Cod_Test_Fire_CookingRecipes[8].CannotCookText*||Not enough salt water...
+Cod_Test_Fire_CookingRecipes[8].ActionName||Boiling Sap
+Cod_Test_Fire_CookingRecipes[8].CannotCookText||Not enough sap...
+Cod_Test_Fire_CookingRecipes[9].ActionName||Boiling Water
+Cod_Test_Fire_CookingRecipes[10].ActionName||Boiling Water
+Cod_Test_Fire_CookingRecipes[11].ActionName||Boiling Yam
+Cod_Test_Fire_CookingRecipes[12].ActionName||Bonefish
+Cod_Test_Fire_CookingRecipes[13].ActionName||Butter Baked Oysters
+Cod_Test_Fire_CookingRecipes[14].ActionName||Candied Ginger
+Cod_Test_Fire_CookingRecipes[15].ActionName||Charred Remains
+Cod_Test_Fire_CookingRecipes[15].CustomCookingText||Burnt in {0}
+Cod_Test_Fire_CookingRecipes[15].CustomNotification||{0} is burnt...
+Cod_Test_Fire_CookingRecipes[17].ActionName||Coconut Fish
+Cod_Test_Fire_CookingRecipes[18].ActionName||Coconut Meat
+Cod_Test_Fire_CookingRecipes[19].ActionName||Coffee
+Cod_Test_Fire_CookingRecipes[20].ActionName||Conch Meat
+Cod_Test_Fire_CookingRecipes[21].ActionName||Cook Jerrycan
+Cod_Test_Fire_CookingRecipes[22].ActionName||Crab
+Cod_Test_Fire_CookingRecipes[16].ActionName||Drunken Crab
+Cod_Test_Fire_CookingRecipes[23].ActionName||Dry Mud
+Cod_Test_Fire_CookingRecipes[24].ActionName||Egg
+Cod_Test_Fire_CookingRecipes[70].ActionName||Egg Fried Rice
+Cod_Test_Fire_CookingRecipes[25].ActionName||Fire Clay Bowl
+Cod_Test_Fire_CookingRecipes[26].ActionName||Fish N Chips
+Cod_Test_Fire_CookingRecipes[27].ActionName||Fish Omelette
+Cod_Test_Fire_CookingRecipes[28].ActionName||Fish Scraps
+Cod_Test_Fire_CookingRecipes[29].ActionName||Fish Slices
+Cod_Test_Fire_CookingRecipes[30].ActionName||Fried Bananas
+Cod_Test_Fire_CookingRecipes[72].ActionName||Fried Puffballs
+Cod_Test_Fire_CookingRecipes[31].ActionName||Glue Heat Up
+Cod_Test_Fire_CookingRecipes[32].ActionName||Goat
+Cod_Test_Fire_CookingRecipes[33].ActionName||Goat Stew
+Cod_Test_Fire_CookingRecipes[34].ActionName||Goatfish
+Cod_Test_Fire_CookingRecipes[35].ActionName||Grouper
+Cod_Test_Fire_CookingRecipes[36].ActionName||Heating Up Glue
+Cod_Test_Fire_CookingRecipes[37].ActionName||Herring
+Cod_Test_Fire_CookingRecipes[38].ActionName||Honey Candy
+Cod_Test_Fire_CookingRecipes[39].ActionName||Honey Glazed Pork
+Cod_Test_Fire_CookingRecipes[40].ActionName||Island Chicken
+Cod_Test_Fire_CookingRecipes[41].ActionName||Lizard
+Cod_Test_Fire_CookingRecipes[42].ActionName||Lizard Fry
+Cod_Test_Fire_CookingRecipes[43].ActionName||Macaque
+Cod_Test_Fire_CookingRecipes[44].ActionName||Macaque Skewers
+Cod_Test_Fire_CookingRecipes[45].ActionName||Make Lye
+Cod_Test_Fire_CookingRecipes[46].ActionName||Make Oil
+Cod_Test_Fire_CookingRecipes[47].ActionName||Make Soap
+Cod_Test_Fire_CookingRecipes[48].ActionName||Monitor
+Cod_Test_Fire_CookingRecipes[49].ActionName||Mouse
+Cod_Test_Fire_CookingRecipes[50].ActionName||Mudskipper
+Cod_Test_Fire_CookingRecipes[51].ActionName||Oyster
+Cod_Test_Fire_CookingRecipes[52].ActionName||Parrotfish
+Cod_Test_Fire_CookingRecipes[53].ActionName||Pork Feast
+Cod_Test_Fire_CookingRecipes[54].ActionName||Prawns
+Cod_Test_Fire_CookingRecipes[55].ActionName||Protein Bars
+Cod_Test_Fire_CookingRecipes[56].ActionName||Sago Cake
+Cod_Test_Fire_CookingRecipes[57].ActionName||Sago Flatbread
+Cod_Test_Fire_CookingRecipes[58].ActionName||Sago Slime
+Cod_Test_Fire_CookingRecipes[59].ActionName||Scrappy Soup
+Cod_Test_Fire_CookingRecipes[61].ActionName||Seahound
+Cod_Test_Fire_CookingRecipes[60].ActionName||Shark
+Cod_Test_Fire_CookingRecipes[62].ActionName||Snake
+Cod_Test_Fire_CookingRecipes[63].ActionName||Soft Conch Meat
+Cod_Test_Fire_CookingRecipes[64].ActionName||Threadfin
+Cod_Test_Fire_CookingRecipes[65].ActionName||Tropical Almonds
+Cod_Test_Fire_CookingRecipes[66].ActionName||Urchin
+Cod_Test_Fire_CookingRecipes[67].ActionName||Yam Curry
+Cod_Test_Fire_CookingRecipes[68].ActionName||Yam Jam
+Cod_Test_Fire_DismantleActions[0].ActionName||Take Embers
+Cod_Test_Fire_DismantleActions[0].RequiredReceivingDurabilities.FailMessage||Charcoal not ready yet.
+Cod_Test_Fire_DismantleActions[1].ActionName||Extinguish Fire
+Cod_Test_Fire_DismantleActions[2].ActionName||Dismantle
+Cod_Test_GoatFeeder_CardDescription||A device to feed goats with minimal work.
+Cod_Test_GoatFeeder_CardInteractions[0].ActionName||Feed
+Cod_Test_GoatFeeder_CardInteractions[1].ActionName||Feed
+Cod_Test_GoatFeeder_CardInteractions[2].ActionName||Feed
+Cod_Test_GoatFeeder_CardName||Goat Feeder
+Cod_Test_GoatFeeder_CookingConditions.CookingPausedNotification||Organic waste needed!
+Cod_Test_GoatFeeder_DismantleActions[0].ActionName||Dismantle
+Cod_Test_GoatFeeder_FuelCapacity.CardStatName||Food
+Cod_Test_GoatFeeder_FuelCapacity.OnZero.ActionDescription||Out of food!
+Cod_Test_GoatStew_CardDescription||Filling, and tasty.
+Cod_Test_GoatStew_CardName||Goat Stew
+Cod_Test_GoatStew_UnlockConditionsDesc||Goat Meat Needed
+Cod_Test_Liquid_Water_CardDescription||Fresh, drinkable water.
+Cod_Test_Liquid_Water_CardName||Water
+Cod_Test_Liquid_Water_DismantleActions[0].ActionName||Drink
+Cod_Test_Liquid_Water_DismantleActions[1].ActionName||Wash Yourself
+COD_Test_One_CardDescription||A pile of feathers.
+COD_Test_One_CardInteractions[0].ActionName||Ground
+COD_Test_One_CardInteractions[1].ActionName||Light with Hand Drill
+COD_Test_One_CardInteractions[2].ActionName||Light with Bow Drill
+COD_Test_One_CardInteractions[3].ActionName||Light Tinder
+COD_Test_One_CardName||Feathers
+COD_Test_One_DismantleActions[0].ActionName||触碰
+Cod_Test_Puddle_CardDescription||A natural water reserve.
+Cod_Test_Puddle_CardInteractions[0].ActionName||Dig Up Mud
+Cod_Test_Puddle_CardInteractions[1].ActionName||Dig Up Dirt
+Cod_Test_Puddle_CardInteractions[2].ActionName||Mosquito Protection
+Cod_Test_Puddle_CardName||Dry Puddle
+Cod_Test_Puddle_DismantleActions[0].ActionName||Dig up Mud
+Cod_Test_Puddle_DismantleActions[1].ActionName||Dig up Dirt
+Cod_Test_Puddle_FuelCapacity.CardStatName||Mosquito Protection
+Cod_Test_RottenRemains_CardDescription||Eugh...
+Cod_Test_RottenRemains_CardName||Rotten Remains
+Cod_Test_RottenRemains_DismantleActions[0].ActionName||Eat
+Cod_Test_SaltBed_CardDescription||Ideal for extracting Salt from Seawater.
+Cod_Test_SaltBed_CardName||Salt Bed
+Cod_Test_SaltBed_DismantleActions[0].ActionName||Scrape Salt
+Cod_Test_SaltBed_DismantleActions[1].ActionName||Scrape Salt
+Cod_Test_SaltBed_DismantleActions[2].ActionDescription||Collect Salt from Salt Bed
+Cod_Test_SaltBed_DismantleActions[2].ActionName||Scrape Salt
+T-kH5VY9eXOg9n6dItxXAQH7CBzcg=||Demolish
+Cod_Test_SaltBed_FuelCapacity.CardStatName||Salt
+Cod_Test_SaltBed_SpecialDurability1.CardStatName||Dissolved Niter
+Cod_Test_SaltBed_UsageDurability.CardStatName||Water
+Cod_Test_ScavengingSupplies_Food_BaggedFood_TypeFive_CardDescription||满满一大袋食品。
+Cod_Test_ScavengingSupplies_Food_BaggedFood_TypeFive_CardName||袋装食品
+LuaCardAction||食用
+Cod_Test_Stone_CardDescription||Useful as a hammer, could also be sharpened on another stone. Could also fire it in a kiln to make quicklime.
+Cod_Test_Stone_CardInteractions[0].ActionLog.LogText||I sharpened a stone to use it as a tool.
+Cod_Test_Stone_CardInteractions[0].ActionName||Sharpen Stone
+Cod_Test_Stone_CardName||Stone
+Cod_Test_Stone_DismantleActions[0].ActionName||Practice Rock Throwing
+Cod_Test_TidePool_CardDescription||Can be foraged for food. Should refill during high tides.
+Cod_Test_TidePool_CardInteractions[0].ActionName||Fill
+Cod_Test_TidePool_CardName||Tide Pool
+Cod_Test_TidePool_DismantleActions[0].ActionName||Forage
+Cod_Test_TidePool_DismantleActions[1].ActionName||Wash yourself
+Cod_Test_TidePool_DismantleActions[2].ActionName||Drink
+Cod_Test_TidePool_OnStatsChangeActions[0].ActionName||Flood
+Cod_Test_TidePool_UsageDurability.CardStatName||Food
+Cod_Test_TinderLit_CardDescription||Should place it in a campfire to light it.
+Cod_Test_TinderLit_CardName||Lit Tinder
+Cod_Tes_GoatEnclosureFemale_CardDescription||Can milk it when it's lactating or slaughter it for its meat and leather.
+Cod_Tes_GoatEnclosureFemale_CardInteractions[0].ActionName||Feed
+Cod_Tes_GoatEnclosureFemale_CardInteractions[0].RequiredReceivingDurabilities.FailMessage||Not hungry yet.
+Cod_Tes_GoatEnclosureFemale_CardInteractions[1].ActionName||Give Water
+Cod_Tes_GoatEnclosureFemale_CardInteractions[1].RequiredReceivingDurabilities.FailMessage||Not thirsty yet.
+Cod_Tes_GoatEnclosureFemale_CardInteractions[2].ActionName||Kill
+Cod_Tes_GoatEnclosureFemale_CardName||Goat
+Cod_Tes_GoatEnclosureFemale_DismantleActions[0].ActionName||Set Free
+Cod_Tes_GoatEnclosureFemale_DismantleActions[1].ActionName||Pick Up
+Cod_Tes_GoatEnclosureFemale_DismantleActions[2].ActionName||Pet
+Cod_Tes_GoatEnclosureFemale_FuelCapacity.CardStatName||Pregnancy
+Cod_Tes_GoatEnclosureFemale_FuelCapacity.OnFull.ActionDescription||Goat has given birth!
+Cod_Tes_GoatEnclosureFemale_Progress.CardStatName||Stress
+Cod_Tes_GoatEnclosureFemale_SpecialDurability4.CardStatName||Poop
+Cod_Tes_GoatEnclosureFemale_SpoilageTime.CardStatName||Hunger
+Cod_Tes_GoatEnclosureFemale_SpoilageTime.OnZero.ActionDescription||Goat died of starvation!
+Cod_Tes_GoatEnclosureFemale_SpoilageTime.OnZero.ActionName||Oh no!
+Cod_Tes_GoatEnclosureFemale_UsageDurability.CardStatName||Thirst
+Cod_Tes_GoatEnclosureFemale_UsageDurability.OnZero.ActionName||Dead of Thirst
+T-ZsRSfOZTL94WGvNs5+KtyDU1PHo=||一小袋铸币
+T-3u3bgWLgcRf3fade2iYoC4qtYYE=||取出铸币
+T-MzQfKuO+DlCEciFWQ65skgg4P+A=||一箱罐头食品
+T-2cHUWQ+5dcRVxwoXKRP4Zw68Waw=||取出罐头
+COD_Nc_Gun_CardDescription||Could be useful for hunting.
+COD_Nc_Gun_CardInteraction||装填
+COD_Nc_Gun_CardName||枪
+COD_Nc_Gun_UsageDurability.OnZero.ActionName||Out of ammo
+COD_Nc_Gun_Empty_CardDescription||A deadweight now, it no longer has any ammo.
+COD_Nc_Gun_Empty_TakeMeat[0].ActionName||填装
+COD_Nc_Gun_Empty_CardName||空的手枪
+COD_Nc_Gun_Empty_UsageDurability.OnZero.ActionName||Out of ammo
+COD_Nc_RusticSpear_Destory_CardDescription||布满了的时代的痕迹，矛柄处有一道明显的裂痕。
+COD_Nc_RusticSpear_Destory_CardName||破损长矛
+COD_Nc_RusticSpear_Destory_DismantleActions[0].ActionName||Train
+COD_Nc_RusticSpear_Destory_UsageDurability.OnZero.ActionName||The Spear Breaks
+T-E8SpRJ8K9uiq7LcSoYe1jpCpCTU=||一个用红砖土特殊制成的子弹
+T-IUdhiDWGLy4WYLBQpJ6xMhCbbVA=||左轮子弹
+T-HUbbSMl/uVxe8RQoYQLNcrSTKsU=||一把改装的左轮，可以装更多弹药
+T-vIjU4Dvi5bXpIk/uGnmgulRU3H8=||装弹
+COD_cod_Gun_CardOnCardAction[0].RequiredReceivingDurabilities.FailMessage||装满了
+T-jayG8obiRJBvZbJq3pB6uiXHGaY=||左轮手枪
+COD_Gun_UsageDurability.OnZero.ActionName||Out of ammo
+T-12srkg/V97VbOzNE19WHCV0ad48=||一把没有弹药的左轮，得找点弹药
+T-zaiJZE3SAwH9g3/9mhVEqah7KeY=||装填
+T-wJE0qrb64LktRV8+XsIbaZmHVx0=||空的左轮
+COD_GunEmpty_UsageDurability.OnZero.ActionName||Out of ammo
+COD_Event_FilthyZombie_AttackFail_Injured_CardDescription||武器将其洞穿，大量的酸液从中炸开！
+COD_Event_FilthyZombie_AttackFail_Injured_CardName||污秽
+COD_Event_FilthyZombie_AttackFail_Injured_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_FilthyZombie_AttackFail_Injured_DismantleActions[0].ActionName||继续
+COD_Event_FilthyZombie_ShootingBlank_CardDescription||弹药从其臃肿的肚子旁划过。
+COD_Event_FilthyZombie_ShootingBlank_CardName||失手
+COD_Event_FilthyZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_FilthyZombie_ShootingBlank_DismantleActions[0].ActionName||继续
+COD_Event_GiantBusterZombie_AttackSuccess_Injured_CardDescription||我击中了它，但是也受伤了。
+COD_Event_GiantBusterZombie_AttackSuccess_Injured_CardName||巨霸
+COD_Event_GiantBusterZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_GiantBusterZombie_AttackSuccess_Injured_DismantleActions[0].ActionName||Continue
+COD_Event_GiantBusterZombie_DodgeFail_CardDescription||它猛然朝我撞过来了！
+COD_Event_GiantBusterZombie_DodgeFail_CardName||逃脱
+COD_Event_GiantBusterZombie_DodgeFail_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_GiantBusterZombie_DodgeFail_DismantleActions[0].ActionName||继续
+COD_Event_GiantBusterZombie_ShootingBlank_CardDescription||我失手了！
+COD_Event_GiantBusterZombie_ShootingBlank_CardName||进攻
+COD_Event_GiantBusterZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_GiantBusterZombie_ShootingBlank_DismantleActions[0].ActionName||继续
+COD_Event_OrdinaryZombie_DodgeFail_CardDescription||在我离开之前它伤到了我！
+COD_Event_OrdinaryZombie_DodgeFail_CardName||逃脱
+COD_Event_OrdinaryZombie_DodgeFail_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_OrdinaryZombie_DodgeFail_DismantleActions[0].ActionName||继续
+COD_Event_OrdinaryZombie_ShootingBlank_CardDescription||我失手了！
+COD_Event_OrdinaryZombie_ShootingBlank_CardName||对抗
+COD_Event_OrdinaryZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_OrdinaryZombie_ShootingBlank_DismantleActions[0].ActionName||继续
+COD_Event_PetrifiedZombie_AttackSuccess_Injured_CardDescription||弹药重击了它的身体，迸发的石块从空中砸来！
+COD_Event_PetrifiedZombie_AttackSuccess_Injured_CardName||石化
+COD_Event_PetrifiedZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_PetrifiedZombie_AttackSuccess_Injured_DismantleActions[0].ActionName||继续
+COD_Event_PetrifiedZombie_ShootingBlank_CardDescription||我失手了！
+COD_Event_PetrifiedZombie_ShootingBlank_CardName||进攻
+COD_Event_PetrifiedZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_PetrifiedZombie_ShootingBlank_DismantleActions[0].ActionName||继续
+COD_Event_ScreamingZombies_AttackFail_ScreamingSuccess_CardDescription||猩红色的唾液在眼前飞溅，震耳的尖啸遍及所有视野！
+COD_Event_ScreamingZombies_AttackFail_ScreamingSuccess_CardName||进攻
+COD_Event_ScreamingZombies_AttackFail_ScreamingSuccess_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_ScreamingZombies_AttackFail_ScreamingSuccess_DismantleActions[0].ActionName||捂住耳朵
+COD_Event_ScreamingZombies_AttackSuccess_ScreamingSuccess_CardDescription||猩红色的声波就在眼前！下一刻武器的重击将脑袋打碎。
+COD_Event_ScreamingZombies_AttackSuccess_ScreamingSuccess_CardName||尖叫
+COD_Event_ScreamingZombies_AttackSuccess_ScreamingSuccess_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_ScreamingZombies_AttackSuccess_ScreamingSuccess_DismantleActions[0].ActionName||闭嘴！
+COD_Event_ScreamingZombies_Burn_ScreamingSuccess_CardDescription||火焰迅速窜上尖叫的身体，巨大的惨叫从中喊出！直至其烧成灰烬。
+COD_Event_ScreamingZombies_Burn_ScreamingSuccess_CardName||尖啸
+COD_Event_ScreamingZombies_Burn_ScreamingSuccess_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_ScreamingZombies_Burn_ScreamingSuccess_DismantleActions[0].ActionName||捂住耳朵
+COD_Event_ScreamingZombies_Screamin_CardDescription||猩红色的唾液在眼前飞溅，震耳的尖啸遍及所有视野！
+COD_Event_ScreamingZombies_Screamin_CardName||尖啸
+COD_Event_ScreamingZombies_Screamin_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_ScreamingZombies_Screamin_DismantleActions[0].ActionName||捂住耳朵
+COD_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_CardDescription||猩红色的唾液在眼前飞溅，震耳的尖啸遍及所有视野！
+COD_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_CardName||打空了！
+COD_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_DismantleActions[0].ActionName||捂住耳朵
+COD_Event_SharpClawZombie_AttackSuccess_Injured_CardDescription||我干掉了它，但是也受伤了。
+COD_Event_SharpClawZombie_AttackSuccess_Injured_CardName||利爪
+COD_Event_SharpClawZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_SharpClawZombie_AttackSuccess_Injured_DismantleActions[0].ActionName||继续
+COD_Event_SharpClawZombie_ShootingBlank_CardDescription||我失手了！
+COD_Event_SharpClawZombie_ShootingBlank_CardName||利爪
+COD_Event_SharpClawZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_SharpClawZombie_ShootingBlank_DismantleActions[0].ActionName||继续
+COD_Event_SwiftZombie_AttackSuccess_Injured_CardDescription||我干掉了它，但是也受伤了。
+COD_Event_SwiftZombie_AttackSuccess_Injured_CardName||迅猛
+COD_Event_SwiftZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_SwiftZombie_AttackSuccess_Injured_DismantleActions[0].ActionName||继续
+COD_Event_SwiftZombie_DodgeFail_CardDescription||它扒拉在我身上！
+COD_Event_SwiftZombie_DodgeFail_CardName||逃脱
+COD_Event_SwiftZombie_DodgeFail_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_SwiftZombie_DodgeFail_DismantleActions[0].ActionName||继续
+COD_Event_SwiftZombie_ShootBlank_CardDescription||攻击被它迅速的躲开了！
+COD_Event_SwiftZombie_ShootBlank_CardName||进攻
+COD_Event_SwiftZombie_ShootBlank_DismantleActions[0].ActionLog.LogText||I hunted a macaque.
+COD_Event_SwiftZombie_ShootBlank_DismantleActions[0].ActionName||继续
+COD_Event_Vultures_Death_CardDescription||我拿下它了！
+COD_Event_Vultures_Death_CardName||秃鹫
+COD_Event_Vultures_Death_DismantleActions[0].ActionLog.LogText||I killed a seagull.
+COD_Event_Vultures_Death_DismantleActions[0].ActionName||Continue
+COD_Event_Vultures_FlyAway_CardDescription||它飞走了！
+COD_Event_Vultures_FlyAway_CardName||逃脱
+COD_Event_Vultures_FlyAway_DismantleActions[0].ActionLog.LogText||I tried to hunt a cobra... but it escaped.
+COD_Event_Vultures_FlyAway_DismantleActions[0].ActionName||Continue
+COD_Event_Vultures_FlyDown_CardDescription||有秃鹫飞落在附近。
+COD_Event_Vultures_FlyDown_CardName||秃鹫
+COD_Event_Vultures_FlyDown_DismantleActions[0].ActionLog.LogText||I killed a seagull.
+COD_Event_Vultures_FlyDown_DismantleActions[0].ActionName||Continue
+T-Ou8QUUE6zJHSMDYWE+G21P3DsjU=||沾满腥气的利爪近在眼前！
+T-1CVWzAw5O/dQr5L7IrvEfrDY43g=||利爪
+COD_eve_利爪僵尸攻击_DismantleActions[6].ActionName||长矛攻击
+COD_eve_利爪僵尸攻击_DismantleActions[7].ActionName||弓箭射击
+COD_eve_利爪僵尸攻击_DismantleActions[8].ActionName||投石索投掷
+COD_eve_利爪僵尸攻击_DismantleActions[9].ActionName||脱离
+COD_eve_利爪僵尸攻击_DismantleActions[10].ActionName||左轮射击
+COD_eve_利爪僵尸攻击_DismantleActions[11].ActionName||枪械射击
+Cod_eve_利爪僵尸攻击_DismantleActions[1].ActionName||复合弓射击
+T-44hlcBqpcKP1YQoOt2fEV50V/zU=||利爪折断，身体还在微微抽搐。
+COD_eve_利爪僵尸解决掉了_CardName||利爪
+T-CjGYdvY9C/VqVCS5x2H0xQ53d9s=||我解决掉了一只利爪僵尸。
+COD_Event_MacaqueFightSuccess_DismantleActions[0].ActionName||继续
+COD_cod_MacaqueFightRaid_CardDescription||它就在眼前，耳边传来呼啸声。
+T-q0yYw3mW/mqUMuHObDmqBGjRB20=||尖啸
+COD_eve_尖叫僵尸攻击_DismantleActions[0].ActionName||长矛攻击
+COD_eve_尖叫僵尸攻击_DismantleActions[1].ActionName||弓箭射击
+COD_eve_尖叫僵尸攻击_DismantleActions[2].ActionName||投石索投掷
+COD_eve_尖叫僵尸攻击_DismantleActions[3].ActionName||脱离
+COD_eve_尖叫僵尸攻击_DismantleActions[4].ActionName||左轮射击
+COD_eve_尖叫僵尸攻击_DismantleActions[5].ActionName||枪械射击
+Cod_eve_尖叫僵尸攻击_DismantleActions[1].ActionName||复合弓射击
+T-y63ika6/+6SJwE/c+JrUIj3SqZQ=||武器重击在尖啸的身体上，脑袋化为了一堆碎肉飞溅到了其他地方。
+COD_eve_尖叫僵尸解决掉了_CardName||尖啸
+T-3+gqSUIRYVCVkgFfy4CvFy8UPB8=||我击杀了一只大喇叭！
+COD_eve_尖叫僵尸解决掉了_DismantleActions[0].ActionName||闭嘴！
+T-WSTl/lDg6SQl6+SUa8qa9pUxWLw=||它们来了，它们行动一致，它们的目标只有一个。
+COD_eve_尸群来了_CardName||尸群
+COD_eve_巨霸僵尸攻击_CardDescription||庞大的肉块向身旁走来，阴影笼罩在整个身体。
+COD_eve_巨霸僵尸攻击_CardName||巨霸
+COD_eve_巨霸僵尸攻击_DismantleActions[0].ActionName||长矛攻击
+COD_eve_巨霸僵尸攻击_DismantleActions[1].ActionName||弓箭射击
+COD_eve_巨霸僵尸攻击_DismantleActions[2].ActionName||投石索投掷
+COD_eve_巨霸僵尸攻击_DismantleActions[3].ActionName||逃离
+COD_eve_巨霸僵尸攻击_DismantleActions[4].ActionName||左轮射击
+COD_eve_巨霸僵尸攻击_DismantleActions[5].ActionName||枪械射击
+Cod_eve_巨霸僵尸攻击_DismantleActions[1].ActionName||复合弓射击
+T-1FVVGL2WVM3GDiDrl354ikuJ6vE=||我伤到它了！
+T-2PJ08v2zVugIj2aWSAw8wOjaomE=||巨霸
+T-89JuXK4+rngnM5PrOzVerstilSU=||我战胜了一只可怕的巨霸。
+T-nlXGO88BKMdABJ44VN//b1VnW9k=||利爪带着腥风重拍在身上！
+COD_eve_我受了利爪僵尸伤_CardName||利爪
+COD_eve_我受了利爪僵尸伤_DismantleActions[0].ActionName||啊！
+COD_eve_我受了巨霸僵尸伤_CardDescription||巨臂重拍在身体，顿时世界在一阵旋转。
+COD_eve_我受了巨霸僵尸伤_CardName||Ouch!
+T-D6ExIhFdljx6waLTYKq+w+n9niI=||大量的液体从其口中喷出！
+T-LyguGnAv898X2n+i/wFnIXvFgKc=||Ouch!
+COD_eve_我受了迅猛僵尸伤_CardDescription||它扑扯在身上，绿色的牙齿清晰可见。
+COD_eve_我受了迅猛僵尸伤_CardName||Ouch!
+COD_eve_我受了迅猛僵尸伤_DismantleActions[0].ActionName||它在咬我！
+T-LZ74UY1/tqD8pP8NKvI+WEW+xxc=||僵尸倒下了，身上为此留下了一些伤口。
+COD_eve_我受到了石化僵尸伤_CardDescription||武器打在石头般的躯体上，武器猛然回弹。下一刻身体传来一阵剧痛。
+T-9wEdDSIXj9IS+QTkDoCpzUdEGvk=||石化
+COD_eve_我受到了石化僵尸伤_DismantleActions[0].ActionName||啊！
+T-QxY22vmCf1xX6A/dXbM8vv1roe8=||它走过来了..
+COD_eve_普通僵尸解决掉了_CardName||僵尸
+COD_Event_MacaqueFightRaid_DismantleActions[0].ActionName||长矛攻击
+COD_Event_MacaqueFightRaid_DismantleActions[1].ActionName||弓箭射击
+COD_Event_MacaqueFightRaid_DismantleActions[3].ActionName||投石索投掷
+COD_cod_DroneFight_DismantleActions[4].ActionName||脱离
+COD_cod_MacaqueFightRaid_DismantleActions[2].ActionName||左轮射击
+COD_Event_MacaqueFightRaid_DismantleActions[2].ActionName||枪械射击
+Cod_eve_普通僵尸攻击_DismantleActions[1].ActionName||复合弓射击
+T-rcKY6JsSYWZUqgMf48945FM0GB4=||脑袋化为一堆碎肉，身体不再动弹。
+T-QBEqEH7Q89PFI6ocejBVYK7cXEA=||我解锁掉了一只普通僵尸。
+COD_eve_污秽僵尸攻击_CardDescription||它周边的地面已经腐蚀的溃不成形，而现在它将嘴巴对准了另一个方向。
+COD_eve_污秽僵尸攻击_CardName||污秽
+COD_eve_污秽僵尸攻击_DismantleActions[0].ActionName||长矛攻击
+COD_eve_污秽僵尸攻击_DismantleActions[1].ActionName||弓箭射击
+COD_eve_污秽僵尸攻击_DismantleActions[2].ActionName||投石索投掷
+COD_eve_污秽僵尸攻击_DismantleActions[3].ActionName||脱离
+COD_eve_污秽僵尸攻击_DismantleActions[4].ActionName||左轮射击
+COD_eve_污秽僵尸攻击_DismantleActions[5].ActionName||枪械射击
+Cod_eve_污秽僵尸攻击_DismantleActions[1].ActionName||复合弓射击
+T-LzHV025c9rcCnkvtObzZnjc/BWY=||它倒下了，一大摊绿色的液体流向各处。
+T-PppUvnFEz+wtap7KFH43MkSdWZ8=||污秽
+T-r7YG25nR+WS4joLLAtX69kcYOpI=||我击败了一只污秽僵尸。
+T-p2hw00V9pjL+IMbBvz+XvU0agdU=||它过来了..
+COD_eve_石化僵尸攻击_CardName||石化
+COD_eve_石化僵尸攻击_DismantleActions[0].ActionName||长矛攻击
+COD_eve_石化僵尸攻击_DismantleActions[1].ActionName||弓箭射击
+COD_eve_石化僵尸攻击_DismantleActions[2].ActionName||投石索投掷
+COD_eve_石化僵尸攻击_DismantleActions[3].ActionName||脱离
+COD_eve_石化僵尸攻击_DismantleActions[4].ActionName||左轮射击
+COD_eve_石化僵尸攻击_DismantleActions[5].ActionName||枪械射击
+Cod_eve_石化僵尸攻击_DismantleActions[1].ActionName||复合弓射击
+COD_eve_石化僵尸解决掉了_CardDescription||我伤到它了！
+T-ZYG0tyn+Wd38vtDtx1uoLMrtCK8=||石化僵尸
+T-JApZ/KY5GKRBxACcn8f/jCTYHaI=||我击败了一只石化生物。
+T-6s/eMS5ixSoF/xLDDQEQ0Oa4ABI=||它快速的向我冲过来了！
+T-vL4uW/r83yGRN7TQHqu0t0wiTAU=||迅猛
+COD_eve_迅猛僵尸攻击_DismantleActions[0].ActionName||长矛攻击
+COD_eve_迅猛僵尸攻击_DismantleActions[1].ActionName||弓箭射击
+COD_eve_迅猛僵尸攻击_DismantleActions[2].ActionName||投石索投掷
+COD_eve_迅猛僵尸攻击_DismantleActions[3].ActionName||脱离
+COD_eve_迅猛僵尸攻击_DismantleActions[4].ActionName||左轮射击
+COD_eve_迅猛僵尸攻击_DismantleActions[5].ActionName||枪械攻击
+Cod_eve_迅猛僵尸攻击_DismantleActions[1].ActionName||复合弓射击
+T-onL6Ac23iNxEZCTxNfr9TIbrBmU=||武器贯穿了它的身体，肌肉骨骼在不断的抽动痉挛。
+T-+CzYp5IeUUZ+nPEegTJ1ERkVyu4=||我击败了一只迅猛僵尸。
+COD_Nc_Vultures_CardDescription||猩红色的羽翼沾满了碎肉..尖锐的长喙正在啄食地上的一切。
+COD_Nc_Vultures_CardName||秃鹫
+COD_Nc_Vultures_DismantleActions[0].ActionDescription||不会消耗石头
+COD_Nc_Vultures_DismantleActions[0].ActionName||朝它丢石头
+COD_Nc_Vultures_DismantleActions[0].ProducedCards[1].CollectionMessages[0]||I missed!
+COD_Nc_Vultures_DismantleActions[1].ActionName||投掷投石索
+COD_Nc_Vultures_DismantleActions[1].ProducedCards[1].CollectionMessages[0]||I missed!
+T-KW+gjNRg+QRV4JwYa55huHZlwCE=||用长矛攻击！
+COD_Nc_Vultures_DismantleActions[2].ProducedCards[1].CollectionMessages[0]||I missed!
+COD_Nc_Vultures_DismantleActions[3].ActionName||用弓箭射击！
+COD_Nc_Vultures_DismantleActions[4].ActionName||用枪攻击！
+T-O+I3cn4TCpOojy45YZ0zbTvfAgA=||左轮攻击
+COD_Nc_ZombieBurn_CardDescription||它正在剧烈的燃烧！
+COD_Nc_ZombieBurn_CardName||燃烧僵尸
+COD_Nc_ZombieBurn_TypeThree_CardDescription||它正在剧烈的燃烧！
+COD_Nc_ZombieBurn_TypeThree_CardName||燃烧僵尸
+COD_Nc_ZombieBurn_TypeTwo_CardDescription||它正在剧烈的燃烧！
+COD_Nc_ZombieBurn_TypeTwo_CardName||燃烧僵尸
+COD_Nc_ZombieCorpse_CardDescription||它不再动弹了，也不会动弹了。
+COD_Nc_ZombieCorpse_CardName||僵尸尸体
+COD_Nc_ZombieCorpse_DismantleActions[0].ActionName||搜刮
+COD_Nc_ZombieCorpse_Burn_CardDescription||散发着强烈的气味，只剩下了惨败的黑色。
+COD_Nc_ZombieCorpse_Burn_CardName||烧焦尸体
+COD_Nc_ZombieCorpse_Burn_DismantleActions[0].ActionName||搜刮
+COD_Nc_ZombieCorpse_Burn_TypeThree_CardDescription||散发着强烈的气味，只剩下了惨败的黑色。
+COD_Nc_ZombieCorpse_Burn_TypeThree_CardName||烧焦尸体
+COD_Nc_ZombieCorpse_Burn_TypeThree_DismantleActions[0].ActionName||搜刮
+COD_Nc_ZombieCorpse_Burn_TypeTwo_CardDescription||散发着强烈的气味，只剩下了惨败的黑色。
+COD_Nc_ZombieCorpse_Burn_TypeTwo_CardName||烧焦尸体
+COD_Nc_ZombieCorpse_Burn_TypeTwo_DismantleActions[0].ActionName||搜刮
+COD_Nc_ZombieCorpse_GiantZombie_CardDescription||它不再动弹了，也不会动弹了。
+COD_Nc_ZombieCorpse_GiantZombie_CardName||僵尸尸体
+COD_Nc_ZombieCorpse_GiantZombie_DismantleActions[0].ActionName||搜刮
+COD_Nc_FilthyZombie_CardDescription||它周边的地面已经腐蚀的溃不成形，而现在它将嘴巴对准了另一个方向。
+COD_Nc_FilthyZombie_CardName||污秽
+COD_Nc_FilthyZombie_DismantleActions[0].ActionName||长矛投掷
+COD_Nc_FilthyZombie_DismantleActions[1].ActionName||弓箭射击
+COD_Nc_FilthyZombie_DismantleActions[2].ActionName||投石索投掷
+COD_Nc_FilthyZombie_DismantleActions[4].ActionName||左轮射击
+COD_Nc_FilthyZombie_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_FilthyZombie_DismantleActions[1].ActionName||复合弓射击
+COD_Nc_GiantBusterZombie_CardDescription||庞大的肉块向身旁走来，阴影笼罩在整个身体。
+COD_Nc_GiantBusterZombie_CardName||巨霸
+COD_Nc_GiantBusterZombie_DismantleActions[0].ActionName||长矛投掷
+COD_Nc_GiantBusterZombie_DismantleActions[1].ActionName||弓箭射击
+COD_Nc_GiantBusterZombie_DismantleActions[2].ActionName||投石索投掷
+COD_Nc_GiantBusterZombie_DismantleActions[4].ActionName||左轮射击
+COD_Nc_GiantBusterZombie_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_GiantBusterZombie_DismantleActions[1].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_MixZombie_TypeFour_CardDescription||附近有大量生物集群在活动。
+Cod_Nc_Zombie_MobileCorpse_MixZombie_TypeFour_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_MixZombie_TypeOne_CardDescription||附近有大量生物集群在活动。
+Cod_Nc_Zombie_MobileCorpse_MixZombie_TypeOne_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_MixZombie_TypeThree_CardDescription||附近有大量生物集群在活动。
+Cod_Nc_Zombie_MobileCorpse_MixZombie_TypeThree_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_MixZombie_TypeTwo_CardDescription||附近有大量生物集群在活动。
+Cod_Nc_Zombie_MobileCorpse_MixZombie_TypeTwo_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeFour_CardDescription||附近有生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeFour_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeFour_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeFour_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeFour_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeFour_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeFour_DismantleActions[5].ActionName||枪械射击！
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeFour_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeOne_CardDescription||附近有生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeOne_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeOne_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeOne_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeOne_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeOne_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeOne_DismantleActions[5].ActionName||枪械射击！
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeOne_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeThree_CardDescription||附近有生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeThree_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeThree_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeThree_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeThree_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeThree_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeThree_DismantleActions[5].ActionName||枪械射击！
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeThree_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeTwo_CardDescription||附近有生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeTwo_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeTwo_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeTwo_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeTwo_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeTwo_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeTwo_DismantleActions[5].ActionName||枪械射击！
+Cod_Nc_Zombie_MobileCorpse_OrdinaryZombie_TypeTwo_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeFour_CardDescription||附近有特殊生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeFour_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeFour_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeFour_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeFour_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeFour_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeFour_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeFour_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorps_ThreeFilthyZombie_TypeOne_CardDescription||附近有特殊生物集群活动。
+Cod_Nc_Zombie_MobileCorps_ThreeFilthyZombie_TypeOne_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorps_ThreeFilthyZombie_TypeOne_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorps_ThreeFilthyZombie_TypeOne_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorps_ThreeFilthyZombie_TypeOne_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorps_ThreeFilthyZombie_TypeOne_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorps_ThreeFilthyZombie_TypeOne_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_MobileCorps_ThreeFilthyZombie_TypeOne_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeThree_CardDescription||附近有特殊生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeThree_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeThree_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeThree_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeThree_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeThree_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeThree_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeThree_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeTwo_CardDescription||附近有特殊生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeTwo_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeTwo_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeTwo_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeTwo_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeTwo_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeTwo_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_MobileCorpse_ThreeFilthyZombie_TypeTwo_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeFour_CardDescription||附近有特殊生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeFour_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeFour_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeFour_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeFour_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeFour_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeFour_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeFour_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeOne_CardDescription||附近有特殊生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeOne_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeOne_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeOne_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeOne_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeOne_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeOne_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeOne_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeThree_CardDescription||附近有特殊生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeThree_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeThree_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeThree_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeThree_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeThree_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeThree_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeThree_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeTwo_CardDescription||附近有特殊生物集群活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeTwo_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeTwo_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeTwo_DismantleActions[2].ActionName||弓箭射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeTwo_DismantleActions[3].ActionName||投石索投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeTwo_DismantleActions[4].ActionName||左轮射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeTwo_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_MobileCorpse_ThreeScreamingZombie_TypeTwo_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeFour_CardDescription||附近有特殊生物集群在快速活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeFour_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeFour_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeFour_DismantleActions[2].ActionName||弓箭攻击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeFour_DismantleActions[3].ActionName||Attack with Sling!
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeFour_DismantleActions[4].ActionName||左轮攻击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeFour_DismantleActions[5].ActionName||枪械射击！
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeFour_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeOne_CardDescription||附近有特殊生物集群在快速活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeOne_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeOne_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeOne_DismantleActions[2].ActionName||弓箭攻击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeOne_DismantleActions[3].ActionName||Attack with Sling!
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeOne_DismantleActions[4].ActionName||左轮攻击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeOne_DismantleActions[5].ActionName||枪械射击！
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeOne_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeThree_CardDescription||附近有特殊生物集群在快速活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeThree_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeThree_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeThree_DismantleActions[2].ActionName||弓箭攻击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeThree_DismantleActions[3].ActionName||Attack with Sling!
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeThree_DismantleActions[4].ActionName||左轮攻击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeThree_DismantleActions[5].ActionName||枪械射击！
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeThree_DismantleActions[6].ActionName||复合弓射击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeTwo_CardDescription||附近有特殊生物集群在快速活动。
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeTwo_ActionName||嘿！
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeTwo_DismantleActions[1].ActionName||长矛投掷
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeTwo_DismantleActions[2].ActionName||弓箭攻击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeTwo_DismantleActions[3].ActionName||Attack with Sling!
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeTwo_DismantleActions[4].ActionName||左轮攻击
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeTwo_DismantleActions[5].ActionName||枪械射击！
+Cod_Nc_Zombie_MobileCorpse_ThreeSwiftZombie_TypeTwo_DismantleActions[6].ActionName||复合弓射击
+COD_Nc_OrdinaryZombie_CardDescription||它走过来了..
+COD_Nc_OrdinaryZombie_CardName||僵尸
+COD_Nc_OrdinaryZombie_DismantleActions[0].ActionName||长矛投掷
+COD_Nc_OrdinaryZombie_DismantleActions[1].ActionName||弓箭射击
+COD_Nc_OrdinaryZombie_DismantleActions[3].ActionName||投石索投掷
+T-FNHVhB5xuC+ZS03Ixu9Uw8SaB4I=||枪械射击！
+Cod_Nc_Zombie_OrdinaryZombie_DismantleActions[1].ActionName||复合弓射击
+COD_Nc_PetrifiedZombie_CardDescription||它走过来了..
+COD_Nc_PetrifiedZombie_CardName||石化
+COD_Nc_PetrifiedZombie_DismantleActions[0].ActionName||长矛投掷
+COD_Nc_PetrifiedZombie_DismantleActions[1].ActionName||弓箭攻击
+COD_Nc_PetrifiedZombie_DismantleActions[2].ActionName||投石索投掷
+COD_Nc_PetrifiedZombie_DismantleActions[4].ActionName||左轮射击
+COD_Nc_PetrifiedZombie_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_PetrifiedZombie_DismantleActions[1].ActionName||复合弓射击
+COD_Nc_ScreamingZombies_CardDescription||它就在眼前，鲜红色的液体从其嘴巴滴落。
+COD_Nc_ScreamingZombies_CardName||尖啸
+COD_Nc_ScreamingZombies_DismantleActions[0].ActionName||长矛投掷
+COD_Nc_ScreamingZombies_DismantleActions[1].ActionName||弓箭射击
+COD_Nc_ScreamingZombies_DismantleActions[2].ActionName||投石索投掷
+COD_Nc_ScreamingZombies_DismantleActions[4].ActionName||左轮射击
+COD_Nc_ScreamingZombies_DismantleActions[5].ActionName||枪械射击
+Cod_Nc_Zombie_ScreamingZombies_DismantleActions[1].ActionName||复合弓射击
+COD_Nc_SharpClawZombies_CardDescription||沾满腥气的利爪近在咫尺
+COD_Nc_SharpClawZombies_CardName||利爪
+COD_Nc_SharpClawZombies_DismantleActions[6].ActionName||长矛投掷
+COD_Nc_SharpClawZombies_DismantleActions[7].ActionName||弓箭攻击
+COD_Nc_SharpClawZombies_DismantleActions[8].ActionName||投石索攻击
+COD_Nc_SharpClawZombies_DismantleActions[10].ActionName||左轮攻击
+COD_Nc_SharpClawZombies_DismantleActions[11].ActionName||手枪攻击
+Cod_Nc_Zombie_SharpClawZombies_DismantleActions[1].ActionName||复合弓射击
+COD_Nc_SwiftZombie_CardDescription||它快速的向我冲过来了！
+COD_Nc_SwiftZombie_CardName||迅猛
+COD_Nc_SwiftZombie_DismantleActions[0].ActionName||长矛投掷
+COD_Nc_SwiftZombie_DismantleActions[1].ActionName||弓箭攻击
+COD_Nc_SwiftZombie_DismantleActions[2].ActionName||投石索投掷
+COD_Nc_SwiftZombie_DismantleActions[4].ActionName||左轮攻击
+COD_Nc_SwiftZombie_DismantleActions[5].ActionName||枪械射击！
+Cod_Nc_Zombie_SwiftZombie_DismantleActions[1].ActionName||复合弓射击
+COD_W_GiantBusterZombie_ClawWound_CardDescription||巨大的淤青伴随强烈的刺痛..
+COD_W_GiantBusterZombie_ClawWound_CardInteractions[0].ActionName||Clean (seawater)
+COD_W_GiantBusterZombie_ClawWound_CardInteractions[1].ActionName||Clean (water)
+COD_W_GiantBusterZombie_ClawWound_CardInteractions[2].ActionName||Clean (honeywater)
+COD_W_GiantBusterZombie_ClawWound_CardInteractions[3].ActionName||Clean (lye)
+COD_W_GiantBusterZombie_ClawWound_CardInteractions[4].ActionName||Clean (soap)
+COD_W_GiantBusterZombie_ClawWound_CardInteractions[5].ActionName||Apply
+COD_W_GiantBusterZombie_ClawWound_CardInteractions[6].ActionName||Apply Honey
+COD_W_GiantBusterZombie_ClawWound_CardName||巨霸撞伤
+COD_W_GiantBusterZombie_ClawWound_CookingRecipes[0].ActionName||Dressing
+COD_W_GiantBusterZombie_ClawWound_CookingRecipes[0].CustomCookingText||Protecting Wound
+COD_W_GiantBusterZombie_ClawWound_InventorySlotsText||PLACE DRESSING HERE
+COD_W_GiantBusterZombie_ClawWound_SpoilageTime.OnFull.ActionDescription||Wound healed!
+COD_W_GiantBusterZombie_ClawWound_SpoilageTime.OnFull.ActionLog.LogText||My lizard bite healed.
+COD_W_GiantBusterZombie_ClawWound_SpoilageTime.OnFull.ActionName||Lizard Bite
+COD_W_SharpClawZombie_ClawInjured_CardDescription||It hurts so much, at least it's closed now.
+COD_W_SharpClawZombie_ClawInjured_CardInteractions[0].ActionName||Clean (seawater)
+COD_W_SharpClawZombie_ClawInjured_CardInteractions[1].ActionName||Clean (water)
+COD_W_SharpClawZombie_ClawInjured_CardInteractions[2].ActionName||Clean (honeywater)
+COD_W_SharpClawZombie_ClawInjured_CardInteractions[3].ActionName||Clean (lye)
+COD_W_SharpClawZombie_ClawInjured_CardInteractions[4].ActionName||Clean (soap)
+COD_W_SharpClawZombie_ClawInjured_CardInteractions[5].ActionName||Apply
+COD_W_SharpClawZombie_ClawInjured_CardInteractions[6].ActionName||Apply Honey
+COD_W_SharpClawZombie_ClawInjured_CardName||利爪撕裂
+COD_W_SharpClawZombie_ClawInjured_CookingRecipes[0].ActionName||Pressure
+COD_W_SharpClawZombie_ClawInjured_CookingRecipes[0].CustomCookingText||Applying pressure.
+COD_W_SharpClawZombie_ClawInjured_InventorySlotsText||PLACE DRESSING / TOURNIQUET HERE
+COD_W_SharpClawZombie_ClawInjured_Progress.CardStatName||Coagulation
+COD_W_SharpClawZombie_ClawInjured_Progress.OnFull.ActionName||Wound is no longer bleeding
+COD_W_SharpClawZombie_ClawInjured_SpoilageTime.OnFull.ActionDescription||My wound is much better now!
+COD_W_SharpClawZombie_ClawInjured_SpoilageTime.OnFull.ActionLog.LogText||My laceration healed.
+COD_W_SharpClawZombie_ClawInjured_SpoilageTime.OnFull.ActionName||Laceration
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CardDescription||A deep bleeding cut. It hurts so much.
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CardInteractions[0].ActionName||Clean (seawater)
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CardInteractions[1].ActionName||Clean (water)
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CardInteractions[2].ActionName||Clean (honeywater)
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CardInteractions[3].ActionName||Clean (lye)
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CardInteractions[4].ActionName||Clean (soap)
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CardInteractions[5].ActionName||Apply
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CardInteractions[6].ActionName||Apply Honey
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CardInteractions[7].ActionName||Stitch
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CardName||利爪撕裂
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CookingRecipes[0].ActionName||Pressure
+COD_W_SharpClawZombie_ClawInjured_NotStitching_CookingRecipes[0].CustomCookingText||Applying pressure.
+COD_W_SharpClawZombie_ClawInjured_NotStitching_InventorySlotsText||PLACE DRESSING / TOURNIQUET HERE
+COD_W_SharpClawZombie_ClawInjured_NotStitching_Progress.CardStatName||Coagulation
+COD_W_SharpClawZombie_ClawInjured_NotStitching_Progress.OnFull.ActionName||Wound is no longer bleeding
+COD_W_SharpClawZombie_ClawInjured_NotStitching_SpoilageTime.OnFull.ActionDescription||My wound is much better now!
+COD_W_SharpClawZombie_ClawInjured_NotStitching_SpoilageTime.OnFull.ActionLog.LogText||My laceration healed.
+COD_W_SharpClawZombie_ClawInjured_NotStitching_SpoilageTime.OnFull.ActionName||Laceration
+COD_W_SharpClawZombie_ClawInjured_Stitching_CardDescription||A deep bleeding cut. It hurts so much.
+COD_W_SharpClawZombie_ClawInjured_Stitching_CardInteractions[0].ActionName||Clean (seawater)
+COD_W_SharpClawZombie_ClawInjured_Stitching_CardInteractions[1].ActionName||Clean (water)
+COD_W_SharpClawZombie_ClawInjured_Stitching_CardInteractions[2].ActionName||Clean (honeywater)
+COD_W_SharpClawZombie_ClawInjured_Stitching_CardInteractions[3].ActionName||Clean (lye)
+COD_W_SharpClawZombie_ClawInjured_Stitching_CardInteractions[4].ActionName||Clean (soap)
+COD_W_SharpClawZombie_ClawInjured_Stitching_CardInteractions[5].ActionName||Apply
+COD_W_SharpClawZombie_ClawInjured_Stitching_CardInteractions[6].ActionName||Apply Honey
+COD_W_SharpClawZombie_ClawInjured_Stitching_CardName||已缝合的利爪撕裂
+COD_W_SharpClawZombie_ClawInjured_Stitching_CookingRecipes[0].ActionName||Pressure
+COD_W_SharpClawZombie_ClawInjured_Stitching_CookingRecipes[0].CustomCookingText||Applying pressure.
+COD_W_SharpClawZombie_ClawInjured_Stitching_InventorySlotsText||PLACE DRESSING / TOURNIQUET HERE
+COD_W_SharpClawZombie_ClawInjured_Stitching_Progress.CardStatName||Coagulation
+COD_W_SharpClawZombie_ClawInjured_Stitching_Progress.OnFull.ActionName||Wound is no longer bleeding
+COD_W_SharpClawZombie_ClawInjured_Stitching_SpoilageTime.OnFull.ActionDescription||My wound is much better now!
+COD_W_SharpClawZombie_ClawInjured_Stitching_SpoilageTime.OnFull.ActionLog.LogText||My laceration healed.
+COD_W_SharpClawZombie_ClawInjured_Stitching_SpoilageTime.OnFull.ActionName||Laceration
+COD_W_TaintedWounds_CardDescription||绿色的液体覆盖在整个伤口表面
+COD_W_TaintedWounds_CardInteractions[0].ActionName||Clean (seawater)
+COD_W_TaintedWounds_CardInteractions[1].ActionName||Clean (water)
+COD_W_TaintedWounds_CardInteractions[2].ActionName||Clean (honeywater)
+COD_W_TaintedWounds_CardInteractions[3].ActionName||Clean (lye)
+COD_W_TaintedWounds_CardInteractions[4].ActionName||Clean (soap)
+COD_W_TaintedWounds_CardInteractions[5].ActionName||Apply
+COD_W_TaintedWounds_CardInteractions[6].ActionName||Apply Honey
+COD_W_TaintedWounds_CardName||污秽侵蚀
+COD_W_TaintedWounds_CookingRecipes[0].ActionName||Dressing
+COD_W_TaintedWounds_CookingRecipes[0].CustomCookingText||Protecting Wound
+COD_W_TaintedWounds_InventorySlotsText||PLACE DRESSING HERE
+COD_W_TaintedWounds_SpoilageTime.OnFull.ActionDescription||伤口恢复了
+COD_W_TaintedWounds_SpoilageTime.OnFull.ActionLog.LogText||My abrasion healed.
+COD_W_TaintedWounds_SpoilageTime.OnFull.ActionName||Abrasion
+COD_W_ZombieBites_CardDescription||伤口周边开始发绿..
+COD_W_ZombieBites_CardInteractions[0].ActionName||Clean (seawater)
+COD_W_ZombieBites_CardInteractions[1].ActionName||Clean (water)
+COD_W_ZombieBites_CardInteractions[2].ActionName||Clean (honeywater)
+COD_W_ZombieBites_CardInteractions[3].ActionName||Clean (lye)
+COD_W_ZombieBites_CardInteractions[4].ActionName||Clean (soap)
+COD_W_ZombieBites_CardInteractions[5].ActionName||Apply
+COD_W_ZombieBites_CardInteractions[6].ActionName||Apply Honey
+COD_W_ZombieBites_CardName||僵尸咬伤
+COD_W_ZombieBites_CookingRecipes[0].ActionName||Dressing
+COD_W_ZombieBites_CookingRecipes[0].CustomCookingText||Protecting Wound
+COD_W_ZombieBites_InventorySlotsText||PLACE DRESSING HERE
+COD_W_ZombieBites_SpoilageTime.OnFull.ActionDescription||伤口恢复了
+COD_W_ZombieBites_SpoilageTime.OnFull.ActionLog.LogText||My abrasion healed.
+COD_W_ZombieBites_SpoilageTime.OnFull.ActionName||Abrasion
+COD_W_ZombieScratch_CardDescription||伤口周边开始发绿..
+COD_W_ZombieScratch_CardInteractions[0].ActionName||Clean (seawater)
+COD_W_ZombieScratch_CardInteractions[1].ActionName||Clean (water)
+COD_W_ZombieScratch_CardInteractions[2].ActionName||Clean (honeywater)
+COD_W_ZombieScratch_CardInteractions[3].ActionName||Clean (lye)
+COD_W_ZombieScratch_CardInteractions[4].ActionName||Clean (soap)
+COD_W_ZombieScratch_CardInteractions[5].ActionName||Apply
+COD_W_ZombieScratch_CardInteractions[6].ActionName||Apply Honey
+COD_W_ZombieScratch_CardName||僵尸抓伤
+COD_W_ZombieScratch_CookingRecipes[0].ActionName||Dressing
+COD_W_ZombieScratch_CookingRecipes[0].CustomCookingText||Protecting Wound
+COD_W_ZombieScratch_InventorySlotsText||PLACE DRESSING HERE
+COD_W_ZombieScratch_SpoilageTime.OnFull.ActionDescription||伤口恢复了
+COD_W_ZombieScratch_SpoilageTime.OnFull.ActionLog.LogText||My abrasion healed.
+COD_W_ZombieScratch_SpoilageTime.OnFull.ActionName||Abrasion
+Cod_79723866f3fc0c14bb0c12e2c3514e66_CardInteractions[0].ActionName||投掷！
+COD_cod_SeagullFight_DismantleActions[4].ActionName||左轮攻击
+COD_cod_BoarFightRaid_DismantleActions[2].ActionName||左轮攻击
+COD_cod_SeahoundFight_DismantleActions[2].ActionName||左轮攻击
+COD_cod_MacaqueFight_DismantleActions[2].ActionName||左轮攻击
+COD_cod_MonitorFight_DismantleActions[2].ActionName||左轮攻击
+COD_cod_PartridgeFight_DismantleActions[4].ActionName||左轮攻击
+COD_cod_DroneFight_DismantleActions[2].ActionName||左轮攻击
+COD_cod_GoatFight_DismantleActions[4].ActionName||左轮攻击
+COD_cod_CobraFight_DismantleActions[2].ActionName||左轮攻击
+Tab_BottlesAndJars_TabName||瓶罐容器
+Tab_Chemicals_ChemicalProducts_TabName||ChemicalProducts
+COD_cod_Cooking_TabName||交易
+T-/J7femvgGTleeCo2XruGTZ1mmCU=||售货机交易
+T-68mLSdzA1kriZHT5RV1Lx+yR1+8=||血疫
+T-Ix2hpk/koomaxsZyYkTK2NmfymY=||购买原材料
+T-+DcvZ8kSRUi+MfEelh9zICeuKeA=||老虎机
+T-ilXjWLtmMoZDhjKJdJOge4hGWA0=||点菜
+T-fTlEhOxDwnkhRJ9kMyppGjAZWcc=||制作
+T-c75U89lvcN6mxmHm/SOe5MBsk10=||出售货物
+T-FYyTllv27W9j+tpQX8mX6O1ViPU=||购买装备
+COD_cod_Cooking_Special_TabName||罐装食物
+Cod_Tab_InfectedMaterial_TabName||感染材料
+T-3Z/CwKGqTKVctugRDawOJvxl5Tc=||工作
+COD_Tab_Base_Miking_Materials_TabName||制作基本材料
+COD_Tab_pickUp_TabName||打包
+T-MXKzF/n8gJ867kZ8BEY4TeTMklU=||任务
+T-KkWFKonIDg7lYHFq1fEyPO595t8=||CardTag_Civilization_Electrical
+T-W8nY+FtgW3ZXFKjk+F4kJh1DqGo=||ValueItem_Level_One
+CardTag_InfectedMaterial_InGameName||InfectedMaterial
+CardTag_InfectedPlant_InGameName||InfectedPlant
+COD_CardTag_LongRangeWeapons_levelOne_InGameName||LongRangeWeapons_levelOne
+CardTag_LongRangeWeapons_levelTwo_InGameName||LongRangeWeapons_levelTwo
+T-GJRa1uUeJjU9HAcZ2esu+0oqQLo=||Map_DecayCity
+T-Ffj76wD/JpLu5doBEgdPDA+mE5s=||CardTag_Map_ModernStreet
+T-fURMJgmcmJ5HGCyusN6D6FJ4xCw=||CardTag_Map_Port
+T-PwJvar/ei/xlGyAeP2o7eajjZHw=||CardTag_Map_SmallTown
+CardTag_MiningTool_InGameName||MiningTool
+CardTag_Ruins_BasicMaterials_Chemicals_InGameName||CardTag_Ruins_BasicMaterials_Chemicals
+CardTag_Ruins_Npc_InGameName||CardTag_Ruins_Npc
+COD_CardTag_Ruins_Wound_InGameName||Ruins_Wound
+CardTag_Ruins_Zombie_InGameName||Zombie
+CardTag_Ruins_Zombie_BurnAllow_InGameName||CardTag_Ruins_Zombie_BurnAllow
+CardTag_Ruins_Zombie_MobileCorpse_InGameName||CardTag_Ruins_Zombie_MobileCorpse
+CardTag_SpecialWeapon_Explosives_InGameName||Explosives
+COD_CardTag_ValueItem_LevelFive_InGameName||ValueItem_Level_Five
+T-qXkNZ23c6EW0bOGkJp8ZAgoc8SI=||ValueItem_Level_Four
+T-KKaqteHmI/1j7xo/VDLk9J1P2EE=||ValueItem_Level_Three
+T-ZKNAaQckBV7IhkxGe/xk1R9RoTk=||ValueItem_Level_Two
+COD_tag_keyy_InGameName||钥匙
+eTag_Cod_StartingItem_InGameName||Cod_StartingItem
+T-p1hv/fKMxw93IDa4vY5WQk0Ax9c=||测试对方对话
+T-tl5AeQosUhxsm9TxHDGc8Hybyd8=||测试我方对话
+T-bZcvfxRQq6H3SW9oXDxlbE/KliQ=||测试1
+T-RRM4ATHMz5Gfp8oKrIg3EIN5G1M=||测试对方对话1
+T-GYgETPuna0yCzCaA+SX4/b4UJpo=||测试我方对话1
+T-I8/auD2QiOJYRwyqIfthxOb8HKg=||测试2
+T-38IkTTAVUHvsrVVDoPczewymQ+A=||测试对方结束对话
+T-fiQN50+x7Qj6CNOAY/amqRRiqBU=||aaa
+T-BUYM6VeGFZ7EY2KOiHCvEYjEdF4=||测试我方结束对话
+T-Pn4OKbTxGZmoFy0FiuIcSlX3gPg=||测试结束
+DistrictTwo_MEnn_BeginningPlot_PageStep_Five_Five_CustomDestroyMessage||继续
+DistrictTwo_MEnn_BeginningPlot_PageStep_Five_Four_CustomDestroyMessage||继续
+T-d/9BiV5yxKN7kuAXJVLklXgNmTo=||“嘿，你醒了。你可真是幸运，整个飞机就你一个人活了下来。”他说道，“我们军队到达现场的时候，发现直升机的旁边横七竖八的到处都是死人，甚至还有飞行员，在机舱检查时，就发现你在一个座位上。”
+T-kxC5c6gmrqsapobPUsn3JdKmNv8=||你再次昏睡过去，等你醒来的时候，一个医生就站在你的旁边。
+T-TY31Cch8tyqBSU/JwHK68Rm0OWo=||你按照医生之前给你的指示，从医院到达了镇中心。此时一个少女注意到了你，她推着她的轮椅到你的跟前，你注意到她胸前挂着一个类似工作证的身份牌。
+T-e3SjKRQV//yLY8xW2EqSx78UrfA=||你拿着你的东西离开，这才发现你所在的“医院”不过是个小小的诊所，而你位于一个类似安全区的地方，街上行走的不再是感染者，而是正常的人类。
+T-ace5YVAvMVYLvYn62jdhev7/zGQ=||“哦，出院记得拿上你的东西，我们在你旁边发现的。”他补充到。
+T-W5LHbeQWH5v4WNTvy/lYkKu1lVQ=||“可能是安全带救了你，没让你被甩出机舱外，至于为什么会发生事故，我们的军方已经查明了大致原因了。所以不需要从你这了解什么。如果你感觉身体没多大异样的话，你就可以出院到镇中心了。”
+DistrictTwo_MEnn_BeginningPlot_PageStep_Four_Five_CustomDestroyMessage||杂物袋
+T-E7KoYMYUDSDzA/dVfFQDgVbtTeI=||伴随碰的一声，你感觉到剧烈的冲击，仿佛要把你的灵魂撞出来一样，你眼前一黑，没了任何意识……
+T-hlCk/iqA/LNtUmfCfGEDg8Udbw4=||杂物袋
+T-AehzxukC16XSGtJZW3mUBdIeE2Q=||当你再次睁开眼睛的时候，你发现你位于一个类似医院的地方，你吃力的观察旁边的情况，迷迷糊糊中，看到一个军绿色的人形和一个白色的人形在讨论什么，但你看不清楚他们的脸，甚至连衣服都看不起，而你也不知道他们在谈论什么……
+T-B6vaBs6a90oU6hGubhv4B39Ufbc=||一口锅
+T-Xdp48pHbSdUO3ihzAo3uA3ZhvXI=||武器箱
+DistrictTwo_MEnn_BeginningPlot_PageStep_Four_Six_CustomDestroyMessage||杂物袋
+T-ooNH42D2dwN95EYzUGJd16SBsCg=||无论你们怎么回答已经不重要了，你只记得直升机搭载了你们所有人，并离开了你们生存已久的公寓。
+T-bQNhutrXoEuTyLv182ireuOboKw=||“我的天，你们在这生活了多久了？”机舱内，一个全副武装的穿着飞行员夹克的男人询问你们。
+T-ult7iWEHQ70kW0jaP84Y0sNYvDY=||你睡着了，也不知道睡了多久，飞机飞向何处……\n一阵吵杂声突然吵醒了你，驾驶员在广播的哀嚎，机舱内众人的尖叫声，飞机的警报声。红色的警示灯闪烁不断，飞机失去了平衡，剧烈震动，天旋地转，挂钩上的东西脱落并开始在机舱到处碰撞。\n为了避免杂物砸到你的头，你不得不用你的背包护着你的脑袋，而你也感觉到有什么东西砸到你的旁边，你也抓着这玩意，试图拿它护住脑袋……
+T-41keUIYeJhVOyB1LG6mZfKZKlHA=||你看了看机舱内部的构造，内部设计了挂钩，挂着很多东西：武器箱、医疗箱、袋子、甚至还有一口锅，机舱内的每个人都看起来很疲倦，而你也感觉到困意席卷而来。
+T-gY94Ujg5CNIe2gPUykef5ukZqi4=||“总之是沦陷了，我们不得不逃离这里……”飞行员喋喋不休的告诉你们现在的情况，看起来他们比你们好不到哪去。
+T-qVOZfNb5zCNTwUJhC4Ut97hkLRk=||“我们要寻找新的庇护所了，”飞行员通过广播对你们说，“我们之前的庇护所不知道怎么回事，突然爆发大规模的感染，我还以为我们都是免疫者呢……”
+T-dECkVe2FFg+cBOjFwuCwZvok1gQ=||而少数人则是迅速产生变异，变成了一个个人形怪物，而怪物也毫无人性的扑向未感染者进行撕咬。
+T-SZ73aZWNS/ldBWehjQCxTkEVshk=||病毒几乎感染了所有的人类，大部分被感染者都会马上发烧，吐血，喷泻等症状，瘫软无力在地上等死。
+T-hb6exjKQCbHrUbNPc9gSa3xgw0A=||出去寻找救援已经是不现实的行为了，你和其他公寓幸存者封闭了一楼的出入口。
+T-gYN3MVW84PLS0lHjW3oPIja7+ms=||食物
+T-xkKfXjTWdlubsLygJckEr4S998o=||搜刮了整个建筑物，在此期间，又有几个人栽在感染者手上。
+T-kLiX8MTODZToaspeX56ku1KS8HM=||药品
+T-flxa9LNVuq1Dpa66nU7N+CuvPXw=||医疗
+T-py7xjZoOHEw0GryQyb8+dXPUPG8=||工具
+T-E1M/drJUp+Kr9nSNcFm1neCKZ50=||你快速收拾家里的东西，生存物资各式各样，而你决定首先拿够……
+T-N9cJ5k+eW2OQLDSEncBa2zHW6Yc=||当你所在的城市因瘟疫而沦陷的时候..
+T-RLOEjRiUb4og+3hxe+RmMGfeRT4=||“待会你就可以去绿色汽车那领点物资，然后在居住区找个房子住下来了。”她询问了你的相关信息后，收起了书笔，脸上依旧挂着那副笑容。\n              “欢迎来到第二区。”
+T-yQ+eftzt+66r8EwXgvIxUDcSet0=||“请问您就是飞机上的幸存者吗？”少女微笑道，她拿着相机对你拍照，随后又拿起书笔询问你的名字。
+T-rhFIDEoNIhVMwN3InIG4MjSVAVA=||“待会你就可以去绿色汽车那领点物资，然后在居住区找个房子住下来了。”她询问了你的相关信息后，收起了书笔，脸上依旧挂着那副笑容，“欢迎来到第二区。”
+DistrictTwo_MEnn_BeginningPlot_PageStep_Six_Two_CustomDestroyMessage||继续
+DistrictTwo_MEnn_BeginningPlot_PageStep_Three_Four_CustomDestroyMessage||继续
+T-G3c/8nwFOnYU7x0MTcOz1YruBo8=||事实上也是如此：期间也有幸存者试图外出寻找救援，但都没有回来。
+T-Fsq+KsJyqEz4T01/GwpKyM6a5lA=||外面的怪物哀嚎声几乎没有断绝过，你认为要是出去的话，就是必死无疑。
+T-v8OCZaCdEr5DEmTz8Ldgygq5YaA=||直升机也注意到你们，停在了屋顶上，将你们接上飞机。
+DistrictTwo_MEnn_BeginningPlot_PageStep_Three_Three_CustomDestroyMessage||继续
+T-ZPf+ddtxBbVXk+yu4NKF6hv57N8=||直到有一天，一家直升机出现在空中，你和其他幸存者欣喜若狂，疯狂的吸引直升机注意。
+T-SDjqKyMzW2b7/a/N09oMX1fp0to=||为了能活的更久，你们还特地在屋顶弄了块农田来种植土豆，来以此缓解食物的消耗速度。\n就这样活着，不知道过了多少天。
+T-p7T5Xb8g6H6B0V1UN2UG+Of4Gsw=||所幸的是公寓的物资算的上富裕，而所需要分配的人员也少，这些物资即使是考虑到保质期问题，这些物资也够你们活够1年。
+T-Trntez98Fg9lbpPovE2PcUT7974=||猫猫
+T-cQghbBPkddMk5ffBUWQ0nJ/mX7o=||撬棍
+T-u6OfpXsoMqitS9mi2ycc00cGan0=||雨衣
+T-U6TKOBSc0Qc/1KJ1cuaH28cOVco=||你的搜刮行动非常顺利，不但没有碰到感染者袭击你，而且还额外找到了……
+T-AeSwjfjaejPipQWcCT4z2Uz/Kig=||但起码你还没那么倒霉遇到感染者。
+T-tyMu3krbeGtOWSmbIurwIZ3fFQw=||“嘘...听话点,孩子,我可不想把你的脑浆弄得到处都是。\n   枪口越来越用力的按在脑门上,传来了轻微的疼痛。
+T-zeuxXOGfSy5eopicSSko3e9uC2I=||一双粗壮有力的手猛然按在你头上,将你的脸部死死按在地上。\n你的鼻子撞在坚硬的水泥地面上,一阵钻心的痛。\n随即,一个冰冷的金属枪管抵住你的太阳穴,死死压迫着你的头骨。
+T-G9vMq12/8z/xk+r9ILWsHGqfqNE=||挣扎
+T-hOGevhLQVcLeK8im8ZHmikzdWy8=||随着你的挣扎,枪口抵得更紧了,你感到一阵刺痛,仿佛头骨都要被挤压碎裂。\n随后一记重击落在你腹部,你吐出一口鲜血,倒在了地上。
+T-ELALUtPWS0fXimxuHsWCSfPSsO4=||你用力扭动着身子,想要摆脱桎梏。\n然而对方的手如铁钳一般,死死固定住你的头颅。
+T-zCzi8zzpkizsp7WBkRwPiJStBl4=||加文,这个人就交给你了”\n眼前一片黑暗。
+T-9MR8JJjj6nccmCMMjRszi8G/3Tg=||视线开始模糊。
+T-1+bjWNYmCUcZt09oR4cddHWcm4A=||你迅速转身摆脱控制,睁开眼睛,这才看清四周的情形。\n残破的物资,几个面黄肌瘦的人,以及一个高大的男子站在你面前。
+T-/4F0jcZtWArTlOIDernfRqJ2i6M=||你凭借着爆发的力量,猛地一记后肘击中对方腹部。\n那人闷哼一声,死死按住你的手松开了。
+T-BXJDpd3qjPKr/mn7uQXiloRqQ7s=||加文，这人交给你了。\n他盯着你看了几秒，背过身离开了。\n周边的人开始散去。
+T-d8yTY9QLZWnYVzGwz2Rx9gweT9U=||很好。\n摩根打了一个响指。\n头部附近的红线消失了。\n仍能感受到来自暗处的视野。
+T-t9tEJiLk/xQQ0/P9D5ONp0se+Vw=||加入
+T-sX+BfQXVLoDqmiEkrzdUPDgvVWU=||下一刻头部被猛然重击！
+T-XA8w0k+PCUrj4erqxQZ08dv3SLM=||人群中冲出一道黑影。
+T-A+IQpm0HHotAsVy0ejveE31G7b0=||拒绝
+T-k5VvXqAObBmM72iwk9wunl0R6OE=||一道红点瞄准了你的额头。\n“我们需要你这样身手的人。”\n “你觉得呢？”
+T-Nvo6TJ24bh/hnkeW9ylshoNmKxs=||“朋友,你的身手不错。”\n那人拍掉灰尘,打了个响指。
+T-giArtyXXNLSizKSaJNVPLirCCaE=||再见
+Cod_Bp_BloodPlage_ScarletPreparation_BlueprintFinishedLog.LogText||I crafted a bow.
+Cod_Bp_BloodPlage_ScarletPreparation_CardDescription||一瓶红色制剂。
+Cod_Bp_BloodPlage_ScarletPreparation_CardName||猩红制剂
+Cod_Bp_BloodPlage_ScarletPreparation_UnlockConditionsDesc||需要更高的制作等级或者图纸
+Cod_Nc_BloodPlage_ScarletPreparation_CardDescription||高度密封的瓶口仍散发着淡淡的血腥味。
+Cod_Nc_BloodPlage_ScarletPreparation_CardName||猩红制剂
+Cod_Nc_BloodPlage_ScarletPreparation_ActionName||饮用
+T-WJLYi54zFcfR8LUflQJWifycE+c=||自制柠檬草罐头
+T-B3uKqDGTOl/CMGxgUSsOCV0pNqY=||罐装柠檬草
+T-jk+WzJhC1kqokp3jv/BZ4m6num0=||需要秘方
+T-ieGK9XdvLKO3TWIRT7omVYbpwXE=||自制肉罐头
+T-kVGEX5c/V0cfI9+sgWa26qtf0V0=||罐装肉块
+T-MnFQOFkeRcdhwL7B6nN1ru6c2QM=||罐装肉
+T-Vs7kVlNGlQ2Ddsx9/8PCHNhplu4=||自制芒果罐头
+T-tigfcX0zR9AgSoZ1rFLbEBj03cA=||罐装芒果
+T-qoXAdVh1hDj3poDwJyh0O0geZno=||自制罐装蘑菇
+T-W3JXkEaCGPzmLsJjZwQa0VyHPzM=||罐装蘑菇
+T-0OUxwVVcV0KKCoBk9IyN5FLycdo=||自制虾罐头
+T-8fUWQvrparOh67EEppd3KQoQ1PE=||罐装虾仁
+T-T/sUUATQPb9L0C4iRzgc0FC6TuQ=||自制蛋罐头
+T-EF4Lh0Ies3qFvtKvgUDiLCJOn/A=||罐装蛋
+T-lDL1b6sAt0xTOF+BWS9JOBZU574=||自制辣椒罐头
+T-+qk3rnUpdX8HZY1t/tRVHUQyio4=||罐装辣椒
+T-SLOwSiJD+/8nr3a4W0ZVOn+tybE=||自制香蕉罐头
+T-ULiUEKrjf2AYGMVZ0m5o87KRHe0=||罐装香蕉片
+COD_ah_Spindle_BlueprintFinishedLog.LogText||制作两根绳子
+COD_aash_Spaindle_CardDescription||制作两根绳子
+COD_asssh_Spindle_CardName||制作两根绳子
+COD_Bp_Spindle_UnlockConditionsDesc||More Tailoring Needed
+T-YTYQyy+DnwviAvIdHoELVVS+R2E=||我做了长木棍
+COD_Bento_five_CardDescription||我可以制作五根长木棍
+COD_Bento_fivee_CardName||制作五根长木棍
+COD_Bento_Spindle_UnlockConditionsDesc||需要材料
+T-2kcs4ZrjA5ugRLhYUVSlBLxn/SQ=||制作大油桶
+T-LQWXKW2QLB9PAJ1gcBIADX032Ik=||需要配方
+T-3zmkxWvMKfG5iktof9SGjiabpyM=||制作鱼罐头
+T-LSIstKynCh3ZOdAWNdXGJLM400A=||制作弹涂鱼罐头
+COD_Bento_bbb_Spindle_BlueprintFinishedLog.LogText||制作十个纤维
+COD_a_Spaaindle_CardDescription||制作十个纤维
+COD_ah_Spinadle_CardName||制作十个纤维
+COD_Bp_Mortar_BlueprintFinishedLog.LogText||I built some wooden planks.
+COD_Bp_Mortar_CardDescription||A great construction material.
+COD_B_ar_CardName||十二砂浆
+COD_Bp_Mortar_UnlockConditionsDesc||Quicklime Needed
+COD_Bento_CoconutMilka_CardName||四份椰奶
+COD_Bp_CoconutMilk_UnlockConditionsDesc||More Cooking Needed
+COD_Bento_stone_BlueprintFinishedLog.LogText||我砸了小石块
+COD_Bento_fivae_CardDescription||我可以制作小石块
+COD_Bento_fiveeaaa_CardName||制作小石头
+COD_ash_Spindle_BlueprintFinishedLog.LogText||制作灰烬
+COD_ash_Spaindle_CardDescription||制作灰烬
+T-6HBDmpdWBl2gtJ+wa+fthxMsC94=||制作灰烬
+COD_Bento_aaa_Spindle_BlueprintFinishedLog.LogText||碾碎六个干土
+COD_ash_Spaaindle_CardDescription||碾碎六个干土
+COD_ash_Spinadle_CardName||制作细土
+T-qW9yERceILV3HGkb7KK6bgZav5w=||锯木板
+T-bINyx772L6P3lmj0QQaYHgBiXmY=||需要锯木机
+COD_Bento_Spinssdle_BlueprintFinishedLog.LogText||制作猪饲料
+COD_asah_indle_CardDescription||制作猪饲料
+COD_ash_Sdle_CardName||制作外星猪饲料
+COD_Bento_Spdle_BlueprintFinishedLog.LogText||制作外星羊饲料
+COD_asah_sndle_CardDescription||制作外星山羊饲料
+COD_ash_Spdle_CardName||制作外星鸟食
+T-AaylZI3AkbLeBQaKfRRNnHPGPtg=||制作鸟食
+COD_asah_Spaindle_CardDescription||制作鸟食
+T-HtGxroLhGp18FyU2dY+DpbsU0Q8=||制作外星鸟食
+Cod_Bp_ChemicalProduct_BlueprintFinishedLog.LogText||I crafted a bow.
+Cod_Bp_ChemicalProduct_CardDescription||常用于各类场合的化学制品。
+Cod_Bp_ChemicalProduct_CardName||化学制品
+Cod_Bp_ChemicalProduct_UnlockConditionsDesc||需要更高的制作等级或者图纸
+Cod_Bp_ResourceProduction_RainCollector_BlueprintFinishedLog.LogText||我制作了雨水收集器来收集雨水。
+Cod_Bp_ResourceProduction_RainCollector_CardDescription||一个精密的集水仪器。
+Cod_Bp_ResourceProduction_RainCollector_CardName||集雨器
+Cod_Bp_ResourceProduction_RainCollector_UnlockConditionsDesc||尚未掌握制作方法
+Cod_Nc_ResourceProduction_RainCollector_Infected_TypeOne_CardDescription||一个精密的集水仪器。
+Cod_Nc_ResourceProduction_RainCollector_Infected_TypeOne_DismantleActions[1].ActionName||拆卸
+Cod_Nc_ResourceProduction_RainCollector_TypeOne_CardDescription||一个精密的集水仪器。
+Cod_Nc_ResourceProduction_RainCollector_TypeOne_DismantleActions[1].ActionName||拆卸
+T-AOmEUKa+Wm4oIjAL3/tt2ukwgq4=||卖出10块煤
+T-sC8uioVpF8Xmm5YX+4i3UkmrUt8=||出售煤
+T-lEgWrsyS96h0cb8pctvOh3rwzEc=||需要商人
+T-uE5MsPiOUxY8p37o+1j7O0Ls2UY=||出售
+T-XTADPnTlYFrczraA5LmpuqFZVQ0=||出售空罐
+T-Nm0qYcEe18KfMJUR7laupnpxGR8=||10红砖卖20块钱
+T-05hs2cYzMroV4GOQQNoVLAY4w08=||出售红砖
+T-qmCygu7mrZEVAXvHgrrxpjp8jt4=||出售物品
+T-fUEQJuFelMwmUdBJSdvI7VPHAwA=||出售编织物
+T-eTDZgM95ltLlMELr3MXoEgZ0bNs=||出售贝壳
+T-vExUeacUR0a8vuIoBmeI/C/fS2A=||购买20张代金券
+T-StatZGPgR8LxEWtetvzL5bGqOJY=||购买外星种子
+T-lNZV0u0MYWphdPteB5eohBl17Yk=||购买外星结节
+T-y/f+x4EfUO4KkkN9Rc4584M0uAc=||购买腰包
+T-NEKQkvAjddvdgL48aK61gT3NuT8=||购买大腰包
+T-wrkqbpPIMQzpzEOpcIW4GOY1Zjs=||购买左轮
+T-my7zidHxubi/pISsn+bNQucoPFU=||购买10发子弹
+T-fPQLvSPtMQsBwn048yavp00VFPM=||购买
+T-sPK6icUjBxGl0LV+jIeEyl85eoY=||购买小型熔炉
+T-E9rwX0YFQYyn2xPun8nJYM8v0ws=||购买工作证
+T-XhUHXroJrCYFTneZPy2Eycrh6t8=||购买锯木工具
+T-neL2pylRqhMdMWYB4Pdu/BOA2Ts=||购买工具箱
+T-kjxA4e47eWXGsxESa9zZXagGL8M=||购买手电
+T-+gMcphk/eNytWQC8xGKuOsXaLow=||购买药品
+T-RB1D4kC+yckMLzlXy76v3F5KshA=||购买抗生素
+T-gGosS29xFSI/aHGS1/55SAdGRgE=||购买无人机
+T-fhTI3mj5V8emtsmLkl3gBmgR4+g=||购买背包
+T-Q49t70xzmaUHFSHOgnHzVs4vzNg=||购买玻璃罐
+T-YGMkLNeIJ9SYPvqfdHx+sjXB9mM=||购买六个玻璃罐
+T-eeJ09Fv+6eeL1BDgO+O+H/EjNvk=||购买罐装素食秘方
+T-lSbj8VsFx52kIZ1O5jfn9+HX5Js=||购买罐装肉食秘方
+COD_购买解毒剂_ban2BlueprintFinishedLog.LogText||I mad
+COD_购买解毒剂_CardDescription||购买解毒剂
+COD_购买解毒剂_CardName||购买解毒剂
+COD_购买解毒剂_UnlockConditionsDesc||需要商人
+T-rxzPUe/YSOXR7l0A5xtAWgvrO/M=||出售公山羊
+T-8HOLEq1e/U1cIPl3e3uC//RG7+E=||出售山羊
+T-e4+ZxOWaLApvRDltqhGJOkfCylA=||出售野猪
+T-YOaNCM1pIyg9CLYvSQC4TeUpLvg=||出售母山羊
+T-CmJpPlXCzkCk0So0iNB0EnLbV1U=||出售巨蜥
+T-bPmXNo7WoIK4HZK7XRGnMGS9mGo=||制6发左轮子弹
+T-wPr2Z+kh6DJVfwMVqzRhCPA3cFY=||需要弹药制作台和更高的弹药学
+T-HbYWeEz4sC9nPFHFuOyt13ieNS8=||有了这个台子，火药、金属废料和红砖粉末，我就可以制作子弹了
+T-JErCGqMFNyVCvWGtpriQpqIZVdw=||弹药制作台
+T-6RLLqueG6x8V+TPX0Ywr1k0Ggig=||火药罐，里面装满了火药，是制作子弹的必备材料
+T-IRVOMw263BK4Xu/wMPt71prZQkw=||火药罐
+T-dQSBRXpKWhrpj8nouwf6hOGojYo=||购买10个泥堆
+T-bamnWXSINFv4hpAeZqNMQpMj2R8=||购买2烹饪锅
+T-qVwxxymXFr4lvqin2DSOR/P2qXw=||购买火药
+T-xATIpnuBxMgS1eQlty2HnsjrOxo=||购买两个火药罐
+T-UFbiXq2VK5vkQwz0tomIj+hUAhU=||购买蛇草
+T-CykLr/aT2MJPec8UumLN9wqb3g4=||购买10个蛇草
+T-/16Nv+JSi30ErPJifegUkokNdV8=||购买配方
+T-BH9/3YzV/qLivwQEpS54nhpEMv0=||购买鱼罐头配方
+T-1G7qGx59kM3M3Xlp1PQ7UT4PIys=||搏一搏
+T-K5TJ+5kZRWHIrYPXCmYP8+irT8M=||4代金券
+T-YnWaylKYbPZDNVC49VuiX9WKRRk=||需要老虎机
+T-2Q+5HZ2NkErZ0m10pMHeSoTwLJM=||五元老虎机代金券
+T-7m8aQUGED69vwQNuQjRNnTQvD0Q=||5元代金券
+T-0S6wFVfnSUdSa7ji+W9EXi5f9j8=||搏一搏，单车变模特，赌一赌，老虎变香猪。
+T-OO2PumYR5nVMTAlSrElgHwCiGDY=||5元
+T-2KIJH6Fkr3BPzp/Du2n86gGTayU=||10元
+COD_Nc_ZombieDeathDrop_Accessories_TypeFive_CardDescription||记忆中的奢侈品，已经失去了所有的彩色。
+COD_Nc_ZombieDeathDrop_Accessories_TypeFive_CardName||饰品
+COD_Nc_ZombieDeathDrop_Accessories_TypeFour_CardDescription||记忆中的奢侈品，已经失去了所有的彩色。
+COD_Nc_ZombieDeathDrop_Accessories_TypeFour_CardName||饰品
+COD_Nc_ZombieDeathDrop_Accessories_TypeOne_CardDescription||记忆中的奢侈品，已经失去了所有的彩色。
+COD_Nc_ZombieDeathDrop_Accessories_TypeOne_CardName||饰品
+COD_Nc_ZombieDeathDrop_Accessories_TypeSix_CardDescription||记忆中的奢侈品，已经失去了所有的彩色。
+COD_Nc_ZombieDeathDrop_Accessories_TypeSix_CardName||饰品
+COD_Nc_ZombieDeathDrop_Accessories_TypeThree_CardDescription||记忆中的奢侈品，已经失去了所有的彩色。
+COD_Nc_ZombieDeathDrop_Accessories_TypeThree_CardName||饰品
+COD_Nc_ZombieDeathDrop_Accessories_TypeTwo_CardDescription||记忆中的奢侈品，已经失去了所有的彩色。
+COD_Nc_ZombieDeathDrop_Accessories_TypeTwo_CardName||饰品
+COD_Nc_ZombieDeathDrop_Cigarettes_TypeOne_CardDescription||幸存者间的硬通货。
+COD_Nc_ZombieDeathDrop_Cigarettes_TypeOne_CardName||香烟
+COD_Nc_ZombieDeathDrop_Cigarettes_TypeThree_CardDescription||幸存者间的硬通货。
+COD_Nc_ZombieDeathDrop_Cigarettes_TypeThree_CardName||香烟
+COD_Nc_ZombieDeathDrop_Cigarettes_TypeTwo_CardDescription||幸存者间的硬通货。
+COD_Nc_ZombieDeathDrop_Cigarettes_TypeTwo_CardName||香烟
+T-KeR716eSKvkrL42nX+WHBjJh1eM=||可以花钱随机购买两种零食
+T-1yejaHI93KD2zv/5UWTzYz6+xeo=||自动售货机
+T-0wSNiOMG4N5vaoqIK55RBmHOQng=||购买6包水
+T-OECvLM9UuhVMKg0IwO+TnRuMAV4=||袋装水包
+T-6d+pB+dew87i0CMvJr/tfBrR9mw=||需要自动贩卖机
+T-gbxoeKr8uzazhbrBvbhqEytazk0=||黑奴套餐
+T-aaD2v1WRHv1LxnAynyHBnJQTZAA=||购买6盐
+T-3re+VVlaHQPwlSJ0o40nWDoE9C0=||6份盐
+T-UbWDjfYQNuSDFhAi5vjFkq/BYEw=||购买零食
+T-FHExl27SHZTYPSLi6VLx/BfqaiU=||苏打薯片
+T-vI5UNXjGGdgp+LPBeSK/Lfroom8=||红牛可乐
+T-pDoA3bI2MrFGJjCrKZTIq1vnwVk=||曲奇鱼罐头
+T-AbXcBYTPh4cROtYXwNn99lgb/eQ=||午餐牛肉
+T-PO9ZwUGAtI/UOO7xxY75hjy53no=||香蕉椰子
+T-4KSezKSGDsiAM+W1Ux6SSsX+lqw=||饿货套餐
+T-cai3CFpMLMN+XeYwMDODJsLQct4=||红酒猪肉
+T-GP0MSdE3uz/zxH2gdjVQEJi4hRQ=||两罐脂肪块
+T-sLhGIxe4C+eRd/2Qyq0ylM2pl94=||V我50套餐
+T-lsLmH8yh6bQCnZXsDbRMRrr6A/A=||需要服务员
+T-sjgQAPW+0gsnh77+rwPHC2CuGoU=||有着淡淡成色..
+COD_WaterRation_CardInteractions[0].ActionName||饮用
+T-S/+8iiLCQt2sOaoceEPkfREi66A=||一杯水
+COD_WaterRation_DismantleActions[0].ActionName||Drink
+T-e5gyTQda7dWQBQySozDeIIuIKd0=||一杯红酒
+T-IUHqqlZ22ZUxdhdrdAFJMr+o6Qw=||面包中间夹着奶油
+T-OcVnlJrqw0EpJiztDvl+jNnbBJ8=||奶油夹心面包
+COD_ChickenSandwich_DismantleActions[0].ActionLog.LogText||I ate a chicken sandwitch.
+COD_ChickenSandwich_DismantleActions[0].ActionName||Eat
+T-JUXXizIKoJ+7HGM3T7YyVYoUGp4=||奶香四溢
+T-QJAZ94MupWkwfbf1sJu1lMF/Rxc=||奶酪面包
+T-m3JoY6pN4Z+pE+NcxmCmXq/61f4=||巨无霸汉堡
+T-3NOg4NikGT8/rF05LnkP6l407nU=||美味水果沙拉
+T-M4/3KLbc2BnjyDxBUoBfp9S0br0=||水果沙拉
+T-R+sF6KKlsztIJbZVJcFlEsAbfH8=||沙拉套餐
+T-thfHAS5ze+AuYrAzPsgoI01RilU=||感恩节就得吃这玩意
+T-yuUW095RrU7poT35AzoXzIxpvWo=||烤火鸡
+T-fzKPUxIFbTeJChYjfkP8M+Tqi64=||感恩节
+T-OybKZRSUc01/psQ79t751H7Jmng=||感恩节大餐
+T-j+NZ5O574vB+r+vtyUExp9CULbM=||炸鸡和薯条
+T-kvmLwMSlTxK6MQdrbbZPlkEfPaM=||炸鸡薯条
+T-X7Ny1D0n+VX9mUHTXsnoV5TJ36Y=||七分熟的牛排
+T-Ha0xnf2ZfmecjZ4XMGAdKhpw8Cw=||牛排
+T-RHl1buyf37MhnPk0AnUeWX3LGvk=||牛排套餐
+T-UYVPO3F1jEEVnsc+/FJa3wWclqo=||猪排豆子和米饭
+T-jw5fb5dfgQKYxVAhkn/eYgzPD90=||猪排豆子
+T-ymTlBmZi4O+aQ7afJaZIe94VQ4c=||猪排豆子套餐
+T-LMMLZeAwjpRfg9sS5/VVugQMb7M=||红烧鱼肉
+T-zWXYQ+i6JM/pC05V02YyoJPicf0=||红烧鱼
+T-PkhkVBTxT3fc/Y+RboumX3rtK/o=||美味蔬菜沙拉
+T-LGrnrn/h6EH4Y3l8Y2FT8gF+yhs=||蔬菜沙拉
+T-7rwoXSbX+jhRl2Z6DuZBs1LPXcg=||面包套餐
+T-p4sD1n/90qOj1HfEbpWOUAOoeOY=||击鼓工作
+T-HNaSZklzh6iPMRE3Z4k3ifNSmSI=||需要更高信任或击鼓技能
+T-75B6BcySqHjQU4EAA4ugHE8+860=||务农工作
+T-c+aFq9Z5VbORjS3Q95nm58L8G3A=||需要更高信任或草药学
+T-D1P4Z+jxZ7mi5UhQKKYtE2jOg4A=||厨师工作
+T-AgO++IVrOtlsaN0UOyj7fAiiS9g=||需要更高信任或烹饪
+T-5EF439jpCfKR9gdeSUYUW61Cy4Y=||弓箭教学工作
+T-fIcQROj+8dfd9axrCNXeaGgE2LM=||弓箭教官
+T-bpBfIoIRKL0LPRfYuUboqaxpsbE=||需要更高信任与箭术
+T-LPgT5KvYE1BGUEjEi9eaa/TsDPY=||靠海吃海
+T-e6D0+Ussudlh+Qdd1zK+qBpgQl4=||鱼肉工作餐
+COD_Mango_DismantleActions[0].ActionName||Eat
+T-olZV5npqSwU62qxApdsdY29b32c=||投石索教学工作
+T-jxEBowziX5MdH6Y36eHTfuQPqRQ=||投石索教官
+T-UMUd+0eRxnYt0KVAQBTj7gpOciM=||需要更高信任或投石索技能
+T-foO94DnOwpHkv5dwHMV3ns/DYf8=||捕兽工作
+T-g2kCFnnf6GhDeHYecMxKg9QQA+8=||需要更高信任
+T-3DZdPTc/q2MmoQbRh4iylld84m4=||木工工作
+T-bnusu693aCSdirPV/7VSQJBFaZk=||需要更高信任或木工技能
+T-2FlxdQBq0Oqwi9OXA5/kKSMAuls=||杂工工作
+T-BXmSdU3TlCACYjycg/IFkqjkI20=||监工工作
+T-lTHcQJhyfndOQx6q7CfC/J+IFrY=||石匠工作
+T-w8NDc6P7C2eIF6J2g7rO9Fwn1B0=||需要更高信任或石工
+T-mmqlvA6XZ/yJNuMvc5PvP6C5lzw=||纺织工作
+T-MEhB4cUQyusab+7R/IRoeRjwAhk=||需要更高信任或纺织技能
+T-cFwgEvVXjMGfHjlMY4uuxCqixQQ=||钓鱼工作
+T-/C2yL2sstlCvhwexuLFeqmFxwHE=||需要更高信任或钓鱼技能
+T-ArtN/67jKEjsg6AJCQ1rRcI6kmU=||铁匠工作
+T-5Uirnpw4HO4mqmAv8PFj4Y6uH0k=||需要更高信任或制作技能
+T-1N3FEciwjMfaeExRksGPr6w8Ss0=||长矛教学工作
+T-e47GHQEGL1OopBbksVviNqKU+nk=||矛战教官
+T-dDliFhBaivEsjE5ibN73buijTvA=||需要更高信任或矛战
+T-VwzIdfhoBEnHgsQs9N3kStK8Nu0=||看起来还不错，吃完得把餐具送回去
+T-DNNNWuunerfa1OVFEt38Py6/VcQ=||意面工作餐
+T-ePRAenNT8hE33EsHk3mtzla+3BQ=||看起来很不错，吃完得把餐具送回去
+T-7NvLanzi1NsjNqs7dS+0B089QSM=||高级工作餐
+T-ZqBqlkSj6/6uAiXmfFm6nVoWT1o=||就碳水嗯造，吃完得把餐具送回去
+T-YVdx/SJydhsQ4lZkVeP5dXeCJ6E=||普通工作餐
+T-255Z3DUVPzxnCKkn+iF4jZ7Xem4=||就碳水嗯造
+T-K6xLfdtgodNSQ5/p7/oqRFmNvqw=||捆好的原木，便于携带
+T-lndGEkEdl0d70rQIwhPZPBypKkA=||一捆原木
+T-io5KISIJTNQ0kYdvB6RKc0KfE0o=||取出原木
+COD_Bento_wood3_BlueprintFinishedLog.LogText||我捆了木头
+COD_Bento_fivaae_CardDescription||我可以捆原木
+COD_Bento_wood4_CardName||捆一捆原木
+COD_Bento_woodbasb_CardDescription||一捆树枝，便于携带
+COD_Bento_Stickshongg_CardName||一捆小树枝
+COD_Bento_DaaleActions[0].ActionName||取出树枝棍
+COD_Bento_wooddadd_BlueprintFinishedLog.LogText||我会捆木棍了
+COD_Bento_fivaaaaae_CardDescription||一捆树枝
+COD_Bento_wooda5_CardName||捆一捆树枝
+COD_Bento_woodbb_CardDescription||一捆长木棍，便于携带
+COD_Bento_StickLongg_CardName||一捆长木棍
+COD_Bento_DantleActions[0].ActionName||取出长木棍
+COD_Bento_woodddd_BlueprintFinishedLog.LogText||我会捆长木棍了
+COD_Bento_fivaaae_CardDescription||一捆长木棍
+COD_Bento_wooda4_CardName||捆一捆长木棍
+COD_Bento_stone1_CardDescription||装好的石子，便于携带
+T-PqzoLlJmUm1H01nhTk7PiQ4GcLI=||一篓小石头
+COD_Bento_stoneDismantleActions[0].ActionName||取出石子
+COD_Bento_stone2_BlueprintFinishedLog.LogText||一篓石子
+COD_Bento_stonee3_CardDescription||我可以装石子
+COD_Bento_stone5_CardName||装一篓小石子
+COD_Bento_yeshiti1_CardDescription||山羊尸体，便于携带
+COD_Bento_shanyang111_CardName||山羊尸体
+COD_Bento_aasDismantleActions[0].ActionName||取出山羊尸体
+COD_Bento_aak1_BlueprintFinishedLog.LogText||把山羊装到篓里
+COD_Bento_shao5_CardDescription||我可以装进去
+COD_Bento_so5_CardName||装入山羊尸体
+COD_Bento_juxishiti1_CardDescription||巨蜥尸体
+COD_Bento_juxi111_CardName||巨蜥尸体
+COD_Bento_juxiDismantleActions[0].ActionName||取出巨蜥
+COD_Bento_juxik1_BlueprintFinishedLog.LogText||把巨蜥装到篓里
+COD_Bento_juxioo5_CardName||装入巨蜥尸体
+COD_Bento_woodaa1_CardDescription||装好的沙子，便于携带
+T-349tKxilmqUfGtBbbkzu7SEOL1Q=||一篓沙子
+T-WxI08TBiYNB4wSgKEyVOD4npXwk=||取出沙子
+COD_Bento_sand1_BlueprintFinishedLog.LogText||一篓沙子
+COD_Bento_fivaae3_CardDescription||我可以装沙子
+COD_Bento_sand5_CardName||装一篓沙子
+COD_Bento_woodaaa1_CardDescription||装好的泥土，便于携带
+COD_Bento_mitu111_CardName||一篓泥土
+COD_Bento_nituDismantleActions[0].ActionName||取出泥土
+COD_Bento_nituu1_BlueprintFinishedLog.LogText||一篓泥土
+COD_Bento_nitu5_CardDescription||我可以装泥土
+COD_Bento_ni5_CardName||装一篓泥土
+COD_Bento_yshiti1_CardDescription||海怪尸体，便于携带
+COD_Bento_haiguaiu111_CardName||海怪尸体
+COD_Bento_haiguaiDismantleActions[0].ActionName||取出海怪
+COD_Bento_hgnk1_BlueprintFinishedLog.LogText||把海怪装到篓里
+COD_Bento_hgoo5_CardName||装入海怪尸体
+COD_Bento_snak1_CardDescription||装好的蛇草，便于携带
+COD_Bento_snak111_CardName||一篓蛇草
+COD_Bento_snakkDismantleActions[0].ActionName||取出蛇草
+COD_Bento_snakk1_BlueprintFinishedLog.LogText||一篓蛇草
+COD_Bento_shecao5_CardDescription||我可以装蛇草
+COD_Bento_shecaoo5_CardName||装一篓蛇草
+COD_Bento_yezhushiti1_CardDescription||野猪尸体
+COD_Bento_yezhu111_CardName||野猪尸体
+COD_Bento_sDismantleActions[0].ActionName||取出野猪
+COD_Bento_snk1_BlueprintFinishedLog.LogText||把野猪装到篓里
+COD_Bento_shoo5_CardName||装入野猪尸体
+COD_Bento_coconut1_CardDescription||装好的椰子，便于携带
+COD_Bento_coconut2_CardName||一篓青椰子
+COD_Bento_coconut3DismantleActions[0].ActionName||取出椰子
+COD_Bento_cocount2_BlueprintFinishedLog.LogText||装一篓青椰子
+COD_Bento_cocount5_CardDescription||我可以装椰子
+COD_Bento_coco5_CardName||装一篓青椰子
