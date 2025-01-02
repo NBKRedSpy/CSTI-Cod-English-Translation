@@ -1,28 +1,28 @@
 {
-  "AssociatedEntry": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "IncludedCards": [],
-  "IncludedCardsWarpData": [
-    "7f281ac1322247fca2ca6f0a7a698320",
-    "8ec0f68a8ca24b6db63f8d3f2dc0b4e1",
-    "aff0076e03bd455f8ac63bd7904844eb",
-    "0d6ef5d0424842d98f5359a836122d3e",
-    "c317b14ba80247dc884dc0de054509ba"
-  ],
-  "IncludedCardsWarpType": 3,
-  "ShopSortingList": [],
-  "SubGroups": [],
-  "TabIcon": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "TabIconWarpData": "icon_laohuji",
-  "TabIconWarpType": 3,
-  "TabName": {
-    "DefaultText": "老虎机",
-    "LocalizationKey": "T-+DcvZ8kSRUi+MfEelh9zICeuKeA=",
-    "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
-  }
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "7f281ac1322247fca2ca6f0a7a698320",
+        "8ec0f68a8ca24b6db63f8d3f2dc0b4e1",
+        "aff0076e03bd455f8ac63bd7904844eb",
+        "0d6ef5d0424842d98f5359a836122d3e",
+        "c317b14ba80247dc884dc0de054509ba"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabIconWarpData": "icon_laohuji",
+    "TabIconWarpType": 3,
+    "TabName": {
+        "DefaultText": "老虎机",
+        "LocalizationKey": "Cod_Tab_Deal_LaoHuJi_TabName",
+        "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
+    }
 }

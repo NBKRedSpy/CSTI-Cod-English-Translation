@@ -1,0 +1,41 @@
+{
+    "BaseSet": {
+        "ImageName": "Cod_Port_Base",
+        "Priority": 880
+    },
+    "BookmarkLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "BookmarkRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "Card": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CardWarpData": "4b590ee4ed984aaf8d6264d3b2108d20",
+    "CardWarpType": 3,
+    "ConditionSets": [],
+    "EnvSet": {
+        "ImageName": "Cod_Port_Location",
+        "Priority": 880
+    },
+    "ExpSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "HandSet": {
+        "ImageName": "Cod_Port_Base",
+        "Priority": 880
+    }
+}

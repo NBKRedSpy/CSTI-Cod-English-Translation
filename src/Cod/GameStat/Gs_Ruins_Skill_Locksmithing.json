@@ -32,7 +32,7 @@
     },
     "Description": {
         "DefaultText": "对于各类锁具解法的技术程度。",
-        "LocalizationKey": "COD_Gs_Ruins_Skill_Locksmithing_Description",
+        "LocalizationKey": "Cod_Gs_Ruins_Skill_Locksmithing_Description",
         "ParentObjectID": "221aa25558a94e4a828318b565ea744f"
     },
     "FeedbackInfo": {
@@ -49,7 +49,7 @@
     },
     "GameName": {
         "DefaultText": "开锁",
-        "LocalizationKey": "COD_Gs_Ruins_Skill_Locksmithing_GameName",
+        "LocalizationKey": "Cod_Gs_Ruins_Skill_Locksmithing_GameName",
         "ParentObjectID": "221aa25558a94e4a828318b565ea744f"
     },
     "InvertedDirection": false,
@@ -68,7 +68,7 @@
     },
     "NotEnoughText": {
         "DefaultText": "需要更高的开锁技能",
-        "LocalizationKey": "COD_Gs_Ruins_Skill_Locksmithing_NotEnoughText",
+        "LocalizationKey": "Cod_Gs_Ruins_Skill_Locksmithing_NotEnoughText",
         "ParentObjectID": "221aa25558a94e4a828318b565ea744f"
     },
     "NoveltyCooldownDuration": 0,

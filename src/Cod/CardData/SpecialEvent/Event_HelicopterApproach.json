@@ -89,8 +89,8 @@
         "m_PathID": 0
     },
     "CardDescription": {
-        "DefaultText": "\u76f4\u5347\u673a\u5c31\u5728\u9644\u8fd1\u7684\u4e0a\u7a7a\u76d8\u65cb\uff0c\u63a2\u7167\u706f\u5c06\u5730\u9762\u7167\u5c04\u7684\u6e05\u6670\u53ef\u89c1\u3002",
-        "LocalizationKey": "COD_Event_HelicopterApproach_CardDescription",
+        "DefaultText": "直升机就在附近的上空盘旋，探照灯将地面照射的清晰可见。",
+        "LocalizationKey": "Cod_Event_HelicopterApproach_CardDescription",
         "ParentObjectID": "735ce239081140b0a021ccac00af5a7f"
     },
     "CardImage": {
@@ -101,8 +101,8 @@
     "CardImageWarpType": 3,
     "CardInteractions": [],
     "CardName": {
-        "DefaultText": "\u76f4\u5347\u673a",
-        "LocalizationKey": "COD_Event_HelicopterApproach_CardName",
+        "DefaultText": "直升机",
+        "LocalizationKey": "Cod_Event_HelicopterApproach_CardName",
         "ParentObjectID": "735ce239081140b0a021ccac00af5a7f"
     },
     "CardTags": [],
@@ -180,13 +180,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I tried to hunt a boar but it escaped.",
-                    "LocalizationKey": "COD_Event_HelicopterApproach_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_HelicopterApproach_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "735ce239081140b0a021ccac00af5a7f"
                 }
             },
             "ActionName": {
-                "DefaultText": "\u7ee7\u7eed",
-                "LocalizationKey": "COD_Event_HelicopterApproach_DismantleActions[0].ActionName",
+                "DefaultText": "继续",
+                "LocalizationKey": "Cod_Event_HelicopterApproach_DismantleActions[0].ActionName",
                 "ParentObjectID": "735ce239081140b0a021ccac00af5a7f"
             },
             "ActionSounds": [],

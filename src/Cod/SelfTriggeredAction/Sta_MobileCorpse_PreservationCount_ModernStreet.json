@@ -1242,6 +1242,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatChangeTrigger": [
                 {
                     "HideAllWhenNotMet": false,
@@ -1269,6 +1288,20 @@
                     "TriggerRange": {
                         "x": 1.0,
                         "y": 1.0
+                    }
+                },
+                {
+                    "HideAllWhenNotMet": false,
+                    "NotifyWhenNotMet": false,
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "a5dcfad6664f4c2fbddb53d3dd7a3d74",
+                    "StatWarpType": 3,
+                    "TriggerRange": {
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],

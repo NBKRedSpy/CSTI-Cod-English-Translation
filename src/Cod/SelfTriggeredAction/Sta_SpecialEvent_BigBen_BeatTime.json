@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "BeatTime",
-                "LocalizationKey": "COD_Sta_SpecialEvent_BigBen_BeatTime_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_SpecialEvent_BigBen_BeatTime_Actions[0].ActionName",
                 "ParentObjectID": "d4bfa5c90c9b45f8821f2ce54384182b"
             },
             "ActionSounds": [],

@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_Noise_ZombieProducedCount_ReCount",
-                "LocalizationKey": "COD_Sta_Noise_ZombieProducedCount_ReCount_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_Noise_ZombieProducedCount_ReCount_Actions[0].ActionName",
                 "ParentObjectID": "6dfb528a044c49e7b035a0ff4847ab9b"
             },
             "ActionSounds": [],

@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_ZombiePresenceCounter",
-        "LocalizationKey": "COD_Gs_ZombiePresenceCounter_GameName",
+        "LocalizationKey": "Cod_Gs_ZombiePresenceCounter_GameName",
         "ParentObjectID": "c327eb04957d4793842d52e777062c48"
     },
     "InvertedDirection": false,

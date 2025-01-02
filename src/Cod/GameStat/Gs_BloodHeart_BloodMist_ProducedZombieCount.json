@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_BloodHeart_BloodMist_ProducedZombieCount",
-        "LocalizationKey": "COD_Gs_BloodHeart_BloodMist_ProducedZombieCount_GameName",
+        "LocalizationKey": "Cod_Gs_BloodHeart_BloodMist_ProducedZombieCount_GameName",
         "ParentObjectID": "34cfdff40d9145228cf71f12b8034d82"
     },
     "InvertedDirection": false,

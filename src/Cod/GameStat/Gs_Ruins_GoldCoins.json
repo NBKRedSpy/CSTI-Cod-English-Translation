@@ -12,7 +12,7 @@
         "r": 0.0
     },
     "BaseRatePerTick": 0.0,
-    "BaseValue": 0.0,
+    "BaseValue": 5.0,
     "CannotBeInspected": false,
     "DefaultStatusDescription": {
         "DefaultText": "",
@@ -23,7 +23,7 @@
         "m_FileID": 0,
         "m_PathID": 0
     },
-    "DefaultStatusIconWarpData": "al_铸币",
+    "DefaultStatusIconWarpData": "Icon_铸币",
     "DefaultStatusIconWarpType": 3,
     "DefaultStatusName": {
         "DefaultText": "",
@@ -48,8 +48,8 @@
         "StepValue": 1.0
     },
     "GameName": {
-        "DefaultText": "金币",
-        "LocalizationKey": "COD_Gs_Ruins_GoldCoins_GameName",
+        "DefaultText": "金币值",
+        "LocalizationKey": "Cod_Gs_Ruins_GoldCoins_GameName",
         "ParentObjectID": "960dfef15e13430bb2a48cb443a7e835"
     },
     "InvertedDirection": false,
@@ -60,19 +60,26 @@
     },
     "MinMaxValue": {
         "x": 0.0,
-        "y": 10000.0
+        "y": 100000.0
     },
     "NotEnoughIcon": {
         "m_FileID": 0,
         "m_PathID": 0
     },
     "NotEnoughText": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
+        "DefaultText": "可用金币值不足。",
+        "LocalizationKey": "Cod_Gs_Ruins_GoldCoins_NotEnoughText",
+        "ParentObjectID": "960dfef15e13430bb2a48cb443a7e835"
     },
     "NoveltyCooldownDuration": 0,
     "OverrideFeedbackPrefab": {
+        "AnimationsToReset": "",
+        "Delay": 0.0,
+        "DestroyAfterPlaying": false,
+        "Duration": 0.0,
+        "Icon": "",
+        "ResetOnPlay": false,
+        "YieldWaitDuration": 0.0,
         "m_FileID": 0,
         "m_PathID": 0
     },

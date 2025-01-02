@@ -1,4 +1,5 @@
 {
+    "ActionRange": 0,
     "ActiveCounters": [],
     "AffectStatsOnlyOnBase": false,
     "AffectStatsOnlyWhenEquipped": true,
@@ -49,10 +50,37 @@
         },
         "RandomNoises": []
     },
+    "AmmoNeeded": [],
+    "AmmoUsageCost": 0.0,
+    "AppliesCoverWhenEquipped": false,
+    "ArmorValues": {
+        "HeadArmor": 0.0,
+        "HeadArmorModifiers": [],
+        "HeadHitProbabilityModifier": 0.0,
+        "LArmArmor": 0.0,
+        "LArmArmorModifiers": [],
+        "LArmHitProbabilityModifier": 0.0,
+        "LLegArmor": 0.0,
+        "LLegArmorModifiers": [],
+        "LLegHitProbabilityModifier": 0.0,
+        "RArmArmor": 0.0,
+        "RArmArmorModifiers": [],
+        "RArmHitProbabilityModifier": 0.0,
+        "RLegArmor": 0.0,
+        "RLegArmorModifiers": [],
+        "RLegHitProbabilityModifier": 0.0,
+        "TorsoArmor": 0.0,
+        "TorsoArmorModifiers": [],
+        "TorsoHitProbabilityModifier": 0.0
+    },
     "BPRandomSingleDrop": false,
     "BaseBackground": {
         "m_FileID": 0,
         "m_PathID": 0
+    },
+    "BaseClashValue": {
+        "x": 0.0,
+        "y": 0.0
     },
     "BlueprintActionTags": [],
     "BlueprintCardConditions": [],
@@ -74,6 +102,31 @@
     "BlueprintStatModifications": [],
     "BlueprintTagConditions": [],
     "BlueprintUnlockSunsCost": 0.0,
+    "BrokenDuringCombatLog": {
+        "AlternateLogTexts": [],
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ScreenShake": false,
+        "SoundEffects": [],
+        "TextColor": {
+            "Active": false,
+            "ColorValue": {
+                "a": 0.0,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            }
+        },
+        "TextSettings": {
+            "Active": false,
+            "Bold": false,
+            "Italics": false,
+            "Underlined": false
+        }
+    },
     "BuildSounds": [],
     "BuildingCardConditions": [],
     "BuildingDaytimeCost": 0,
@@ -91,8 +144,8 @@
     "CardBackgroundWarpData": "BG_SandTop",
     "CardBackgroundWarpType": 3,
     "CardDescription": {
-        "DefaultText": "\u5de8\u5927\u7684\u6de4\u9752\u4f34\u968f\u5f3a\u70c8\u7684\u523a\u75db..",
-        "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CardDescription",
+        "DefaultText": "巨大的淤青伴随强烈的刺痛..",
+        "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CardDescription",
         "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
     },
     "CardImage": {
@@ -121,7 +174,7 @@
             },
             "ActionName": {
                 "DefaultText": "Clean (seawater)",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CardInteractions[0].ActionName",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CardInteractions[0].ActionName",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "ActionSounds": [],
@@ -434,6 +487,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [
                 {
@@ -489,7 +561,7 @@
             },
             "ActionName": {
                 "DefaultText": "Clean (water)",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CardInteractions[1].ActionName",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CardInteractions[1].ActionName",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "ActionSounds": [],
@@ -804,6 +876,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -839,7 +930,7 @@
             },
             "ActionName": {
                 "DefaultText": "Clean (honeywater)",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CardInteractions[2].ActionName",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CardInteractions[2].ActionName",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "ActionSounds": [],
@@ -1169,6 +1260,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -1204,7 +1314,7 @@
             },
             "ActionName": {
                 "DefaultText": "Clean (lye)",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CardInteractions[3].ActionName",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CardInteractions[3].ActionName",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "ActionSounds": [],
@@ -1519,6 +1629,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -1554,7 +1683,7 @@
             },
             "ActionName": {
                 "DefaultText": "Clean (soap)",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CardInteractions[4].ActionName",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CardInteractions[4].ActionName",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "ActionSounds": [],
@@ -1865,6 +1994,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -1900,7 +2048,7 @@
             },
             "ActionName": {
                 "DefaultText": "Apply",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CardInteractions[5].ActionName",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CardInteractions[5].ActionName",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "ActionSounds": [],
@@ -2212,6 +2360,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -2247,7 +2414,7 @@
             },
             "ActionName": {
                 "DefaultText": "Apply Honey",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CardInteractions[6].ActionName",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CardInteractions[6].ActionName",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "ActionSounds": [],
@@ -2577,6 +2744,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -2595,8 +2781,8 @@
         }
     ],
     "CardName": {
-        "DefaultText": "\u5de8\u9738\u649e\u4f24",
-        "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CardName",
+        "DefaultText": "巨霸撞伤",
+        "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CardName",
         "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
     },
     "CardTags": [],
@@ -2607,6 +2793,22 @@
     "CardType": 0,
     "CardsOnBoard": [],
     "CarriesOverTo": [],
+    "ClashIneffectiveRangeMalus": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "ClashRangedInaccuracy": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "ClashStealthBonus": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "ClashVsEscapeBonus": {
+        "x": 0.0,
+        "y": 0.0
+    },
     "CompletedObjectives": [],
     "ContainedLiquidTransform": {
         "m_FileID": 0,
@@ -2644,7 +2846,7 @@
         {
             "ActionName": {
                 "DefaultText": "Dressing",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CookingRecipes[0].ActionName",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CookingRecipes[0].ActionName",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "CannotCookText": {
@@ -2778,7 +2980,7 @@
             },
             "CustomCookingText": {
                 "DefaultText": "Protecting Wound",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_CookingRecipes[0].CustomCookingText",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_CookingRecipes[0].CustomCookingText",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "CustomNotification": {
@@ -2862,6 +3064,7 @@
         "m_FileID": 0,
         "m_PathID": 0
     },
+    "DamageTypes": [],
     "DeconstructDaytimeCost": 0,
     "DeconstructSounds": [],
     "DefaultEnvCards": [],
@@ -2880,11 +3083,25 @@
         "m_PathID": 0
     },
     "DismantleActions": [],
+    "DmgVsEscapeBonus": {
+        "x": 0.0,
+        "y": 0.0
+    },
     "DoesNotPile": false,
     "DoesNotPinAutomatically": true,
     "DropFromTrashButton": false,
     "DroppedOnDestroy": [],
     "EffectsToInventoryContent": [],
+    "EnemyAddedCover": 0.0,
+    "EnemyAddedStealth": 0.0,
+    "EnemyCoverHitProbabilityModifiers": {
+        "HeadHitProbabilityModifier": 0.0,
+        "LArmHitProbabilityModifier": 0.0,
+        "LLegHitProbabilityModifier": 0.0,
+        "RArmHitProbabilityModifier": 0.0,
+        "RLegHitProbabilityModifier": 0.0,
+        "TorsoHitProbabilityModifier": 0.0
+    },
     "EnvironmentDamages": [],
     "EnvironmentImprovements": [],
     "EquipmentTags": [],
@@ -3099,6 +3316,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -3303,6 +3539,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -3355,12 +3610,16 @@
     ],
     "InventorySlotsText": {
         "DefaultText": "PLACE DRESSING HERE",
-        "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_InventorySlotsText",
+        "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_InventorySlotsText",
         "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
     },
+    "IsAmmo": false,
+    "IsArmor": false,
+    "IsCover": false,
     "IsDarkPlace": false,
     "IsHotPlace": false,
     "IsTravelCard": false,
+    "IsWeapon": false,
     "KeepName": false,
     "LightSource": {
         "IsSourceOfLight": false,
@@ -4785,8 +5044,8 @@
                     "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
@@ -4990,8 +5249,8 @@
                     "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
@@ -5013,40 +5272,40 @@
                 "RequiredContainerTags": [],
                 "RequiredDurabilityRanges": {
                     "FuelRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "LiquidQuantityRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "ProgressRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special1Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special2Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special3Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special4Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "SpoilageRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "UsageRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 "RequiredEnvironment": {
@@ -5058,7 +5317,7 @@
                 "RequiredStatValues": [],
                 "RequiredTagsInInventory": [],
                 "RequiredTagsInInventoryWarpData": [
-                    "CardTag_Cure_LeveTwo"
+                    "CardTag_Cure_LevelTwo"
                 ],
                 "RequiredTagsInInventoryWarpType": 3,
                 "RequiredTagsNOTOnBoard": [],
@@ -5066,7 +5325,7 @@
             },
             "ConsumableChargesModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "EffectName": "Dressing (strong)",
             "EffectStacksWithRequiredCards": false,
@@ -5080,30 +5339,30 @@
                     "m_PathID": 0
                 },
                 "Quantity": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
-            "LiquidRateModifier": 0,
+            "LiquidRateModifier": 0.0,
             "OnBoardEffectCap": 0,
             "OnlyOnBaseActions": false,
             "OnlyWhenEquipped": false,
             "OnlyWhenNotInBG": false,
             "Special1RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special2RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special3RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special4RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "SpoilageRateModifier": {
                 "Active": true,
@@ -5115,8 +5374,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -5125,8 +5384,8 @@
                     "StatWarpData": "dd5c599cbbb18ea4c96fc64374147a3c",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 2,
-                        "y": 2
+                        "x": 2.0,
+                        "y": 2.0
                     }
                 },
                 {
@@ -5134,8 +5393,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -5151,9 +5410,9 @@
             ],
             "UsageRateModifier": {
                 "Active": false,
-                "FloatValue": 1
+                "FloatValue": 1.0
             },
-            "WeightCapacityModifier": 0
+            "WeightCapacityModifier": 0.0
         },
         {
             "Conditions": {
@@ -5167,40 +5426,40 @@
                 "RequiredContainerTags": [],
                 "RequiredDurabilityRanges": {
                     "FuelRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "LiquidQuantityRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "ProgressRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special1Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special2Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special3Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special4Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "SpoilageRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "UsageRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 "RequiredEnvironment": {
@@ -5220,7 +5479,7 @@
             },
             "ConsumableChargesModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "EffectName": "Dressing (strong)",
             "EffectStacksWithRequiredCards": false,
@@ -5234,30 +5493,30 @@
                     "m_PathID": 0
                 },
                 "Quantity": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
-            "LiquidRateModifier": 0,
+            "LiquidRateModifier": 0.0,
             "OnBoardEffectCap": 0,
             "OnlyOnBaseActions": false,
             "OnlyWhenEquipped": false,
             "OnlyWhenNotInBG": false,
             "Special1RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special2RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special3RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special4RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "SpoilageRateModifier": {
                 "Active": true,
@@ -5269,8 +5528,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -5279,8 +5538,8 @@
                     "StatWarpData": "dd5c599cbbb18ea4c96fc64374147a3c",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 2,
-                        "y": 2
+                        "x": 2.0,
+                        "y": 2.0
                     }
                 },
                 {
@@ -5288,8 +5547,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -5305,9 +5564,9 @@
             ],
             "UsageRateModifier": {
                 "Active": false,
-                "FloatValue": 1
+                "FloatValue": 1.0
             },
-            "WeightCapacityModifier": 0
+            "WeightCapacityModifier": 0.0
         },
         {
             "Conditions": {
@@ -5321,40 +5580,40 @@
                 "RequiredContainerTags": [],
                 "RequiredDurabilityRanges": {
                     "FuelRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "LiquidQuantityRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "ProgressRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special1Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special2Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special3Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special4Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "SpoilageRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "UsageRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 "RequiredEnvironment": {
@@ -5366,7 +5625,7 @@
                 "RequiredStatValues": [],
                 "RequiredTagsInInventory": [],
                 "RequiredTagsInInventoryWarpData": [
-                    "CardTag_Cure_LeveThree"
+                    "CardTag_Cure_LevelTwo"
                 ],
                 "RequiredTagsInInventoryWarpType": 3,
                 "RequiredTagsNOTOnBoard": [],
@@ -5374,7 +5633,7 @@
             },
             "ConsumableChargesModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "EffectName": "Dressing (strong)",
             "EffectStacksWithRequiredCards": false,
@@ -5388,30 +5647,30 @@
                     "m_PathID": 0
                 },
                 "Quantity": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
-            "LiquidRateModifier": 0,
+            "LiquidRateModifier": 0.0,
             "OnBoardEffectCap": 0,
             "OnlyOnBaseActions": false,
             "OnlyWhenEquipped": false,
             "OnlyWhenNotInBG": false,
             "Special1RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special2RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special3RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special4RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "SpoilageRateModifier": {
                 "Active": true,
@@ -5423,8 +5682,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -5433,8 +5692,8 @@
                     "StatWarpData": "dd5c599cbbb18ea4c96fc64374147a3c",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 2,
-                        "y": 2
+                        "x": 2.0,
+                        "y": 2.0
                     }
                 },
                 {
@@ -5442,8 +5701,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -5459,12 +5718,22 @@
             ],
             "UsageRateModifier": {
                 "Active": false,
-                "FloatValue": 1
+                "FloatValue": 1.0
             },
-            "WeightCapacityModifier": 0
+            "WeightCapacityModifier": 0.0
         }
     ],
     "PassiveStatEffects": [],
+    "PlayerAddedCover": 0.0,
+    "PlayerAddedStealth": 0.0,
+    "PlayerCoverHitProbabilityModifiers": {
+        "HeadHitProbabilityModifier": 0.0,
+        "LArmHitProbabilityModifier": 0.0,
+        "LLegHitProbabilityModifier": 0.0,
+        "RArmHitProbabilityModifier": 0.0,
+        "RLegHitProbabilityModifier": 0.0,
+        "TorsoHitProbabilityModifier": 0.0
+    },
     "Progress": {
         "Active": false,
         "CardStatName": {
@@ -5666,6 +5935,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -5870,6 +6158,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -5896,6 +6203,7 @@
         "TextDisplay": 0
     },
     "RemotePassiveEffects": [],
+    "RequiredDistance": 0,
     "SpawningBlockedBy": [],
     "SpecialDurability1": {
         "Active": false,
@@ -6098,6 +6406,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -6302,6 +6629,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -6528,6 +6874,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -6732,6 +7097,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -6958,6 +7342,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -7162,6 +7565,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -7388,6 +7810,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -7592,6 +8033,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -7634,7 +8094,7 @@
         "OnFull": {
             "ActionDescription": {
                 "DefaultText": "Wound healed!",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_SpoilageTime.OnFull.ActionDescription",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_SpoilageTime.OnFull.ActionDescription",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "ActionLog": {
@@ -7646,13 +8106,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "My lizard bite healed.",
-                    "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_SpoilageTime.OnFull.ActionLog.LogText",
+                    "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_SpoilageTime.OnFull.ActionLog.LogText",
                     "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
                 }
             },
             "ActionName": {
                 "DefaultText": "Lizard Bite",
-                "LocalizationKey": "COD_W_GiantBusterZombie_ClawWound_SpoilageTime.OnFull.ActionName",
+                "LocalizationKey": "Cod_W_GiantBusterZombie_ClawWound_SpoilageTime.OnFull.ActionName",
                 "ParentObjectID": "41e17e1d8eba42e9b460aa1ad5501ec6"
             },
             "ActionSounds": [],
@@ -7821,6 +8281,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -8025,6 +8504,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -8264,6 +8762,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -8468,6 +8985,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -8496,6 +9032,39 @@
         "TextDisplay": 0
     },
     "VisualEffects": [],
+    "WeaponActionStatChanges": [],
+    "WeaponClashStatInfluences": [],
+    "WeaponDamage": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "WeaponDamageStatInfluences": [],
+    "WeaponIneffectiveCombatLog": {
+        "AlternateLogTexts": [],
+        "LogText": {
+            "DefaultText": "",
+            "LocalizationKey": "",
+            "ParentObjectID": ""
+        },
+        "ScreenShake": false,
+        "SoundEffects": [],
+        "TextColor": {
+            "Active": false,
+            "ColorValue": {
+                "a": 0.0,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            }
+        },
+        "TextSettings": {
+            "Active": false,
+            "Bold": false,
+            "Italics": false,
+            "Underlined": false
+        }
+    },
+    "WeaponReach": 0.0,
     "WeatherEffects": {
         "m_FileID": 0,
         "m_PathID": 0

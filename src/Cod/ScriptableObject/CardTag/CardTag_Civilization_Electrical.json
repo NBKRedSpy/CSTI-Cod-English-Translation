@@ -1,9 +1,9 @@
 {
-  "ActionModifiers": [],
-  "InGameName": {
-    "DefaultText": "CardTag_Civilization_Electrical",
-    "LocalizationKey": "T-KkWFKonIDg7lYHFq1fEyPO595t8=",
-    "ParentObjectID": "370de9af1a7aed64e816e6f4d008eca7"
-  },
-  "UniqueOnBoard": false
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "CardTag_Civilization_Electrical",
+        "LocalizationKey": "Cod_CardTag_Civilization_Electrical_InGameName",
+        "ParentObjectID": "370de9af1a7aed64e816e6f4d008eca7"
+    },
+    "UniqueOnBoard": false
 }

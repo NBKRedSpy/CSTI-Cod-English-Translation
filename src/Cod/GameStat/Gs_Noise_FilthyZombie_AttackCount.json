@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Noise_FilthyZombie_AttackCount",
-        "LocalizationKey": "COD_Gs_Noise_FilthyZombie_AttackCount_GameName",
+        "LocalizationKey": "Cod_Gs_Noise_FilthyZombie_AttackCount_GameName",
         "ParentObjectID": "1c443198d6724d8e8ba5e60a8c252c2c"
     },
     "InvertedDirection": false,

@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_Noise_SwiftZombie_AttackCount",
-                "LocalizationKey": "COD_Sta_Noise_SwiftZombie_AttackCount_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_Noise_SwiftZombie_AttackCount_Actions[0].ActionName",
                 "ParentObjectID": "ca7e00be9d5a418394d25cc4e299fd45"
             },
             "ActionSounds": [],

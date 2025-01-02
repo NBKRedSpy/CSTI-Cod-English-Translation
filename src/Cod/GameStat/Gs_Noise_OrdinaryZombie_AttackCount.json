@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Noise_OrdinaryZombie_AttackCount",
-        "LocalizationKey": "COD_Gs_Noise_OrdinaryZombie_AttackCount_GameName",
+        "LocalizationKey": "Cod_Gs_Noise_OrdinaryZombie_AttackCount_GameName",
         "ParentObjectID": "858aacd84fbc4741b8e7625810f3f536"
     },
     "InvertedDirection": false,

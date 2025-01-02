@@ -130,7 +130,7 @@
     "CardBackgroundWarpType": 3,
     "CardDescription": {
         "DefaultText": "A pile of feathers.",
-        "LocalizationKey": "COD_Nc_Standard_Location_CardDescription",
+        "LocalizationKey": "Cod_Nc_Standard_Location_CardDescription",
         "ParentObjectID": "ab484697239c4385bdd33611ca13fa33"
     },
     "CardImage": {
@@ -142,7 +142,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "Feathers",
-        "LocalizationKey": "COD_Nc_Standard_Location_CardName",
+        "LocalizationKey": "Cod_Nc_Standard_Location_CardName",
         "ParentObjectID": "ab484697239c4385bdd33611ca13fa33"
     },
     "CardTags": [],

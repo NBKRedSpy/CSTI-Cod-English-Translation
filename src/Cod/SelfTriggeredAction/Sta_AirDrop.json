@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_AirDrop",
-                "LocalizationKey": "COD_Sta_AirDrop_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_AirDrop_Actions[0].ActionName",
                 "ParentObjectID": "cb19ffe7d1ec44ada63702c6616e5279"
             },
             "ActionSounds": [],
@@ -380,6 +380,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatChangeTrigger": [
                 {
                     "HideAllWhenNotMet": false,

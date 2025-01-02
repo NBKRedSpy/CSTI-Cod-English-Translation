@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Npc_Negan_PresenceCount",
-        "LocalizationKey": "COD_Gs_Npc_Negan_PresenceCount_GameName",
+        "LocalizationKey": "Cod_Gs_Npc_Negan_PresenceCount_GameName",
         "ParentObjectID": "6491ed33206b4acaa1a898f2f8143fe9"
     },
     "InvertedDirection": false,
@@ -65,8 +65,8 @@
         "m_PathID": 0
     },
     "NotEnoughText": {
-        "DefaultText": "\u5c3c\u6839\u4e0d\u5728\u573a\u666f\u4e2d\u3002",
-        "LocalizationKey": "COD_Gs_Npc_Negan_PresenceCount_NotEnoughText",
+        "DefaultText": "尼根不在场景中。",
+        "LocalizationKey": "Cod_Gs_Npc_Negan_PresenceCount_NotEnoughText",
         "ParentObjectID": "6491ed33206b4acaa1a898f2f8143fe9"
     },
     "NoveltyCooldownDuration": 0,

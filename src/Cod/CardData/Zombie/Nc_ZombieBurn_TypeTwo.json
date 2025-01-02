@@ -91,8 +91,8 @@
     "CardBackgroundWarpData": "BG_SandTop",
     "CardBackgroundWarpType": 3,
     "CardDescription": {
-        "DefaultText": "\u5b83\u6b63\u5728\u5267\u70c8\u7684\u71c3\u70e7\uff01",
-        "LocalizationKey": "COD_Nc_ZombieBurn_TypeTwo_CardDescription",
+        "DefaultText": "它正在剧烈的燃烧！",
+        "LocalizationKey": "Cod_Nc_ZombieBurn_TypeTwo_CardDescription",
         "ParentObjectID": "6544431929794262a1595c2294e0ca0b"
     },
     "CardImage": {
@@ -103,8 +103,8 @@
     "CardImageWarpType": 3,
     "CardInteractions": [],
     "CardName": {
-        "DefaultText": "\u71c3\u70e7\u50f5\u5c38",
-        "LocalizationKey": "COD_Nc_ZombieBurn_TypeTwo_CardName",
+        "DefaultText": "燃烧僵尸",
+        "LocalizationKey": "Cod_Nc_ZombieBurn_TypeTwo_CardName",
         "ParentObjectID": "6544431929794262a1595c2294e0ca0b"
     },
     "CardTags": [],

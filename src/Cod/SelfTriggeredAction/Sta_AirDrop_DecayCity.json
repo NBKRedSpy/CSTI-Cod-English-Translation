@@ -19,8 +19,8 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_AirDrop_DecayCity",
-                "LocalizationKey": "COD_Sta_AirDrop_DecayCity_Actions[0].ActionName",
-                "ParentObjectID": "ba94104a2b7241c8b49f5461efc4883e"
+                "LocalizationKey": "CardActionPack_Cod_Sta_AirDrop_DecayCity_Actions[0].ActionName",
+                "ParentObjectID": "CardActionPack_ProducedBluePrint_SpecialEvent_ContinuousSoundSource_Audio"
             },
             "ActionSounds": [],
             "ActionTags": [],
@@ -245,8 +245,8 @@
                         },
                         {
                             "RateModifier": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "RequiredCardsOnBoard": [],
                             "Stat": {

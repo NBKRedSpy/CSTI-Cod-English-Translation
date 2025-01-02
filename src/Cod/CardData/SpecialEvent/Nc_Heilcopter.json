@@ -130,7 +130,7 @@
     "CardBackgroundWarpType": 3,
     "CardDescription": {
         "DefaultText": "直升机悬浮在上空，强大的气流伴随着机器的轰鸣声。",
-        "LocalizationKey": "COD_Nc_Heilcopter_CardDescription",
+        "LocalizationKey": "Cod_Nc_Heilcopter_CardDescription",
         "ParentObjectID": "3253f03489f6461c94dc64c864b61d3f"
     },
     "CardImage": {
@@ -142,7 +142,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "直升机",
-        "LocalizationKey": "COD_Nc_Heilcopter_CardName",
+        "LocalizationKey": "Cod_Nc_Heilcopter_CardName",
         "ParentObjectID": "3253f03489f6461c94dc64c864b61d3f"
     },
     "CardTags": [],
@@ -768,8 +768,8 @@
             "StatWarpData": "b93ba31862684bfb88bb969abe4612d7",
             "StatWarpType": 3,
             "ValueModifier": {
-                "x": 0,
-                "y": 0
+                "x": 0.0,
+                "y": 0.0
             }
         },
         {
@@ -787,8 +787,8 @@
             "StatWarpData": "a436c5b4dc204eb5aea182d8a06e0d6c",
             "StatWarpType": 3,
             "ValueModifier": {
-                "x": 0,
-                "y": 0
+                "x": 0.0,
+                "y": 0.0
             }
         },
         {
@@ -796,8 +796,8 @@
             "InstantModifier": false,
             "IsInverse": false,
             "RateModifier": {
-                "x": 0,
-                "y": 0
+                "x": 0.0,
+                "y": 0.0
             },
             "Stat": {
                 "m_FileID": 0,
@@ -3423,7 +3423,7 @@
             "LocalizationKey": "",
             "ParentObjectID": ""
         },
-        "ExtraRateWhenEquipped": 0,
+        "ExtraRateWhenEquipped": 0.0,
         "FloatValue": 4.0,
         "HasActionOnFull": false,
         "HasActionOnZero": true,
@@ -3487,41 +3487,41 @@
             "ProducedCards": [],
             "ReceivingCardChanges": {
                 "ChargesChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "DropOnDestroyList": false,
                 "FuelChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "LiquidEffectScaling": 0,
                 "LiquidQuantityChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "ModType": 0,
                 "ModifyDurability": false,
                 "ModifyLiquid": false,
                 "Special1Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special2Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special3Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special4Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "SpoilageChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "TransferCharges": false,
                 "TransferFuel": false,
@@ -3538,8 +3538,8 @@
                     "m_PathID": 0
                 },
                 "UsageChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
             "RequiredCardsOnBoard": [],
@@ -3554,44 +3554,44 @@
                 "HideActionIfNotMet": false,
                 "RequiredFuelPercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
-                "RequiredLiquidQuantity": 0,
+                "RequiredLiquidQuantity": 0.0,
                 "RequiredProgressPercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial1Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial2Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial3Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial4Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpoilagePercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredUsagePercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 }
             },
             "RequiredReceivingLiquidContent": {
@@ -3605,8 +3605,8 @@
                     "m_PathID": 0
                 },
                 "RequiredQuantity": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
             "RequiredStatValues": [],
@@ -3697,7 +3697,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -3705,8 +3705,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -3718,8 +3718,8 @@
                             "DroppedCardWarpData": "69bd1b710c7c41eab22052603e299393",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -3728,8 +3728,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3740,8 +3740,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3752,8 +3752,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3764,8 +3764,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3776,8 +3776,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3788,8 +3788,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3800,8 +3800,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3812,8 +3812,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3824,36 +3824,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -3868,7 +3868,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -3876,8 +3876,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -3889,8 +3889,8 @@
                             "DroppedCardWarpData": "ea292f2577a84664ab11edff47d134db",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -3899,8 +3899,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3911,8 +3911,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3923,8 +3923,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3935,8 +3935,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3947,8 +3947,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3959,8 +3959,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3971,8 +3971,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3983,8 +3983,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3995,36 +3995,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -4039,7 +4039,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -4047,8 +4047,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -4060,8 +4060,8 @@
                             "DroppedCardWarpData": "df23d6c2a86d44c7afaba5518bdfde6d",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -4070,8 +4070,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4082,8 +4082,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4094,8 +4094,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4106,8 +4106,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4118,8 +4118,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4130,8 +4130,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4142,8 +4142,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4154,8 +4154,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4166,36 +4166,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -4211,7 +4211,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 0.0
                             },
                             "StatWarpData": "2a5231b24027410886bd71b283a50481",
@@ -4228,7 +4228,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -4236,8 +4236,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -4249,8 +4249,8 @@
                             "DroppedCardWarpData": "144c9ed29e034dddbe54667e8d790b5c",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -4259,8 +4259,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4271,8 +4271,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4283,8 +4283,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4295,8 +4295,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4307,8 +4307,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4319,8 +4319,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4331,8 +4331,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4343,8 +4343,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -4355,36 +4355,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -4400,7 +4400,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 0.0
                             },
                             "StatWarpData": "2a5231b24027410886bd71b283a50481",
@@ -4412,41 +4412,41 @@
             ],
             "ReceivingCardChanges": {
                 "ChargesChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "DropOnDestroyList": false,
                 "FuelChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "LiquidEffectScaling": 0,
                 "LiquidQuantityChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "ModType": 3,
                 "ModifyDurability": false,
                 "ModifyLiquid": false,
                 "Special1Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special2Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special3Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special4Change": {
                     "x": 0.0,
                     "y": 0.0
                 },
                 "SpoilageChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "TransferCharges": false,
                 "TransferFuel": false,
@@ -4463,8 +4463,8 @@
                     "m_PathID": 0
                 },
                 "UsageChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
             "RequiredCardsOnBoard": [],
@@ -4479,44 +4479,44 @@
                 "HideActionIfNotMet": false,
                 "RequiredFuelPercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
-                "RequiredLiquidQuantity": 0,
+                "RequiredLiquidQuantity": 0.0,
                 "RequiredProgressPercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial1Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial2Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial3Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial4Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpoilagePercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredUsagePercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 }
             },
             "RequiredReceivingLiquidContent": {
@@ -4530,8 +4530,8 @@
                     "m_PathID": 0
                 },
                 "RequiredQuantity": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
             "RequiredStatValues": [],

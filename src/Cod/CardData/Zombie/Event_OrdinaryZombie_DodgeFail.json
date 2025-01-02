@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "在我离开之前它伤到了我！",
-        "LocalizationKey": "COD_Event_OrdinaryZombie_DodgeFail_CardDescription",
+        "LocalizationKey": "Cod_Event_OrdinaryZombie_DodgeFail_CardDescription",
         "ParentObjectID": "89d420b01dca4ebd848da421ed25c265"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "逃脱",
-        "LocalizationKey": "COD_Event_OrdinaryZombie_DodgeFail_CardName",
+        "LocalizationKey": "Cod_Event_OrdinaryZombie_DodgeFail_CardName",
         "ParentObjectID": "89d420b01dca4ebd848da421ed25c265"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_OrdinaryZombie_DodgeFail_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_OrdinaryZombie_DodgeFail_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "89d420b01dca4ebd848da421ed25c265"
                 }
             },
             "ActionName": {
                 "DefaultText": "继续",
-                "LocalizationKey": "COD_Event_OrdinaryZombie_DodgeFail_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_OrdinaryZombie_DodgeFail_DismantleActions[0].ActionName",
                 "ParentObjectID": "89d420b01dca4ebd848da421ed25c265"
             },
             "ActionSounds": [],

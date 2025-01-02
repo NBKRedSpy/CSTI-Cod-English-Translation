@@ -11,7 +11,7 @@
     "CheckingNotificationDetails": 0,
     "CompleteOnLose": false,
     "CompleteOnWin": false,
-    "DifficultyRating": 12500,
+    "DifficultyRating": 20000,
     "DisplayPriority": 10000.0,
     "EditorOnly": false,
     "EquippedCards": [],
@@ -36,7 +36,7 @@
     "PassiveStatModifiers": [],
     "PerkDescription": {
         "DefaultText": "生者在前，亡者在后。",
-        "LocalizationKey": "COD_cod_1_AbandonedFarm_PerkDescription",
+        "LocalizationKey": "Cod_Perk_Cod_PerkDescription",
         "ParentObjectID": "40626a92cebe4cd5a4c8b1f6a2c98068"
     },
     "PerkIcon": {
@@ -47,7 +47,7 @@
     "PerkIconWarpType": 3,
     "PerkName": {
         "DefaultText": "废城",
-        "LocalizationKey": "COD_cod_1_AbandonedFarm_PerkName",
+        "LocalizationKey": "Cod_Perk_Cod_PerkName",
         "ParentObjectID": "40626a92cebe4cd5a4c8b1f6a2c98068"
     },
     "PerkUnlockConditions": {
@@ -87,8 +87,8 @@
             "InstantModifier": false,
             "IsInverse": false,
             "RateModifier": {
-                "x": 0,
-                "y": 0
+                "x": 0.0,
+                "y": 0.0
             },
             "Stat": {
                 "m_FileID": 0,

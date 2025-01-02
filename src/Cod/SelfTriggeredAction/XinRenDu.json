@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "救世军信任度奖励",
-                "LocalizationKey": "COD_cod_Skill_Archery1_Actions[0].ActionName",
+                "LocalizationKey": "Cod_XinRenDu_Actions[0].ActionName",
                 "ParentObjectID": "f2c9677413bd4b02bbee8a925086f59a"
             },
             "ActionSounds": [],

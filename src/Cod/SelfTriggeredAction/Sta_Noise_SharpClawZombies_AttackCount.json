@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_Noise_ScreamingZombiesZombie_AttackCount",
-                "LocalizationKey": "COD_Sta_Noise_SharpClawZombies_AttackCount_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_Noise_SharpClawZombies_AttackCount_Actions[0].ActionName",
                 "ParentObjectID": "8b6f71b72e5b443fbd6c2d115204bf67"
             },
             "ActionSounds": [],

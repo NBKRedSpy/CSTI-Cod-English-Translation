@@ -1,0 +1,27 @@
+{
+    "actOnCardInit": false,
+    "autoFindGive": {
+        "active": false,
+        "bestById": "",
+        "cards": [],
+        "condition": {},
+        "force": false,
+        "needFindBest": false,
+        "needSlot": false,
+        "onSlot": {},
+        "tags": []
+    },
+    "effectPacks": [],
+    "effectPacksWarpData": [
+        "ActionEffectPack_PictureChange_Animal_Biocluster_Vultures"
+    ],
+    "effectPacksWarpType": 3,
+    "giveCondition": {},
+    "isNotInBase": false,
+    "miniWaitTime": 0,
+    "recCondition": {},
+    "simpleVarConditions": [],
+    "tickWaitTime": 0,
+    "uid": "CardActionPack_PictureChange_Animal_Biocluster_Vultures",
+    "waitTime": 0
+}

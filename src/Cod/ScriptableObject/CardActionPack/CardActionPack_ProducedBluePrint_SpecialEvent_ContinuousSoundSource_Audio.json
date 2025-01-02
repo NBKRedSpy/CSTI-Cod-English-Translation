@@ -1,0 +1,27 @@
+{
+    "actOnCardInit": false,
+    "autoFindGive": {
+        "active": false,
+        "bestById": "",
+        "cards": [],
+        "condition": {},
+        "force": false,
+        "needFindBest": false,
+        "needSlot": false,
+        "onSlot": {},
+        "tags": []
+    },
+    "effectPacks": [],
+    "effectPacksWarpData": [
+        "ActionEffectPack_ProducedBluePrint_SpecialEvent_ContinuousSoundSource_Audio"
+    ],
+    "effectPacksWarpType": 3,
+    "giveCondition": {},
+    "isNotInBase": false,
+    "miniWaitTime": 0,
+    "recCondition": {},
+    "simpleVarConditions": [],
+    "tickWaitTime": 0,
+    "uid": "CardActionPack_ProducedBluePrint_SpecialEvent_ContinuousSoundSource_Audio",
+    "waitTime": 0
+}

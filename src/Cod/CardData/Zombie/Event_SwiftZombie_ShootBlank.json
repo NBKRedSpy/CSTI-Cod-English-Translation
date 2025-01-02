@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "攻击被它迅速的躲开了！",
-        "LocalizationKey": "COD_Event_SwiftZombie_ShootBlank_CardDescription",
+        "LocalizationKey": "Cod_Event_SwiftZombie_ShootBlank_CardDescription",
         "ParentObjectID": "8b112ff4ebf44009b453a46e0ed1b1b6"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "进攻",
-        "LocalizationKey": "COD_Event_SwiftZombie_ShootBlank_CardName",
+        "LocalizationKey": "Cod_Event_SwiftZombie_ShootBlank_CardName",
         "ParentObjectID": "8b112ff4ebf44009b453a46e0ed1b1b6"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_SwiftZombie_ShootBlank_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_SwiftZombie_ShootBlank_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "8b112ff4ebf44009b453a46e0ed1b1b6"
                 }
             },
             "ActionName": {
                 "DefaultText": "继续",
-                "LocalizationKey": "COD_Event_SwiftZombie_ShootBlank_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_SwiftZombie_ShootBlank_DismantleActions[0].ActionName",
                 "ParentObjectID": "8b112ff4ebf44009b453a46e0ed1b1b6"
             },
             "ActionSounds": [],

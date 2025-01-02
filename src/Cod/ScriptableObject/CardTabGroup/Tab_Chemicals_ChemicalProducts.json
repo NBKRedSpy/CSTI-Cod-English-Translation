@@ -27,7 +27,7 @@
     },
     "TabName": {
         "DefaultText": "ChemicalProducts",
-        "LocalizationKey": "Tab_Chemicals_ChemicalProducts_TabName",
+        "LocalizationKey": "Cod_Tab_Chemicals_ChemicalProducts_TabName",
         "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
     }
 }

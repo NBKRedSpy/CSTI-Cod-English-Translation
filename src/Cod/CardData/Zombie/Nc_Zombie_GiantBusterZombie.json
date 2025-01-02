@@ -4,7 +4,7 @@
     "AffectStatsOnlyOnBase": false,
     "AffectStatsOnlyWhenEquipped": false,
     "AffectStatsOnlyWhenNotInBackground": false,
-    "AlwaysUpdate": false,
+    "AlwaysUpdate": true,
     "Ambience": {
         "AmbienceConditions": {
             "FuelRange": {
@@ -110,7 +110,22 @@
             "ParentObjectID": ""
         },
         "ScreenShake": false,
-        "SoundEffects": []
+        "SoundEffects": [],
+        "TextColor": {
+            "Active": false,
+            "ColorValue": {
+                "a": 0.0,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            }
+        },
+        "TextSettings": {
+            "Active": false,
+            "Bold": false,
+            "Italics": false,
+            "Underlined": false
+        }
     },
     "BuildSounds": [],
     "BuildingCardConditions": [],
@@ -128,7 +143,7 @@
     },
     "CardDescription": {
         "DefaultText": "庞大的肉块向身旁走来，阴影笼罩在整个身体。",
-        "LocalizationKey": "COD_Nc_GiantBusterZombie_CardDescription",
+        "LocalizationKey": "Cod_Nc_Zombie_GiantBusterZombie_CardDescription",
         "ParentObjectID": "96ef792bb976442889b882f62ef86860"
     },
     "CardImage": {
@@ -140,7 +155,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "巨霸",
-        "LocalizationKey": "COD_Nc_GiantBusterZombie_CardName",
+        "LocalizationKey": "Cod_Nc_Zombie_GiantBusterZombie_CardName",
         "ParentObjectID": "96ef792bb976442889b882f62ef86860"
     },
     "CardTags": [],
@@ -243,7 +258,7 @@
             },
             "ActionName": {
                 "DefaultText": "长矛投掷",
-                "LocalizationKey": "COD_Nc_GiantBusterZombie_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Nc_Zombie_GiantBusterZombie_DismantleActions[0].ActionName",
                 "ParentObjectID": "96ef792bb976442889b882f62ef86860"
             },
             "ActionSounds": [],
@@ -796,7 +811,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 1000.0
                             },
                             "StatWarpData": "59cbb5c8ff25409fa8b9bd666e54f01b",
@@ -813,7 +828,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 100.0
                             },
                             "StatWarpData": "b9013a3e77a421b4bb7e4a8293e75382",
@@ -1055,8 +1070,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -1068,8 +1083,8 @@
                             "DroppedCardWarpData": "d5bbb6e4254d4beb9320ee5e4dc867fa",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -1078,8 +1093,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1090,8 +1105,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1102,8 +1117,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1114,8 +1129,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1126,8 +1141,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1138,8 +1153,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1150,8 +1165,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1162,8 +1177,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1174,36 +1189,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -1356,6 +1371,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [
                 {
@@ -1411,7 +1445,7 @@
             },
             "ActionName": {
                 "DefaultText": "弓箭射击",
-                "LocalizationKey": "COD_Nc_GiantBusterZombie_DismantleActions[1].ActionName",
+                "LocalizationKey": "Cod_Nc_Zombie_GiantBusterZombie_DismantleActions[1].ActionName",
                 "ParentObjectID": "96ef792bb976442889b882f62ef86860"
             },
             "ActionSounds": [],
@@ -1872,7 +1906,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 1000.0
                             },
                             "StatWarpData": "59cbb5c8ff25409fa8b9bd666e54f01b",
@@ -1889,7 +1923,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 100.0
                             },
                             "StatWarpData": "b9013a3e77a421b4bb7e4a8293e75382",
@@ -2103,8 +2137,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -2116,8 +2150,8 @@
                             "DroppedCardWarpData": "334db09bb40347d0909d4424efbbc82c",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -2126,8 +2160,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -2138,8 +2172,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -2150,8 +2184,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -2162,8 +2196,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -2174,8 +2208,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -2186,8 +2220,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -2198,8 +2232,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -2210,8 +2244,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -2222,36 +2256,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -2417,6 +2451,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [
                 {
@@ -2472,7 +2525,7 @@
             },
             "ActionName": {
                 "DefaultText": "投石索投掷",
-                "LocalizationKey": "COD_Nc_GiantBusterZombie_DismantleActions[2].ActionName",
+                "LocalizationKey": "Cod_Nc_Zombie_GiantBusterZombie_DismantleActions[2].ActionName",
                 "ParentObjectID": "96ef792bb976442889b882f62ef86860"
             },
             "ActionSounds": [],
@@ -2843,7 +2896,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 1000.0
                             },
                             "StatWarpData": "59cbb5c8ff25409fa8b9bd666e54f01b",
@@ -2860,7 +2913,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 100.0
                             },
                             "StatWarpData": "b9013a3e77a421b4bb7e4a8293e75382",
@@ -3074,8 +3127,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -3087,8 +3140,8 @@
                             "DroppedCardWarpData": "334db09bb40347d0909d4424efbbc82c",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -3097,8 +3150,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3109,8 +3162,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3121,8 +3174,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3133,8 +3186,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3145,8 +3198,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3157,8 +3210,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3169,8 +3222,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3181,8 +3234,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -3193,36 +3246,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -3375,6 +3428,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [
                 {
@@ -3430,7 +3502,7 @@
             },
             "ActionName": {
                 "DefaultText": "左轮射击",
-                "LocalizationKey": "COD_Nc_GiantBusterZombie_DismantleActions[4].ActionName",
+                "LocalizationKey": "Cod_Nc_Zombie_GiantBusterZombie_DismantleActions[3].ActionName",
                 "ParentObjectID": "96ef792bb976442889b882f62ef86860"
             },
             "ActionSounds": [],
@@ -3801,7 +3873,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 1000.0
                             },
                             "StatWarpData": "59cbb5c8ff25409fa8b9bd666e54f01b",
@@ -4127,6 +4199,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [
                 {
@@ -4182,7 +4273,7 @@
             },
             "ActionName": {
                 "DefaultText": "枪械射击",
-                "LocalizationKey": "COD_Nc_GiantBusterZombie_DismantleActions[5].ActionName",
+                "LocalizationKey": "Cod_Nc_Zombie_GiantBusterZombie_DismantleActions[4].ActionName",
                 "ParentObjectID": "96ef792bb976442889b882f62ef86860"
             },
             "ActionSounds": [],
@@ -4555,7 +4646,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 1000.0
                             },
                             "StatWarpData": "59cbb5c8ff25409fa8b9bd666e54f01b",
@@ -4572,7 +4663,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 100.0
                             },
                             "StatWarpData": "b9013a3e77a421b4bb7e4a8293e75382",
@@ -4898,6 +4989,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [
                 {
@@ -4953,7 +5063,7 @@
             },
             "ActionName": {
                 "DefaultText": "复合弓射击",
-                "LocalizationKey": "Cod_Nc_Zombie_GiantBusterZombie_DismantleActions[1].ActionName",
+                "LocalizationKey": "Cod_Nc_Zombie_GiantBusterZombie_DismantleActions[5].ActionName",
                 "ParentObjectID": "96ef792bb976442889b882f62ef86860"
             },
             "ActionSounds": [],
@@ -5414,7 +5524,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 1000.0
                             },
                             "StatWarpData": "59cbb5c8ff25409fa8b9bd666e54f01b",
@@ -5431,7 +5541,7 @@
                                 "m_PathID": 0
                             },
                             "StatRange": {
-                                "x": 0,
+                                "x": 0.0,
                                 "y": 100.0
                             },
                             "StatWarpData": "b9013a3e77a421b4bb7e4a8293e75382",
@@ -5645,8 +5755,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -5658,8 +5768,8 @@
                             "DroppedCardWarpData": "334db09bb40347d0909d4424efbbc82c",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -5668,8 +5778,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -5680,8 +5790,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -5692,8 +5802,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -5704,8 +5814,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -5716,8 +5826,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -5728,8 +5838,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -5740,8 +5850,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -5752,8 +5862,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -5764,36 +5874,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -5959,6 +6069,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [
                 {
@@ -5996,6 +6125,10 @@
             "VisibilityWithInventory": 0
         }
     ],
+    "DmgVsEscapeBonus": {
+        "x": 0.0,
+        "y": 0.0
+    },
     "DoesNotPile": true,
     "DoesNotPinAutomatically": false,
     "DropFromTrashButton": false,
@@ -6221,6 +6354,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -6425,6 +6577,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -6521,104 +6692,440 @@
             "ParentObjectID": ""
         }
     },
-    "PassiveEffects": [],
-    "PassiveStatEffects": [
+    "PassiveEffects": [
         {
-            "ApplyEachTick": false,
-            "InstantModifier": false,
-            "IsInverse": false,
-            "RateModifier": {
-                "x": -0.1,
-                "y": -0.1
+            "Conditions": {
+                "NotInBackground": false,
+                "RequiredCardsInInventory": [],
+                "RequiredCardsNOTOnBoard": [],
+                "RequiredCardsOnBoard": [],
+                "RequiredCardsOnBoardWarpData": [
+                    "0de7d87ca2244f4db93816c0c5d597ff"
+                ],
+                "RequiredCardsOnBoardWarpType": 3,
+                "RequiredContainer": [],
+                "RequiredContainerTags": [],
+                "RequiredDurabilityRanges": {
+                    "FuelRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "LiquidQuantityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "ProgressRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special1Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special2Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special3Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special4Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "SpoilageRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "UsageRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RequiredEnvironment": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredEnvironmentTags": [],
+                "RequiredLiquidContainers": [],
+                "RequiredStatValues": [],
+                "RequiredTagsInInventory": [],
+                "RequiredTagsNOTOnBoard": [],
+                "RequiredTagsOnBoard": []
             },
-            "Stat": {
-                "m_FileID": 0,
-                "m_PathID": 0
+            "ConsumableChargesModifier": {
+                "Active": false,
+                "FloatValue": 0.0
             },
-            "StatWarpData": "3dc9b7924c4bec142af1c255f6df235d",
-            "StatWarpType": 3,
-            "ValueModifier": {
-                "x": 0,
-                "y": 0
-            }
+            "EffectName": "Zombie Attack",
+            "EffectStacksWithRequiredCards": false,
+            "FuelRateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "GeneratedLiquid": {
+                "LiquidCard": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "Quantity": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            },
+            "LiquidRateModifier": 0.0,
+            "OnBoardEffectCap": 0,
+            "OnlyOnBaseActions": false,
+            "OnlyWhenEquipped": false,
+            "OnlyWhenNotInBG": true,
+            "Special1RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "Special2RateModifier": {
+                "Active": true,
+                "FloatValue": -1.0
+            },
+            "Special3RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "Special4RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "SpoilageRateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "StatModifiers": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.1,
+                        "y": -0.1
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3dc9b7924c4bec142af1c255f6df235d",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.1,
+                        "y": 0.1
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3b79a4c6d7e151044a1c56fbbd401d78",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "7e3269af16dd90f4483ca2b64a43d80d",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 50.0,
+                        "y": 50.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.1,
+                        "y": -0.1
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "c672b35248e9f2349a084e1514d6c9f8",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "c327eb04957d4793842d52e777062c48",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 1.0,
+                        "y": 1.0
+                    }
+                }
+            ],
+            "UsageRateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "WeightCapacityModifier": 0.0
         },
         {
-            "ApplyEachTick": false,
-            "InstantModifier": false,
-            "IsInverse": false,
-            "RateModifier": {
-                "x": 0.1,
-                "y": 0.1
+            "Conditions": {
+                "NotInBackground": false,
+                "RequiredCardsInInventory": [],
+                "RequiredCardsNOTOnBoard": [],
+                "RequiredCardsOnBoard": [],
+                "RequiredContainer": [],
+                "RequiredContainerTags": [],
+                "RequiredDurabilityRanges": {
+                    "FuelRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "LiquidQuantityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "ProgressRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special1Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special2Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special3Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special4Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "SpoilageRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "UsageRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RequiredEnvironment": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredEnvironmentTags": [],
+                "RequiredLiquidContainers": [],
+                "RequiredStatValues": [],
+                "RequiredTagsInInventory": [],
+                "RequiredTagsNOTOnBoard": [],
+                "RequiredTagsOnBoard": [],
+                "RequiredTagsOnBoardWarpData": [
+                    "CardTag_FoodSource"
+                ],
+                "RequiredTagsOnBoardWarpType": 3
             },
-            "Stat": {
-                "m_FileID": 0,
-                "m_PathID": 0
+            "ConsumableChargesModifier": {
+                "Active": false,
+                "FloatValue": 0.0
             },
-            "StatWarpData": "3b79a4c6d7e151044a1c56fbbd401d78",
-            "StatWarpType": 3,
-            "ValueModifier": {
-                "x": 0,
-                "y": 0
-            }
+            "EffectName": "吸引",
+            "EffectStacksWithRequiredCards": false,
+            "FuelRateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "GeneratedLiquid": {
+                "LiquidCard": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "Quantity": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            },
+            "LiquidRateModifier": 0.0,
+            "OnBoardEffectCap": 0,
+            "OnlyOnBaseActions": false,
+            "OnlyWhenEquipped": false,
+            "OnlyWhenNotInBG": true,
+            "Special1RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "Special2RateModifier": {
+                "Active": true,
+                "FloatValue": 0.0
+            },
+            "Special3RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "Special4RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "SpoilageRateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "StatModifiers": [],
+            "UsageRateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "WeightCapacityModifier": 0.0
         },
         {
-            "ApplyEachTick": false,
-            "InstantModifier": false,
-            "IsInverse": false,
-            "RateModifier": {
-                "x": 0,
-                "y": 0
+            "Conditions": {
+                "NotInBackground": false,
+                "RequiredCardsInInventory": [],
+                "RequiredCardsNOTOnBoard": [],
+                "RequiredCardsOnBoard": [],
+                "RequiredContainer": [],
+                "RequiredContainerTags": [],
+                "RequiredDurabilityRanges": {
+                    "FuelRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "LiquidQuantityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "ProgressRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special1Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special2Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special3Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special4Range": {
+                        "x": 12.0,
+                        "y": 96.0
+                    },
+                    "SpoilageRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "UsageRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RequiredEnvironment": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredEnvironmentTags": [],
+                "RequiredLiquidContainers": [],
+                "RequiredStatValues": [],
+                "RequiredTagsInInventory": [],
+                "RequiredTagsNOTOnBoard": [],
+                "RequiredTagsOnBoard": []
             },
-            "Stat": {
-                "m_FileID": 0,
-                "m_PathID": 0
+            "ConsumableChargesModifier": {
+                "Active": false,
+                "FloatValue": 0.0
             },
-            "StatWarpData": "7e3269af16dd90f4483ca2b64a43d80d",
-            "StatWarpType": 3,
-            "ValueModifier": {
-                "x": "50",
-                "y": "50"
-            }
-        },
-        {
-            "ApplyEachTick": false,
-            "InstantModifier": false,
-            "IsInverse": false,
-            "RateModifier": {
-                "x": -0.1,
-                "y": -0.1
+            "EffectName": "吸引",
+            "EffectStacksWithRequiredCards": false,
+            "FuelRateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
             },
-            "Stat": {
-                "m_FileID": 0,
-                "m_PathID": 0
+            "GeneratedLiquid": {
+                "LiquidCard": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "Quantity": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
             },
-            "StatWarpData": "c672b35248e9f2349a084e1514d6c9f8",
-            "StatWarpType": 3,
-            "ValueModifier": {
-                "x": 0,
-                "y": 0
-            }
-        },
-        {
-            "ApplyEachTick": false,
-            "InstantModifier": false,
-            "IsInverse": false,
-            "RateModifier": {
-                "x": 0,
-                "y": 0
+            "LiquidRateModifier": 0.0,
+            "OnBoardEffectCap": 0,
+            "OnlyOnBaseActions": false,
+            "OnlyWhenEquipped": false,
+            "OnlyWhenNotInBG": true,
+            "Special1RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
             },
-            "Stat": {
-                "m_FileID": 0,
-                "m_PathID": 0
+            "Special2RateModifier": {
+                "Active": true,
+                "FloatValue": 1.0
             },
-            "StatWarpData": "c327eb04957d4793842d52e777062c48",
-            "StatWarpType": 3,
-            "ValueModifier": {
-                "x": 1.0,
-                "y": 1.0
-            }
+            "Special3RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "Special4RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "SpoilageRateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "StatModifiers": [],
+            "UsageRateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "WeightCapacityModifier": 0.0
         }
     ],
+    "PassiveStatEffects": [],
     "PlayerAddedCover": 0.0,
     "PlayerAddedStealth": 0.0,
     "PlayerCoverHitProbabilityModifiers": {
@@ -6830,6 +7337,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -7034,6 +7560,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -7073,7 +7618,7 @@
         "FloatValue": 3.0,
         "HasActionOnFull": false,
         "HasActionOnZero": true,
-        "HidingOptions": 2,
+        "HidingOptions": 1,
         "MaxValue": 3.0,
         "OnFull": {
             "ActionDescription": {
@@ -7263,6 +7808,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -7343,7 +7907,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -7351,8 +7915,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -7364,8 +7928,8 @@
                             "DroppedCardWarpData": "4ae9c0a051e74b7592a8a14357f4fde0",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -7374,8 +7938,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -7386,8 +7950,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -7398,8 +7962,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -7410,8 +7974,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -7422,8 +7986,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -7434,8 +7998,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -7446,8 +8010,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -7458,8 +8022,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -7470,36 +8034,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -7639,6 +8203,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -7659,6 +8242,8 @@
             "m_FileID": 0,
             "m_PathID": 0
         },
+        "OverrideIconWarpData": "Health",
+        "OverrideIconWarpType": 3,
         "RatePerDaytimePoint": 0.0,
         "ShowPopupOnFull": false,
         "ShowPopupOnZero": false,
@@ -7865,6 +8450,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -7945,7 +8549,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -7953,8 +8557,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -7966,8 +8570,8 @@
                             "DroppedCardWarpData": "5aa78d7c24d1497fa1198b669868a0e7",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -7976,8 +8580,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -7988,8 +8592,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -8000,8 +8604,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -8012,8 +8616,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -8024,8 +8628,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -8036,8 +8640,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -8048,8 +8652,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -8060,8 +8664,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -8072,36 +8676,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -8241,6 +8845,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -8261,7 +8884,7 @@
             "m_FileID": 0,
             "m_PathID": 0
         },
-        "RatePerDaytimePoint": -1.0,
+        "RatePerDaytimePoint": 0.0,
         "ShowPopupOnFull": false,
         "ShowPopupOnZero": false,
         "TextDisplay": 0
@@ -8467,6 +9090,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -8671,6 +9313,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -8697,7 +9358,7 @@
         "TextDisplay": 0
     },
     "SpecialDurability4": {
-        "Active": false,
+        "Active": true,
         "CardStatName": {
             "DefaultText": "",
             "LocalizationKey": "",
@@ -8706,9 +9367,9 @@
         "ExtraRateWhenEquipped": 0.0,
         "FloatValue": 0.0,
         "HasActionOnFull": false,
-        "HasActionOnZero": false,
-        "HidingOptions": 0,
-        "MaxValue": 0.0,
+        "HasActionOnZero": true,
+        "HidingOptions": 2,
+        "MaxValue": 16.0,
         "OnFull": {
             "ActionDescription": {
                 "DefaultText": "",
@@ -8897,6 +9558,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -9101,6 +9781,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -9328,6 +10027,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -9532,6 +10250,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -9769,6 +10506,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -9973,6 +10729,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -10014,7 +10789,22 @@
             "ParentObjectID": ""
         },
         "ScreenShake": false,
-        "SoundEffects": []
+        "SoundEffects": [],
+        "TextColor": {
+            "Active": false,
+            "ColorValue": {
+                "a": 0.0,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            }
+        },
+        "TextSettings": {
+            "Active": false,
+            "Bold": false,
+            "Italics": false,
+            "Underlined": false
+        }
     },
     "WeaponReach": 0.0,
     "WeatherEffects": {

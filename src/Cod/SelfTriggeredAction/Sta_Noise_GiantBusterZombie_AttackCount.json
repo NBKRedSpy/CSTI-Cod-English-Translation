@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_Noise_GiantBusterZombie_AttackCount",
-                "LocalizationKey": "COD_Sta_Noise_GiantBusterZombie_AttackCount_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_Noise_GiantBusterZombie_AttackCount_Actions[0].ActionName",
                 "ParentObjectID": "b6de577532ed4c1da419e3c5e4b03f2d"
             },
             "ActionSounds": [],

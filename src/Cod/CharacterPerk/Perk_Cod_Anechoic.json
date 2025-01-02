@@ -1,0 +1,83 @@
+{
+    "ActionModifiers": [],
+    "ActionObjectives": [],
+    "AddedCards": [],
+    "AddedStartingHours": 0,
+    "CardsOnBoardObjectives": [],
+    "CheckingNotificationDetails": 0,
+    "CompleteOnLose": false,
+    "CompleteOnWin": false,
+    "DifficultyRating": -2500,
+    "DisplayPriority": 0.0,
+    "EditorOnly": false,
+    "EquippedCards": [],
+    "HiddenUntilUnlocked": false,
+    "MoonsCost": 0,
+    "NestedObjectives": [],
+    "NoSafetyMode": false,
+    "NotifyWhenNotChecked": false,
+    "OverrideEnvironment": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideEquipment": false,
+    "OverrideWeather": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PassiveStatModifiers": [],
+    "PerkDescription": {
+        "DefaultText": "行为产生的噪声降低。",
+        "LocalizationKey": "Cod_Perk_Cod_Anechoic_PerkDescription",
+        "ParentObjectID": "e4386b17013442c78af44f708a191b62"
+    },
+    "PerkIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "PerkIconWarpData": "Gs_Noise_AnechoicLevel",
+    "PerkIconWarpType": 3,
+    "PerkName": {
+        "DefaultText": "静音",
+        "LocalizationKey": "Cod_Perk_Cod_Anechoic_PerkName",
+        "ParentObjectID": "e4386b17013442c78af44f708a191b62"
+    },
+    "PerkUnlockConditions": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "PlayedCharacter": [],
+    "RequiredDifficultyScore": {
+        "x": 0,
+        "y": 0
+    },
+    "ResetLockInEditor": false,
+    "StartUnlocked": true,
+    "StartingStatModifiers": [
+        {
+            "ApplyEachTick": false,
+            "InstantModifier": false,
+            "IsInverse": false,
+            "RateModifier": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Stat": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "StatWarpData": "f40da6fc699b4a399201eced704c8ca8",
+            "StatWarpType": 3,
+            "ValueModifier": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ],
+    "StatsObjectives": [],
+    "SunsCost": 0,
+    "TagsOnBoardObjectives": [],
+    "TimeObjectives": [],
+    "UniqueID": "e4386b17013442c78af44f708a191b62"
+}

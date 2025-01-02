@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_Noise_OrdinaryZombie_AttackCount",
-                "LocalizationKey": "COD_Sta_Noise_OrdinaryZombie_AttackCount_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_Noise_OrdinaryZombie_AttackCount_Actions[0].ActionName",
                 "ParentObjectID": "f1ab4b37a549432d9f2c110c81b2d607"
             },
             "ActionSounds": [],

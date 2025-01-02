@@ -91,8 +91,8 @@
     "CardBackgroundWarpData": "BG_SandTop",
     "CardBackgroundWarpType": 3,
     "CardDescription": {
-        "DefaultText": "\u5e03\u6ee1\u4e86\u7684\u65f6\u4ee3\u7684\u75d5\u8ff9\uff0c\u77db\u67c4\u5904\u6709\u4e00\u9053\u660e\u663e\u7684\u88c2\u75d5\u3002",
-        "LocalizationKey": "COD_Nc_RusticSpear_Destory_CardDescription",
+        "DefaultText": "布满了的时代的痕迹，矛柄处有一道明显的裂痕。",
+        "LocalizationKey": "Cod_Nc_RusticSpear_Destory_CardDescription",
         "ParentObjectID": "4b8f0d413d3544ce8b05aac17b90f562"
     },
     "CardImage": {
@@ -103,8 +103,8 @@
     "CardImageWarpType": 3,
     "CardInteractions": [],
     "CardName": {
-        "DefaultText": "\u7834\u635f\u957f\u77db",
-        "LocalizationKey": "COD_Nc_RusticSpear_Destory_CardName",
+        "DefaultText": "破损长矛",
+        "LocalizationKey": "Cod_Nc_RusticSpear_Destory_CardName",
         "ParentObjectID": "4b8f0d413d3544ce8b05aac17b90f562"
     },
     "CardTags": [],
@@ -191,7 +191,7 @@
             },
             "ActionName": {
                 "DefaultText": "Train",
-                "LocalizationKey": "COD_Nc_RusticSpear_Destory_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Nc_RusticSpear_Destory_DismantleActions[0].ActionName",
                 "ParentObjectID": "4b8f0d413d3544ce8b05aac17b90f562"
             },
             "ActionSounds": [],
@@ -3792,7 +3792,7 @@
             },
             "ActionName": {
                 "DefaultText": "The Spear Breaks",
-                "LocalizationKey": "COD_Nc_RusticSpear_Destory_UsageDurability.OnZero.ActionName",
+                "LocalizationKey": "Cod_Nc_RusticSpear_Destory_UsageDurability.OnZero.ActionName",
                 "ParentObjectID": "4b8f0d413d3544ce8b05aac17b90f562"
             },
             "ActionSounds": [],

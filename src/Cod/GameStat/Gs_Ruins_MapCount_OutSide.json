@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Ruins_MapCount_OutSide",
-        "LocalizationKey": "COD_Gs_Ruins_MapCount_OutSide_GameName",
+        "LocalizationKey": "Cod_Gs_Ruins_MapCount_OutSide_GameName",
         "ParentObjectID": "8108da8993534babb9020b1635a56c94"
     },
     "InvertedDirection": false,

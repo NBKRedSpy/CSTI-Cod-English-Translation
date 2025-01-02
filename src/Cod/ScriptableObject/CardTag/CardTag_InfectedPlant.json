@@ -2,7 +2,7 @@
     "ActionModifiers": [],
     "InGameName": {
         "DefaultText": "InfectedPlant",
-        "LocalizationKey": "CardTag_InfectedPlant_InGameName",
+        "LocalizationKey": "Cod_CardTag_InfectedPlant_InGameName",
         "ParentObjectID": "126e6fc45fc21fc43b604e2d23a8fa8c"
     },
     "UniqueOnBoard": false

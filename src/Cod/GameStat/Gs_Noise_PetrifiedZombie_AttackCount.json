@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Noise_PetrifiedZombie_AttackCount",
-        "LocalizationKey": "COD_Gs_Noise_PetrifiedZombie_AttackCount_GameName",
+        "LocalizationKey": "Cod_Gs_Noise_PetrifiedZombie_AttackCount_GameName",
         "ParentObjectID": "5b0d21f2a9004699a51ed83ea22a90d0"
     },
     "InvertedDirection": false,

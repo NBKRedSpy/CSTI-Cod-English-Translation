@@ -18,7 +18,8 @@
         "Tab_Deal_Seal",
         "Tab_Deal_Menu",
         "Tab_Deal_Production",
-        "Tab_Deal_BloodPlage"
+        "Tab_Deal_BloodPlage",
+        "Tab_Deal_PlantingSystem"
     ],
     "SubGroupsWarpType": 3,
     "TabIcon": {
@@ -29,7 +30,7 @@
     "TabIconWarpType": 3,
     "TabName": {
         "DefaultText": "交易",
-        "LocalizationKey": "COD_cod_Cooking_TabName",
+        "LocalizationKey": "Cod_Tab_Deal_TabName",
         "ParentObjectID": "41bdd5c59e22a344a9f7e4df87a835c0"
     }
 }

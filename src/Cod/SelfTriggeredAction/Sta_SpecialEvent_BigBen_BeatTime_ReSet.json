@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "BeatTime_ReSet",
-                "LocalizationKey": "COD_Sta_SpecialEvent_BigBen_BeatTime_ReSet_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_SpecialEvent_BigBen_BeatTime_ReSet_Actions[0].ActionName",
                 "ParentObjectID": "63c7483c0ee04e76acce097079ad3bc9"
             },
             "ActionSounds": [],

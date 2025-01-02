@@ -1,0 +1,41 @@
+{
+    "BaseSet": {
+        "ImageName": "Theme_Cod_Port_PortShip_Base",
+        "Priority": 920
+    },
+    "BookmarkLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "BookmarkRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "Card": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CardWarpData": "5dd47b73591d45c5a504110031294b48",
+    "CardWarpType": 3,
+    "ConditionSets": [],
+    "EnvSet": {
+        "ImageName": "Theme_Cod_Port_PortShip_Location",
+        "Priority": 920
+    },
+    "ExpSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "HandSet": {
+        "ImageName": "Theme_Cod_Port_PortShip_Base",
+        "Priority": 920
+    }
+}

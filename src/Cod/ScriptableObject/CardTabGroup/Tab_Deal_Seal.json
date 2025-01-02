@@ -1,32 +1,32 @@
 {
-  "AssociatedEntry": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "IncludedCards": [],
-  "IncludedCardsWarpData": [
-    "71ebd70065e64ad38871fd8e21f8bd1c",
-    "b0e582eaed1841f68463cf4ccf90d858",
-    "9e35d632408649edb65394563115be3d",
-    "c7e249221c894073ab26d43a8b9d9eed",
-    "ed137d80ac354bdb87e97f5a14f80481",
-    "fc63a93c3361460388129855c401ff42",
-    "8fb038eda6824f5dacd45d9bb93971e6",
-    "43dec8db5e0646dcb6550e891dd29f08",
-    "3c8293837cc048fabfb12249b0e669ef"
-  ],
-  "IncludedCardsWarpType": 3,
-  "ShopSortingList": [],
-  "SubGroups": [],
-  "TabIcon": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "TabIconWarpData": "Sack",
-  "TabIconWarpType": 3,
-  "TabName": {
-    "DefaultText": "出售货物",
-    "LocalizationKey": "T-c75U89lvcN6mxmHm/SOe5MBsk10=",
-    "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
-  }
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "71ebd70065e64ad38871fd8e21f8bd1c",
+        "b0e582eaed1841f68463cf4ccf90d858",
+        "9e35d632408649edb65394563115be3d",
+        "c7e249221c894073ab26d43a8b9d9eed",
+        "ed137d80ac354bdb87e97f5a14f80481",
+        "fc63a93c3361460388129855c401ff42",
+        "8fb038eda6824f5dacd45d9bb93971e6",
+        "43dec8db5e0646dcb6550e891dd29f08",
+        "3c8293837cc048fabfb12249b0e669ef"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabIconWarpData": "Sack",
+    "TabIconWarpType": 3,
+    "TabName": {
+        "DefaultText": "出售货物",
+        "LocalizationKey": "Cod_Tab_Deal_Seal_TabName",
+        "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
+    }
 }

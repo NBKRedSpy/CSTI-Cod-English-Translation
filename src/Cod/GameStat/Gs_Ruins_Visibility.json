@@ -30,7 +30,7 @@
     },
     "Description": {
         "DefaultText": "地区的可视程度。",
-        "LocalizationKey": "Cod_Gs_Ruins_Visibility_GameDescription",
+        "LocalizationKey": "Cod_Gs_Ruins_Visibility_Description",
         "ParentObjectID": "3b0111c81c634e7aad367512c6e2ea5d"
     },
     "FeedbackInfo": {

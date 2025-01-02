@@ -1,0 +1,277 @@
+{
+    "actToInv": [],
+    "alwaysDrops": [],
+    "blueprintDrops": [
+        {
+            "DroppedCard": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "DroppedCardWarpData": "2102703b121a480c83ba6760b504694e",
+            "DroppedCardWarpType": 3,
+            "Quantity": {
+                "x": 1,
+                "y": 1
+            }
+        }
+    ],
+    "blueprintProgress": [],
+    "bpDropDisableCancel": true,
+    "cardDropByStatBy": [],
+    "cardDropByStatTo": [],
+    "cardGens": [],
+    "dropCollections": [],
+    "expProgress": 0.0,
+    "extActEntries": [],
+    "giveCardStateChange": {
+        "ChargesChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special2Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special3Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special4Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "SpoilageChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {},
+        "UsageChange": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "giveCondition": {
+        "NotInBackground": false,
+        "RequiredCardsInInventory": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredDurabilityRanges": {
+            "FuelRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "LiquidQuantityRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ProgressRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special1Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special2Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special3Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special4Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "SpoilageRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "UsageRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "RequiredEnvironment": {},
+        "RequiredEnvironmentTags": [],
+        "RequiredLiquidContainers": [],
+        "RequiredStatValues": [],
+        "RequiredTagsInInventory": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredTagsOnBoard": []
+    },
+    "giveMoveToFinder": {
+        "Active": false,
+        "AllowAnyCard": false,
+        "AllowAnyTag": false,
+        "CardConds": [],
+        "CardToFind": [],
+        "NeedBothCardAndTag": true,
+        "OnlySlot": false,
+        "SlotsType": "",
+        "TagToFind": []
+    },
+    "graphicsPack": {},
+    "hasCondition": false,
+    "hasLuaCode": false,
+    "isNotInBase": false,
+    "luaCode": "",
+    "miniWaitTime": 0,
+    "recCardStateChange": {
+        "ChargesChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special2Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special3Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special4Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "SpoilageChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {},
+        "UsageChange": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "recCondition": {
+        "NotInBackground": false,
+        "RequiredCardsInInventory": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredDurabilityRanges": {
+            "FuelRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "LiquidQuantityRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ProgressRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special1Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special2Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special3Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special4Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "SpoilageRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "UsageRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "RequiredEnvironment": {},
+        "RequiredEnvironmentTags": [],
+        "RequiredLiquidContainers": [],
+        "RequiredStatValues": [],
+        "RequiredTagsInInventory": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredTagsOnBoard": []
+    },
+    "recMoveToFinder": {
+        "Active": false,
+        "AllowAnyCard": false,
+        "AllowAnyTag": false,
+        "CardConds": [],
+        "CardToFind": [],
+        "NeedBothCardAndTag": true,
+        "OnlySlot": false,
+        "SlotsType": "",
+        "TagToFind": []
+    },
+    "simpleVarConditions": [],
+    "simpleVarModEntries": [],
+    "spriteSet": [],
+    "statModByStatBy": [],
+    "statModByStatFunc": [],
+    "statModByStatTo": [],
+    "statModifications": [],
+    "tickWaitTime": 0,
+    "waitTime": 0
+}

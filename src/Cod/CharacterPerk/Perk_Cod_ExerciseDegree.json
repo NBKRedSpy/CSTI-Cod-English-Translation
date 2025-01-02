@@ -7,7 +7,7 @@
     "CheckingNotificationDetails": 0,
     "CompleteOnLose": false,
     "CompleteOnWin": false,
-    "DifficultyRating": -5000,
+    "DifficultyRating": -2500,
     "DisplayPriority": 0.0,
     "EditorOnly": false,
     "EquippedCards": [],
@@ -27,7 +27,7 @@
     },
     "PassiveStatModifiers": [],
     "PerkDescription": {
-        "DefaultText": "体态优良，以力克刚。",
+        "DefaultText": "体态优良，以柔克刚。",
         "LocalizationKey": "Cod_Perk_Cod_ExerciseDegree_PerkDescription",
         "ParentObjectID": "908cde6e654a49378fc0409b52c2efbe"
     },
@@ -35,7 +35,7 @@
         "m_FileID": 0,
         "m_PathID": 0
     },
-    "PerkIconWarpData": "Perk_Cod_ExerciseDegree",
+    "PerkIconWarpData": "Gs_Rains_BodyStrength",
     "PerkIconWarpType": 3,
     "PerkName": {
         "DefaultText": "体格",
@@ -70,8 +70,8 @@
             "StatWarpData": "59cbb5c8ff25409fa8b9bd666e54f01b",
             "StatWarpType": 3,
             "ValueModifier": {
-                "x": 50.0,
-                "y": 50.0
+                "x": 192.0,
+                "y": 192.0
             }
         }
     ],

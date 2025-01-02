@@ -71,6 +71,13 @@
     },
     "NoveltyCooldownDuration": 0,
     "OverrideFeedbackPrefab": {
+        "AnimationsToReset": "",
+        "Delay": 0.0,
+        "DestroyAfterPlaying": false,
+        "Duration": 0.0,
+        "Icon": "",
+        "ResetOnPlay": false,
+        "YieldWaitDuration": 0.0,
         "m_FileID": 0,
         "m_PathID": 0
     },

@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_BloodHeart_BloodMist_ProducedZombie",
-                "LocalizationKey": "COD_Sta_BloodHeart_BloodMist_ProducedZombie_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_BloodHeart_BloodMist_ProducedZombie_Actions[0].ActionName",
                 "ParentObjectID": "3543455937f74ec9bb81e7eb6b85acc6"
             },
             "ActionSounds": [],
@@ -275,8 +275,8 @@
                             "DroppedCardWarpData": "4b51eb57d33a4581b5aa8fb522c05b19",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -464,8 +464,8 @@
                             "DroppedCardWarpData": "ff8428dad000493ca7ebe38082ac27ef",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -653,8 +653,8 @@
                             "DroppedCardWarpData": "e934cdd2be394685959f3a62c049037c",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -821,7 +821,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -829,8 +829,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -842,8 +842,8 @@
                             "DroppedCardWarpData": "fa854efb43ea4d71b2d310f1bbb07fbd",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -852,8 +852,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -864,8 +864,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -876,8 +876,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -888,8 +888,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -900,8 +900,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -912,8 +912,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -924,8 +924,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -936,8 +936,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -948,36 +948,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -1010,7 +1010,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -1018,8 +1018,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -1031,8 +1031,8 @@
                             "DroppedCardWarpData": "785904dead944b989c895cad5b564ca8",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -1041,8 +1041,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1053,8 +1053,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1065,8 +1065,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1077,8 +1077,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1089,8 +1089,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1101,8 +1101,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1113,8 +1113,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1125,8 +1125,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1137,36 +1137,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,

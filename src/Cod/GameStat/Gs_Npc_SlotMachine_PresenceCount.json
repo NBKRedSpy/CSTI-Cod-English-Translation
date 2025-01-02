@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Npc_SlotMachine_PresenceCount",
-        "LocalizationKey": "COD_Gs_Npc_SlotMachine_PresenceCount_GameName",
+        "LocalizationKey": "Cod_Gs_Npc_SlotMachine_PresenceCount_GameName",
         "ParentObjectID": "b418d909c6984de9b22fa5c259b3adf9"
     },
     "InvertedDirection": false,
@@ -65,8 +65,8 @@
         "m_PathID": 0
     },
     "NotEnoughText": {
-        "DefaultText": "\u8001\u864e\u673a\u4e0d\u5728\u573a\u666f\u4e2d\u3002",
-        "LocalizationKey": "COD_Gs_Npc_SlotMachine_PresenceCount_NotEnoughText",
+        "DefaultText": "老虎机不在场景中。",
+        "LocalizationKey": "Cod_Gs_Npc_SlotMachine_PresenceCount_NotEnoughText",
         "ParentObjectID": "b418d909c6984de9b22fa5c259b3adf9"
     },
     "NoveltyCooldownDuration": 0,

@@ -30,7 +30,7 @@
     },
     "Description": {
         "DefaultText": "",
-        "LocalizationKey": "Cod_Gs_BloodPlage_BloodProtein_Description",
+        "LocalizationKey": "Cod_Gs_BloodPlague_BloodProtein_Description",
         "ParentObjectID": "bddbe1aea26543aeb65959b5d5b6fceb"
     },
     "FeedbackInfo": {
@@ -49,7 +49,7 @@
     },
     "GameName": {
         "DefaultText": "猩红素",
-        "LocalizationKey": "Cod_Gs_BloodPlage_BloodProtein_GameName",
+        "LocalizationKey": "Cod_Gs_BloodPlague_BloodProtein_GameName",
         "ParentObjectID": "bddbe1aea26543aeb65959b5d5b6fceb"
     },
     "InvertedDirection": false,
@@ -89,7 +89,7 @@
             "ConfidenceModifier": 0.0,
             "Description": {
                 "DefaultText": "皮肤表面有些浅红色的纹路",
-                "LocalizationKey": "Cod_Gs_BloodPlage_BloodProtein_Statuses[0].Description",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodProtein_Statuses[0].Description",
                 "ParentObjectID": "bddbe1aea26543aeb65959b5d5b6fceb"
             },
             "EffectsOnActions": [],
@@ -116,7 +116,7 @@
             ],
             "GameName": {
                 "DefaultText": "猩红",
-                "LocalizationKey": "Cod_Gs_BloodPlage_BloodProtein_Statuses[0].GameName",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodProtein_Statuses[0].GameName",
                 "ParentObjectID": "bddbe1aea26543aeb65959b5d5b6fceb"
             },
             "GameOver": false,
@@ -158,7 +158,7 @@
             "ConfidenceModifier": 0.0,
             "Description": {
                 "DefaultText": "身体表面纹路遍布",
-                "LocalizationKey": "Cod_Gs_BloodPlage_BloodProtein_Statuses[1].Description",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodProtein_Statuses[1].Description",
                 "ParentObjectID": "bddbe1aea26543aeb65959b5d5b6fceb"
             },
             "EffectsOnActions": [],
@@ -204,7 +204,7 @@
             ],
             "GameName": {
                 "DefaultText": "猩红素",
-                "LocalizationKey": "Cod_Gs_BloodPlage_BloodProtein_Statuses[1].GameName",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodProtein_Statuses[1].GameName",
                 "ParentObjectID": "bddbe1aea26543aeb65959b5d5b6fceb"
             },
             "GameOver": false,
@@ -246,7 +246,7 @@
             "ConfidenceModifier": 0.0,
             "Description": {
                 "DefaultText": "密集纹路伴随着高温..",
-                "LocalizationKey": "Cod_Gs_BloodPlage_BloodProtein_Statuses[2].Description",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodProtein_Statuses[2].Description",
                 "ParentObjectID": "bddbe1aea26543aeb65959b5d5b6fceb"
             },
             "EffectsOnActions": [],
@@ -292,7 +292,7 @@
             ],
             "GameName": {
                 "DefaultText": "猩红素",
-                "LocalizationKey": "Cod_Gs_BloodPlage_BloodProtein_Statuses[2].GameName",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodProtein_Statuses[2].GameName",
                 "ParentObjectID": "bddbe1aea26543aeb65959b5d5b6fceb"
             },
             "GameOver": false,
@@ -334,7 +334,7 @@
             "ConfidenceModifier": 0.0,
             "Description": {
                 "DefaultText": "通明红色在体表流淌",
-                "LocalizationKey": "Cod_Gs_BloodPlage_BloodProtein_Statuses[3].Description",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodProtein_Statuses[3].Description",
                 "ParentObjectID": "bddbe1aea26543aeb65959b5d5b6fceb"
             },
             "EffectsOnActions": [],
@@ -380,7 +380,7 @@
             ],
             "GameName": {
                 "DefaultText": "猩红素",
-                "LocalizationKey": "Cod_Gs_BloodPlage_BloodProtein_Statuses[3].GameName",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodProtein_Statuses[3].GameName",
                 "ParentObjectID": "bddbe1aea26543aeb65959b5d5b6fceb"
             },
             "GameOver": false,

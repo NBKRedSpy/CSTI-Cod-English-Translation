@@ -1,0 +1,9 @@
+{
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "Nc_DealSystem_Rarity_LevelOne_Base",
+        "LocalizationKey": "Nc_DealSystem_Rarity_LevelOne_Base_InGameName",
+        "ParentObjectID": "2cbd8da8e09364840bffaa8d6c559c27"
+    },
+    "UniqueOnBoard": false
+}

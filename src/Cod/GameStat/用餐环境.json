@@ -32,7 +32,7 @@
     },
     "Description": {
         "DefaultText": "Shows how good your eating place is. Gives you a bonus to eating.",
-        "LocalizationKey": "COD_Foodplace_Description",
+        "LocalizationKey": "Cod_用餐环境_Description",
         "ParentObjectID": "444463646904413db0132b37cf4fe8df"
     },
     "FeedbackInfo": {
@@ -51,7 +51,7 @@
     },
     "GameName": {
         "DefaultText": "Foodplace",
-        "LocalizationKey": "COD_Foodplace_GameName",
+        "LocalizationKey": "Cod_用餐环境_GameName",
         "ParentObjectID": "444463646904413db0132b37cf4fe8df"
     },
     "InvertedDirection": false,
@@ -91,7 +91,7 @@
             "ConfidenceModifier": 0.0,
             "Description": {
                 "DefaultText": "Moderate Effect",
-                "LocalizationKey": "COD_Foodplace_Statuses[0].Description",
+                "LocalizationKey": "Cod_用餐环境_Statuses[0].Description",
                 "ParentObjectID": "444463646904413db0132b37cf4fe8df"
             },
             "EffectsOnActions": [
@@ -296,7 +296,7 @@
             "EffectsOnStats": [],
             "GameName": {
                 "DefaultText": "Eating Utensils",
-                "LocalizationKey": "COD_Foodplace_Statuses[0].GameName",
+                "LocalizationKey": "Cod_用餐环境_Statuses[0].GameName",
                 "ParentObjectID": "444463646904413db0132b37cf4fe8df"
             },
             "GameOver": false,

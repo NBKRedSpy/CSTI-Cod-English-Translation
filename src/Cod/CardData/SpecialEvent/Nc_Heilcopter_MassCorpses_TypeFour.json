@@ -130,7 +130,7 @@
     "CardBackgroundWarpType": 3,
     "CardDescription": {
         "DefaultText": "它们在追逐直升机！",
-        "LocalizationKey": "COD_Nc_MassCorpses_TypeFour_CardDescription",
+        "LocalizationKey": "Cod_Nc_Heilcopter_MassCorpses_TypeFour_CardDescription",
         "ParentObjectID": "f1fe012e6564482087ce253529711b88"
     },
     "CardImage": {
@@ -141,8 +141,8 @@
     "CardImageWarpType": 3,
     "CardInteractions": [],
     "CardName": {
-        "DefaultText": "尸群",
-        "LocalizationKey": "COD_Nc_MassCorpses_TypeFour_CardName",
+        "DefaultText": "",
+        "LocalizationKey": "Cod_Nc_Heilcopter_MassCorpses_TypeFour_CardName",
         "ParentObjectID": "f1fe012e6564482087ce253529711b88"
     },
     "CardTags": [],
@@ -768,8 +768,8 @@
             "StatWarpData": "3b79a4c6d7e151044a1c56fbbd401d78",
             "StatWarpType": 3,
             "ValueModifier": {
-                "x": 0,
-                "y": 0
+                "x": 0.0,
+                "y": 0.0
             }
         }
     ],
@@ -3385,7 +3385,7 @@
             "LocalizationKey": "",
             "ParentObjectID": ""
         },
-        "ExtraRateWhenEquipped": 0,
+        "ExtraRateWhenEquipped": 0.0,
         "FloatValue": 4.0,
         "HasActionOnFull": false,
         "HasActionOnZero": true,
@@ -3449,41 +3449,41 @@
             "ProducedCards": [],
             "ReceivingCardChanges": {
                 "ChargesChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "DropOnDestroyList": false,
                 "FuelChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "LiquidEffectScaling": 0,
                 "LiquidQuantityChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "ModType": 0,
                 "ModifyDurability": false,
                 "ModifyLiquid": false,
                 "Special1Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special2Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special3Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special4Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "SpoilageChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "TransferCharges": false,
                 "TransferFuel": false,
@@ -3500,8 +3500,8 @@
                     "m_PathID": 0
                 },
                 "UsageChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
             "RequiredCardsOnBoard": [],
@@ -3516,44 +3516,44 @@
                 "HideActionIfNotMet": false,
                 "RequiredFuelPercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
-                "RequiredLiquidQuantity": 0,
+                "RequiredLiquidQuantity": 0.0,
                 "RequiredProgressPercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial1Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial2Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial3Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial4Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpoilagePercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredUsagePercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 }
             },
             "RequiredReceivingLiquidContent": {
@@ -3567,8 +3567,8 @@
                     "m_PathID": 0
                 },
                 "RequiredQuantity": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
             "RequiredStatValues": [],
@@ -3653,41 +3653,41 @@
             "ProducedCards": [],
             "ReceivingCardChanges": {
                 "ChargesChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "DropOnDestroyList": false,
                 "FuelChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "LiquidEffectScaling": 0,
                 "LiquidQuantityChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "ModType": 3,
                 "ModifyDurability": false,
                 "ModifyLiquid": false,
                 "Special1Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special2Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special3Change": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "Special4Change": {
                     "x": 0.0,
                     "y": 0.0
                 },
                 "SpoilageChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 },
                 "TransferCharges": false,
                 "TransferFuel": false,
@@ -3704,8 +3704,8 @@
                     "m_PathID": 0
                 },
                 "UsageChange": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
             "RequiredCardsOnBoard": [],
@@ -3720,44 +3720,44 @@
                 "HideActionIfNotMet": false,
                 "RequiredFuelPercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
-                "RequiredLiquidQuantity": 0,
+                "RequiredLiquidQuantity": 0.0,
                 "RequiredProgressPercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial1Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial2Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial3Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpecial4Percent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredSpoilagePercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 },
                 "RequiredUsagePercent": {
                     "Active": false,
-                    "FloatValue": 0,
-                    "MaxValue": 0
+                    "FloatValue": 0.0,
+                    "MaxValue": 0.0
                 }
             },
             "RequiredReceivingLiquidContent": {
@@ -3771,8 +3771,8 @@
                     "m_PathID": 0
                 },
                 "RequiredQuantity": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
             "RequiredStatValues": [],

@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "区域电力",
-        "LocalizationKey": "COD_Gs_Civilization_ElectricalPower_GameName",
+        "LocalizationKey": "Cod_Gs_Civilization_ElectricalPower_GameName",
         "ParentObjectID": "8c0307ba48384f81b62276a5c8dc8c7e"
     },
     "InvertedDirection": false,
@@ -66,7 +66,7 @@
     },
     "NotEnoughText": {
         "DefaultText": "地区没有足够的电力。",
-        "LocalizationKey": "COD_Gs_Civilization_ElectricalPower_NotEnoughText",
+        "LocalizationKey": "Cod_Gs_Civilization_ElectricalPower_NotEnoughText",
         "ParentObjectID": "8c0307ba48384f81b62276a5c8dc8c7e"
     },
     "NoveltyCooldownDuration": 0,

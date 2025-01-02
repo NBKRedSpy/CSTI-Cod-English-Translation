@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Npc_FatGeorge_PresenceCount",
-        "LocalizationKey": "COD_Gs_FatGeorge_PresenceCount_GameName",
+        "LocalizationKey": "Cod_Gs_Npc_FatGeorge_PresenceCount_GameName",
         "ParentObjectID": "a15881f78dd24b92b19063a673144caf"
     },
     "InvertedDirection": false,
@@ -65,8 +65,8 @@
         "m_PathID": 0
     },
     "NotEnoughText": {
-        "DefaultText": "\u80a5\u4e54\u4e0d\u5728\u573a\u666f\u4e2d\u3002",
-        "LocalizationKey": "COD_Gs_FatGeorge_PresenceCount_NotEnoughText",
+        "DefaultText": "肥乔不在场景中。",
+        "LocalizationKey": "Cod_Gs_Npc_FatGeorge_PresenceCount_NotEnoughText",
         "ParentObjectID": "a15881f78dd24b92b19063a673144caf"
     },
     "NoveltyCooldownDuration": 0,

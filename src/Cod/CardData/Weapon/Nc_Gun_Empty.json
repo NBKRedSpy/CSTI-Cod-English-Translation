@@ -92,7 +92,7 @@
     "CardBackgroundWarpType": 3,
     "CardDescription": {
         "DefaultText": "A deadweight now, it no longer has any ammo.",
-        "LocalizationKey": "COD_Nc_Gun_Empty_CardDescription",
+        "LocalizationKey": "Cod_Nc_Gun_Empty_CardDescription",
         "ParentObjectID": "85197cd59b864549b3c97ee93c6b9cbd"
     },
     "CardImage": {
@@ -120,8 +120,8 @@
                 }
             },
             "ActionName": {
-                "DefaultText": "\u586b\u88c5",
-                "LocalizationKey": "COD_Nc_Gun_Empty_TakeMeat[0].ActionName",
+                "DefaultText": "填装",
+                "LocalizationKey": "Cod_Nc_Gun_Empty_CardInteractions[0].ActionName",
                 "ParentObjectID": "85197cd59b864549b3c97ee93c6b9cbd"
             },
             "ActionSounds": [],
@@ -453,8 +453,8 @@
         }
     ],
     "CardName": {
-        "DefaultText": "\u7a7a\u7684\u624b\u67aa",
-        "LocalizationKey": "COD_Nc_Gun_Empty_CardName",
+        "DefaultText": "空的手枪",
+        "LocalizationKey": "Cod_Nc_Gun_Empty_CardName",
         "ParentObjectID": "85197cd59b864549b3c97ee93c6b9cbd"
     },
     "CardTags": [],
@@ -3864,7 +3864,7 @@
             },
             "ActionName": {
                 "DefaultText": "Out of ammo",
-                "LocalizationKey": "COD_Nc_Gun_Empty_UsageDurability.OnZero.ActionName",
+                "LocalizationKey": "Cod_Nc_Gun_Empty_UsageDurability.OnZero.ActionName",
                 "ParentObjectID": "85197cd59b864549b3c97ee93c6b9cbd"
             },
             "ActionSounds": [],

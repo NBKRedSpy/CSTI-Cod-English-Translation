@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "猩红色的唾液在眼前飞溅，震耳的尖啸遍及所有视野！",
-        "LocalizationKey": "COD_Event_ScreamingZombies_AttackFail_ScreamingSuccess_CardDescription",
+        "LocalizationKey": "Cod_Event_ScreamingZombies_AttackFail_ScreamingSuccess_CardDescription",
         "ParentObjectID": "da4bc7c785774ecd9165d4053230554b"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "进攻",
-        "LocalizationKey": "COD_Event_ScreamingZombies_AttackFail_ScreamingSuccess_CardName",
+        "LocalizationKey": "Cod_Event_ScreamingZombies_AttackFail_ScreamingSuccess_CardName",
         "ParentObjectID": "da4bc7c785774ecd9165d4053230554b"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_ScreamingZombies_AttackFail_ScreamingSuccess_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_ScreamingZombies_AttackFail_ScreamingSuccess_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "da4bc7c785774ecd9165d4053230554b"
                 }
             },
             "ActionName": {
                 "DefaultText": "捂住耳朵",
-                "LocalizationKey": "COD_Event_ScreamingZombies_AttackFail_ScreamingSuccess_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_ScreamingZombies_AttackFail_ScreamingSuccess_DismantleActions[0].ActionName",
                 "ParentObjectID": "da4bc7c785774ecd9165d4053230554b"
             },
             "ActionSounds": [],
@@ -1300,13 +1300,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_ScreamingZombies_AttackFail_ScreamingSuccess_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_ScreamingZombies_AttackFail_ScreamingSuccess_DismantleActions[1].ActionLog.LogText",
                     "ParentObjectID": "da4bc7c785774ecd9165d4053230554b"
                 }
             },
             "ActionName": {
                 "DefaultText": "捂住耳朵",
-                "LocalizationKey": "COD_Event_ScreamingZombies_AttackFail_ScreamingSuccess_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_ScreamingZombies_AttackFail_ScreamingSuccess_DismantleActions[1].ActionName",
                 "ParentObjectID": "da4bc7c785774ecd9165d4053230554b"
             },
             "ActionSounds": [],

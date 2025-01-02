@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_BloodHeart_PresenceCount_ModernStreet",
-        "LocalizationKey": "COD_Gs_BloodHeart_PresenceCount_ModernStreet__GameName",
+        "LocalizationKey": "Cod_Gs_BloodHeart_PresenceCount_ModernStreet__GameName",
         "ParentObjectID": "cde18fe304dd4a429e4ff403338f9ff0"
     },
     "InvertedDirection": false,

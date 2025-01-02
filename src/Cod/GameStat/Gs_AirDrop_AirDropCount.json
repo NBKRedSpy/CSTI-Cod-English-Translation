@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_AirDrop_AirDropCount",
-        "LocalizationKey": "COD_Gs_AirDrop_AirDropCount_GameName",
+        "LocalizationKey": "Cod_Gs_AirDrop_AirDropCount_GameName",
         "ParentObjectID": "2a5231b24027410886bd71b283a50481"
     },
     "InvertedDirection": false,

@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Noise_GiantBusterZombie_AttackCount",
-        "LocalizationKey": "COD_Gs_Noise_GiantBusterZombie_AttackCount_GameName",
+        "LocalizationKey": "Cod_Gs_Noise_GiantBusterZombie_AttackCount_GameName",
         "ParentObjectID": "ca6acdb56b9d4c2d8edc9cd86ce7b154"
     },
     "InvertedDirection": false,

@@ -1,6 +1,10 @@
 {
     "StatusesWarpData": [
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -40,11 +44,15 @@
                 "TicksToRegister": 0
             },
             "ValueRange": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -84,11 +92,15 @@
                 "TicksToRegister": 0
             },
             "ValueRange": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -128,11 +140,15 @@
                 "TicksToRegister": 0
             },
             "ValueRange": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -160,8 +176,8 @@
                     "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -179,8 +195,8 @@
                     "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
@@ -213,11 +229,15 @@
                 "TicksToRegister": 0
             },
             "ValueRange": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -245,8 +265,8 @@
                     "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -264,8 +284,8 @@
                     "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
@@ -298,11 +318,15 @@
                 "TicksToRegister": 0
             },
             "ValueRange": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -330,8 +354,8 @@
                     "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -349,8 +373,8 @@
                     "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
@@ -383,11 +407,15 @@
                 "TicksToRegister": 0
             },
             "ValueRange": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -415,8 +443,8 @@
                     "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -434,8 +462,8 @@
                     "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
@@ -468,8 +496,8 @@
                 "TicksToRegister": 0
             },
             "ValueRange": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             }
         }
     ],

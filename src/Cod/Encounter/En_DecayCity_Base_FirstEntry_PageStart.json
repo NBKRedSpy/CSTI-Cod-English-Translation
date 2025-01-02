@@ -32,7 +32,7 @@
     },
     "EncounterTitle": {
         "DefaultText": "探索",
-        "LocalizationKey": "Cod_En_DecayCity_Base_FirstEntry_Start_EncounterTitle",
+        "LocalizationKey": "Cod_En_DecayCity_Base_FirstEntry_PageStart_EncounterTitle",
         "ParentObjectID": "ea13f5d9b7b943f88cc7c7bc0e06dcb9"
     },
     "EnemyActions": [],
@@ -82,7 +82,7 @@
     },
     "EnemyName": {
         "DefaultText": "探索",
-        "LocalizationKey": "Cod_En_DecayCity_Base_FirstEntry_Start_EnemyName",
+        "LocalizationKey": "Cod_En_DecayCity_Base_FirstEntry_PageStart_EnemyName",
         "ParentObjectID": "ea13f5d9b7b943f88cc7c7bc0e06dcb9"
     },
     "EnemySize": {

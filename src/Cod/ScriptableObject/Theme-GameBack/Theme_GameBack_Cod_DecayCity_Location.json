@@ -1,0 +1,41 @@
+{
+    "BaseSet": {
+        "ImageName": "Theme_Cod_DecayCity_Location",
+        "Priority": 880
+    },
+    "BookmarkLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "BookmarkRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "Card": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CardWarpData": "27dd04deb3bf41dbae08684c75a1adb4",
+    "CardWarpType": 3,
+    "ConditionSets": [],
+    "EnvSet": {
+        "ImageName": "Theme_Cod_DecayCity_Base",
+        "Priority": 880
+    },
+    "ExpSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "HandSet": {
+        "ImageName": "Theme_Cod_DecayCity_Base",
+        "Priority": 880
+    }
+}

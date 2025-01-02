@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Noise_NoiseGeneratingBehaviorCount",
-        "LocalizationKey": "COD_Gs_Ruins_NoiseGeneratingBehaviorCount_GameName",
+        "LocalizationKey": "Cod_Gs_Noise_NoiseGeneratingBehaviorCount_GameName",
         "ParentObjectID": "881bdc680b5b4071828eb0800341863e"
     },
     "InvertedDirection": false,
@@ -71,6 +71,13 @@
     },
     "NoveltyCooldownDuration": 0,
     "OverrideFeedbackPrefab": {
+        "AnimationsToReset": "",
+        "Delay": 0.0,
+        "DestroyAfterPlaying": false,
+        "Duration": 0.0,
+        "Icon": "",
+        "ResetOnPlay": false,
+        "YieldWaitDuration": 0.0,
         "m_FileID": 0,
         "m_PathID": 0
     },

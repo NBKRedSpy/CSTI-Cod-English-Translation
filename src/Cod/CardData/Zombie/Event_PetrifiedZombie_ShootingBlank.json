@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "我失手了！",
-        "LocalizationKey": "COD_Event_PetrifiedZombie_ShootingBlank_CardDescription",
+        "LocalizationKey": "Cod_Event_PetrifiedZombie_ShootingBlank_CardDescription",
         "ParentObjectID": "fe946d62d00e40ad83b3ee7568981fc5"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "进攻",
-        "LocalizationKey": "COD_Event_PetrifiedZombie_ShootingBlank_CardName",
+        "LocalizationKey": "Cod_Event_PetrifiedZombie_ShootingBlank_CardName",
         "ParentObjectID": "fe946d62d00e40ad83b3ee7568981fc5"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_PetrifiedZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_PetrifiedZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "fe946d62d00e40ad83b3ee7568981fc5"
                 }
             },
             "ActionName": {
                 "DefaultText": "继续",
-                "LocalizationKey": "COD_Event_PetrifiedZombie_ShootingBlank_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_PetrifiedZombie_ShootingBlank_DismantleActions[0].ActionName",
                 "ParentObjectID": "fe946d62d00e40ad83b3ee7568981fc5"
             },
             "ActionSounds": [],

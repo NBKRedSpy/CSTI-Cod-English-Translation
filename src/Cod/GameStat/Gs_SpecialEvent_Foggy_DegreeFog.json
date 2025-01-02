@@ -1,441 +1,468 @@
 {
-  "BarColor": {
-    "a": 0.0,
-    "b": 0.0,
-    "g": 0.0,
-    "r": 0.0
-  },
-  "BarHighlightColor": {
-    "a": 0.0,
-    "b": 0.0,
-    "g": 0.0,
-    "r": 0.0
-  },
-  "BaseRatePerTick": 0.0,
-  "BaseValue": 0.0,
-  "CannotBeInspected": false,
-  "DefaultStatusDescription": {
-    "DefaultText": "",
-    "LocalizationKey": "",
-    "ParentObjectID": ""
-  },
-  "DefaultStatusIcon": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "DefaultStatusName": {
-    "DefaultText": "",
-    "LocalizationKey": "",
-    "ParentObjectID": ""
-  },
-  "Description": {
-    "DefaultText": "地区的迷雾程度。",
-    "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DegreeFog_Description",
-    "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
-  },
-  "FeedbackInfo": {
-    "Icon": {
-      "m_FileID": 0,
-      "m_PathID": 0
+    "BarColor": {
+        "a": 0.0,
+        "b": 0.0,
+        "g": 0.0,
+        "r": 0.0
     },
-    "IconWarpData": "Gs_SpecialEvent_Foggy_DegreeFog",
-    "IconWarpType": 3,
-    "Inverted": false,
-    "NegativeIcon": {
-      "m_FileID": 0,
-      "m_PathID": 0
+    "BarHighlightColor": {
+        "a": 0.0,
+        "b": 0.0,
+        "g": 0.0,
+        "r": 0.0
     },
-    "StepValue": 10.0
-  },
-  "GameName": {
-    "DefaultText": "迷雾",
-    "LocalizationKey": "T-0d8shGhp00B2LqNaJrFa8N/gjWE=",
-    "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
-  },
-  "InvertedDirection": false,
-  "MaxStalenessStack": 0,
-  "MinMaxRate": {
-    "x": 0.0,
-    "y": 0.0
-  },
-  "MinMaxValue": {
-    "x": 0.0,
-    "y": 10.0
-  },
-  "NotEnoughIcon": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "NotEnoughText": {
-    "DefaultText": "",
-    "LocalizationKey": "",
-    "ParentObjectID": ""
-  },
-  "NoveltyCooldownDuration": 0,
-  "OverrideFeedbackPrefab": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "RequiredPerks": [],
-  "ShowActionEffects": false,
-  "StalenessMultiplier": 0.0,
-  "StatPriority": 0,
-  "StatusDebugMode": false,
-  "Statuses": [
-    {
-      "ActionsMaxTicks": 0,
-      "AlertLevel": 0,
-      "AlertSounds": [],
-      "ConfidenceModifier": 0.0,
-      "Description": {
+    "BaseRatePerTick": 0.0,
+    "BaseValue": 0.0,
+    "CannotBeInspected": false,
+    "DefaultStatusDescription": {
         "DefaultText": "",
         "LocalizationKey": "",
         "ParentObjectID": ""
-      },
-      "EffectsOnActions": [],
-      "EffectsOnStats": [
-        {
-          "ApplyEachTick": false,
-          "InstantModifier": false,
-          "IsInverse": false,
-          "RateModifier": {
-            "x": 0.0,
-            "y": 0.0
-          },
-          "Stat": {
-            "m_FileID": 0,
-            "m_PathID": 0
-          },
-          "StatWarpData": "3b0111c81c634e7aad367512c6e2ea5d",
-          "StatWarpType": 3,
-          "ValueModifier": {
-            "x": -2.0,
-            "y": -2.0
-          }
-        }
-      ],
-      "GameName": {
-        "DefaultText": "迷雾弥漫",
-        "LocalizationKey": "T-ydOn8+3LV/pGavUX43BTyYvy59I=",
-        "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
-      },
-      "GameOver": false,
-      "Icon": {
+    },
+    "DefaultStatusIcon": {
         "m_FileID": 0,
         "m_PathID": 0
-      },
-      "NotifyPlayer": 0,
-      "PreventingActionMessage": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-      },
-      "RepeatAlertSounds": 0,
-      "RepeatTextNotification": 0,
-      "StatusLog": {
-        "Category": {
-          "m_FileID": 0,
-          "m_PathID": 0
-        },
-        "LogText": {
-          "DefaultText": "",
-          "LocalizationKey": "",
-          "ParentObjectID": ""
-        },
-        "TicksToRegister": 0
-      },
-      "ValueRange": {
-        "x": 1,
-        "y": 2
-      }
     },
-    {
-      "ActionsMaxTicks": 0,
-      "AlertLevel": 0,
-      "AlertSounds": [],
-      "ConfidenceModifier": 0.0,
-      "Description": {
+    "DefaultStatusName": {
         "DefaultText": "",
         "LocalizationKey": "",
         "ParentObjectID": ""
-      },
-      "EffectsOnActions": [],
-      "EffectsOnStats": [
-        {
-          "ApplyEachTick": false,
-          "InstantModifier": false,
-          "IsInverse": false,
-          "RateModifier": {
-            "x": 0.0,
-            "y": 0.0
-          },
-          "Stat": {
+    },
+    "Description": {
+        "DefaultText": "地区的迷雾程度。",
+        "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DegreeFog_Description",
+        "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
+    },
+    "FeedbackInfo": {
+        "Icon": {
             "m_FileID": 0,
             "m_PathID": 0
-          },
-          "StatWarpData": "3b0111c81c634e7aad367512c6e2ea5d",
-          "StatWarpType": 3,
-          "ValueModifier": {
-            "x": -4.0,
-            "y": -4.0
-          }
-        }
-      ],
-      "GameName": {
-        "DefaultText": "迷雾弥漫",
-        "LocalizationKey": "T-ydOn8+3LV/pGavUX43BTyYvy59I=",
-        "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
-      },
-      "GameOver": false,
-      "Icon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      },
-      "NotifyPlayer": 0,
-      "PreventingActionMessage": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-      },
-      "RepeatAlertSounds": 0,
-      "RepeatTextNotification": 0,
-      "StatusLog": {
-        "Category": {
-          "m_FileID": 0,
-          "m_PathID": 0
         },
-        "LogText": {
-          "DefaultText": "",
-          "LocalizationKey": "",
-          "ParentObjectID": ""
-        },
-        "TicksToRegister": 0
-      },
-      "ValueRange": {
-        "x": 3,
-        "y": 4
-      }
-    },
-    {
-      "ActionsMaxTicks": 0,
-      "AlertLevel": 0,
-      "AlertSounds": [],
-      "ConfidenceModifier": 0.0,
-      "Description": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-      },
-      "EffectsOnActions": [],
-      "EffectsOnStats": [
-        {
-          "ApplyEachTick": false,
-          "InstantModifier": false,
-          "IsInverse": false,
-          "RateModifier": {
-            "x": 0.0,
-            "y": 0.0
-          },
-          "Stat": {
+        "IconWarpData": "Gs_SpecialEvent_Foggy_DegreeFog",
+        "IconWarpType": 3,
+        "Inverted": false,
+        "NegativeIcon": {
             "m_FileID": 0,
             "m_PathID": 0
-          },
-          "StatWarpData": "3b0111c81c634e7aad367512c6e2ea5d",
-          "StatWarpType": 3,
-          "ValueModifier": {
-            "x": -6.0,
-            "y": -6.0
-          }
-        }
-      ],
-      "GameName": {
-        "DefaultText": "迷雾弥漫",
-        "LocalizationKey": "T-ydOn8+3LV/pGavUX43BTyYvy59I=",
-        "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
-      },
-      "GameOver": false,
-      "Icon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      },
-      "NotifyPlayer": 0,
-      "PreventingActionMessage": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-      },
-      "RepeatAlertSounds": 0,
-      "RepeatTextNotification": 0,
-      "StatusLog": {
-        "Category": {
-          "m_FileID": 0,
-          "m_PathID": 0
         },
-        "LogText": {
-          "DefaultText": "",
-          "LocalizationKey": "",
-          "ParentObjectID": ""
-        },
-        "TicksToRegister": 0
-      },
-      "ValueRange": {
-        "x": 5,
-        "y": 6
-      }
+        "StepValue": 10.0
     },
-    {
-      "ActionsMaxTicks": 0,
-      "AlertLevel": 0,
-      "AlertSounds": [],
-      "ConfidenceModifier": 0.0,
-      "Description": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-      },
-      "EffectsOnActions": [],
-      "EffectsOnStats": [
-        {
-          "ApplyEachTick": false,
-          "InstantModifier": false,
-          "IsInverse": false,
-          "RateModifier": {
-            "x": 0.0,
-            "y": 0.0
-          },
-          "Stat": {
-            "m_FileID": 0,
-            "m_PathID": 0
-          },
-          "StatWarpData": "3b0111c81c634e7aad367512c6e2ea5d",
-          "StatWarpType": 3,
-          "ValueModifier": {
-            "x": -8.0,
-            "y": -8.0
-          }
-        }
-      ],
-      "GameName": {
-        "DefaultText": "迷雾弥漫",
-        "LocalizationKey": "T-ydOn8+3LV/pGavUX43BTyYvy59I=",
+    "GameName": {
+        "DefaultText": "迷雾",
+        "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DegreeFog_GameName",
         "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
-      },
-      "GameOver": false,
-      "Icon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      },
-      "NotifyPlayer": 0,
-      "PreventingActionMessage": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-      },
-      "RepeatAlertSounds": 0,
-      "RepeatTextNotification": 0,
-      "StatusLog": {
-        "Category": {
-          "m_FileID": 0,
-          "m_PathID": 0
-        },
-        "LogText": {
-          "DefaultText": "",
-          "LocalizationKey": "",
-          "ParentObjectID": ""
-        },
-        "TicksToRegister": 0
-      },
-      "ValueRange": {
-        "x": 7,
-        "y": 8
-      }
     },
-    {
-      "ActionsMaxTicks": 0,
-      "AlertLevel": 0,
-      "AlertSounds": [],
-      "ConfidenceModifier": 0.0,
-      "Description": {
-        "DefaultText": "",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-      },
-      "EffectsOnActions": [],
-      "EffectsOnStats": [
-        {
-          "ApplyEachTick": false,
-          "InstantModifier": false,
-          "IsInverse": false,
-          "RateModifier": {
-            "x": 0.0,
-            "y": 0.0
-          },
-          "Stat": {
-            "m_FileID": 0,
-            "m_PathID": 0
-          },
-          "StatWarpData": "3b0111c81c634e7aad367512c6e2ea5d",
-          "StatWarpType": 3,
-          "ValueModifier": {
-            "x": -10.0,
-            "y": -10.0
-          }
-        }
-      ],
-      "GameName": {
-        "DefaultText": "迷雾弥漫",
-        "LocalizationKey": "T-ydOn8+3LV/pGavUX43BTyYvy59I=",
-        "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
-      },
-      "GameOver": false,
-      "Icon": {
+    "InvertedDirection": false,
+    "MaxStalenessStack": 0,
+    "MinMaxRate": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "MinMaxValue": {
+        "x": 0.0,
+        "y": 10.0
+    },
+    "NotEnoughIcon": {
         "m_FileID": 0,
         "m_PathID": 0
-      },
-      "NotifyPlayer": 0,
-      "PreventingActionMessage": {
+    },
+    "NotEnoughText": {
         "DefaultText": "",
         "LocalizationKey": "",
         "ParentObjectID": ""
-      },
-      "RepeatAlertSounds": 0,
-      "RepeatTextNotification": 0,
-      "StatusLog": {
-        "Category": {
-          "m_FileID": 0,
-          "m_PathID": 0
+    },
+    "NoveltyCooldownDuration": 0,
+    "OverrideFeedbackPrefab": {
+        "AnimationsToReset": "",
+        "Delay": 0.0,
+        "DestroyAfterPlaying": false,
+        "Duration": 0.0,
+        "Icon": "",
+        "ResetOnPlay": false,
+        "YieldWaitDuration": 0.0,
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "RequiredPerks": [],
+    "ShowActionEffects": false,
+    "StalenessMultiplier": 0.0,
+    "StatPriority": 0,
+    "StatusDebugMode": false,
+    "Statuses": [
+        {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3b0111c81c634e7aad367512c6e2ea5d",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": -2.0,
+                        "y": -2.0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "迷雾弥漫",
+                "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DegreeFog_Statuses[0].GameName",
+                "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 1,
+                "y": 2
+            }
         },
-        "LogText": {
-          "DefaultText": "",
-          "LocalizationKey": "",
-          "ParentObjectID": ""
+        {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3b0111c81c634e7aad367512c6e2ea5d",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": -4.0,
+                        "y": -4.0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "迷雾弥漫",
+                "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DegreeFog_Statuses[1].GameName",
+                "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 3,
+                "y": 4
+            }
         },
-        "TicksToRegister": 0
-      },
-      "ValueRange": {
-        "x": 9,
-        "y": 10
-      }
+        {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3b0111c81c634e7aad367512c6e2ea5d",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": -6.0,
+                        "y": -6.0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "迷雾弥漫",
+                "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DegreeFog_Statuses[2].GameName",
+                "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 5,
+                "y": 6
+            }
+        },
+        {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3b0111c81c634e7aad367512c6e2ea5d",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": -8.0,
+                        "y": -8.0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "迷雾弥漫",
+                "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DegreeFog_Statuses[3].GameName",
+                "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 7,
+                "y": 8
+            }
+        },
+        {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3b0111c81c634e7aad367512c6e2ea5d",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": -10.0,
+                        "y": -10.0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "迷雾弥漫",
+                "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DegreeFog_Statuses[4].GameName",
+                "ParentObjectID": "80d5e55c005e4b87a0fe5e2aaa2f5927"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 9,
+                "y": 10
+            }
+        }
+    ],
+    "StatusesHaveNoBar": false,
+    "TimeOfDayMods": [],
+    "TooMuchText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "TrendIndicatorRateRange": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "UniqueID": "80d5e55c005e4b87a0fe5e2aaa2f5927",
+    "UsesNovelty": false,
+    "Visibility": 0,
+    "VisibleGameStatStatListTab": "Skills",
+    "VisibleInDetailedList": false,
+    "VisibleValueRange": {
+        "x": 0.0,
+        "y": 0.0
     }
-  ],
-  "StatusesHaveNoBar": false,
-  "TimeOfDayMods": [],
-  "TooMuchText": {
-    "DefaultText": "",
-    "LocalizationKey": "",
-    "ParentObjectID": ""
-  },
-  "TrendIndicatorRateRange": {
-    "x": 0.0,
-    "y": 0.0
-  },
-  "UniqueID": "80d5e55c005e4b87a0fe5e2aaa2f5927",
-  "UsesNovelty": false,
-  "Visibility": 0,
-  "VisibleGameStatStatListTab": "Skills",
-  "VisibleInDetailedList": false,
-  "VisibleValueRange": {
-    "x": 0.0,
-    "y": 0.0
-  }
 }

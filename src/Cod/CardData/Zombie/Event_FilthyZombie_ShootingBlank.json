@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "弹药从其臃肿的肚子旁划过。",
-        "LocalizationKey": "COD_Event_FilthyZombie_ShootingBlank_CardDescription",
+        "LocalizationKey": "Cod_Event_FilthyZombie_ShootingBlank_CardDescription",
         "ParentObjectID": "fd93e4c1c8e949f4a4b59cca1d33d414"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "失手",
-        "LocalizationKey": "COD_Event_FilthyZombie_ShootingBlank_CardName",
+        "LocalizationKey": "Cod_Event_FilthyZombie_ShootingBlank_CardName",
         "ParentObjectID": "fd93e4c1c8e949f4a4b59cca1d33d414"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_FilthyZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_FilthyZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "fd93e4c1c8e949f4a4b59cca1d33d414"
                 }
             },
             "ActionName": {
                 "DefaultText": "继续",
-                "LocalizationKey": "COD_Event_FilthyZombie_ShootingBlank_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_FilthyZombie_ShootingBlank_DismantleActions[0].ActionName",
                 "ParentObjectID": "fd93e4c1c8e949f4a4b59cca1d33d414"
             },
             "ActionSounds": [],

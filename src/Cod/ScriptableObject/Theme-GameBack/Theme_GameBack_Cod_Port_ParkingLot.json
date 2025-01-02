@@ -1,0 +1,41 @@
+{
+    "BaseSet": {
+        "ImageName": "Cod_Port_ParkingLot_Base",
+        "Priority": 880
+    },
+    "BookmarkLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "BookmarkRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "Card": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CardWarpData": "5bc98dec35b044f49fbbb86ce30b5e41",
+    "CardWarpType": 3,
+    "ConditionSets": [],
+    "EnvSet": {
+        "ImageName": "Cod_Port_ParkingLot_Location",
+        "Priority": 880
+    },
+    "ExpSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "HandSet": {
+        "ImageName": "Cod_Port_ParkingLot_Location",
+        "Priority": 880
+    }
+}

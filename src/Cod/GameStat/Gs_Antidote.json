@@ -30,7 +30,7 @@
     },
     "Description": {
         "DefaultText": "身体上绿色的纹路渐渐褪去..",
-        "LocalizationKey": "COD_Gs_Antidote_Description",
+        "LocalizationKey": "Cod_Gs_Antidote_Description",
         "ParentObjectID": "c7ccf0e355a94481a70abb4711f3c938"
     },
     "FeedbackInfo": {
@@ -49,7 +49,7 @@
     },
     "GameName": {
         "DefaultText": "血清",
-        "LocalizationKey": "COD_Gs_Antidote_GameName",
+        "LocalizationKey": "Cod_Gs_Antidote_GameName",
         "ParentObjectID": "c7ccf0e355a94481a70abb4711f3c938"
     },
     "InvertedDirection": false,
@@ -73,6 +73,13 @@
     },
     "NoveltyCooldownDuration": 0,
     "OverrideFeedbackPrefab": {
+        "AnimationsToReset": "",
+        "Delay": 0.0,
+        "DestroyAfterPlaying": false,
+        "Duration": 0.0,
+        "Icon": "",
+        "ResetOnPlay": false,
+        "YieldWaitDuration": 0.0,
         "m_FileID": 0,
         "m_PathID": 0
     },
@@ -83,6 +90,10 @@
     "StatusDebugMode": false,
     "Statuses": [
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -213,8 +224,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -242,14 +253,14 @@
                     "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
             "GameName": {
                 "DefaultText": "解毒",
-                "LocalizationKey": "COD_Gs_Antidote_Statuses[3].GameName",
+                "LocalizationKey": "Cod_Gs_Antidote_Statuses[0].GameName",
                 "ParentObjectID": "c7ccf0e355a94481a70abb4711f3c938"
             },
             "GameOver": false,

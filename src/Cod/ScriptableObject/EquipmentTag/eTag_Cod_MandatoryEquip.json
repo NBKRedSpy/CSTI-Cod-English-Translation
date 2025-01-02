@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "Cod_MandatoryEquip",
+        "LocalizationKey": "eTag_Cod_MandatoryEquip_InGameName",
+        "ParentObjectID": "5078ee1255aeb0f42b821ec918cb7d73"
+    },
+    "MandatoryEquip": false,
+    "MaxEquipped": 8,
+    "NotifyWhenNew": false
+}

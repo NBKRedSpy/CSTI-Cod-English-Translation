@@ -290,7 +290,20 @@
                 }
             },
             "RepeatOptions": 0,
-            "RequiredCardsOnBoard": [],
+            "RequiredCardsOnBoard": [
+                {
+                    "ExcludeInventories": false,
+                    "Inverted": true,
+                    "NotInHand": false,
+                    "OnlyInHand": false,
+                    "TriggerCard": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "TriggerCardWarpData": "0de7d87ca2244f4db93816c0c5d597ff",
+                    "TriggerCardWarpType": 3
+                }
+            ],
             "RequiredReceivingContainer": [],
             "RequiredReceivingContainerTag": [],
             "RequiredReceivingDurabilities": {
@@ -378,20 +391,6 @@
                     "TriggerRange": {
                         "x": 1.0,
                         "y": 1.0
-                    }
-                },
-                {
-                    "HideAllWhenNotMet": false,
-                    "NotifyWhenNotMet": false,
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "97c6bb02e2a94c0d8a45d4b9b5719132",
-                    "StatWarpType": 3,
-                    "TriggerRange": {
-                        "x": 192.0,
-                        "y": 192.0
                     }
                 }
             ],

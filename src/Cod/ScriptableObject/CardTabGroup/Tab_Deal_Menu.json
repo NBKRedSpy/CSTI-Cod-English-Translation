@@ -1,30 +1,30 @@
 {
-  "AssociatedEntry": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "IncludedCards": [],
-  "IncludedCardsWarpData": [
-    "cc03b0e4ae5641279afdd624add80937",
-    "30076d72b03f4877b92942fd85e83d92",
-    "ab13dc98c83049aab9d73ccbd3c1aeae",
-    "63c626b9349e4aea899f54e331d996b1",
-    "f0c5b92614164b279f22276fc12befac",
-    "bf9a26f8a9e049b58f82417b846d02ba",
-    "44fe0df826e746c1996b4eafe1619a2d"
-  ],
-  "IncludedCardsWarpType": 3,
-  "ShopSortingList": [],
-  "SubGroups": [],
-  "TabIcon": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "TabIconWarpData": "al_icon_Meun",
-  "TabIconWarpType": 3,
-  "TabName": {
-    "DefaultText": "点菜",
-    "LocalizationKey": "T-ilXjWLtmMoZDhjKJdJOge4hGWA0=",
-    "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
-  }
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "cc03b0e4ae5641279afdd624add80937",
+        "30076d72b03f4877b92942fd85e83d92",
+        "ab13dc98c83049aab9d73ccbd3c1aeae",
+        "63c626b9349e4aea899f54e331d996b1",
+        "f0c5b92614164b279f22276fc12befac",
+        "bf9a26f8a9e049b58f82417b846d02ba",
+        "44fe0df826e746c1996b4eafe1619a2d"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabIconWarpData": "al_icon_Meun",
+    "TabIconWarpType": 3,
+    "TabName": {
+        "DefaultText": "点菜",
+        "LocalizationKey": "Cod_Tab_Deal_Menu_TabName",
+        "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
+    }
 }

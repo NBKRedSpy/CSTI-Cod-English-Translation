@@ -1,0 +1,9 @@
+{
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "CardTag_Decomposable",
+        "LocalizationKey": "CardTag_Decomposable_InGameName",
+        "ParentObjectID": "a8992ee828b224649b7b73ac91605d6b"
+    },
+    "UniqueOnBoard": false
+}

@@ -91,8 +91,8 @@
     "CardBackgroundWarpData": "BG_SandTop",
     "CardBackgroundWarpType": 3,
     "CardDescription": {
-        "DefaultText": "\u4f24\u53e3\u5468\u8fb9\u5f00\u59cb\u53d1\u7eff..",
-        "LocalizationKey": "COD_W_ZombieBites_CardDescription",
+        "DefaultText": "伤口周边开始发绿..",
+        "LocalizationKey": "Cod_W_ZombieBites_CardDescription",
         "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
     },
     "CardImage": {
@@ -121,7 +121,7 @@
             },
             "ActionName": {
                 "DefaultText": "Clean (seawater)",
-                "LocalizationKey": "COD_W_ZombieBites_CardInteractions[0].ActionName",
+                "LocalizationKey": "Cod_W_ZombieBites_CardInteractions[0].ActionName",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "ActionSounds": [],
@@ -489,7 +489,7 @@
             },
             "ActionName": {
                 "DefaultText": "Clean (water)",
-                "LocalizationKey": "COD_W_ZombieBites_CardInteractions[1].ActionName",
+                "LocalizationKey": "Cod_W_ZombieBites_CardInteractions[1].ActionName",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "ActionSounds": [],
@@ -839,7 +839,7 @@
             },
             "ActionName": {
                 "DefaultText": "Clean (honeywater)",
-                "LocalizationKey": "COD_W_ZombieBites_CardInteractions[2].ActionName",
+                "LocalizationKey": "Cod_W_ZombieBites_CardInteractions[2].ActionName",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "ActionSounds": [],
@@ -1204,7 +1204,7 @@
             },
             "ActionName": {
                 "DefaultText": "Clean (lye)",
-                "LocalizationKey": "COD_W_ZombieBites_CardInteractions[3].ActionName",
+                "LocalizationKey": "Cod_W_ZombieBites_CardInteractions[3].ActionName",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "ActionSounds": [],
@@ -1554,7 +1554,7 @@
             },
             "ActionName": {
                 "DefaultText": "Clean (soap)",
-                "LocalizationKey": "COD_W_ZombieBites_CardInteractions[4].ActionName",
+                "LocalizationKey": "Cod_W_ZombieBites_CardInteractions[4].ActionName",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "ActionSounds": [],
@@ -1900,7 +1900,7 @@
             },
             "ActionName": {
                 "DefaultText": "Apply",
-                "LocalizationKey": "COD_W_ZombieBites_CardInteractions[5].ActionName",
+                "LocalizationKey": "Cod_W_ZombieBites_CardInteractions[5].ActionName",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "ActionSounds": [],
@@ -2247,7 +2247,7 @@
             },
             "ActionName": {
                 "DefaultText": "Apply Honey",
-                "LocalizationKey": "COD_W_ZombieBites_CardInteractions[6].ActionName",
+                "LocalizationKey": "Cod_W_ZombieBites_CardInteractions[6].ActionName",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "ActionSounds": [],
@@ -2595,8 +2595,8 @@
         }
     ],
     "CardName": {
-        "DefaultText": "\u50f5\u5c38\u54ac\u4f24",
-        "LocalizationKey": "COD_W_ZombieBites_CardName",
+        "DefaultText": "僵尸咬伤",
+        "LocalizationKey": "Cod_W_ZombieBites_CardName",
         "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
     },
     "CardTags": [],
@@ -2644,7 +2644,7 @@
         {
             "ActionName": {
                 "DefaultText": "Dressing",
-                "LocalizationKey": "COD_W_ZombieBites_CookingRecipes[0].ActionName",
+                "LocalizationKey": "Cod_W_ZombieBites_CookingRecipes[0].ActionName",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "CannotCookText": {
@@ -2778,7 +2778,7 @@
             },
             "CustomCookingText": {
                 "DefaultText": "Protecting Wound",
-                "LocalizationKey": "COD_W_ZombieBites_CookingRecipes[0].CustomCookingText",
+                "LocalizationKey": "Cod_W_ZombieBites_CookingRecipes[0].CustomCookingText",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "CustomNotification": {
@@ -3355,7 +3355,7 @@
     ],
     "InventorySlotsText": {
         "DefaultText": "PLACE DRESSING HERE",
-        "LocalizationKey": "COD_W_ZombieBites_InventorySlotsText",
+        "LocalizationKey": "Cod_W_ZombieBites_InventorySlotsText",
         "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
     },
     "IsDarkPlace": false,
@@ -4747,8 +4747,8 @@
                     "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
@@ -4937,40 +4937,40 @@
                 "RequiredContainerTags": [],
                 "RequiredDurabilityRanges": {
                     "FuelRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "LiquidQuantityRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "ProgressRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special1Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special2Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special3Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special4Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "SpoilageRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "UsageRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 "RequiredEnvironment": {
@@ -4982,7 +4982,7 @@
                 "RequiredStatValues": [],
                 "RequiredTagsInInventory": [],
                 "RequiredTagsInInventoryWarpData": [
-                    "CardTag_Cure_LeveTwo"
+                    "CardTag_Cure_LevelThree"
                 ],
                 "RequiredTagsInInventoryWarpType": 3,
                 "RequiredTagsNOTOnBoard": [],
@@ -4990,7 +4990,7 @@
             },
             "ConsumableChargesModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "EffectName": "Dressing (strong)",
             "EffectStacksWithRequiredCards": false,
@@ -5004,34 +5004,34 @@
                     "m_PathID": 0
                 },
                 "Quantity": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
-            "LiquidRateModifier": 0,
+            "LiquidRateModifier": 0.0,
             "OnBoardEffectCap": 0,
             "OnlyOnBaseActions": false,
             "OnlyWhenEquipped": false,
             "OnlyWhenNotInBG": false,
             "Special1RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special2RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special3RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special4RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "SpoilageRateModifier": {
                 "Active": true,
-                "FloatValue": 2.5
+                "FloatValue": 3.0
             },
             "StatModifiers": [
                 {
@@ -5039,8 +5039,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -5049,8 +5049,8 @@
                     "StatWarpData": "dd5c599cbbb18ea4c96fc64374147a3c",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 2,
-                        "y": 2
+                        "x": 2.0,
+                        "y": 2.0
                     }
                 },
                 {
@@ -5058,8 +5058,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -5075,9 +5075,9 @@
             ],
             "UsageRateModifier": {
                 "Active": false,
-                "FloatValue": 1
+                "FloatValue": 1.0
             },
-            "WeightCapacityModifier": 0
+            "WeightCapacityModifier": 0.0
         },
         {
             "Conditions": {
@@ -5091,40 +5091,194 @@
                 "RequiredContainerTags": [],
                 "RequiredDurabilityRanges": {
                     "FuelRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "LiquidQuantityRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "ProgressRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special1Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special2Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special3Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Special4Range": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "SpoilageRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "UsageRange": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                "RequiredEnvironment": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "RequiredEnvironmentTags": [],
+                "RequiredLiquidContainers": [],
+                "RequiredStatValues": [],
+                "RequiredTagsInInventory": [],
+                "RequiredTagsInInventoryWarpData": [
+                    "CardTag_Cure_LevelTwo"
+                ],
+                "RequiredTagsInInventoryWarpType": 3,
+                "RequiredTagsNOTOnBoard": [],
+                "RequiredTagsOnBoard": []
+            },
+            "ConsumableChargesModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "EffectName": "Dressing (strong)",
+            "EffectStacksWithRequiredCards": false,
+            "FuelRateModifier": {
+                "Active": true,
+                "FloatValue": -1.0
+            },
+            "GeneratedLiquid": {
+                "LiquidCard": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "Quantity": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            },
+            "LiquidRateModifier": 0.0,
+            "OnBoardEffectCap": 0,
+            "OnlyOnBaseActions": false,
+            "OnlyWhenEquipped": false,
+            "OnlyWhenNotInBG": false,
+            "Special1RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "Special2RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "Special3RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "Special4RateModifier": {
+                "Active": false,
+                "FloatValue": 0.0
+            },
+            "SpoilageRateModifier": {
+                "Active": true,
+                "FloatValue": 2.5
+            },
+            "StatModifiers": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "dd5c599cbbb18ea4c96fc64374147a3c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 2.0,
+                        "y": 2.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "7f4598bd0e82e7b499da3848e452c39f",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": -6.0,
+                        "y": -6.0
+                    }
+                }
+            ],
+            "UsageRateModifier": {
+                "Active": false,
+                "FloatValue": 1.0
+            },
+            "WeightCapacityModifier": 0.0
+        },
+        {
+            "Conditions": {
+                "NotInBackground": false,
+                "RequiredCardsInInventory": [],
+                "RequiredCardsInInventoryWarpData": [],
+                "RequiredCardsInInventoryWarpType": 3,
+                "RequiredCardsNOTOnBoard": [],
+                "RequiredCardsOnBoard": [],
+                "RequiredContainer": [],
+                "RequiredContainerTags": [],
+                "RequiredDurabilityRanges": {
+                    "FuelRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "LiquidQuantityRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "ProgressRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special1Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special2Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special3Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "Special4Range": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "SpoilageRange": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "UsageRange": {
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 "RequiredEnvironment": {
@@ -5144,7 +5298,7 @@
             },
             "ConsumableChargesModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "EffectName": "Dressing (strong)",
             "EffectStacksWithRequiredCards": false,
@@ -5158,30 +5312,30 @@
                     "m_PathID": 0
                 },
                 "Quantity": {
-                    "x": 0,
-                    "y": 0
+                    "x": 0.0,
+                    "y": 0.0
                 }
             },
-            "LiquidRateModifier": 0,
+            "LiquidRateModifier": 0.0,
             "OnBoardEffectCap": 0,
             "OnlyOnBaseActions": false,
             "OnlyWhenEquipped": false,
             "OnlyWhenNotInBG": false,
             "Special1RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special2RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special3RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "Special4RateModifier": {
                 "Active": false,
-                "FloatValue": 0
+                "FloatValue": 0.0
             },
             "SpoilageRateModifier": {
                 "Active": true,
@@ -5193,8 +5347,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -5203,8 +5357,8 @@
                     "StatWarpData": "dd5c599cbbb18ea4c96fc64374147a3c",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 2,
-                        "y": 2
+                        "x": 2.0,
+                        "y": 2.0
                     }
                 },
                 {
@@ -5212,8 +5366,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -5229,163 +5383,9 @@
             ],
             "UsageRateModifier": {
                 "Active": false,
-                "FloatValue": 1
+                "FloatValue": 1.0
             },
-            "WeightCapacityModifier": 0
-        },
-        {
-            "Conditions": {
-                "NotInBackground": false,
-                "RequiredCardsInInventory": [],
-                "RequiredCardsInInventoryWarpData": [],
-                "RequiredCardsInInventoryWarpType": 3,
-                "RequiredCardsNOTOnBoard": [],
-                "RequiredCardsOnBoard": [],
-                "RequiredContainer": [],
-                "RequiredContainerTags": [],
-                "RequiredDurabilityRanges": {
-                    "FuelRange": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "LiquidQuantityRange": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "ProgressRange": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "Special1Range": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "Special2Range": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "Special3Range": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "Special4Range": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "SpoilageRange": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "UsageRange": {
-                        "x": 0,
-                        "y": 0
-                    }
-                },
-                "RequiredEnvironment": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "RequiredEnvironmentTags": [],
-                "RequiredLiquidContainers": [],
-                "RequiredStatValues": [],
-                "RequiredTagsInInventory": [],
-                "RequiredTagsInInventoryWarpData": [
-                    "CardTag_Cure_LeveThree"
-                ],
-                "RequiredTagsInInventoryWarpType": 3,
-                "RequiredTagsNOTOnBoard": [],
-                "RequiredTagsOnBoard": []
-            },
-            "ConsumableChargesModifier": {
-                "Active": false,
-                "FloatValue": 0
-            },
-            "EffectName": "Dressing (strong)",
-            "EffectStacksWithRequiredCards": false,
-            "FuelRateModifier": {
-                "Active": true,
-                "FloatValue": -1.0
-            },
-            "GeneratedLiquid": {
-                "LiquidCard": {
-                    "m_FileID": 0,
-                    "m_PathID": 0
-                },
-                "Quantity": {
-                    "x": 0,
-                    "y": 0
-                }
-            },
-            "LiquidRateModifier": 0,
-            "OnBoardEffectCap": 0,
-            "OnlyOnBaseActions": false,
-            "OnlyWhenEquipped": false,
-            "OnlyWhenNotInBG": false,
-            "Special1RateModifier": {
-                "Active": false,
-                "FloatValue": 0
-            },
-            "Special2RateModifier": {
-                "Active": false,
-                "FloatValue": 0
-            },
-            "Special3RateModifier": {
-                "Active": false,
-                "FloatValue": 0
-            },
-            "Special4RateModifier": {
-                "Active": false,
-                "FloatValue": 0
-            },
-            "SpoilageRateModifier": {
-                "Active": true,
-                "FloatValue": 3.0
-            },
-            "StatModifiers": [
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "dd5c599cbbb18ea4c96fc64374147a3c",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": 2,
-                        "y": 2
-                    }
-                },
-                {
-                    "ApplyEachTick": false,
-                    "InstantModifier": false,
-                    "IsInverse": false,
-                    "RateModifier": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "Stat": {
-                        "m_FileID": 0,
-                        "m_PathID": 0
-                    },
-                    "StatWarpData": "7f4598bd0e82e7b499da3848e452c39f",
-                    "StatWarpType": 3,
-                    "ValueModifier": {
-                        "x": -6.0,
-                        "y": -6.0
-                    }
-                }
-            ],
-            "UsageRateModifier": {
-                "Active": false,
-                "FloatValue": 1
-            },
-            "WeightCapacityModifier": 0
+            "WeightCapacityModifier": 0.0
         }
     ],
     "PassiveStatEffects": [],
@@ -7557,8 +7557,8 @@
         "MaxValue": 384.0,
         "OnFull": {
             "ActionDescription": {
-                "DefaultText": "\u4f24\u53e3\u6062\u590d\u4e86",
-                "LocalizationKey": "COD_W_ZombieBites_SpoilageTime.OnFull.ActionDescription",
+                "DefaultText": "伤口恢复了",
+                "LocalizationKey": "Cod_W_ZombieBites_SpoilageTime.OnFull.ActionDescription",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "ActionLog": {
@@ -7570,13 +7570,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "My abrasion healed.",
-                    "LocalizationKey": "COD_W_ZombieBites_SpoilageTime.OnFull.ActionLog.LogText",
+                    "LocalizationKey": "Cod_W_ZombieBites_SpoilageTime.OnFull.ActionLog.LogText",
                     "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
                 }
             },
             "ActionName": {
                 "DefaultText": "Abrasion",
-                "LocalizationKey": "COD_W_ZombieBites_SpoilageTime.OnFull.ActionName",
+                "LocalizationKey": "Cod_W_ZombieBites_SpoilageTime.OnFull.ActionName",
                 "ParentObjectID": "e628c5c4c3704a49a5a08f6a6e836c6b"
             },
             "ActionSounds": [],

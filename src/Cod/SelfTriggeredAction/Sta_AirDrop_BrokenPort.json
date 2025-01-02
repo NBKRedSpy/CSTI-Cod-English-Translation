@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_AirDrop_BrokenPort",
-                "LocalizationKey": "COD_Sta_AirDrop_BrokenPort_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_AirDrop_BrokenPort_Actions[0].ActionName",
                 "ParentObjectID": "eed929156c3b478bba9860d12fad7fb2"
             },
             "ActionSounds": [],
@@ -245,8 +245,8 @@
                         },
                         {
                             "RateModifier": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "RequiredCardsOnBoard": [],
                             "Stat": {

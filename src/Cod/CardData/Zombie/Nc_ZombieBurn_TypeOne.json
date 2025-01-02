@@ -110,7 +110,22 @@
             "ParentObjectID": ""
         },
         "ScreenShake": false,
-        "SoundEffects": []
+        "SoundEffects": [],
+        "TextColor": {
+            "Active": false,
+            "ColorValue": {
+                "a": 0.0,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            }
+        },
+        "TextSettings": {
+            "Active": false,
+            "Bold": false,
+            "Italics": false,
+            "Underlined": false
+        }
     },
     "BuildSounds": [],
     "BuildingCardConditions": [],
@@ -130,7 +145,7 @@
     "CardBackgroundWarpType": 3,
     "CardDescription": {
         "DefaultText": "它正在剧烈的燃烧！",
-        "LocalizationKey": "COD_Nc_ZombieBurn_CardDescription",
+        "LocalizationKey": "Cod_Nc_ZombieBurn_TypeOne_CardDescription",
         "ParentObjectID": "001adcecc166427cbbe59d5c8d201d91"
     },
     "CardImage": {
@@ -142,7 +157,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "燃烧僵尸",
-        "LocalizationKey": "COD_Nc_ZombieBurn_CardName",
+        "LocalizationKey": "Cod_Nc_ZombieBurn_TypeOne_CardName",
         "ParentObjectID": "001adcecc166427cbbe59d5c8d201d91"
     },
     "CardTags": [],
@@ -226,6 +241,10 @@
         "m_PathID": 0
     },
     "DismantleActions": [],
+    "DmgVsEscapeBonus": {
+        "x": 0.0,
+        "y": 0.0
+    },
     "DoesNotPile": false,
     "DoesNotPinAutomatically": false,
     "DropFromTrashButton": false,
@@ -451,6 +470,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -655,6 +693,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -984,6 +1041,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -1188,6 +1264,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -1417,6 +1512,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -1497,7 +1611,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -1505,8 +1619,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -1518,8 +1632,8 @@
                             "DroppedCardWarpData": "f9862154b08a4c79b763986aed654273",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -1528,8 +1642,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1540,8 +1654,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1552,8 +1666,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1564,8 +1678,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1576,8 +1690,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1588,8 +1702,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1600,8 +1714,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1612,8 +1726,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1624,36 +1738,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -1668,7 +1782,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -1676,8 +1790,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -1689,8 +1803,8 @@
                             "DroppedCardWarpData": "6d28e13759514030920b0615b429ea01",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -1699,8 +1813,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1711,8 +1825,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1723,8 +1837,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1735,8 +1849,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1747,8 +1861,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1759,8 +1873,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1771,8 +1885,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1783,8 +1897,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1795,36 +1909,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -1839,7 +1953,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -1847,8 +1961,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -1860,8 +1974,8 @@
                             "DroppedCardWarpData": "3748a4a034794ae4a267dd21e48572c2",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -1870,8 +1984,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1882,8 +1996,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1894,8 +2008,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1906,8 +2020,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1918,8 +2032,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1930,8 +2044,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1942,8 +2056,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1954,8 +2068,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1966,36 +2080,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -2135,6 +2249,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -2361,6 +2494,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -2565,6 +2717,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -2791,6 +2962,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -2995,6 +3185,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -3221,6 +3430,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -3425,6 +3653,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -3652,6 +3899,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -3856,6 +4122,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -4093,6 +4378,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -4297,6 +4601,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -4338,7 +4661,22 @@
             "ParentObjectID": ""
         },
         "ScreenShake": false,
-        "SoundEffects": []
+        "SoundEffects": [],
+        "TextColor": {
+            "Active": false,
+            "ColorValue": {
+                "a": 0.0,
+                "b": 0.0,
+                "g": 0.0,
+                "r": 0.0
+            }
+        },
+        "TextSettings": {
+            "Active": false,
+            "Bold": false,
+            "Italics": false,
+            "Underlined": false
+        }
     },
     "WeaponReach": 0.0,
     "WeatherEffects": {

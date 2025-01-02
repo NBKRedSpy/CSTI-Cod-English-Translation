@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_AirDrop_SmallTownCount",
-        "LocalizationKey": "COD_Gs_AirDrop_SmallTownCount_GameName",
+        "LocalizationKey": "Cod_Gs_AirDrop_SmallTownCount_GameName",
         "ParentObjectID": "870eca251d384719875caf168dc4be5b"
     },
     "InvertedDirection": false,

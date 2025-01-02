@@ -1,0 +1,41 @@
+{
+    "BaseSet": {
+        "ImageName": "Cod_Port_ParkingLot_GasStation_Base",
+        "Priority": 880
+    },
+    "BookmarkLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "BookmarkRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "Card": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CardWarpData": "8a3bed07f55b439485f91dcb96d0feb9",
+    "CardWarpType": 3,
+    "ConditionSets": [],
+    "EnvSet": {
+        "ImageName": "Cod_Port_ParkingLot_GasStation_Location",
+        "Priority": 880
+    },
+    "ExpSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "HandSet": {
+        "ImageName": "Cod_Port_ParkingLot_GasStation_Base",
+        "Priority": 880
+    }
+}

@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_SeaKing_ExplorationCount",
-        "LocalizationKey": "COD_Gs_SeaKing_ExplorationCount_GameName",
+        "LocalizationKey": "Cod_Gs_Map_SeaKing_ExplorationCount_GameName",
         "ParentObjectID": "34f84edf225a432790916f2f8bc7a1c8"
     },
     "InvertedDirection": false,

@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Pharmacy_ExplorationCount",
-        "LocalizationKey": "COD_Gs_Pharmacy_ExplorationCount_GameName",
+        "LocalizationKey": "Cod_Gs_Map_Pharmacy_ExplorationCount_GameName",
         "ParentObjectID": "762fada88bbb4039b609a94bea38482b"
     },
     "InvertedDirection": false,

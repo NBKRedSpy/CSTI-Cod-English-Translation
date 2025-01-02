@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "弹药重击了它的身体，迸发的石块从空中砸来！",
-        "LocalizationKey": "COD_Event_PetrifiedZombie_AttackSuccess_Injured_CardDescription",
+        "LocalizationKey": "Cod_Event_PetrifiedZombie_AttackSuccess_Injured_CardDescription",
         "ParentObjectID": "a29cc0530d744b0887ae318b58ab6e50"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "石化",
-        "LocalizationKey": "COD_Event_PetrifiedZombie_AttackSuccess_Injured_CardName",
+        "LocalizationKey": "Cod_Event_PetrifiedZombie_AttackSuccess_Injured_CardName",
         "ParentObjectID": "a29cc0530d744b0887ae318b58ab6e50"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_PetrifiedZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_PetrifiedZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "a29cc0530d744b0887ae318b58ab6e50"
                 }
             },
             "ActionName": {
                 "DefaultText": "继续",
-                "LocalizationKey": "COD_Event_PetrifiedZombie_AttackSuccess_Injured_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_PetrifiedZombie_AttackSuccess_Injured_DismantleActions[0].ActionName",
                 "ParentObjectID": "a29cc0530d744b0887ae318b58ab6e50"
             },
             "ActionSounds": [],

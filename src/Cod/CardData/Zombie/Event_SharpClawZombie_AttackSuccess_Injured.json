@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "我干掉了它，但是也受伤了。",
-        "LocalizationKey": "COD_Event_SharpClawZombie_AttackSuccess_Injured_CardDescription",
+        "LocalizationKey": "Cod_Event_SharpClawZombie_AttackSuccess_Injured_CardDescription",
         "ParentObjectID": "234a3508fe3440cfab97cc33f278dfb1"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "利爪",
-        "LocalizationKey": "COD_Event_SharpClawZombie_AttackSuccess_Injured_CardName",
+        "LocalizationKey": "Cod_Event_SharpClawZombie_AttackSuccess_Injured_CardName",
         "ParentObjectID": "234a3508fe3440cfab97cc33f278dfb1"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_SharpClawZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_SharpClawZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "234a3508fe3440cfab97cc33f278dfb1"
                 }
             },
             "ActionName": {
                 "DefaultText": "继续",
-                "LocalizationKey": "COD_Event_SharpClawZombie_AttackSuccess_Injured_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_SharpClawZombie_AttackSuccess_Injured_DismantleActions[0].ActionName",
                 "ParentObjectID": "234a3508fe3440cfab97cc33f278dfb1"
             },
             "ActionSounds": [],

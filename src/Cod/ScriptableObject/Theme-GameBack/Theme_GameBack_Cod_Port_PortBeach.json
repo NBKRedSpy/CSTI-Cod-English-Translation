@@ -1,0 +1,41 @@
+{
+    "BaseSet": {
+        "ImageName": "Theme_Cod_Port_PortBeach_Base_TypeTwo",
+        "Priority": 920
+    },
+    "BookmarkLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "BookmarkRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "Card": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CardWarpData": "ef32fe6796c74a82a2534819232c7799",
+    "CardWarpType": 3,
+    "ConditionSets": [],
+    "EnvSet": {
+        "ImageName": "Theme_Cod_Port_PortBeach_Location_TypeTwo",
+        "Priority": 920
+    },
+    "ExpSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "HandSet": {
+        "ImageName": "Theme_Cod_Port_PortBeach_Location_TypeTwo",
+        "Priority": 920
+    }
+}

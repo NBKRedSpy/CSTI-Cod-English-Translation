@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_SpecialEvent_BigBen_BeatTimeCount",
-        "LocalizationKey": "COD_Gs_SpecialEvent_BigBen_BeatTimeCount_GameName",
+        "LocalizationKey": "Cod_Gs_SpecialEvent_BigBen_BeatTimeCount_GameName",
         "ParentObjectID": "b664238217ab45bab28867927f32c48f"
     },
     "InvertedDirection": false,

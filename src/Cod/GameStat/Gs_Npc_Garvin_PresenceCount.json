@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Garvin_PresenceCount",
-        "LocalizationKey": "COD_Gs_Garvin_PresenceCount_GameName",
+        "LocalizationKey": "Cod_Gs_Npc_Garvin_PresenceCount_GameName",
         "ParentObjectID": "7b066fe33f594e4cb982b95bbbbea831"
     },
     "InvertedDirection": false,
@@ -65,8 +65,8 @@
         "m_PathID": 0
     },
     "NotEnoughText": {
-        "DefaultText": "\u52a0\u6587\u4e0d\u5728\u573a\u666f\u4e2d\u3002",
-        "LocalizationKey": "COD_Gs_Garvin_PresenceCount_NotEnoughText",
+        "DefaultText": "加文不在场景中。",
+        "LocalizationKey": "Cod_Gs_Npc_Garvin_PresenceCount_NotEnoughText",
         "ParentObjectID": "7b066fe33f594e4cb982b95bbbbea831"
     },
     "NoveltyCooldownDuration": 0,

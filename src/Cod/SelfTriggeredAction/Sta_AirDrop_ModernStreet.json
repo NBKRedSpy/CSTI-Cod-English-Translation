@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_AirDrop_ModernStreet",
-                "LocalizationKey": "COD_Sta_AirDrop_ModernStreet_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_AirDrop_ModernStreet_Actions[0].ActionName",
                 "ParentObjectID": "dee09cf69a4f442194876bd80a53f3c7"
             },
             "ActionSounds": [],
@@ -244,8 +244,8 @@
                         },
                         {
                             "RateModifier": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "RequiredCardsOnBoard": [],
                             "Stat": {

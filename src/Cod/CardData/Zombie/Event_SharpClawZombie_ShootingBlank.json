@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "我失手了！",
-        "LocalizationKey": "COD_Event_SharpClawZombie_ShootingBlank_CardDescription",
+        "LocalizationKey": "Cod_Event_SharpClawZombie_ShootingBlank_CardDescription",
         "ParentObjectID": "d82edf485b4244039b3b9c40b1693dd5"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "利爪",
-        "LocalizationKey": "COD_Event_SharpClawZombie_ShootingBlank_CardName",
+        "LocalizationKey": "Cod_Event_SharpClawZombie_ShootingBlank_CardName",
         "ParentObjectID": "d82edf485b4244039b3b9c40b1693dd5"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_SharpClawZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_SharpClawZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "d82edf485b4244039b3b9c40b1693dd5"
                 }
             },
             "ActionName": {
                 "DefaultText": "继续",
-                "LocalizationKey": "COD_Event_SharpClawZombie_ShootingBlank_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_SharpClawZombie_ShootingBlank_DismantleActions[0].ActionName",
                 "ParentObjectID": "d82edf485b4244039b3b9c40b1693dd5"
             },
             "ActionSounds": [],

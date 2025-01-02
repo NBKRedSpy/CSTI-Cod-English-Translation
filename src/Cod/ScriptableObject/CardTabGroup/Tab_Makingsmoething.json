@@ -25,7 +25,7 @@
     "TabIconWarpType": 3,
     "TabName": {
         "DefaultText": "制作基本材料",
-        "LocalizationKey": "COD_Tab_Base_Miking_Materials_TabName",
+        "LocalizationKey": "Cod_Tab_Makingsmoething_TabName",
         "ParentObjectID": "29221db0ee7390e4283b3dbf258b2092"
     }
 }

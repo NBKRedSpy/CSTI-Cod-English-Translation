@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "我干掉了它，但是也受伤了。",
-        "LocalizationKey": "COD_Event_SwiftZombie_AttackSuccess_Injured_CardDescription",
+        "LocalizationKey": "Cod_Event_SwiftZombie_AttackSuccess_Injured_CardDescription",
         "ParentObjectID": "5a5d06438ab84beab8345eaf038ee4be"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "迅猛",
-        "LocalizationKey": "COD_Event_SwiftZombie_AttackSuccess_Injured_CardName",
+        "LocalizationKey": "Cod_Event_SwiftZombie_AttackSuccess_Injured_CardName",
         "ParentObjectID": "5a5d06438ab84beab8345eaf038ee4be"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_SwiftZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_SwiftZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "5a5d06438ab84beab8345eaf038ee4be"
                 }
             },
             "ActionName": {
                 "DefaultText": "继续",
-                "LocalizationKey": "COD_Event_SwiftZombie_AttackSuccess_Injured_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_SwiftZombie_AttackSuccess_Injured_DismantleActions[0].ActionName",
                 "ParentObjectID": "5a5d06438ab84beab8345eaf038ee4be"
             },
             "ActionSounds": [],
@@ -406,8 +406,8 @@
                             "DroppedCardWarpData": "ca781b0e0ab4471aa5b6c89a8bf8a2ff",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -577,8 +577,8 @@
                             "DroppedCardWarpData": "ca781b0e0ab4471aa5b6c89a8bf8a2ff",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],

@@ -1,0 +1,41 @@
+{
+    "BaseSet": {
+        "ImageName": "Theme_Cod_Port_PortShip_Cabins_Base",
+        "Priority": 920
+    },
+    "BookmarkLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "BookmarkRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "Card": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CardWarpData": "53a464f93f4242b5bde00f9bc725e5b9",
+    "CardWarpType": 3,
+    "ConditionSets": [],
+    "EnvSet": {
+        "ImageName": "Theme_Cod_Port_PortShip_Cabins_Location",
+        "Priority": 920
+    },
+    "ExpSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "HandSet": {
+        "ImageName": "Theme_Cod_Port_PortShip_Cabins_Base",
+        "Priority": 920
+    }
+}

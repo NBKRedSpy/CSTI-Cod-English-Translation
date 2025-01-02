@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_AirDrop_ModernStreetCount",
-        "LocalizationKey": "COD_Gs_AirDrop_ModernStreetCount_GameName",
+        "LocalizationKey": "Cod_Gs_AirDrop_ModernStreetCount_GameName",
         "ParentObjectID": "bcbcb40292b740788d25ab5062f003e5"
     },
     "InvertedDirection": false,

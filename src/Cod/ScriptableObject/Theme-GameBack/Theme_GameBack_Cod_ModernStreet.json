@@ -1,0 +1,54 @@
+{
+    "BaseSet": {
+        "ImageName": "Cod_ModernStreet_Base",
+        "Priority": 1000
+    },
+    "BookmarkLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "BookmarkRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "Card": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "ConditionSets": [
+        {
+            "StatConditions": [
+                {
+                    "MaxValue": 1.0,
+                    "MinValue": 1.0,
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "f21beb5fc9e4449b932b6ff734fa7041",
+                    "StatWarpType": 3
+                }
+            ]
+        }
+    ],
+    "EnvSet": {
+        "ImageName": "Cod_ModernStreet_Location",
+        "Priority": 1000
+    },
+    "ExpSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "HandSet": {
+        "ImageName": "Cod_ModernStreet_Base",
+        "Priority": 1000
+    }
+}

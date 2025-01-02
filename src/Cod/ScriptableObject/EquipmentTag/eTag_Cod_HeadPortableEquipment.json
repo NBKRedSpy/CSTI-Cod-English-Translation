@@ -1,0 +1,10 @@
+{
+    "InGameName": {
+        "DefaultText": "Cod_HeadPortableEquipment",
+        "LocalizationKey": "eTag_Cod_HeadPortableEquipment_InGameName",
+        "ParentObjectID": "52443968a25b6df46970d876b031f75c"
+    },
+    "MandatoryEquip": false,
+    "MaxEquipped": 1,
+    "NotifyWhenNew": false
+}

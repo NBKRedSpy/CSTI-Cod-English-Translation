@@ -89,8 +89,8 @@
         "m_PathID": 0
     },
     "CardDescription": {
-        "DefaultText": "\u4e00\u5904\u7a7a\u6295\u964d\u843d\u5728\u4e86\u6d77\u5cb8\u9644\u8fd1\u3002",
-        "LocalizationKey": "COD_Event_Heilcopter_AirDropToBrokenPort_CardDescription",
+        "DefaultText": "一处空投降落在了海岸附近。",
+        "LocalizationKey": "Cod_Event_Heilcopter_AirDropToBrokenPort_CardDescription",
         "ParentObjectID": "69bd1b710c7c41eab22052603e299393"
     },
     "CardImage": {
@@ -101,8 +101,8 @@
     "CardImageWarpType": 3,
     "CardInteractions": [],
     "CardName": {
-        "DefaultText": "\u76f4\u5347\u673a",
-        "LocalizationKey": "COD_Event_Heilcopter_AirDropToBrokenPort_CardName",
+        "DefaultText": "直升机",
+        "LocalizationKey": "Cod_Event_Heilcopter_AirDropToBrokenPort_CardName",
         "ParentObjectID": "69bd1b710c7c41eab22052603e299393"
     },
     "CardTags": [],
@@ -180,13 +180,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I tried to hunt a boar but it escaped.",
-                    "LocalizationKey": "COD_Event_Heilcopter_AirDropToBrokenPort_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_Heilcopter_AirDropToBrokenPort_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "69bd1b710c7c41eab22052603e299393"
                 }
             },
             "ActionName": {
-                "DefaultText": "\u7ee7\u7eed",
-                "LocalizationKey": "COD_Event_Heilcopter_AirDropToBrokenPort_DismantleActions[0].ActionName",
+                "DefaultText": "继续",
+                "LocalizationKey": "Cod_Event_Heilcopter_AirDropToBrokenPort_DismantleActions[0].ActionName",
                 "ParentObjectID": "69bd1b710c7c41eab22052603e299393"
             },
             "ActionSounds": [],
@@ -370,8 +370,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -389,8 +389,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -408,8 +408,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -427,8 +427,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,

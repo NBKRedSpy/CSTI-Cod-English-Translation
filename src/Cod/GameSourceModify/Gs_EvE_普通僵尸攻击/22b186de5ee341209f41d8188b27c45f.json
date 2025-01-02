@@ -49,8 +49,8 @@
             "FadeToBlack": 0,
             "InstantStatModifications": false,
             "MinMaxExplorationDrops": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             },
             "NoCardsAffectedMessage": {
                 "DefaultText": "",
@@ -190,6 +190,25 @@
             "ResetWhenDone": {},
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "StatModificationsWarpData": [
@@ -198,8 +217,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -277,8 +296,8 @@
             "FadeToBlack": 0,
             "InstantStatModifications": false,
             "MinMaxExplorationDrops": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             },
             "NoCardsAffectedMessage": {
                 "DefaultText": "",
@@ -418,6 +437,25 @@
             "ResetWhenDone": {},
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -483,8 +521,8 @@
             "FadeToBlack": 0,
             "InstantStatModifications": false,
             "MinMaxExplorationDrops": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             },
             "NoCardsAffectedMessage": {
                 "DefaultText": "",
@@ -624,6 +662,25 @@
             "ResetWhenDone": {},
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -689,8 +746,8 @@
             "FadeToBlack": 0,
             "InstantStatModifications": false,
             "MinMaxExplorationDrops": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             },
             "NoCardsAffectedMessage": {
                 "DefaultText": "",
@@ -830,6 +887,25 @@
             "ResetWhenDone": {},
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,
@@ -895,8 +971,8 @@
             "FadeToBlack": 0,
             "InstantStatModifications": false,
             "MinMaxExplorationDrops": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             },
             "NoCardsAffectedMessage": {
                 "DefaultText": "",
@@ -1036,6 +1112,25 @@
             "ResetWhenDone": {},
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "StatModificationsWarpData": [
@@ -1044,8 +1139,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -1054,8 +1149,8 @@
                     "StatWarpData": "b93ba31862684bfb88bb969abe4612d7",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 4.0,
-                        "y": 4.0
+                        "x": 1.0,
+                        "y": 1.0
                     }
                 }
             ],
@@ -1123,8 +1218,8 @@
             "FadeToBlack": 0,
             "InstantStatModifications": false,
             "MinMaxExplorationDrops": {
-                "x": 0.0,
-                "y": 0.0
+                "x": 0,
+                "y": 0
             },
             "NoCardsAffectedMessage": {
                 "DefaultText": "",
@@ -1264,6 +1359,25 @@
             "ResetWhenDone": {},
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [],
             "TravelToPreviousEnv": false,

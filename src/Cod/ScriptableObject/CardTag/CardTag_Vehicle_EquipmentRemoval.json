@@ -1,0 +1,9 @@
+{
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "CardTag_Vehicle_EquipmentRemoval",
+        "LocalizationKey": "CardTag_Vehicle_EquipmentRemoval_InGameName",
+        "ParentObjectID": "ad44ac99695fc154797360652aed9314"
+    },
+    "UniqueOnBoard": false
+}

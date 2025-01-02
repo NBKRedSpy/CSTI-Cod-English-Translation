@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_SpecialEvent_Foggy_DecayCity_Count",
-        "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DecayCount_GameName",
+        "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DecayCity_Count_GameName",
         "ParentObjectID": "8bf7e519f60048b6a9f5e0143492c93a"
     },
     "InvertedDirection": false,
@@ -114,7 +114,7 @@
             ],
             "GameName": {
                 "DefaultText": "迷雾蔓延",
-                "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DecayCity_Count_GameName",
+                "LocalizationKey": "Cod_Gs_SpecialEvent_Foggy_DecayCity_Count_Statuses[0].GameName",
                 "ParentObjectID": "8bf7e519f60048b6a9f5e0143492c93a"
             },
             "GameOver": false,

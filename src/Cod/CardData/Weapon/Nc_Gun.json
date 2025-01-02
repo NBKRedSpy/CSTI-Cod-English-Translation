@@ -92,7 +92,7 @@
     "CardBackgroundWarpType": 3,
     "CardDescription": {
         "DefaultText": "Could be useful for hunting.",
-        "LocalizationKey": "COD_Nc_Gun_CardDescription",
+        "LocalizationKey": "Cod_Nc_Gun_CardDescription",
         "ParentObjectID": "d14413e069af48d3ad134f450bbf98aa"
     },
     "CardImage": {
@@ -120,8 +120,8 @@
                 }
             },
             "ActionName": {
-                "DefaultText": "\u88c5\u586b",
-                "LocalizationKey": "COD_Nc_Gun_CardInteraction",
+                "DefaultText": "装填",
+                "LocalizationKey": "Cod_Nc_Gun_CardInteractions[0].ActionName",
                 "ParentObjectID": "d14413e069af48d3ad134f450bbf98aa"
             },
             "ActionSounds": [],
@@ -450,8 +450,8 @@
         }
     ],
     "CardName": {
-        "DefaultText": "\u67aa",
-        "LocalizationKey": "COD_Nc_Gun_CardName",
+        "DefaultText": "枪",
+        "LocalizationKey": "Cod_Nc_Gun_CardName",
         "ParentObjectID": "d14413e069af48d3ad134f450bbf98aa"
     },
     "CardTags": [],
@@ -3861,7 +3861,7 @@
             },
             "ActionName": {
                 "DefaultText": "Out of ammo",
-                "LocalizationKey": "COD_Nc_Gun_UsageDurability.OnZero.ActionName",
+                "LocalizationKey": "Cod_Nc_Gun_UsageDurability.OnZero.ActionName",
                 "ParentObjectID": "d14413e069af48d3ad134f450bbf98aa"
             },
             "ActionSounds": [],

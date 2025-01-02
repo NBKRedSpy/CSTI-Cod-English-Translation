@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Npc_Ron_PresenceCount",
-        "LocalizationKey": "COD_Gs_Npc_Ron_PresenceCount_GameName",
+        "LocalizationKey": "Cod_Gs_Npc_Ron_PresenceCount_GameName",
         "ParentObjectID": "87b7d902f64f4ebe913c6933d8e69dec"
     },
     "InvertedDirection": false,
@@ -65,8 +65,8 @@
         "m_PathID": 0
     },
     "NotEnoughText": {
-        "DefaultText": "\u7f57\u6069\u4e0d\u5728\u573a\u666f\u4e2d\u3002",
-        "LocalizationKey": "COD_Gs_Npc_Ron_PresenceCount_NotEnoughText",
+        "DefaultText": "罗恩不在场景中。",
+        "LocalizationKey": "Cod_Gs_Npc_Ron_PresenceCount_NotEnoughText",
         "ParentObjectID": "87b7d902f64f4ebe913c6933d8e69dec"
     },
     "NoveltyCooldownDuration": 0,

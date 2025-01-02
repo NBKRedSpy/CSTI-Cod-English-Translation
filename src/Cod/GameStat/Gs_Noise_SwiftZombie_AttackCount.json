@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Noise_SwiftZombie_AttackCount",
-        "LocalizationKey": "COD_Gs_Noise_SwiftZombie_AttackCount_GameName",
+        "LocalizationKey": "Cod_Gs_Noise_SwiftZombie_AttackCount_GameName",
         "ParentObjectID": "37456f8830a04e71b28ae31c3a4f38dd"
     },
     "InvertedDirection": false,

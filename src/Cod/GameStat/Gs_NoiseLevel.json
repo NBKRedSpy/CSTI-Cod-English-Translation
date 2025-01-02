@@ -32,7 +32,7 @@
     },
     "Description": {
         "DefaultText": "区域内的产生的声音程度。",
-        "LocalizationKey": "COD_Gs_NoiseLevel_Description",
+        "LocalizationKey": "Cod_Gs_NoiseLevel_Description",
         "ParentObjectID": "b93ba31862684bfb88bb969abe4612d7"
     },
     "FeedbackInfo": {
@@ -49,7 +49,7 @@
     },
     "GameName": {
         "DefaultText": "噪声系数",
-        "LocalizationKey": "COD_Gs_NoiseLevel_GameName",
+        "LocalizationKey": "Cod_Gs_NoiseLevel_GameName",
         "ParentObjectID": "b93ba31862684bfb88bb969abe4612d7"
     },
     "InvertedDirection": false,
@@ -73,6 +73,13 @@
     },
     "NoveltyCooldownDuration": 0,
     "OverrideFeedbackPrefab": {
+        "AnimationsToReset": "",
+        "Delay": 0.0,
+        "DestroyAfterPlaying": false,
+        "Duration": 0.0,
+        "Icon": "",
+        "ResetOnPlay": false,
+        "YieldWaitDuration": 0.0,
         "m_FileID": 0,
         "m_PathID": 0
     },
@@ -83,6 +90,10 @@
     "StatusDebugMode": false,
     "Statuses": [
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -116,7 +127,7 @@
             ],
             "GameName": {
                 "DefaultText": "轻微噪声",
-                "LocalizationKey": "COD_Gs_NoiseLevel_Statuses[0].GameName",
+                "LocalizationKey": "Cod_Gs_NoiseLevel_Statuses[0].GameName",
                 "ParentObjectID": "b93ba31862684bfb88bb969abe4612d7"
             },
             "GameOver": false,
@@ -150,6 +161,10 @@
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -183,7 +198,7 @@
             ],
             "GameName": {
                 "DefaultText": "局部噪声",
-                "LocalizationKey": "COD_Gs_NoiseLevel_Statuses[1].GameName",
+                "LocalizationKey": "Cod_Gs_NoiseLevel_Statuses[1].GameName",
                 "ParentObjectID": "b93ba31862684bfb88bb969abe4612d7"
             },
             "GameOver": false,
@@ -217,6 +232,10 @@
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -250,7 +269,7 @@
             ],
             "GameName": {
                 "DefaultText": "巨大噪声",
-                "LocalizationKey": "COD_Gs_NoiseLevel_Statuses[2].GameName",
+                "LocalizationKey": "Cod_Gs_NoiseLevel_Statuses[2].GameName",
                 "ParentObjectID": "b93ba31862684bfb88bb969abe4612d7"
             },
             "GameOver": false,
@@ -284,6 +303,10 @@
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -317,7 +340,7 @@
             ],
             "GameName": {
                 "DefaultText": "地区重音",
-                "LocalizationKey": "COD_Gs_NoiseLevel_Statuses[3].GameName",
+                "LocalizationKey": "Cod_Gs_NoiseLevel_Statuses[3].GameName",
                 "ParentObjectID": "b93ba31862684bfb88bb969abe4612d7"
             },
             "GameOver": false,
@@ -351,6 +374,10 @@
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -373,8 +400,8 @@
                             "InstantModifier": false,
                             "IsInverse": false,
                             "RateModifier": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "Stat": {
                                 "m_FileID": 0,
@@ -551,8 +578,8 @@
                             "InstantModifier": false,
                             "IsInverse": false,
                             "RateModifier": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "Stat": {
                                 "m_FileID": 0,
@@ -729,8 +756,8 @@
                             "InstantModifier": false,
                             "IsInverse": false,
                             "RateModifier": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "Stat": {
                                 "m_FileID": 0,
@@ -756,6 +783,25 @@
                                 "m_PathID": 0
                             },
                             "StatWarpData": "881bdc680b5b4071828eb0800341863e",
+                            "StatWarpType": 3,
+                            "ValueModifier": {
+                                "x": 1.0,
+                                "y": 1.0
+                            }
+                        },
+                        {
+                            "ApplyEachTick": false,
+                            "InstantModifier": false,
+                            "IsInverse": false,
+                            "RateModifier": {
+                                "x": 0.0,
+                                "y": 0.0
+                            },
+                            "Stat": {
+                                "m_FileID": 0,
+                                "m_PathID": 0
+                            },
+                            "StatWarpData": "c6b5ab7c64394b3eabd77fb92c67f8f9",
                             "StatWarpType": 3,
                             "ValueModifier": {
                                 "x": 1.0,
@@ -907,8 +953,8 @@
                             "InstantModifier": false,
                             "IsInverse": false,
                             "RateModifier": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "Stat": {
                                 "m_FileID": 0,
@@ -1085,8 +1131,8 @@
                             "InstantModifier": false,
                             "IsInverse": false,
                             "RateModifier": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "Stat": {
                                 "m_FileID": 0,

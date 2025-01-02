@@ -1,0 +1,9 @@
+{
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "CardTag_Animal_Monitor",
+        "LocalizationKey": "CardTag_Animal_Monitor_InGameName",
+        "ParentObjectID": "a8992ee828b224649b7b73ac91605d6b"
+    },
+    "UniqueOnBoard": false
+}

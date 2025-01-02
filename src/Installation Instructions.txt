@@ -1,0 +1,38 @@
+Cod is a zombie post-apocalyptic apocalypse themed mod.
+With the theme of post-apocalyptic survival, Cod mainly aims to provide a post-apocalyptic experience that distinguishes itself from the original.
+A large number of brand new maps: an abandoned port under the apocalypse, a bustling city at the center of the disaster outbreak, a small town far from the hustle and bustle of the city - with a large amount of scavenging materials, new combat styles, NPCs, a wide range of trading systems, base building, and more.
+The game begins in an abandoned harbor in the countryside, with plenty of areas to explore throughout the game. At the beginning of each game, each area will be randomly assigned different supplies. The exploration process is accompanied by a variety of events and creatures.
+The creatures are divided into several types, each with specific advantages and disadvantages, and different weapons have different advantages for active attacks and passive counterattacks.
+The Mod introduces a noise system where the act of moving around the Cod map increases the level of creature activity in the area, it is recommended that you find the Noise Factor and Area Heat in the skill bar to mark them when playing.
+Move cautiously in a zombie-infested environment, scavenge for supplies, hone your skills, improve your health through fitness, and utilize all materials to build your own post-apocalyptic safe house.
+Build your own survival strategy through the trading system and interaction with NPCs, and explore the map in a constant search for the truth about the apocalypse.
+Find the possibility of escape in the middle of nowhere and witness the end of the world in the bustling city.
+
+May Cod bring you a different experience.
+
+When you play, please activate the Trait: Abandoned City when you start the game, and it will generate the equipment: Pendant on the equipment bar, please carry it with you, which can provide the function of converting numerical gold and physical gold into each other.
+If you are playing for the first time, the experience of the blank slate Ruined City will be more challenging, it is recommended to carry the trait: Spear Warrior, Archer and other traits that increase combat skills, which will help a lot in the process of playing.
+
+This mod only adds game content to the game, there is no modification to the game itself, and in general will not conflict with any mods.
+
+At present, the amount of content and file data of this mod has exceeded that of the original version, so you can play this mod as a Card Survival - Zombie Apocalypse version.
+If you need to play the original version, the path to the Cod map will appear in the map: Mystic Valley - [Be Safe].
+
+Mod Requirements: Install bepinex and Modloader, with Modloader version at least 1.30 or higher.
+If Modloader version is less than 1.30, some unknown problems will occur, please remember to update your Modloader version in time.
+
+After completing the above, copy and paste the Cod folder into the Plugins folder directly after unzipping the files.
+
+If you have already installed the mod, then copy and paste the Cod folder directly into the Plugins folder.
+
+If you have already installed another version of Cod, please uninstall the old version of Cod, delete the old Cod folder, and then put the newly extracted Cod into your Plugins folder to complete the update.
+Note: Cod has a built-in ThemeSupport.dll file since version 1.500, which is a Mod-Theme Support provided by the author: Pikachu, this file package is the latest version before 2024.11.15, if there is any update, please take the latest version as the main one.
+Mod dissemination note: Currently this Mod is only uploaded in the CardSurvival Mod Development Exchange Group and Card Survival Card Survival Happy 1 Group.
+                       Other non-authorized reproduction channels to obtain the mod may have the old version of the bugs left over.
+                       If you encounter any problems or doubts during the game, you can add QQ group 641891277 to discuss with all kinds of partners and exchange feedback with all kinds of Mod authors.
+                       Non-authorized reproduction and dissemination is prohibited.
+                       I wish you a happy game journey~ 2023.4.7 -- AL, YoYo
+
+
+   If you like my Mod, you can do so at the Love Power URL: https://afdian.com/a/SpCreed?tab=home
+On the communication with me, if you have the willingness to support, you can also sponsor on the URL, I would like to thank all players all the way feedback and development assistance for CSTI-Card Survival-Zombie Apocalypse.

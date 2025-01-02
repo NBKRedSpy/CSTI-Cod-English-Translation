@@ -1,0 +1,9 @@
+{
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "Vehicle_TireRemover",
+        "LocalizationKey": "CardTag_Vehicle_TireRemover_InGameName",
+        "ParentObjectID": "ad44ac99695fc154797360652aed9314"
+    },
+    "UniqueOnBoard": false
+}

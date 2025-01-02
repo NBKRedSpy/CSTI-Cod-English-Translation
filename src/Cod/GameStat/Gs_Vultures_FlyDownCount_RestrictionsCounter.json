@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Vultures_FlyDownCount",
-        "LocalizationKey": "COD_Gs_Vultures_FlyDownCount_RestrictionsCounter_GameName",
+        "LocalizationKey": "Cod_Gs_Vultures_FlyDownCount_RestrictionsCounter_GameName",
         "ParentObjectID": "e903014dc1b847038e3aa7306699f858"
     },
     "InvertedDirection": false,

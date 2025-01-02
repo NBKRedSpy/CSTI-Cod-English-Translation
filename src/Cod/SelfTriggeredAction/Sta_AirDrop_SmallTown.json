@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_AirDrop_SmallTown",
-                "LocalizationKey": "COD_Sta_AirDrop_SmallTown_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_AirDrop_SmallTown_Actions[0].ActionName",
                 "ParentObjectID": "297d2fc6b8fd4e378d07b6c7217d6081"
             },
             "ActionSounds": [],
@@ -244,8 +244,8 @@
                         },
                         {
                             "RateModifier": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "RequiredCardsOnBoard": [],
                             "Stat": {

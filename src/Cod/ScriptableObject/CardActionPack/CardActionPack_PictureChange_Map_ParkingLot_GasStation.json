@@ -1,0 +1,183 @@
+{
+    "actOnCardInit": false,
+    "autoFindGive": {
+        "active": false,
+        "bestById": "",
+        "cards": [],
+        "condition": {
+            "NotInBackground": false,
+            "RequiredCardsInInventory": [],
+            "RequiredCardsNOTOnBoard": [],
+            "RequiredCardsOnBoard": [],
+            "RequiredContainer": [],
+            "RequiredContainerTags": [],
+            "RequiredDurabilityRanges": {
+                "FuelRange": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "LiquidQuantityRange": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "ProgressRange": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Special1Range": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Special2Range": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Special3Range": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Special4Range": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "SpoilageRange": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "UsageRange": {
+                    "x": 0.0,
+                    "y": 0.0
+                }
+            },
+            "RequiredEnvironment": {},
+            "RequiredEnvironmentTags": [],
+            "RequiredLiquidContainers": [],
+            "RequiredStatValues": [],
+            "RequiredTagsInInventory": [],
+            "RequiredTagsNOTOnBoard": [],
+            "RequiredTagsOnBoard": []
+        },
+        "force": false,
+        "needFindBest": false,
+        "needSlot": false,
+        "onSlot": {},
+        "tags": []
+    },
+    "effectPacks": [],
+    "effectPacksWarpData": [
+        "ActionEffectPack_PictureChange_Map_ParkingLot_GasStation"
+    ],
+    "effectPacksWarpType": 3,
+    "giveCondition": {
+        "NotInBackground": false,
+        "RequiredCardsInInventory": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredDurabilityRanges": {
+            "FuelRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "LiquidQuantityRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ProgressRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special1Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special2Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special3Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special4Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "SpoilageRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "UsageRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "RequiredEnvironment": {},
+        "RequiredEnvironmentTags": [],
+        "RequiredLiquidContainers": [],
+        "RequiredStatValues": [],
+        "RequiredTagsInInventory": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredTagsOnBoard": []
+    },
+    "isNotInBase": false,
+    "miniWaitTime": 0,
+    "recCondition": {
+        "NotInBackground": false,
+        "RequiredCardsInInventory": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredDurabilityRanges": {
+            "FuelRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "LiquidQuantityRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ProgressRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special1Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special2Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special3Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special4Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "SpoilageRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "UsageRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "RequiredEnvironment": {},
+        "RequiredEnvironmentTags": [],
+        "RequiredLiquidContainers": [],
+        "RequiredStatValues": [],
+        "RequiredTagsInInventory": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredTagsOnBoard": []
+    },
+    "simpleVarConditions": [],
+    "tickWaitTime": 0,
+    "uid": "CardActionPack_PictureChange_Map_ParkingLot_GasStation",
+    "waitTime": 0
+}

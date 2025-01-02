@@ -1,0 +1,72 @@
+{
+    "alwaysDrops": [],
+    "blueprintDrops": [],
+    "blueprintProgress": [],
+    "bpDropDisableCancel": false,
+    "cardDropByStatBy": [],
+    "cardDropByStatTo": [],
+    "dropCollections": [],
+    "expProgress": 0.0,
+    "extActEntries": [],
+    "giveCardStateChange": {},
+    "giveCondition": {},
+    "graphicsPack": {},
+    "hasCondition": false,
+    "hasLuaCode": false,
+    "isNotInBase": false,
+    "luaCode": "",
+    "miniWaitTime": 0,
+    "recCardStateChange": {},
+    "recCondition": {},
+    "simpleVarConditions": [],
+    "simpleVarModEntries": [],
+    "spriteSet": [
+        {
+            "Desc": "空中偶尔可见秃鹫的影子。",
+            "InRange": {
+                "x": 0.0,
+                "y": 319.0
+            },
+            "Name": "",
+            "StatValId": "Stat|6fa28a4e86a24a028fff365247cab17f",
+            "SubSprites": [],
+            "ToSetSprite": {},
+            "ToSetSpriteWarpData": "Nc_Cod_Animal_Biocluster_Vultures_Low",
+            "ToSetSpriteWarpType": 3
+        },
+        {
+            "Desc": "周边区域有秃鹫生物活动。",
+            "InRange": {
+                "x": 320.0,
+                "y": 639.0
+            },
+            "Name": "",
+            "StatValId": "Stat|6fa28a4e86a24a028fff365247cab17f",
+            "SubSprites": [],
+            "SubSpritesWarpData": [],
+            "SubSpritesWarpType": 3,
+            "ToSetSprite": {},
+            "ToSetSpriteWarpData": "Nc_Cod_Animal_Biocluster_Vultures_Balance",
+            "ToSetSpriteWarpType": 3
+        },
+        {
+            "Desc": "天空中有大量的秃鹫环绕。",
+            "InRange": {
+                "x": 640.0,
+                "y": 960.0
+            },
+            "Name": "",
+            "StatValId": "Stat|6fa28a4e86a24a028fff365247cab17f",
+            "SubSprites": [],
+            "ToSetSprite": {},
+            "ToSetSpriteWarpData": "Nc_Cod_Animal_Biocluster_Vultures_HIgh",
+            "ToSetSpriteWarpType": 3
+        }
+    ],
+    "statModByStatBy": [],
+    "statModByStatFunc": [],
+    "statModByStatTo": [],
+    "statModifications": [],
+    "tickWaitTime": 0,
+    "waitTime": 0
+}

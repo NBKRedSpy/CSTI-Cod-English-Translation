@@ -13,7 +13,7 @@
     "CheckingNotificationDetails": 0,
     "CompleteOnLose": false,
     "CompleteOnWin": false,
-    "DifficultyRating": -1500,
+    "DifficultyRating": -500,
     "DisplayPriority": 1000.0,
     "EditorOnly": false,
     "EquippedCards": [],
@@ -34,18 +34,18 @@
     "PassiveStatModifiers": [],
     "PerkDescription": {
         "DefaultText": "三次机会。",
-        "LocalizationKey": "COD_Perk_Cod_Bullets_PerkDescription",
+        "LocalizationKey": "Cod_Perk_Cod_Bullets_PerkDescription",
         "ParentObjectID": "eb962242aab44d38a57b2231bee92b8b"
     },
     "PerkIcon": {
         "m_FileID": 0,
         "m_PathID": 0
     },
-    "PerkIconWarpData": "al_zd",
+    "PerkIconWarpData": "Perk_Cod_Bullets",
     "PerkIconWarpType": 3,
     "PerkName": {
         "DefaultText": "子弹",
-        "LocalizationKey": "COD_Perk_Cod_Bullets_PerkName",
+        "LocalizationKey": "Cod_Perk_Cod_Bullets_PerkName",
         "ParentObjectID": "eb962242aab44d38a57b2231bee92b8b"
     },
     "PerkUnlockConditions": {

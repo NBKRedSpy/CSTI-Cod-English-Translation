@@ -91,8 +91,8 @@
     "CardBackgroundWarpData": "BG_SandTop",
     "CardBackgroundWarpType": 3,
     "CardDescription": {
-        "DefaultText": "\u56fd\u9632\u90e8\u53d1\u8a00\u4eba\u80af\u7279\u9488\u5bf9\u54c8\u5170\u5e02\u5c01\u57ce\u4e00\u4e8b\u53d1\u8868\u4e86\u6700\u65b0\u7684\u89e3\u91ca\u3002\u636e\u80af\u7279\u79f0\uff0c\u54c8\u5170\u5e02\u7684\u5c01\u57ce\u51b3\u5b9a\u662f\u51fa\u4e8e\u5f53\u5730\u6d89\u53ca\u6050\u6016\u884c\u52a8\u3001\u6b66\u88c5\u72ec\u7acb\u7b49\u6781\u7aef\u60c5\u51b5\u7684\u8003\u8651\uff0c\u662f\u56fd\u5bb6\u5b89\u5168\u548c\u56fd\u6c11\u751f\u547d\u8d22\u4ea7\u5b89\u5168\u7684\u5fc5\u8981\u4e3e\u63aa\u3002\u56fd\u9632\u90e8\u519b\u4e8b\u529b\u91cf\u5df2\u7ecf\u4ecb\u5165...",
-        "LocalizationKey": "COD_Nc_Plot_Newspaper_TypeTwo_CardDescription",
+        "DefaultText": "国防部发言人肯特针对哈兰市封城一事发表了最新的解释。据肯特称，哈兰市的封城决定是出于当地涉及恐怖行动、武装独立等极端情况的考虑，是国家安全和国民生命财产安全的必要举措。国防部军事力量已经介入...",
+        "LocalizationKey": "Cod_Nc_Plot_Newspaper_TypeTwo_CardDescription",
         "ParentObjectID": "a655fdf5910b48a79b87aec11f52676f"
     },
     "CardImage": {
@@ -120,8 +120,8 @@
                 }
             },
             "ActionName": {
-                "DefaultText": "\u53d6\u706b",
-                "LocalizationKey": "COD_Nc_Plot_Newspaper_TypeTwo_CardInteractions[1].ActionName",
+                "DefaultText": "取火",
+                "LocalizationKey": "Cod_Nc_Plot_Newspaper_TypeTwo_CardInteractions[0].ActionName",
                 "ParentObjectID": "a655fdf5910b48a79b87aec11f52676f"
             },
             "ActionSounds": [],
@@ -511,8 +511,8 @@
                 }
             },
             "ActionName": {
-                "DefaultText": "\u53d6\u706b",
-                "LocalizationKey": "COD_Nc_Plot_Newspaper_TypeTwo_CardInteractions[2].ActionName",
+                "DefaultText": "取火",
+                "LocalizationKey": "Cod_Nc_Plot_Newspaper_TypeTwo_CardInteractions[1].ActionName",
                 "ParentObjectID": "a655fdf5910b48a79b87aec11f52676f"
             },
             "ActionSounds": [],
@@ -902,8 +902,8 @@
                 }
             },
             "ActionName": {
-                "DefaultText": "\u70b9\u71c3",
-                "LocalizationKey": "COD_Nc_Plot_Newspaper_TypeTwo_CardInteractions[3].ActionName",
+                "DefaultText": "点燃",
+                "LocalizationKey": "Cod_Nc_Plot_Newspaper_TypeTwo_CardInteractions[2].ActionName",
                 "ParentObjectID": "a655fdf5910b48a79b87aec11f52676f"
             },
             "ActionSounds": [],
@@ -1254,8 +1254,8 @@
         }
     ],
     "CardName": {
-        "DefaultText": "\u62a5\u7eb8",
-        "LocalizationKey": "COD_Nc_Plot_Newspaper_TypeTwo_CardName",
+        "DefaultText": "报纸",
+        "LocalizationKey": "Cod_Nc_Plot_Newspaper_TypeTwo_CardName",
         "ParentObjectID": "a655fdf5910b48a79b87aec11f52676f"
     },
     "CardTags": [],

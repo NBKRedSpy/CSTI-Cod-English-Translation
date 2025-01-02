@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "StartingItem_HumanNecklace",
-        "LocalizationKey": "Gs_StartingItem_HumanNecklace_GameName",
+        "LocalizationKey": "Cod_Gs_StartingItem_HumanNecklace_GameName",
         "ParentObjectID": "4170efcbd06b4790b0300daa08d8cb20"
     },
     "InvertedDirection": false,

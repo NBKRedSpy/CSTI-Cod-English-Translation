@@ -1,0 +1,27 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "78563884cd754d6290de840168f52cec",
+        "a74f03f6bc6c4889a43356534420d32b",
+        "e2b8581492b345f689cb1d75028a5298",
+        "670006e831a24d9aa7ad0dc21cb82d94"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabIconWarpData": "Icon_Plant",
+    "TabIconWarpType": 3,
+    "TabName": {
+        "DefaultText": "后勤",
+        "LocalizationKey": "Cod_Tab_Deal_PlantingSystem_TabName",
+        "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
+    }
+}

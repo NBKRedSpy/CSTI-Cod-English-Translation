@@ -18,7 +18,7 @@
                 }
             },
             "ActionName": {
-                "DefaultText": "\u5de6\u8f6e\u653b\u51fb",
+                "DefaultText": "左轮攻击",
                 "LocalizationKey": "COD_cod_MonitorFight_DismantleActions[2].ActionName",
                 "ParentObjectID": "3b0254d2fcd319f41a91dfc937cd2141"
             },
@@ -217,6 +217,7 @@
                             }
                         }
                     ],
+                    "DroppedEncounter": {},
                     "DurabilitiesDropChanceModifier": {
                         "Fuel": {
                             "Active": false,
@@ -439,6 +440,7 @@
                             }
                         }
                     ],
+                    "DroppedEncounter": {},
                     "DurabilitiesDropChanceModifier": {
                         "Fuel": {
                             "Active": false,
@@ -661,6 +663,7 @@
                             }
                         }
                     ],
+                    "DroppedEncounter": {},
                     "DurabilitiesDropChanceModifier": {
                         "Fuel": {
                             "Active": false,
@@ -831,6 +834,7 @@
                             }
                         }
                     ],
+                    "DroppedEncounter": {},
                     "DurabilitiesDropChanceModifier": {
                         "Fuel": {
                             "Active": false,
@@ -1131,6 +1135,25 @@
             },
             "SaveGame": false,
             "StackCompatible": false,
+            "StackStopConditions": {
+                "FuelIsEmpty": false,
+                "FuelIsFull": false,
+                "LocationWeightIsFull": false,
+                "ProgressIsEmpty": false,
+                "ProgressIsFull": false,
+                "Special1IsEmpty": false,
+                "Special1IsFull": false,
+                "Special2IsEmpty": false,
+                "Special2IsFull": false,
+                "Special3IsEmpty": false,
+                "Special3IsFull": false,
+                "Special4IsEmpty": false,
+                "Special4IsFull": false,
+                "SpoilageIsEmpty": false,
+                "SpoilageIsFull": false,
+                "UsageIsEmpty": false,
+                "UsageIsFull": false
+            },
             "StatInterruptions": [],
             "StatModifications": [
                 {

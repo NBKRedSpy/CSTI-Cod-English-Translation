@@ -19,7 +19,7 @@
             },
             "ActionName": {
                 "DefaultText": "Sta_Noise_FilthyZombie_AttackCount",
-                "LocalizationKey": "COD_Sta_Noise_FilthyZombie_AttackCount_Actions[0].ActionName",
+                "LocalizationKey": "Cod_Sta_Noise_FilthyZombie_AttackCount_Actions[0].ActionName",
                 "ParentObjectID": "e9f729dc91924b59ba64bdbdc3d75d68"
             },
             "ActionSounds": [],
@@ -244,8 +244,8 @@
                         },
                         {
                             "RateModifier": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "RequiredCardsOnBoard": [],
                             "Stat": {

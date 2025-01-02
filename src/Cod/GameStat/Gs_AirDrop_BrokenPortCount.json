@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_AirDrop_BrokenPortCount",
-        "LocalizationKey": "COD_Gs_AirDrop_BrokenPortCount_GameName",
+        "LocalizationKey": "Cod_Gs_AirDrop_BrokenPortCount_GameName",
         "ParentObjectID": "fa69759526ad492e86d1892ac74b82b7"
     },
     "InvertedDirection": false,

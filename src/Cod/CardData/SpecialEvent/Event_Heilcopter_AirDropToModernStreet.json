@@ -89,8 +89,8 @@
         "m_PathID": 0
     },
     "CardDescription": {
-        "DefaultText": "\u4e00\u5904\u7a7a\u6295\u964d\u843d\u5728\u4e86\u57ce\u5e02\u9ad8\u697c\u9644\u8fd1\u3002",
-        "LocalizationKey": "COD_Event_Heilcopter_AirDropToModernStreet_CardDescription",
+        "DefaultText": "一处空投降落在了城市高楼附近。",
+        "LocalizationKey": "Cod_Event_Heilcopter_AirDropToModernStreet_CardDescription",
         "ParentObjectID": "df23d6c2a86d44c7afaba5518bdfde6d"
     },
     "CardImage": {
@@ -101,8 +101,8 @@
     "CardImageWarpType": 3,
     "CardInteractions": [],
     "CardName": {
-        "DefaultText": "\u76f4\u5347\u673a",
-        "LocalizationKey": "COD_Event_Heilcopter_AirDropToModernStreet_CardName",
+        "DefaultText": "直升机",
+        "LocalizationKey": "Cod_Event_Heilcopter_AirDropToModernStreet_CardName",
         "ParentObjectID": "df23d6c2a86d44c7afaba5518bdfde6d"
     },
     "CardTags": [],
@@ -180,13 +180,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I tried to hunt a boar but it escaped.",
-                    "LocalizationKey": "COD_Event_Heilcopter_AirDropToModernStreet_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_Heilcopter_AirDropToModernStreet_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "df23d6c2a86d44c7afaba5518bdfde6d"
                 }
             },
             "ActionName": {
-                "DefaultText": "\u7ee7\u7eed",
-                "LocalizationKey": "COD_Event_Heilcopter_AirDropToModernStreet_DismantleActions[0].ActionName",
+                "DefaultText": "继续",
+                "LocalizationKey": "Cod_Event_Heilcopter_AirDropToModernStreet_DismantleActions[0].ActionName",
                 "ParentObjectID": "df23d6c2a86d44c7afaba5518bdfde6d"
             },
             "ActionSounds": [],

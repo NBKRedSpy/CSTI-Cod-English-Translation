@@ -1,9 +1,9 @@
 {
-  "ActionModifiers": [],
-  "InGameName": {
-    "DefaultText": "ValueItem_Level_Two",
-    "LocalizationKey": "T-ZKNAaQckBV7IhkxGe/xk1R9RoTk=",
-    "ParentObjectID": "370de9af1a7aed64e816e6f4d008eca7"
-  },
-  "UniqueOnBoard": false
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "ValueItem_Level_Two",
+        "LocalizationKey": "Cod_CardTag_ValueItem_LevelTwo_InGameName",
+        "ParentObjectID": "370de9af1a7aed64e816e6f4d008eca7"
+    },
+    "UniqueOnBoard": false
 }

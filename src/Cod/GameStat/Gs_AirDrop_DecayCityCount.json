@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_AirDrop_DecayCityCount",
-        "LocalizationKey": "COD_Gs_AirDrop_DecayCityCount_GameName",
+        "LocalizationKey": "Cod_Gs_AirDrop_DecayCityCount_GameName",
         "ParentObjectID": "e82d01d1236341bfba98e9101c53c3d6"
     },
     "InvertedDirection": false,

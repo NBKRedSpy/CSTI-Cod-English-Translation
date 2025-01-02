@@ -1,0 +1,25 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "6286bd90f6ab28f41bc4fa7f08e4fe0d",
+        "1f17e1aed2a0273469bb9ebeb97b32e1",
+        "099cb405dc7b0674b8c3fdb39b9196ba",
+        "e6dfc442c80d448bb5e3b085694144de"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabName": {
+        "DefaultText": "Needle",
+        "LocalizationKey": "GpTag_Needle_TabName",
+        "ParentObjectID": "383f3181ff75be44fa11d325103fb57d"
+    }
+}

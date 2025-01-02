@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "我击中了它，但是也受伤了。",
-        "LocalizationKey": "COD_Event_GiantBusterZombie_AttackSuccess_Injured_CardDescription",
+        "LocalizationKey": "Cod_Event_GiantBusterZombie_AttackSuccess_Injured_CardDescription",
         "ParentObjectID": "4a4459845f0e4e4cb6714ef18444ec79"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "巨霸",
-        "LocalizationKey": "COD_Event_GiantBusterZombie_AttackSuccess_Injured_CardName",
+        "LocalizationKey": "Cod_Event_GiantBusterZombie_AttackSuccess_Injured_CardName",
         "ParentObjectID": "4a4459845f0e4e4cb6714ef18444ec79"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_GiantBusterZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_GiantBusterZombie_AttackSuccess_Injured_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "4a4459845f0e4e4cb6714ef18444ec79"
                 }
             },
             "ActionName": {
                 "DefaultText": "Continue",
-                "LocalizationKey": "COD_Event_GiantBusterZombie_AttackSuccess_Injured_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_GiantBusterZombie_AttackSuccess_Injured_DismantleActions[0].ActionName",
                 "ParentObjectID": "4a4459845f0e4e4cb6714ef18444ec79"
             },
             "ActionSounds": [],

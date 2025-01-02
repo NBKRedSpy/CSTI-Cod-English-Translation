@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "我失手了！",
-        "LocalizationKey": "COD_Event_GiantBusterZombie_ShootingBlank_CardDescription",
+        "LocalizationKey": "Cod_Event_GiantBusterZombie_ShootingBlank_CardDescription",
         "ParentObjectID": "334db09bb40347d0909d4424efbbc82c"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "进攻",
-        "LocalizationKey": "COD_Event_GiantBusterZombie_ShootingBlank_CardName",
+        "LocalizationKey": "Cod_Event_GiantBusterZombie_ShootingBlank_CardName",
         "ParentObjectID": "334db09bb40347d0909d4424efbbc82c"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_GiantBusterZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_GiantBusterZombie_ShootingBlank_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "334db09bb40347d0909d4424efbbc82c"
                 }
             },
             "ActionName": {
                 "DefaultText": "继续",
-                "LocalizationKey": "COD_Event_GiantBusterZombie_ShootingBlank_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_GiantBusterZombie_ShootingBlank_DismantleActions[0].ActionName",
                 "ParentObjectID": "334db09bb40347d0909d4424efbbc82c"
             },
             "ActionSounds": [],

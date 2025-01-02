@@ -1,0 +1,24 @@
+{
+    "AssociatedEntry": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "IncludedCards": [],
+    "IncludedCardsWarpData": [
+        "22427beeefed8a9469a997bdce087332",
+        "6d47888db6018d04ea562476cde60440",
+        "3f131012e4586224c86da02a5fa50d26"
+    ],
+    "IncludedCardsWarpType": 3,
+    "ShopSortingList": [],
+    "SubGroups": [],
+    "TabIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "TabName": {
+        "DefaultText": "泥土",
+        "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName",
+        "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
+    }
+}

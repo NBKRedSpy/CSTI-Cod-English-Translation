@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Noise_ScreamingZombies_AttackCount",
-        "LocalizationKey": "COD_Gs_Noise_ScreamingZombies_AttackCount._GameName",
+        "LocalizationKey": "Cod_Gs_Noise_ScreamingZombies_AttackCount._GameName",
         "ParentObjectID": "a633d25458414e5e8c40aa9eede4d858"
     },
     "InvertedDirection": false,

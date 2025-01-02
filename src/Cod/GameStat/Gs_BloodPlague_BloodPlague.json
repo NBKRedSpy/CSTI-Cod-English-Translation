@@ -30,7 +30,7 @@
     },
     "Description": {
         "DefaultText": "视野一片血色，在一切还来得及之前..",
-        "LocalizationKey": "COD_Gs_Ruins_BloodPlague_Description",
+        "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_Description",
         "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
     },
     "FeedbackInfo": {
@@ -49,7 +49,7 @@
     },
     "GameName": {
         "DefaultText": "血疫",
-        "LocalizationKey": "COD_Gs_Ruins_BloodPlague_GameName",
+        "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_GameName",
         "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
     },
     "InvertedDirection": false,
@@ -73,6 +73,13 @@
     },
     "NoveltyCooldownDuration": 0,
     "OverrideFeedbackPrefab": {
+        "AnimationsToReset": "",
+        "Delay": 0.0,
+        "DestroyAfterPlaying": false,
+        "Duration": 0.0,
+        "Icon": "",
+        "ResetOnPlay": false,
+        "YieldWaitDuration": 0.0,
         "m_FileID": 0,
         "m_PathID": 0
     },
@@ -83,13 +90,17 @@
     "StatusDebugMode": false,
     "Statuses": [
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 1,
             "AlertSounds": [],
             "ConfidenceModifier": 0.0,
             "Description": {
                 "DefaultText": "感觉自己开始发烧了..",
-                "LocalizationKey": "COD_Gs_Ruins_BloodPlague_Statuses[0].Description",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_Statuses[0].Description",
                 "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
             },
             "EffectsOnActions": [],
@@ -166,8 +177,8 @@
                     "StatWarpData": "0ef92382faa66c643975c2c0f42ad82c",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -185,8 +196,8 @@
                     "StatWarpData": "930cf914322e9f145af1315d96f85a28",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -204,14 +215,14 @@
                     "StatWarpData": "16af37a364285d14586629e3e0700e55",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
             "GameName": {
                 "DefaultText": "轻度感染",
-                "LocalizationKey": "COD_Gs_Ruins_BloodPlague_Statuses[0].GameName",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_Statuses[0].GameName",
                 "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
             },
             "GameOver": false,
@@ -247,13 +258,17 @@
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 2,
             "AlertSounds": [],
             "ConfidenceModifier": 0.0,
             "Description": {
                 "DefaultText": "全身感觉没有力气..",
-                "LocalizationKey": "COD_Gs_Ruins_BloodPlague_Statuses[1].Description",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_Statuses[1].Description",
                 "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
             },
             "EffectsOnActions": [],
@@ -330,8 +345,8 @@
                     "StatWarpData": "0ef92382faa66c643975c2c0f42ad82c",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -349,8 +364,8 @@
                     "StatWarpData": "930cf914322e9f145af1315d96f85a28",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -368,8 +383,8 @@
                     "StatWarpData": "16af37a364285d14586629e3e0700e55",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -387,14 +402,14 @@
                     "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
             "GameName": {
                 "DefaultText": "中度感染",
-                "LocalizationKey": "COD_Gs_Ruins_BloodPlague_Statuses[1].GameName",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_Statuses[1].GameName",
                 "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
             },
             "GameOver": false,
@@ -430,13 +445,17 @@
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 3,
             "AlertSounds": [],
             "ConfidenceModifier": 0.0,
             "Description": {
                 "DefaultText": "咳咳咳...",
-                "LocalizationKey": "COD_Gs_Ruins_BloodPlague_Statuses[2].Description",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_Statuses[2].Description",
                 "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
             },
             "EffectsOnActions": [],
@@ -532,8 +551,8 @@
                     "StatWarpData": "0ef92382faa66c643975c2c0f42ad82c",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -551,8 +570,8 @@
                     "StatWarpData": "930cf914322e9f145af1315d96f85a28",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -570,8 +589,8 @@
                     "StatWarpData": "16af37a364285d14586629e3e0700e55",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -589,14 +608,14 @@
                     "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
             "GameName": {
                 "DefaultText": "高度感染",
-                "LocalizationKey": "COD_Gs_Ruins_BloodPlague_Statuses[2].GameName",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_Statuses[2].GameName",
                 "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
             },
             "GameOver": false,
@@ -632,13 +651,17 @@
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 4,
             "AlertSounds": [],
             "ConfidenceModifier": 0.0,
             "Description": {
                 "DefaultText": "身体在燃烧！",
-                "LocalizationKey": "COD_Gs_Ruins_BloodPlague_Statuses[3].Description",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_Statuses[3].Description",
                 "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
             },
             "EffectsOnActions": [],
@@ -715,8 +738,8 @@
                     "StatWarpData": "0ef92382faa66c643975c2c0f42ad82c",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -734,8 +757,8 @@
                     "StatWarpData": "930cf914322e9f145af1315d96f85a28",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -753,8 +776,8 @@
                     "StatWarpData": "16af37a364285d14586629e3e0700e55",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 },
                 {
@@ -772,14 +795,14 @@
                     "StatWarpData": "f04e3176f16c4ecfbc513cf8c03bb437",
                     "StatWarpType": 3,
                     "ValueModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     }
                 }
             ],
             "GameName": {
                 "DefaultText": "重度感染",
-                "LocalizationKey": "COD_Gs_Ruins_BloodPlague_Statuses[3].GameName",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_Statuses[3].GameName",
                 "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
             },
             "GameOver": false,
@@ -815,6 +838,10 @@
             }
         },
         {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
             "ActionsMaxTicks": 0,
             "AlertLevel": 0,
             "AlertSounds": [],
@@ -828,7 +855,7 @@
             "EffectsOnStats": [],
             "GameName": {
                 "DefaultText": "僵尸化",
-                "LocalizationKey": "COD_Gs_Ruins_BloodPlague_Statuses[4].Description",
+                "LocalizationKey": "Cod_Gs_BloodPlague_BloodPlague_Statuses[4].GameName",
                 "ParentObjectID": "f04e3176f16c4ecfbc513cf8c03bb437"
             },
             "GameOver": true,

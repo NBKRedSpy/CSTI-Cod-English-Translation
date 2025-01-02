@@ -1,7 +1,7 @@
 {
     "InGameName": {
         "DefaultText": "Cod_StartingItem",
-        "LocalizationKey": "eTag_Cod_StartingItem_InGameName",
+        "LocalizationKey": "Cod_eTag_Cod_StartingItem_InGameName",
         "ParentObjectID": "68caa8cd50e57bd41bab415e49c2f2be"
     },
     "MandatoryEquip": true,

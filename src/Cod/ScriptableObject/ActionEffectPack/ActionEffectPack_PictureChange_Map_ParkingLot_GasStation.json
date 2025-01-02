@@ -1,0 +1,319 @@
+{
+    "actToInv": [],
+    "alwaysDrops": [],
+    "blueprintDrops": [],
+    "blueprintProgress": [],
+    "bpDropDisableCancel": false,
+    "cardDropByStatBy": [],
+    "cardDropByStatTo": [],
+    "cardGens": [],
+    "dropCollections": [],
+    "expProgress": 0.0,
+    "extActEntries": [],
+    "giveCardStateChange": {
+        "ChargesChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special2Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special3Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special4Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "SpoilageChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {},
+        "UsageChange": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "giveCondition": {
+        "NotInBackground": false,
+        "RequiredCardsInInventory": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredDurabilityRanges": {
+            "FuelRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "LiquidQuantityRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ProgressRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special1Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special2Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special3Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special4Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "SpoilageRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "UsageRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "RequiredEnvironment": {},
+        "RequiredEnvironmentTags": [],
+        "RequiredLiquidContainers": [],
+        "RequiredStatValues": [],
+        "RequiredTagsInInventory": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredTagsOnBoard": []
+    },
+    "giveMoveToFinder": {
+        "Active": false,
+        "AllowAnyCard": false,
+        "AllowAnyTag": false,
+        "CardConds": [],
+        "CardToFind": [],
+        "NeedBothCardAndTag": true,
+        "OnlySlot": false,
+        "SlotsType": "",
+        "TagToFind": []
+    },
+    "graphicsPack": {},
+    "hasCondition": false,
+    "hasLuaCode": false,
+    "isNotInBase": false,
+    "luaCode": "",
+    "miniWaitTime": 0,
+    "recCardStateChange": {
+        "ChargesChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special2Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special3Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special4Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "SpoilageChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {},
+        "UsageChange": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "recCondition": {
+        "NotInBackground": false,
+        "RequiredCardsInInventory": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredDurabilityRanges": {
+            "FuelRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "LiquidQuantityRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ProgressRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special1Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special2Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special3Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special4Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "SpoilageRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "UsageRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "RequiredEnvironment": {},
+        "RequiredEnvironmentTags": [],
+        "RequiredLiquidContainers": [],
+        "RequiredStatValues": [],
+        "RequiredTagsInInventory": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredTagsOnBoard": []
+    },
+    "recMoveToFinder": {
+        "Active": false,
+        "AllowAnyCard": false,
+        "AllowAnyTag": false,
+        "CardConds": [],
+        "CardToFind": [],
+        "NeedBothCardAndTag": true,
+        "OnlySlot": false,
+        "SlotsType": "",
+        "TagToFind": []
+    },
+    "simpleVarConditions": [],
+    "simpleVarModEntries": [],
+    "spriteSet": [
+        {
+            "Desc": "附近荒草丛生。\n\n看起来已废弃很久。",
+            "InRange": {
+                "x": 16.0,
+                "y": 55.0
+            },
+            "Name": "",
+            "StatValId": "Stat|c90e74efe4274f33984274a63a4ccf80",
+            "SubSprites": [],
+            "ToSetSprite": {},
+            "ToSetSpriteWarpData": "Env_ParkingLot_GasStation",
+            "ToSetSpriteWarpType": 3
+        },
+        {
+            "Desc": "附近荒草丛生。\n\n看起来已废弃很久。",
+            "InRange": {
+                "x": 56.0,
+                "y": 79.0
+            },
+            "Name": "",
+            "StatValId": "Stat|c90e74efe4274f33984274a63a4ccf80",
+            "SubSprites": [],
+            "SubSpritesWarpData": [],
+            "SubSpritesWarpType": 3,
+            "ToSetSprite": {},
+            "ToSetSpriteWarpData": "Env_ParkingLot_GasStation",
+            "ToSetSpriteWarpType": 3
+        },
+        {
+            "Desc": "夜间加油站上方有点点星灯亮起。\n\n空旷无人的黑夜出现了阵阵微光。",
+            "InRange": {
+                "x": 80.0,
+                "y": 96.0
+            },
+            "Name": "",
+            "StatValId": "Stat|c90e74efe4274f33984274a63a4ccf80",
+            "SubSprites": [],
+            "ToSetSprite": {},
+            "ToSetSpriteWarpData": "Env_ParkingLot_GasStation_Night",
+            "ToSetSpriteWarpType": 3
+        },
+        {
+            "Desc": "夜间加油站上方有点点星灯亮起。\n\n空旷无人的黑夜出现了阵阵微光。",
+            "InRange": {
+                "x": 0.0,
+                "y": 15.0
+            },
+            "Name": "",
+            "StatValId": "Stat|c90e74efe4274f33984274a63a4ccf80",
+            "SubSprites": [],
+            "ToSetSprite": {},
+            "ToSetSpriteWarpData": "Env_ParkingLot_GasStation_Night",
+            "ToSetSpriteWarpType": 3
+        }
+    ],
+    "statModByStatBy": [],
+    "statModByStatFunc": [],
+    "statModByStatTo": [],
+    "statModifications": [],
+    "tickWaitTime": 0,
+    "waitTime": 0
+}

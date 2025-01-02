@@ -146,8 +146,8 @@
                     "CollectionMessages": [],
                     "CollectionName": {},
                     "CollectionUses": {
-                        "x": 0.0,
-                        "y": 0.0
+                        "x": 0,
+                        "y": 0
                     },
                     "CollectionWeight": 0,
                     "CountsAsSuccess": false,
@@ -361,8 +361,8 @@
                     "CollectionMessages": [],
                     "CollectionName": {},
                     "CollectionUses": {
-                        "x": 0.0,
-                        "y": 0.0
+                        "x": 0,
+                        "y": 0
                     },
                     "CollectionWeight": 0,
                     "CountsAsSuccess": false,
@@ -576,8 +576,8 @@
                     "CollectionMessages": [],
                     "CollectionName": {},
                     "CollectionUses": {
-                        "x": 0.0,
-                        "y": 0.0
+                        "x": 0,
+                        "y": 0
                     },
                     "CollectionWeight": 0,
                     "CountsAsSuccess": false,
@@ -791,8 +791,8 @@
                     "CollectionMessages": [],
                     "CollectionName": {},
                     "CollectionUses": {
-                        "x": 0.0,
-                        "y": 0.0
+                        "x": 0,
+                        "y": 0
                     },
                     "CollectionWeight": 0,
                     "CountsAsSuccess": false,
@@ -1006,8 +1006,8 @@
                     "CollectionMessages": [],
                     "CollectionName": {},
                     "CollectionUses": {
-                        "x": 0.0,
-                        "y": 0.0
+                        "x": 0,
+                        "y": 0
                     },
                     "CollectionWeight": 0,
                     "CountsAsSuccess": false,
@@ -1221,8 +1221,8 @@
                     "CollectionMessages": [],
                     "CollectionName": {},
                     "CollectionUses": {
-                        "x": 0.0,
-                        "y": 0.0
+                        "x": 0,
+                        "y": 0
                     },
                     "CollectionWeight": 0,
                     "CountsAsSuccess": false,

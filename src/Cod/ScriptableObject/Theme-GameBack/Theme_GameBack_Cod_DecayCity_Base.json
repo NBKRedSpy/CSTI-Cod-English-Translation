@@ -1,0 +1,41 @@
+{
+    "BaseSet": {
+        "ImageName": "Theme_Cod_DecayCity_Base_DoorWay_Base",
+        "Priority": 880
+    },
+    "BookmarkLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "BookmarkRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "Card": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "CardWarpData": "d4e0bcce510b4b9991bd9f1c325d6fbd",
+    "CardWarpType": 3,
+    "ConditionSets": [],
+    "EnvSet": {
+        "ImageName": "Theme_Cod_DecayCity_Base_DoorWay_Location",
+        "Priority": 880
+    },
+    "ExpSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterLeftSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "FilterRightSet": {
+        "ImageName": "",
+        "Priority": 0
+    },
+    "HandSet": {
+        "ImageName": "Theme_Cod_DecayCity_Base_DoorWay_Location",
+        "Priority": 880
+    }
+}

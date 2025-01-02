@@ -17,7 +17,7 @@
     },
     "TabName": {
         "DefaultText": "瓶罐容器",
-        "LocalizationKey": "Tab_BottlesAndJars_TabName",
+        "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName",
         "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
     }
 }

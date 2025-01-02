@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_BloodHeart_Macy_ExistCount",
-        "LocalizationKey": "COD_Gs_BloodHeart_Macy_ExistCount_GameName",
+        "LocalizationKey": "Cod_Gs_BloodHeart_Macy_ExistCount_GameName",
         "ParentObjectID": "f51597be6dd1400aad19fcf6b37cca91"
     },
     "InvertedDirection": false,

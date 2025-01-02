@@ -1,9 +1,9 @@
 {
-  "ActionModifiers": [],
-  "InGameName": {
-    "DefaultText": "ValueItem_Level_Four",
-    "LocalizationKey": "T-qXkNZ23c6EW0bOGkJp8ZAgoc8SI=",
-    "ParentObjectID": "77de1f053ebdb06429821d8cf48ea9d0"
-  },
-  "UniqueOnBoard": false
+    "ActionModifiers": [],
+    "InGameName": {
+        "DefaultText": "ValueItem_Level_Four",
+        "LocalizationKey": "Cod_CardTag_ValueItem_LevelFour_InGameName",
+        "ParentObjectID": "77de1f053ebdb06429821d8cf48ea9d0"
+    },
+    "UniqueOnBoard": false
 }

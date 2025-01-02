@@ -1,0 +1,708 @@
+1.01
+Compressed the picture (thanks to Cromzst and Catfire for their help)
+Balanced some item prices and fixed some bugs (gym, mine)
+Spear attack on normal zombies changed from 2tp to 1tp
+Some purchase blueprint research times changed from 3 hours to 15 minutes (limited technology, can only be changed like this)
+Zombies only appear as normal zombies when exploring the port
+Finally, thanks to all the group members for their testing and suggestions
+Thanks to the group tester, Liv, for her testing and strategies
+
+
+2023.4.8 —— AL
+=======================================================================================
+1.02
+Now zombies discovered in port exploration only appear as normal zombies, fast zombies and filthy zombies
+Difficulty of starting with abandoned cruise ship changed
+Port can now explore small trees
+New goods for sale: canned dog food, cooking pot
+Drone partner enhanced
+
+!!! Important reminder!!!
+
+### After placing a blueprint that contains an “empty tin can” in the ### cod, if you switch scenes, the empty tin can in the blueprint will be lost.
+For example, [Blueprint for making oil drums] and [Blueprint for making fish cans].
+So please build the blueprint that contains an “empty tin can” directly after building it, or cancel the blueprint before switching scenes. ###
+
+2023.4.8 —— AL
+=========================================================================================
+1.03
+Gameplay adjustment: The Sawmill exploration card can no longer be deleted.
+Gameplay adjustment: Items can now be directly transferred in and out of the ship's hold.
+Gameplay adjustment: Items can now be directly transferred in the farm barn.
+Gameplay fix: Fixed an issue with the weight of items dropped from the ship's hold cabinet.
+Gameplay fix: Fixed an issue with the weight of items dropped from the town trash can.
+Content fix: Fixed an issue with the weight of items dropped during exploration in the sawmill.
+Content adjustment: A small additional reduction in the number of mosquitoes when the base environment is degraded.
+Content adjustment: You can now transport items directly from the farm to the city of corruption.
+Content adjustment: You can now transport items directly from the base to the city of corruption.
+Content fix: Fixed an issue where the card obtained during exploration of the mine may be empty.
+Content fix: Fixed an issue with the weight of items dropped during exploration of the mine.
+Gameplay fix: Fixed an issue with the weight of items dropped during the exploration of the mining area.
+Gameplay fix: Fixed an issue with the weight of items dropped during the exploration of the ship's cabin.
+Gameplay adjustment: The scene cards for entering and leaving the ship's cabin cannot be deleted.
+Gameplay fix: Fixed an issue with the weight of items dropped when looking out to sea from the deck.
+Gameplay fix: Fixed an issue with the weight of items dropped when scavenging from the broken car.
+Gameplay adjustment: The weight of items dropped when searching the cruise ship bar has been fixed.
+Gameplay adjustment: Items can now be transferred directly between the base and the restaurant.
+Gameplay adjustment: The weight of items dropped when exploring the dilapidated ship has been fixed.
+Gameplay adjustment: The weight of items dropped when exploring the fish processing plant has been fixed.
+Gameplay adjustment: Items can now be transferred directly between the broken-down car and the city.
+Gameplay fix: Fixed an issue with the weight of items dropped when searching in the car's glove compartment.
+Gameplay adjustment: Items can now be dragged directly between the sawmill and the city.
+Gameplay adjustment: The time taken to travel to and from the broken-down car has been changed from 15 minutes to a fixed 3 minutes.
+Gameplay adjustment: The time taken to view the scenery from the lookout tower at the mysterious border has been adjusted from 2 hours to 1 hour.
+Game content adjustment: The time required for entering and leaving the base and the restaurant has been changed from 15 minutes to 3 minutes.
+Game content adjustment: The area movement cards such as the sawmill moving to the city and the city moving to the sawmill can no longer be deleted.
+
+Starting from April 8, 2023, due to self-imposed counting restrictions and time and energy considerations, yoyo_koko will take over full responsibility for developing cod. I wish the mod will get better and better, and I hope everyone has fun.
+By AL
+
+1.04
+New game content: Added item card: Cigarette.
+New game content: Added item card: Accessories.
+New game content: Added creature card: Zombie.
+New game content: Added creature card: Vulture.
+New game content: Added status bar: Infection level.
+New game content: Added status bar: Fitness level.
+New game content: Added item card: Antidote.
+New game content: Added status bar: Physical strength.
+Added to the game: Added creature card: Jumbo Zombie.
+Added to the game: Added creature card: Screaming Zombie.
+Added to the game: Added creature card: Swift Zombie.
+Added to the game: Added creature card: Filthy Zombie.
+Added to the game: Added creature card: Petrified Zombie.
+Added to the game: Added creature card: Clawed Zombie.
+Added to the game: Added wound card: Zombie bite.
+Game content added: Add wound card: Zombie scratch.
+Game content added: Add wound card: Jumba scratch.
+Game content added: Add wound card: Filth infection.
+Game content added: Add wound card: Claw tear.
+Game content added: Add scene card: Zombie corpse.
+Game content added: Add prop card: Ragged clothes.
+Game content adjusted: Initial scene card adjustment for map mine.
+Game content adjustment: adjustment of the initial scene card in the map's mining area.
+Game content adjustment: adjustment of the initial scene card in the map's mysterious border.
+Game content adjustment: adjustment of the initial scene card in the map's dilapidated ship.
+Game content adjustment: adjustment of the initial scene card in the map's corrupt city.
+Game content adjustment: the Gavin office can now additionally purchase antidotes.
+Game content adjustment: adjustment of the initial scene card in the map's fish processing plant.
+Game content adjustment: entering the barn no longer costs time.
+Gameplay adjustment: Reduced blood pressure drop from being attacked by normal zombies.
+Gameplay adjustment: Reduced blood pressure drop from being attacked by giant zombies.
+Gameplay adjustment: Reduced time spent on all tasks to 12 Tp each time.
+Gameplay adjustment: Doubled the coin reward for all tasks each time.
+New content: More possibilities in the normal zombie confrontation event.
+New content: More possibilities in the giant zombie confrontation event.
+Game content added: more possibilities in the Screaming Zombie confrontation event.
+Game content added: more possibilities in the Swift Zombie confrontation event.
+Game content added: more possibilities in the Filthy Zombie confrontation event.
+Game content added: more possibilities in the Petrified Zombie confrontation event.
+Game content added: more possibilities in the Clawed Zombie confrontation event.
+Game content adjusted: the weight of each weapon in the Zombie event confrontation has been adjusted, and the escape option has been added.
+Game content adjustment: The weight of each weapon in the swift zombie event has been adjusted, and the escape option has been added.
+Game content adjustment: The weight of each weapon in the giant zombie event has been adjusted, and the escape option has been added.
+Game content adjustment: The weight of each weapon in the claw zombie event has been adjusted, and the escape option has been added.
+Game content adjustment: The weight of each weapon in the petrified zombie event has been adjusted, and the escape option has been added.
+Game content adjustment: The weight of each weapon in the filthy zombie event has been adjusted, and the escape option has been added.
+Gameplay adjustment: In the Scream Zombie event, the weight of each weapon has been adjusted, and the escape option has been added.
+Gameplay linkage: When it is now used together with the Apocalypse Voyage, the game will still start in the cabin.
+Gameplay adjustment: When the game starts with the starting trait of the cruise ship, it will be born in the cabin and start the game.
+Gameplay linkage: Now the Apocalypse Shark Tornado weather will not generate a hurricane transfer event on the Cod map.
+Content adjustment: In all zombie events, the time taken to reload a spear has been reduced from 15 minutes to 3 minutes.
+Content adjustment: In all zombie events, the time taken to reload a bow has been reduced from 15 minutes to 3 minutes.
+Content adjustment: In all zombie events, the time taken to reload a pistol has been reduced from 15 minutes to 3 minutes.
+Gameplay adjustment: In each zombie series confrontation event, the time consumed by revolvers has been changed from 15 minutes to 3 minutes.
+Gameplay adjustment: You can now drag and drop most of the supplies obtained in the city to Gavin to trade them for coins.
+
+1.05
+
+Gameplay adjustment: Adjusted the infection status map.
+Gameplay adjustment: Reduced the stamina consumed by all work.
+Gameplay fix: Fixed an issue where the antidote was purchased abnormally.
+Gameplay fix: Fixed the issue where the value of gold coins would naturally increase over time.
+Gameplay fix: Fixed the issue where the infection level did not take effect in some cases.
+Gameplay fix: Fixed the issue where the zombie corpse dropped an abnormal accessory texture.
+Gameplay fix: Fixed the issue where the zombie corpse dropped an abnormal cigarette texture.
+Gameplay fix: Fixed the issue where an unknown attack would occur in some cases.
+1.08
+Gameplay fix: Fixed the issue where the screech would continue to screech in the area when the player was not present.
+Gameplay adjustment: The amount of ammunition obtained in the starting cabin is now randomized.
+1.09
+Gameplay fix: Fixed the problem where bandages failed to heal wounds.
+Gameplay adjustment: The amount of coins required to purchase supplies from Gavin has been increased.
+Gameplay adjustment: The amount of coins obtained from selling animal carcasses in the blueprint has been greatly increased.
+Gameplay adjustment: Added restrictions on the appearance of vultures, so that they will no longer appear in large numbers in a short period of time.
+Game content adjustment: In all zombie confrontation events, the time consumed by escape has been adjusted from 15 minutes to 3 minutes.
+1.10
+Game content addition: New scene: Survival.
+Game content adjustment: Infection and serum texture adjustments.
+Game content adjustment: The immune system will now have an impact on the degree of infection.
+Game content addition: Added props: aspirin and a series of related medicines.
+Game content fix: Fixed the occasional failure of firearms against ordinary zombies.
+Game content fix: Fixed the occasional failure of firearms against vulture creatures.
+Game content fix: Fixed the occasional hurricane attack on some maps in the Apocalypse Linkage: Sharknado.
+1.11
+Game content fix: Fixed the abnormal increase in status values for some medicines.
+Game content fix: Fixed the problem that bullets are not consumed in some zombie confrontation events.
+1.12
+Game content addition: Added new item Industrial Materials.
+Game content added: new item ACG reagent.
+Game content adjustment: adjust the weight of some zombie confrontations.
+Game content adjustment: adjust the status gain of some drinks.
+Game content adjustment: adjust the prices of items sold by vending machines.
+Game content adjustment: reduce the weight of red bricks from 350 to 150.
+Game content adjustment: increase the price of glass jars purchased by Gavin.
+Game content adjustment: adjust the prices of food sold in the restaurant.
+Content fix: Fixed an issue with the texture of the blacksmith's work blueprint.
+Content adjustment: Adjusted the content of the initial scene card in the map Mystery Town.
+Content adjustment: Now liquids in empty tin cans evaporate slowly.
+Content adjustment: Now some items will be randomly found in the boxes in the ruins of the town.
+Content adjustment: Bandages now heal stitched lacerations.
+Content adjustment: The abandoned machinery in the sawmill can now be interacted with to sort materials.
+Game content adjustment: The materials required to sell the red brick blueprint have been reduced, and the amount of coins given has been doubled.
+Game content linkage: The Hurricane event will no longer occur during the Apocalypse 1.45 Sharknado event on the Cod-Ruined City map.
+Game content adjustment: All exploration and search event cards have been changed to creature cards: that is, the zombies found will remain on the map in physical form.
+Game content adjustment: the materials required to craft the blueprints for the remora can, fish can, revolver bullets and large oil drum have been modified.
+1.13
+Game content addition: the sawmill has been duplicated.
+Game content addition: a brand new noise system.
+Game content addition: the status “noise factor” has been added.
+Game content addition: the status “regional heat” has been added.
+Game content adjustment: the prices of all the dishes in the restaurant have been lowered.
+Gameplay adjustment: Feature: The worn-out ship texture has been changed.
+Gameplay adjustment: The materials that can be obtained in the ship cabin scene have been adjusted.
+Gameplay adjustment: The feature: Worn-out ship is now renamed to Abandoned City.
+Gameplay adjustment: Entering and leaving the barn will no longer consume time.
+Gameplay adjustment: The name of the Water Pack blueprint has been changed to Bagged Water Pack.
+Gameplay adjustment: The amount of coins consumed by purchasing Soda Chips has been reduced.
+Game content adjustment: The amount of coins consumed to purchase alien nodules has been significantly increased.
+Game content fix: Fixed the issue where the barn did not provide the normal food preservation effect.
+Game content fix: Fixed the occasional display issue where blueprint prompts would persist.
+Game content fix: Fixed the issue where the blueprint for purchasing fat blocks would not display properly in the game.
+Game content addition: Fishing traps now generate fish at the Broken Wall Port.
+Content addition: Placing a trap at the Mysterious Border now also generates additional animal rewards.
+Content fix: Fixed an issue with the description of the unlocking conditions for the archery tutorial.
+Content link: The Apocalypse's Journey trait is now compatible with all content adjustments in the latest version.
+1.14
+Content fix: Fixed an issue with the rapid zombie attack event.
+Content adjustment: The noise factor now decreases at a faster rate.
+Game content fix: fix abnormal probability of searching the cabin wardrobe.
+1.15
+Game content adjustment: now the noise attracts zombies randomly, and the overall attraction is reduced.
+1.16
+Game content fix: fix abnormal problem of cabin loot drop.
+Game content adjustment: increase the threshold of noise factor, so that the area heat will not increase until a certain level is reached.
+1.17
+Game content adjustment: now the number of zombies generated within a certain period of time will not exceed a certain value.
+1.18
+New content: Added character status blood plague.
+Content adjustment: The price of purchasing fat blocks has been increased.
+New content: Added a scene card shelf that can be explored.
+New content: Added a scene card holder that can be explored.
+New content: Added a scene card iron cabinet that can be explored.
+New content: Added a scene card iron box that can be explored.
+New content: Added a supply package that can be obtained.
+Game content added: new supplies that can be obtained, candy bags.
+Game content added: new area to explore, Modern Street.
+Game content added: new area to explore, Macy's Department Store.
+Game content added: blueprint for a special weapon, Molotov cocktail.
+Game content added: new interactive scene card, Heart of the Blood Plague.
+Game content added: new materials to be obtained by exploring, chemicals.
+Game content adjusted: the weight of items dropped during exploration of the area Decaying City has been modified.
+Game content adjustment: The drop weight of items found during exploration in the area of Vitality has been modified.
+Game content adjustment: The drop weight of items found during exploration in the area of the Sawmill has been modified.
+Game content adjustment: The initial scene card in the area of the Decaying City has been modified.
+Game content addition: More than 100 cards for supplies that can be obtained through exploration have been added.
+Game content adjustment: There will now be a limit on the number of zombies that can be generated from noise over a certain period of time.
+
+This update involves the addition of hundreds of new items and content.
+A special thanks to AL for providing hundreds of posted images to make this possible.
+AL is the best!
+1.19
+Game content fix: Fix the problem of abnormal item drops in some scenes.
+1.20
+Game content fix: Fix the problem of abnormal Molotov cocktail blueprint production.
+Game content fix: Fix the problem that Molotov cocktails can burn forever.
+Game content fix: Fixed the problem where the screaming zombie does not die normally in some cases.
+Game content adjustment: Now various types of searchable scene cards such as item piles and racks will no longer be superimposed.
+Game content adjustment: Now there will be a lower probability of scavenging some packages in the abandoned port area.
+1.21
+Game content addition: Added special event airdrop.
+Game content adjustment: Added new map Eleven. 
+Game content addition: Added four item shelves. 
+Game content adjustment: Changed the texture of the abandoned city.
+Game content addition: Added a special event helicopter.
+Game content adjustment: Visualized the mysterious border animals. 
+Game content adjustment: Adjusted the swift zombie confrontation event.
+Game content addition: Added an area to explore, Eleven.
+Game content adjustment: Renamed the cannery to Neptune. 
+Game content addition: Added five types of fish-related canned food.
+Game content adjustment: Vultures now spawn one at a time.
+Game content adjustment: workout level and body strength map modified.
+Game content adjustment: scavenging and drops in the cannery area modified. 
+Game content added: basic tools such as hammers, wrenches and knives have been added.
+Game content adjustment: the macaque event will no longer occur in the mysterious border.
+Game content fixed: fixed the issue of abnormal scavenging drops from the heart of the blood plague.
+Game content adjustment: All Npc series characters are now considered scenes.
+Game content adjustment: Adjustments to the consumption of bow and arrow durability during some zombie confrontations.
+Game content fix: Fix the problem of abnormal items being dropped when interacting with the Heart of the Blood Plague.
+Game content adjustment: NPCs are no longer required for Npc-related blueprint materials.
+Game content fix: Fix the problem that the immune system cannot continuously reduce the blood plague when it is at the highest level.
+Game content fix: Fix the problem that some chemicals cannot be used as ingredients for Molotov cocktails.
+Content adjustment: The analgesic effect provided by the wine series of items has been increased, and the drunkenness provided has been decreased.
+Content linkage: Fixed the issue where the weather would change to stormy when returning from the apocalypse map-flower field. (Requires an updated apocalypse version)
+1.22
+Content fix: Fixed the issue where the exercise level and physical strength were displayed abnormally.
+Content fix: Fixed the issue where the scene switching was abnormal when entering and exiting the map Eleven.
+
+1.23
+Game content added: feature: bullets.
+Game content added: added item: dumbbell.
+Game content adjusted: resource coefficients increased in some locations.
+Game content fixed: fixed an issue where the helicopter event was triggered abnormally.
+Game content adjusted: added additional guaranteed resources that can be obtained in some locations.
+Game content adjusted: increased the number of coconuts that can be scavenged at the dilapidated port.
+Game content fixed: fixed an issue where the map texture was displayed abnormally in location Eleven.
+Game content adjustment: Increase the number of searchable buildings on the map of Eleven.
+Game content adjustment: The entrance to the dilapidated ship can now be searched for in the dilapidated port.
+Game content fix: Fix the abnormal display of body strength and workout level textures.
+1.24
+Game content adjustment: The zombie generation coefficient in the abandoned port has been reduced.
+Game content adjustment: Additional content to explore in the abandoned port.
+Content adjustment: Added ten types of water resources that can be scavenged.
+Content adjustment: Enriched the contents of scavengable supplies in some areas.
+Content adjustment: Giant zombies will drop additional supplies when killed.
+Content fix: Fixed the issue where vending machines will spawn multiple vending machines when purchased.
+1.25
+Content adjustment: Adjusted the content related to unlocking containers.
+Content adjustment: Adjusted the names of some facilities in the Corruption City camp.
+Content adjustment: The names of some facilities will no longer be displayed normally in the game.
+Content adjustment: Area Eleven will now be found normally in the dilapidated port.
+Content fix: Fixed the problem that some zombies can search for compressed biscuits.
+Content fix: Fixed the problem that some Macy's shelves are not properly stacked.
+Content fix: Fixed the problem that some material names are displayed abnormally when making Molotov cocktails.
+Content fix: Fixed the problem that the game freezes when exploring a certain area in Area Neptune.
+Game content fix: Fix all abnormal issues related to the display of English text for combat zombies.
+Game content update: Thanks to Catfire for the compression: the size of the wasteland has now been greatly reduced, which will greatly improve loading speed in the game.
+1.26
+Game content addition: New area—the strait.
+Game content addition: New special area event.
+Game content adjustment: Abandoned ship renamed to ship.
+Game content adjustment: Abandoned port renamed to port.
+Game content adjustment: The situation of the fight against the Heart of Blood Plague has been adjusted.
+Game content adjustment: The search and loot of ships and ship cabins has been adjusted.
+Game content addition: New scene content has been added to some areas.
+Game content addition: Special weather will be randomly generated in some areas.
+Game content fix: You can now correctly build the Canned Fish Machine in the Sea King.
+Game content addition: a brand new urban ecology—various clusters have begun to move around the city.
+Game content fix: fixed the problem where the zombie combat options are in English in some cases.
+Game content adjustment: added a distance system—choose your weapon according to the situation when facing zombies.
+Game content adjustment: now when the Heart of the Blood Plague is defeated, the blood fog in the surrounding area will slowly dissipate.
+Game content compatibility: now composite bows and special types of arrows can be used in combat against zombies.
+Game content adjustment: All creatures have been restructured to fight against each other – now all zombies will have a characteristic fighting weight.
+1.27
+Game content fix: Fixed some text anomalies.
+Game content fix: Fixed some creature texture mapping anomalies.
+Game content fix: Fixed the problem that the Strait map could not normally find the return path.
+1.28
+Game content fix: Fixed the problem that the bell-related event trigger was abnormal.
+1.29
+Game content fix: fix abnormal triggering of fog.
+1.291
+Game content fix: fix the issue where containers are not generated normally in the port area.
+1.292
+Game content fix: fix the issue where exploration drops are abnormal in the Sea King area.
+Game content fix: completely fix the abnormal triggering of urban fog.
+Game content fix: completely fix the issue where exploration drops are abnormal in the strait area.
+Game content fix: fix the issue where the texture of the content that can be explored in the strait area is abnormal.
+
+1.300
+Content change: Text change for swift death.
+Content change: Text change for the route from the port to the strait.
+Content addition: A new creature ecology has been added to the strait.
+Content addition: The port area will generate sea fog.
+Content change: Serum now has a stronger effect on bloodborne diseases.
+Content addition: Dynamite can now be used against zombie-like creatures.
+Content fix: Fixed a visual error during the urban fog.
+Content change: Straits and oceans will now have an additional effect on statuses when interacted with.
+Content fix: Fixed an issue where the sound of events related to vultures did not work properly.
+Content addition: Added blueprint: Chemical Agent.
+Content addition: Added blueprint: Molotov Cocktail - Oil Material.
+Content addition: Added blueprint: Scarlet Agent.
+Content addition: Added item: Scarlet Agent.
+Content addition: Added blueprint: Water Collector.
+Added in-game content: Added item: Water Collector.
+Added in-game content: Added status: Scarletin.
+Added in-game content: Biological liquid: Scarlet Water.
+Added in-game content: Equipment: Necklace.
+Added in-game content: Loot: Wilderness Survival Manual.
+Added in-game content: The port and strait will change with the environment.
+Content modified: Npc Fei Qiao has new plot dialogue.
+Content update: Npc Gavin has new dialogue.
+Content update: The entrance to the base has been changed.
+Content update: A new dialogue system has been added.
+Content pre-load: Special channel in the strait.
+Content update: Map area: square.
+Content update: Floating rings.
+Content update: Area sea fog system, area blood fog system, and area blood plague infection level.
+1.301
+Game content fix: Fixed the abnormal production of Molotov cocktails.
+Game content fix: Fixed the visual abnormality of the red plant card.
+Game content fix: Fixed the abnormal generation of exploration cards in the strait and port area.
+1.302
+Game content fix: Fixed the abnormal description of the blood fog status.
+Game content fix: Fixed the problem of unknown zombie attacks in the strait and port area.
+1.303
+Game content fix: Fixed the visual abnormality of the normal zombie card.
+1.304
+Game content fix: Fixed an issue with abnormal EXP during sea fog in straits and ports.
+1.305
+Game content fix: Fixed an issue with abnormal generation of special plants in straits and ports.
+Game content fix: Fixed an issue with abnormal infection values in the blood plague.
+Game content fix: Fixed an issue with visual abnormalities in the port area.
+Game content fix: Fixed an issue with visual abnormalities on special trails in the abandoned city.
+1.306
+Content fix: Fixed an issue with abnormal plant growth.
+Content fix: The red fog will now dissipate over time.
+Content fix: Fixed an issue with constant alarms in the city area.
+Content fix: Fixed an issue with long load times caused by abnormal plant growth.
+1.307
+Content adjustment: The health of special red plants has been reduced.
+Content adjustment: Trading with Gavin now supports stacking.
+Content fix: Fixed an issue with abnormal plant growth.
+Gameplay Fix: Fixed an issue with the effect of the red fog.
+Gameplay Adjustment: The time required for the weapon catapult to defeat most creatures has been reduced from 15 minutes to 3 minutes.
+1.308
+Gameplay Fix: Fixed an issue with the effect of the blood fog.
+Gameplay Update: Updated the text and visuals of the hidden areas in the city.
+1.309
+Gameplay Addition: Added a new characteristic: physique.
+Gameplay Update: Fixed an issue where the return area in the city area was not generated normally.
+1.310
+Game content preload: Preload content related to the Neptune area.
+Game content fix: Fix an issue with abnormal plant spore generation.
+Game content fix: Fix an issue with abnormal display of book textures.
+Game content fix: Fix an issue with abnormal generation of swimming rings in the strait.
+Game content addition: Add new interactive options to swimming rings in the strait.
+Game content adjustment: You can now trade with Gavin in a dark environment.
+Gameplay content fix: Fixed the problem where the blueprint exclamation mark cannot be removed when obtaining lamb-related content.
+Gameplay content fix: Fixed the problem where the status is affected when a normal zombie is not present in the scene.
+1.311
+Gameplay content addition: Added feature: Antibody.
+Gameplay content addition: Added feature: Silence.
+Gameplay content addition: Added item: Carrion.
+Gameplay content preloading: Preloading of the town signal tower.
+Game content added: Added item: batteries.
+Game content added: Added blueprint: meat grinder.
+Game content added: Added item: meat grinder.
+Game content adjusted: Feature: enhanced physique effect.
+Game content added: Added item: rechargeable batteries.
+Game content added: Added in-scene item: carrion pile.
+Game content adjusted: City of Decay renamed to: Philadelphia.
+Game content adjusted: City of Decay will change with the day and night.
+Added to the game: Vultures now have a special form of clustering.
+Added to the game: There are now animal clusters in the port area.
+Added to the game: There are now animal clusters in the city area.
+Added to the game: Added a new area in the port to explore: the sewers.
+Optimized game content: Speed up loading time when entering the Cod map.
+Fixed game content: Fixed the issue with the abnormal map of the field survival manual.
+Adjusted game content: You can now go directly from the port area to the broken ship.
+Gameplay adjustment: You can now enter and exit the barn in dark environments.
+Gameplay adjustment: Scarlet reagent now additionally affects immunity.
+Gameplay addition: The airdrop in the Corruption City area will now generate additional content.
+Gameplay addition: Zombie corpses can now be carried and processed with tools.
+Gameplay fix: Fixed the issue where the plastic sheet may not be returned when dismantling the water collector.
+Gameplay fix: Fixed the issue where the storm may be triggered when opening the package while Mod: Apocalypse is enabled.
+
+Note: Please update the Modloader to version .44 or above to experience the new visual style of Cod.
+1.312
+Game content fix: Fixed the issue where bandages did not affect wounds correctly.
+1.313
+Game content adjustment: You can no longer throw items directly into the sewers.
+Game content fix: Fixed the issue where infected plants in the strait area overgrow excessively.
+Content fix: Fixed an issue where infected plants would generate excessive amounts of blood fog.
+Content fix: Fixed an issue where the harbor seagull creature and its flock would not appear in the harbor normally.
+Content fix: Fixed an issue where the Philadelphia giant lizard creature and its flock would not appear in the harbor normally.
+1.314
+Content fix: Fixed an issue where items would drop abnormally after the blueprint for the meat grinder was completed.
+Content fix: You can now correctly use tools on zombie corpses to obtain products.
+1.315
+Content fix: Fixed an issue where the sewers could not be explored.
+Content fix: Fixed an issue where exploring Eleven would prevent the sewers from being explored.
+1.400
+Content addition: Added a new blueprint: decoy.
+Content adjustment: Adjusted the description text for childlike.
+Content adjustment: Adjusted the description text for filling eggs.
+Content adjustment: Adjusted the description text for canned tuna.
+Content adjustment: Adjusted the amount of water in the sewer sewage.
+Game content adjustment: The old-fashioned record player in the lumberyard has been renamed to: record player.
+Game content fix: Fixed an issue with the infected plant interface displaying abnormally.
+Game content adjustment: The flashlight's power consumption has been reduced, and a slot for a rechargeable battery has been added.
+Game content addition: Now there is a chance to sort out parts from abandoned equipment in the sawmill.
+Game content adjustment: The blueprint for the water collector can now be placed in an unobstructed environment.
+Game content fix: Fixed an issue where an item pendant could be obtained multiple times in some cases.
+Content fix: Fixed an issue where the vulture cluster may cause a crash when present in the scene.
+Content adjustment: Adjusted the population density affected when creatures such as seagulls, vultures, and iguanas are killed.
+Content fix: Fixed an issue where the scream can still call its kind when there are a high number of zombies in the scene.
+Content fix: Fixed an interaction abnormality with sharp tools. Now using sharp tools will allow you to process corpses more efficiently.
+Game content adjustment: The turntable interaction has been adjusted to start and stop the turntable. Starting the turntable will have a continuous buff effect and reduce the turntable's battery.
+Game content adjustment: Creatures such as iguanas, seagulls, and vultures will be more interested in the content placed in the field and will no longer directly plunder the food in the player's hands.
+New game content: You can now delay the attack of zombies by throwing them carrion directly. Different zombies are attracted to carrion to different degrees.
+
+New game system: Trading supply box queue.
+New game content: New base map: Rust City.
+New game content: New path card: [Base] - [Rust City].
+New game content: New scene card: Supply box queue.
+New game content: Obtainable item: basic supply box.
+Game content added: Obtainable item: Normal supply crate.
+Game content added: Obtainable item: Rare supply crate.
+Game content added: Obtainable item: Extraordinary supply crate.
+Game content added: Obtainable item: Ultimate supply crate.
+Game content added: Obtainable item: Silencer.
+Game content added: Obtainable item: GRE airdrop.
+Game content added: Obtainable item: TNT cluster.
+Game content added: Obtainable item: TPV reagent.
+Added to the game: Obtainable item: MBK night vision goggles.
+Added to the game: Obtainable item: CBK tactical backpack.
+Added to the game: Obtainable item: Portable charging station.
+Added to the game system: Card names are now color-coded to indicate rarity.
+
+Added to the game: Tradable card: Cable.
+Added to the game: Tradable card: Parts.
+Added to the game: Tradable card: Nail.
+Game content added: Tradable card: Planks.
+Game content added: Tradable card: Industrial materials.
+Game content added: Tradable card: Candy.
+Game content added: Tradable card: Childhood.
+Game content added: Tradable card: Childlike innocence.
+Game content added: Tradable card: Kinder.
+Game content added: Tradable card: Coca-Cola.
+Game content added: Tradable card: Packaged food.
+Game content added: Tradable card: Chemical reagent.
+Game content added: Tradable card: Cocaine.
+Game content added: Tradable card: Amoxicillin.
+Game content added: Tradable card: Aspirin.
+Game content added: Tradable card: Piperacillin.
+Game content added: Tradable card: Mezlocillin.
+Game content added: Tradable card: Norfloxacin.
+Game content added: Tradable card: Verapamil.
+Game content added: Tradable card: Cefradine.
+Game content added: Tradable card: Doxycycline.
+Game content added: Tradable card: Tylosin.
+Game content added: Tradable card: Silencer.
+Game content added: Tradable card: GRE airdrop.
+Game content added: Tradable card: MBK night vision goggles.
+Gameplay update: Tradable card: Portable charging station.
+Gameplay update: Tradable card: CBK tactical backpack.
+Gameplay update: Tradable card: TNT cluster.
+Gameplay update: Tradable card: TPV reagent.
+
+Gameplay adjustment: Amoxicillin will additionally provide an analgesic effect.
+Gameplay adjustment: Aspirin will additionally provide an analgesic effect.
+Gameplay adjustment: Piperacillin will additionally provide an analgesic effect.
+Gameplay adjustment: Mezlocillin will additionally provide an analgesic effect.
+Gameplay adjustment: Norfloxacin will additionally provide an analgesic effect.
+Gameplay adjustment: Verapamil will additionally provide an analgesic effect.
+Gameplay adjustment: Cefradine will additionally provide an analgesic effect.
+Gameplay adjustment: Doxorubicin will additionally provide an analgesic effect.
+Gameplay adjustment: Tableau will additionally provide an analgesic effect.
+
+Gameplay visual update: Map - [Ship's Cabin] added background effect.
+Gameplay visual update: Map - [Port] added background effect.
+Gameplay visual update: Map - [Philadelphia] added background effect.
+Gameplay visual update: Map - [Base] added background effect.
+Game visual update: Map - [Modern Street] added background effects.
+Game visual update: Map - [Mysterious Frontier] added background effects.
+Game content adjustment: Visualization of the remaining number of creatures in the screaming cluster.
+Game content adjustment: Visualization of the remaining number of creatures in the swift cluster.
+Game content adjustment: Visualization of the remaining number of creatures in the zombie cluster.
+Game content adjustment: Visualization of the remaining number of creatures in the sea of corpses cluster.
+
+
+Gameplay adjustment: Creature – [Jumbot] will display current health.
+Gameplay adjustment: Creature – [Jumbot] will display current burn value.
+Gameplay adjustment: Creature – [Jumbot] will display current health.
+
+Gameplay adjustment: Cocaine's pain relief effect has been increased.
+Gameplay adjustment: [Revolver Bullets] has been renamed to [Bullets].
+Gameplay adjustment: [Revolver Bullets] text description adjustment.
+Gameplay fix: Fixed the issue where the blueprint [Sell Shells] would generate extra Garvin.
+Gameplay adjustment: The equivalent profit from the blueprint [Sell Shells] has been increased to four times the original.
+Gameplay adjustment: The equivalent profit from the blueprint [Sell Red Bricks] has been increased to twice the original.
+Game adjustment: The required coins for the blueprint [Buy Toolbox] have been reduced from [80] to [50].
+Game adjustment: The required coins for the blueprint [Buy Clay Pot] have been adjusted from [300] to [150].
+Game adjustment: The equivalent profit from the blueprint [Sell Empty Tin] has been increased to twice the original.
+Game adjustment: The equivalent income from the blueprint [Sell Braided Goods] has been increased to eight times the original.
+Game adjustment: The required coins for the blueprint [Buy Antibiotics] have been adjusted from [100] to [80].
+Game adjustment: The required coins for the blueprint [Buy Revolver] have been adjusted from [1000] to [750].
+Game adjustment: The required coins for the blueprint [Buy Black Slave Set] have been adjusted from [8] to [16].
+Gameplay adjustment: The profit from the blueprint [Sell Seashells] has been adjusted from 5 coins to 10 coins.
+Gameplay adjustment: The number of seashells required for the blueprint [Sell Seashells] has been adjusted from 10 seashells to 5 seashells.
+Gameplay adjustment: The number of red bricks required for the blueprint [Sell Red Bricks] has been adjusted from 10 red bricks to 5 red bricks.
+Game adjustment: The quantity required for the blueprint [Sell Empty Tin] has been adjusted from [4] to [5].
+Game adjustment: The required coins for the blueprint [Buy Sawing Tools] have been adjusted from [200] to [150].
+Game adjustment: The required coins for the blueprint [Buy Food Filling Secret 1] have been adjusted from [88] to [100].
+Gameplay adjustment: The required coins for the blueprint [Buy Secret Recipe for Stuffed Food 2] have been adjusted from [88] to [100].
+Gameplay adjustment: The time consumed by [Work Blueprints] at all Gavin locations has been adjusted from [6] hours to [3] hours.
+
+New gameplay: The pendant has been added to convert the value of coins into the function of solidifying the card.
+This update adds a large number of brand new props and a large number of systematic content adjustments, especially in [Base]-[Rusty City], where a large number of brand new content has been added.
+Coins can now be converted into gold values to participate in various trading activities in the game. Gold values can be found in the [Skills] field in the status bar, and can be used with data display mods to display specific values at any time.
+In addition, some new maps have added new visual effects. When updating this time, please additionally place the ThemeSupport.dll in the Plugins folder in the installation package to experience the best visual effects of Cod.
+
+1.401
+Game content adjustment: Base work is limited to once a day.
+Game content addition: Coconut trees have been added to the port area.
+Game content adjustment: The path map from Philadelphia to the base has been changed.
+Game content adjustment: The text on the path from Philadelphia to the base has been changed.
+Game content adjustment: The name of the homemade chili can has been changed to “Spice”.
+Game content fix: Fixed an issue with the display of the status count.
+Game content fix: Fixed an issue with the bonus for filling food.
+Game content adjustment: Adjust capsaicin provided by homemade chili cans.
+Game content repair: Fix the problem of abnormal production of blueprint: compost heap.
+Game content repair: Fix the problem of abnormal blueprint: compost heap picture.
+Game content repair: Fix the abnormal use of MRK night vision device.
+Game content repair: Fix the problem of cards disappearing when the radio is turned off.
+Game content repair: Fix the abnormal use of portable charging station.
+Game content repair: Fix the problem of some package props being empty.
+Game content adjustment: The required coins for the blueprint [Buy Clay Pot] have been adjusted to the correct [150] coins.
+Game content adjustment: The amount of oil required for the Molotov Cocktail has been slightly reduced to prevent the container from evaporating and becoming unusable.
+Game content fix: Fixed the problem where the power of the flashlight would slowly decrease even when it was not turned on.
+Game content adjustment: The required coins for the blueprint [Buy a glass jar] have been adjusted from [300] to [150].
+Game content addition: Trading a certain amount of supplies with Gavin will increase a certain amount of Salvation Army trust.
+
+
+
+1.500
+Game content tweak: Seagull creature cluster text tweak.
+Game Content Adjustment: Vulture Creature Cluster Text Adjustment.
+Game content adjustment: Gargoyle creature cluster text adjustment.
+Game Content Adjustment: Philadelphia Wrecking Cars add soft chair deck.
+Game Content Adjustment: Reduced materials required to create the Big Oil Barrel blueprint.
+Game content added: Zombie corpses now support two-way interaction with tools.
+Game content added: Charred zombie corpses now support continuous interaction.
+Game content added: Carrion can now be thrown directly at zombie-like creatures.
+Gameplay content fix: Fixed an issue where the map: Sewers could not be explored sometimes.
+Game Content Fix: Fixes the issue where parcel items did not disappear properly after opening.
+Game Content Adjustment: Fat Joe's consumption of cast coins for purchasing mud piles and obtainable mud has been increased.
+Game Content Adjustment: Randomization of obtainable dirt per shovel digging in Farm area.
+Game Content Adjustment: The amount of coins needed to purchase [Planks] in the Rust Market area has been adjusted to [10] points.
+
+Game system added: “Cultivation System
+Game content added: Plantable type: Potato.
+Game content added: Cultivable type: Tomato.
+Added a new type of game content: Turnip.
+Game content added: Plantable type: Watermelon.
+New content added: Plantable Type: Pumpkin.
+
+New content added: Plantable cards: Potato.
+New content added: Cards to grow: Tomato.
+New content added: Cards to grow: Radish.
+
+Game content added: Buildable facilities: Tent.
+Game content added: Craftable blueprints: Tent.
+Game content added: Props available: Vehicle Battery.
+New content added: Props available: Vehicle Soft Seat.
+New content added: Blueprints available: Vehicle Toolbox.
+Game content added: Props available: Vehicle Toolbox.
+New content added: Props available: Fire Axe.
+New: Scene to explore: Fire Pump.
+New: Props available: Leather Pieces.
+New: Crafting blueprints: Leather.
+New content added: You can get props: Medical Bandage.
+New content added: Props available: Glucose.
+New: Props available: Organizer.
+New: Crafting blueprints: Organizer.
+
+New content added: Explorable Scenario: Household Vehicle-[1].
+New content added: Explorable Scenarios: Household Vehicles - [2].
+New: Explorable Scenarios: Household Vehicles-[3]
+New content added: Explorable Scenarios: Household Vehicles - [4]
+New content added: Explorable Scenarios: Pickup Truck - [1]
+New content added: Explorable Scenarios: Pickup Truck -[2]
+New content added: Explorable Scenarios: Pickup Truck - [3]
+New content added: Explorable Scenery: Pickup Truck - [4]
+New content added: Explorable Scenery: Pickup Truck - [1]
+New content added: Explorable Scenery: Pickup Truck - [2]
+New content added: Explorable Scene: Luxury Car -[1]
+New content added: Explorable Scene: Luxury Car -[2]
+New in-game content: Explorable Scene: Luxury Car-[3]
+New in-game content: Explorable Scene: Luxury Car-[4]
+New content added: Explorable Scene: Firefighting Vehicle-[1]
+New content added: Explorable Scene: Emergency Vehicle -[1]
+
+Game content added: Explorable map: Gas Station.
+Adjustments to game content: Farm Area: New scavenging content has been added - start your prosperous farm here.
+
+This update adds a large number of new props, especially in the planting system with base building and vehicle exploration content installed.
+A variety of new crops, different stages of growth visualization, different final results depending on the care, a variety of new materials and blueprints.
+Brand new maps: parking lots and gas stations. Dozens of vehicles to explore, dozens of interactions, detailed scavenging, violent disassembly, drawing fuel, vehicle disassembly.
+ThemeSupport.dll will be built into this mod folder since version 1.50.
+Love Power Certification has been passed: https://afdian.com/a/SpCreed?tab=home
+Any play suggestions can be communicated with me here.
+If you have a willingness to support, you can also sponsor on this URL, I would like to thank all the players all the way feedback and development assistance for CSTI-Card Survival-Zombie Apocalypse.
+Happy Christmas Eve~!
+2024.12.24-YoYo
+
+
+1.501
+Game content adjustment: initial default supplies adjustment for parking lot tent.
+Game content fix: Fix the abnormal effect of glucose injection.
+Game content fix: Fix the problem of abnormal finished product of Iron Pillar blueprint crafting.
+Game content repair: Repair the problem of abnormal trigger effect of parking lot tent.
+Game Content Repair: Repair the problem of abnormal effect of Channel Dive when starting Mod Apocalypse at the same time.
+
+Thanks to Quantum for the development support:
+Game Content Adjustment: Revised mission icon logo in the blueprint creation interface.
+Game content tweak: Port areas can now additionally generate parking lot entrances, meaning compatibility with reverse pass players.
+Gameplay tweak: The base area can now be explored additionally to the Rust City entrance, meaning it is compatible with some old archive playthroughs.
+New content added: Cards to grow: Watermelon.
+New content added: Cultivate Cards: Pumpkin.
+New content added: Cards to grow: Giant Potato.
+New content added: Cultivate Cards: Giant Tomato.
+New content added: Cultivate Cards: Giant Radish.
+New content added: Cultivate Cards: Colorful Radish.
+New content added: Cultivate Cards: Thumb Watermelon.
+New content added: Cards to grow: Giant Watermelon.
+New content added: Cards to grow: Ordinary Watermelon.
+New content added: Cards to grow: Regular Pumpkin.
+New content added: Cards to grow: Twin Pumpkins.
+New: Cards to grow: Giant Pumpkins.
+
+New: Craftable blueprint: Basic Farm.
+New: Craftable blueprints: Square Square Fields.
+New: Craftable blueprint: Nine Square Field.
+New content added: Blueprints available: Integrated Plantation.
+
+New content added: Constructible: Basic Farm.
+New content added: Constructible: Square Grid Field.
+New content added: Buildable facility: Nine Square Field.
+New in-game content: Buildable facility: Integrated Plantation.
+New in-game content: Buildable facility: Basic farmland (to be loaded and unloaded).
+New in-game content: Buildable facility: Square Grid Field (to be loaded and unloaded).
+New in-game content: Buildable facility: Nine-panel field (to be loaded and unloaded).
+New in-game content: Buildable facility: Integrated Plantation (to be loaded and unloaded).
+
+New: Explorable map: Parking Lot.
+
+New: Craftable blueprint: Bucket.
+New: Craftable blueprints: Wooden Planks.
+New: Craftable blueprint: Iron Pole.
+New content added: Props available: Bucket.
+New in the game: You can get props: planks.
+New in the game: You can get props: Iron Pole.
+New content added: Props available: Tires.
+New in the game: You can get props: iron sheet.
+New in the game: You can get props: plastic ring.
+New: Blueprints available: Oil Drawing Gun.
+New: Blueprints: Tire Remover.
+New in the game: Obtainable props: Oil Drawer.
+New in the game: Props available: Tire Removal Stick.
+New content added: Props available: Burning Tire.
+New content added: Props available: Stealing Toolkit.
+New: Blueprint: Water Collector - [1].
+New: Craftable Blueprint: Water Harvester - [2].
+New: Craftable Blueprint: Water Harvester - [3].
+New content added: Props available: Water Harvester-[1].
+New content added: Props available: Water Harvester - [2].
+New in-game content: Obtainable Props: Water Collector-[3].

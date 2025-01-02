@@ -1,8 +1,8 @@
 {
     "ActionModifiers": [],
     "InGameName": {
-        "DefaultText": "\u94a5\u5319",
-        "LocalizationKey": "COD_tag_keyy_InGameName",
+        "DefaultText": "钥匙",
+        "LocalizationKey": "Cod_Tag_key_InGameName",
         "ParentObjectID": "851676f81d7749646b1d367b90a41adb"
     },
     "UniqueOnBoard": false

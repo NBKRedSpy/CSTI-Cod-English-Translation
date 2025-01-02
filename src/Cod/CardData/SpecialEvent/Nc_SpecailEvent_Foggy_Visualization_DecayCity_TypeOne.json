@@ -130,7 +130,7 @@
     "CardBackgroundWarpType": 3,
     "CardDescription": {
         "DefaultText": "迷雾遍及视野，耳边寂静无声。",
-        "LocalizationKey": "Cod_Nc_SpecailEvent_Foggy_Visualization_TypeOne_CardDescription",
+        "LocalizationKey": "Cod_Nc_SpecailEvent_Foggy_Visualization_DecayCity_TypeOne_CardDescription",
         "ParentObjectID": "a357c2c06ac04506a8525d4548934178"
     },
     "CardImage": {
@@ -142,7 +142,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "",
-        "LocalizationKey": "Cod_Nc_SpecailEvent_Foggy_Visualization_TypeOne_CardName",
+        "LocalizationKey": "Cod_Nc_SpecailEvent_Foggy_Visualization_DecayCity_TypeOne_CardName",
         "ParentObjectID": "a357c2c06ac04506a8525d4548934178"
     },
     "CardTags": [],

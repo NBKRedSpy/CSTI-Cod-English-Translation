@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "它周边的地面已经腐蚀的溃不成形，而现在它将嘴巴对准了另一个方向。",
-        "LocalizationKey": "COD_eve_污秽僵尸攻击_CardDescription",
+        "LocalizationKey": "Cod_eve_污秽僵尸攻击_CardDescription",
         "ParentObjectID": "dad83191aa104139b5e83340af1e6e11"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "污秽",
-        "LocalizationKey": "COD_eve_污秽僵尸攻击_CardName",
+        "LocalizationKey": "Cod_eve_污秽僵尸攻击_CardName",
         "ParentObjectID": "dad83191aa104139b5e83340af1e6e11"
     },
     "CardTags": [],
@@ -243,7 +243,7 @@
             },
             "ActionName": {
                 "DefaultText": "长矛攻击",
-                "LocalizationKey": "COD_eve_污秽僵尸攻击_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_eve_污秽僵尸攻击_DismantleActions[0].ActionName",
                 "ParentObjectID": "dad83191aa104139b5e83340af1e6e11"
             },
             "ActionSounds": [],
@@ -1411,7 +1411,7 @@
             },
             "ActionName": {
                 "DefaultText": "弓箭射击",
-                "LocalizationKey": "COD_eve_污秽僵尸攻击_DismantleActions[1].ActionName",
+                "LocalizationKey": "Cod_eve_污秽僵尸攻击_DismantleActions[1].ActionName",
                 "ParentObjectID": "dad83191aa104139b5e83340af1e6e11"
             },
             "ActionSounds": [],
@@ -2470,7 +2470,7 @@
             },
             "ActionName": {
                 "DefaultText": "投石索投掷",
-                "LocalizationKey": "COD_eve_污秽僵尸攻击_DismantleActions[2].ActionName",
+                "LocalizationKey": "Cod_eve_污秽僵尸攻击_DismantleActions[2].ActionName",
                 "ParentObjectID": "dad83191aa104139b5e83340af1e6e11"
             },
             "ActionSounds": [],
@@ -3428,7 +3428,7 @@
             },
             "ActionName": {
                 "DefaultText": "脱离",
-                "LocalizationKey": "COD_eve_污秽僵尸攻击_DismantleActions[3].ActionName",
+                "LocalizationKey": "Cod_eve_污秽僵尸攻击_DismantleActions[3].ActionName",
                 "ParentObjectID": "dad83191aa104139b5e83340af1e6e11"
             },
             "ActionSounds": [],
@@ -4053,7 +4053,7 @@
             },
             "ActionName": {
                 "DefaultText": "左轮射击",
-                "LocalizationKey": "COD_eve_污秽僵尸攻击_DismantleActions[4].ActionName",
+                "LocalizationKey": "Cod_eve_污秽僵尸攻击_DismantleActions[4].ActionName",
                 "ParentObjectID": "dad83191aa104139b5e83340af1e6e11"
             },
             "ActionSounds": [],
@@ -4822,7 +4822,7 @@
             },
             "ActionName": {
                 "DefaultText": "枪械射击",
-                "LocalizationKey": "COD_eve_污秽僵尸攻击_DismantleActions[5].ActionName",
+                "LocalizationKey": "Cod_eve_污秽僵尸攻击_DismantleActions[5].ActionName",
                 "ParentObjectID": "dad83191aa104139b5e83340af1e6e11"
             },
             "ActionSounds": [],
@@ -5593,7 +5593,7 @@
             },
             "ActionName": {
                 "DefaultText": "复合弓射击",
-                "LocalizationKey": "Cod_eve_污秽僵尸攻击_DismantleActions[1].ActionName",
+                "LocalizationKey": "Cod_eve_污秽僵尸攻击_DismantleActions[6].ActionName",
                 "ParentObjectID": "dad83191aa104139b5e83340af1e6e11"
             },
             "ActionSounds": [],

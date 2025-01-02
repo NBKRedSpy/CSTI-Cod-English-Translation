@@ -1,0 +1,912 @@
+{
+    "BarColor": {
+        "a": 1.0,
+        "b": 0.244423553347588,
+        "g": 0.579427480697632,
+        "r": 0.831372559070587
+    },
+    "BarHighlightColor": {
+        "a": 1.0,
+        "b": 0.0,
+        "g": 0.728510022163391,
+        "r": 1.0
+    },
+    "BaseRatePerTick": 0.0,
+    "BaseValue": 0.0,
+    "CannotBeInspected": false,
+    "DefaultStatusDescription": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "DefaultStatusIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "DefaultStatusName": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "Description": {
+        "DefaultText": "在一切还来得及之前..",
+        "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_Description",
+        "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+    },
+    "FeedbackInfo": {
+        "Icon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "IconWarpData": "感染",
+        "IconWarpType": 3,
+        "Inverted": false,
+        "NegativeIcon": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        },
+        "StepValue": 1.0
+    },
+    "GameName": {
+        "DefaultText": "感染度",
+        "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_GameName",
+        "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+    },
+    "InvertedDirection": false,
+    "MaxStalenessStack": 0,
+    "MinMaxRate": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "MinMaxValue": {
+        "x": 0.0,
+        "y": 2000.0
+    },
+    "NotEnoughIcon": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "NotEnoughText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "NoveltyCooldownDuration": 0,
+    "OverrideFeedbackPrefab": {
+        "AnimationsToReset": "",
+        "Delay": 0.0,
+        "DestroyAfterPlaying": false,
+        "Duration": 0.0,
+        "Icon": "",
+        "ResetOnPlay": false,
+        "YieldWaitDuration": 0.0,
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "RequiredPerks": [],
+    "ShowActionEffects": true,
+    "StalenessMultiplier": 0.0,
+    "StatPriority": 0,
+    "StatusDebugMode": false,
+    "Statuses": [
+        {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 1,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "感觉自己开始发烧了..",
+                "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_Statuses[0].Description",
+                "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.25,
+                        "y": -0.25
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4a27fb5da9326b545a5ef73f2b80316e",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.25,
+                        "y": 0.25
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3b79a4c6d7e151044a1c56fbbd401d78",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.25,
+                        "y": -0.25
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "c672b35248e9f2349a084e1514d6c9f8",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 12.5,
+                        "y": 12.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "0ef92382faa66c643975c2c0f42ad82c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "930cf914322e9f145af1315d96f85a28",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.25,
+                        "y": -0.25
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "16af37a364285d14586629e3e0700e55",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "轻度感染",
+                "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_Statuses[0].GameName",
+                "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "感染",
+            "IconWarpType": 3,
+            "NotifyPlayer": 2,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 1,
+                "y": 500
+            }
+        },
+        {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 2,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "全身感觉没有力气..",
+                "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_Statuses[1].Description",
+                "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4a27fb5da9326b545a5ef73f2b80316e",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3b79a4c6d7e151044a1c56fbbd401d78",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "c672b35248e9f2349a084e1514d6c9f8",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 17.5,
+                        "y": 17.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "0ef92382faa66c643975c2c0f42ad82c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.75,
+                        "y": -0.75
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "930cf914322e9f145af1315d96f85a28",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.5,
+                        "y": -0.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "16af37a364285d14586629e3e0700e55",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.25,
+                        "y": 0.25
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "中度感染",
+                "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_Statuses[1].GameName",
+                "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "感染",
+            "IconWarpType": 3,
+            "NotifyPlayer": 2,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 1,
+            "RepeatTextNotification": 1,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 501,
+                "y": 1000
+            }
+        },
+        {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 3,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "咳咳咳...",
+                "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_Statuses[2].Description",
+                "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "dd178fd8d77a4cf4da8a5311fbc7c912",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.75,
+                        "y": -0.75
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4a27fb5da9326b545a5ef73f2b80316e",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.75,
+                        "y": 0.75
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3b79a4c6d7e151044a1c56fbbd401d78",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.75,
+                        "y": -0.75
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "c672b35248e9f2349a084e1514d6c9f8",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 22.5,
+                        "y": 22.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "0ef92382faa66c643975c2c0f42ad82c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -1.0,
+                        "y": -1.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "930cf914322e9f145af1315d96f85a28",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -0.75,
+                        "y": -0.75
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "16af37a364285d14586629e3e0700e55",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "高度感染",
+                "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_Statuses[2].GameName",
+                "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "感染",
+            "IconWarpType": 3,
+            "NotifyPlayer": 2,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 2,
+            "RepeatTextNotification": 2,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 1001,
+                "y": 1500
+            }
+        },
+        {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 4,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "前面一片血色..",
+                "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_Statuses[3].Description",
+                "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -1.0,
+                        "y": -1.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4a27fb5da9326b545a5ef73f2b80316e",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 1.0,
+                        "y": 1.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "3b79a4c6d7e151044a1c56fbbd401d78",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -1.0,
+                        "y": -1.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "c672b35248e9f2349a084e1514d6c9f8",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 27.5,
+                        "y": 27.5
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "0ef92382faa66c643975c2c0f42ad82c",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -2.0,
+                        "y": -2.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "930cf914322e9f145af1315d96f85a28",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": -1.0,
+                        "y": -1.0
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "16af37a364285d14586629e3e0700e55",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "ApplyEachTick": false,
+                    "InstantModifier": false,
+                    "IsInverse": false,
+                    "RateModifier": {
+                        "x": 0.75,
+                        "y": 0.75
+                    },
+                    "Stat": {
+                        "m_FileID": 0,
+                        "m_PathID": 0
+                    },
+                    "StatWarpData": "4117f7688f5d4aefbfd9b796dab3a72a",
+                    "StatWarpType": 3,
+                    "ValueModifier": {
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ],
+            "GameName": {
+                "DefaultText": "重度感染",
+                "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_Statuses[3].GameName",
+                "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+            },
+            "GameOver": false,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "IconWarpData": "感染",
+            "IconWarpType": 3,
+            "NotifyPlayer": 2,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 4,
+            "RepeatTextNotification": 4,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 1501,
+                "y": 1999
+            }
+        },
+        {
+            "ActionBlocker": {
+                "BlockThreshold": 0,
+                "BlockedMessage": ""
+            },
+            "ActionsMaxTicks": 0,
+            "AlertLevel": 0,
+            "AlertSounds": [],
+            "ConfidenceModifier": 0.0,
+            "Description": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "EffectsOnActions": [],
+            "EffectsOnStats": [],
+            "GameName": {
+                "DefaultText": "僵尸化",
+                "LocalizationKey": "Cod_Gs_Ruins_ZombieInfectivity_Statuses[4].GameName",
+                "ParentObjectID": "4117f7688f5d4aefbfd9b796dab3a72a"
+            },
+            "GameOver": true,
+            "Icon": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "NotifyPlayer": 0,
+            "PreventingActionMessage": {
+                "DefaultText": "",
+                "LocalizationKey": "",
+                "ParentObjectID": ""
+            },
+            "RepeatAlertSounds": 0,
+            "RepeatTextNotification": 0,
+            "StatusLog": {
+                "Category": {
+                    "m_FileID": 0,
+                    "m_PathID": 0
+                },
+                "LogText": {
+                    "DefaultText": "",
+                    "LocalizationKey": "",
+                    "ParentObjectID": ""
+                },
+                "TicksToRegister": 0
+            },
+            "ValueRange": {
+                "x": 2000,
+                "y": 2000
+            }
+        }
+    ],
+    "StatusesHaveNoBar": false,
+    "TimeOfDayMods": [],
+    "TooMuchText": {
+        "DefaultText": "",
+        "LocalizationKey": "",
+        "ParentObjectID": ""
+    },
+    "TrendIndicatorRateRange": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "UniqueID": "4117f7688f5d4aefbfd9b796dab3a72a",
+    "UsesNovelty": false,
+    "Visibility": 0,
+    "VisibleGameStatStatListTab": "Internal",
+    "VisibleInDetailedList": false,
+    "VisibleValueRange": {
+        "x": 0.0,
+        "y": 0.0
+    }
+}

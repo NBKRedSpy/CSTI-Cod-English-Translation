@@ -47,7 +47,7 @@
     },
     "GameName": {
         "DefaultText": "Gs_Noise_SharpClawZombies_AttackCount",
-        "LocalizationKey": "COD_Gs_Noise_SharpClawZombies_AttackCount_GameName",
+        "LocalizationKey": "Cod_Gs_Noise_SharpClawZombies_AttackCount_GameName",
         "ParentObjectID": "eb4c883856cb4870b28530d90e5eb4b3"
     },
     "InvertedDirection": false,

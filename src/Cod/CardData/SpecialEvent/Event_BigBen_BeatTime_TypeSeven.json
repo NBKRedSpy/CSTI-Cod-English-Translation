@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "从远处传来钟声的回响..",
-        "LocalizationKey": "COD_Event_BigBen_BeatTime_TypeSeven_CardDescription",
+        "LocalizationKey": "Cod_Event_BigBen_BeatTime_TypeSeven_CardDescription",
         "ParentObjectID": "279fcf353c3545e18b7dd8901e0749f5"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "钟",
-        "LocalizationKey": "COD_Event_BigBen_BeatTime_TypeSeven_CardName",
+        "LocalizationKey": "Cod_Event_BigBen_BeatTime_TypeSeven_CardName",
         "ParentObjectID": "279fcf353c3545e18b7dd8901e0749f5"
     },
     "CardTags": [
@@ -244,7 +244,7 @@
             },
             "ActionName": {
                 "DefaultText": "继续",
-                "LocalizationKey": "COD_Event_BigBen_BeatTime_TypeSeven_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_BigBen_BeatTime_TypeSeven_DismantleActions[0].ActionName",
                 "ParentObjectID": "279fcf353c3545e18b7dd8901e0749f5"
             },
             "ActionSounds": [],

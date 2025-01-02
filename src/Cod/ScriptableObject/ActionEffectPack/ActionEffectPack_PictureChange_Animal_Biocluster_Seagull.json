@@ -1,0 +1,306 @@
+{
+    "actToInv": [],
+    "alwaysDrops": [],
+    "blueprintDrops": [],
+    "blueprintProgress": [],
+    "bpDropDisableCancel": false,
+    "cardDropByStatBy": [],
+    "cardDropByStatTo": [],
+    "cardGens": [],
+    "dropCollections": [],
+    "expProgress": 0.0,
+    "extActEntries": [],
+    "giveCardStateChange": {
+        "ChargesChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special2Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special3Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special4Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "SpoilageChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {},
+        "UsageChange": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "giveCondition": {
+        "NotInBackground": false,
+        "RequiredCardsInInventory": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredDurabilityRanges": {
+            "FuelRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "LiquidQuantityRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ProgressRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special1Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special2Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special3Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special4Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "SpoilageRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "UsageRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "RequiredEnvironment": {},
+        "RequiredEnvironmentTags": [],
+        "RequiredLiquidContainers": [],
+        "RequiredStatValues": [],
+        "RequiredTagsInInventory": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredTagsOnBoard": []
+    },
+    "giveMoveToFinder": {
+        "Active": false,
+        "AllowAnyCard": false,
+        "AllowAnyTag": false,
+        "CardConds": [],
+        "CardToFind": [],
+        "NeedBothCardAndTag": true,
+        "OnlySlot": false,
+        "SlotsType": "",
+        "TagToFind": []
+    },
+    "graphicsPack": {},
+    "hasCondition": false,
+    "hasLuaCode": false,
+    "isNotInBase": false,
+    "luaCode": "",
+    "miniWaitTime": 0,
+    "recCardStateChange": {
+        "ChargesChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "DropOnDestroyList": false,
+        "FuelChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "LiquidEffectScaling": 0,
+        "LiquidQuantityChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "ModType": 0,
+        "ModifyDurability": false,
+        "ModifyLiquid": false,
+        "Special1Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special2Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special3Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "Special4Change": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "SpoilageChange": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "TransferCharges": false,
+        "TransferFuel": false,
+        "TransferInventory": false,
+        "TransferLiquid": false,
+        "TransferSpecial1": false,
+        "TransferSpecial2": false,
+        "TransferSpecial3": false,
+        "TransferSpecial4": false,
+        "TransferSpoilage": false,
+        "TransferUsage": false,
+        "TransformInto": {},
+        "UsageChange": {
+            "x": 0.0,
+            "y": 0.0
+        }
+    },
+    "recCondition": {
+        "NotInBackground": false,
+        "RequiredCardsInInventory": [],
+        "RequiredCardsNOTOnBoard": [],
+        "RequiredCardsOnBoard": [],
+        "RequiredContainer": [],
+        "RequiredContainerTags": [],
+        "RequiredDurabilityRanges": {
+            "FuelRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "LiquidQuantityRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "ProgressRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special1Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special2Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special3Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "Special4Range": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "SpoilageRange": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "UsageRange": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "RequiredEnvironment": {},
+        "RequiredEnvironmentTags": [],
+        "RequiredLiquidContainers": [],
+        "RequiredStatValues": [],
+        "RequiredTagsInInventory": [],
+        "RequiredTagsNOTOnBoard": [],
+        "RequiredTagsOnBoard": []
+    },
+    "recMoveToFinder": {
+        "Active": false,
+        "AllowAnyCard": false,
+        "AllowAnyTag": false,
+        "CardConds": [],
+        "CardToFind": [],
+        "NeedBothCardAndTag": true,
+        "OnlySlot": false,
+        "SlotsType": "",
+        "TagToFind": []
+    },
+    "simpleVarConditions": [],
+    "simpleVarModEntries": [],
+    "spriteSet": [
+        {
+            "Desc": "港口重新陷入沉默，广阔的天空中鲜少看见海鸥的踪迹。",
+            "InRange": {
+                "x": 0.0,
+                "y": 319.0
+            },
+            "Name": "",
+            "StatValId": "Stat|f026b2d7f047400783e659c68d3bb797",
+            "SubSprites": [],
+            "ToSetSprite": {},
+            "ToSetSpriteWarpData": "Nc_Cod_Animal_Biocluster_Seagull_Low",
+            "ToSetSpriteWarpType": 3
+        },
+        {
+            "Desc": "区域能看到有不少海鸥在天空中活动。",
+            "InRange": {
+                "x": 320.0,
+                "y": 639.0
+            },
+            "Name": "",
+            "StatValId": "Stat|f026b2d7f047400783e659c68d3bb797",
+            "SubSprites": [],
+            "SubSpritesWarpData": [],
+            "SubSpritesWarpType": 3,
+            "ToSetSprite": {},
+            "ToSetSpriteWarpData": "Nc_Cod_Animal_Biocluster_Seagull_Balanced",
+            "ToSetSpriteWarpType": 3
+        },
+        {
+            "Desc": "天空中有大量的海鸥聚集。",
+            "InRange": {
+                "x": 640.0,
+                "y": 960.0
+            },
+            "Name": "",
+            "StatValId": "Stat|f026b2d7f047400783e659c68d3bb797",
+            "SubSprites": [],
+            "ToSetSprite": {},
+            "ToSetSpriteWarpData": "Nc_Cod_Animal_Biocluster_Seagull_High",
+            "ToSetSpriteWarpType": 3
+        }
+    ],
+    "statModByStatBy": [],
+    "statModByStatFunc": [],
+    "statModByStatTo": [],
+    "statModifications": [],
+    "tickWaitTime": 0,
+    "waitTime": 0
+}

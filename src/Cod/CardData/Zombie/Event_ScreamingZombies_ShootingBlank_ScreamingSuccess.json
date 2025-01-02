@@ -128,7 +128,7 @@
     },
     "CardDescription": {
         "DefaultText": "猩红色的唾液在眼前飞溅，震耳的尖啸遍及所有视野！",
-        "LocalizationKey": "COD_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_CardDescription",
+        "LocalizationKey": "Cod_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_CardDescription",
         "ParentObjectID": "506f6d5923c64811b398c59323e55ca9"
     },
     "CardImage": {
@@ -140,7 +140,7 @@
     "CardInteractions": [],
     "CardName": {
         "DefaultText": "打空了！",
-        "LocalizationKey": "COD_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_CardName",
+        "LocalizationKey": "Cod_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_CardName",
         "ParentObjectID": "506f6d5923c64811b398c59323e55ca9"
     },
     "CardTags": [],
@@ -235,13 +235,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_DismantleActions[0].ActionLog.LogText",
                     "ParentObjectID": "506f6d5923c64811b398c59323e55ca9"
                 }
             },
             "ActionName": {
                 "DefaultText": "捂住耳朵",
-                "LocalizationKey": "COD_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_DismantleActions[0].ActionName",
                 "ParentObjectID": "506f6d5923c64811b398c59323e55ca9"
             },
             "ActionSounds": [],
@@ -331,8 +331,8 @@
                             "DroppedCardWarpData": "4b51eb57d33a4581b5aa8fb522c05b19",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         },
                         {
@@ -343,8 +343,8 @@
                             "DroppedCardWarpData": "fa854efb43ea4d71b2d310f1bbb07fbd",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -526,8 +526,8 @@
                             "DroppedCardWarpData": "ff8428dad000493ca7ebe38082ac27ef",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         },
                         {
@@ -538,8 +538,8 @@
                             "DroppedCardWarpData": "e934cdd2be394685959f3a62c049037c",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -721,8 +721,8 @@
                             "DroppedCardWarpData": "96ef792bb976442889b882f62ef86860",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         },
                         {
@@ -733,8 +733,8 @@
                             "DroppedCardWarpData": "ff8428dad000493ca7ebe38082ac27ef",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -883,7 +883,7 @@
                         "x": 0,
                         "y": 0
                     },
-                    "CollectionWeight": "1",
+                    "CollectionWeight": 1,
                     "CountsAsSuccess": false,
                     "CreatedLiquid": {
                         "LiquidCard": {
@@ -891,8 +891,8 @@
                             "m_PathID": 0
                         },
                         "Quantity": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "DroppedCards": [
@@ -916,8 +916,8 @@
                             "DroppedCardWarpData": "4b51eb57d33a4581b5aa8fb522c05b19",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         },
                         {
@@ -928,8 +928,8 @@
                             "DroppedCardWarpData": "fa854efb43ea4d71b2d310f1bbb07fbd",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         },
                         {
@@ -940,8 +940,8 @@
                             "DroppedCardWarpData": "e934cdd2be394685959f3a62c049037c",
                             "DroppedCardWarpType": 3,
                             "Quantity": {
-                                "x": "1",
-                                "y": "1"
+                                "x": 1,
+                                "y": 1
                             }
                         }
                     ],
@@ -950,8 +950,8 @@
                         "Fuel": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -962,8 +962,8 @@
                         "Progress": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -974,8 +974,8 @@
                         "Special1": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -986,8 +986,8 @@
                         "Special2": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -998,8 +998,8 @@
                         "Special3": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1010,8 +1010,8 @@
                         "Special4": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1022,8 +1022,8 @@
                         "Spoilage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1034,8 +1034,8 @@
                         "Usage": {
                             "Active": false,
                             "DurabilityRange": {
-                                "x": 0,
-                                "y": 0
+                                "x": 0.0,
+                                "y": 0.0
                             },
                             "InterpWeightRange": {
                                 "x": 0,
@@ -1046,36 +1046,36 @@
                     },
                     "DurabilityModifications": {
                         "ChargesChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "FuelChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special1Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special2Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special3Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "Special4Change": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "SpoilageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "UsageChange": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.0,
+                            "y": 0.0
                         }
                     },
                     "RevealInventory": false,
@@ -1256,8 +1256,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
@@ -1300,13 +1300,13 @@
                 "CategoryWarpType": 3,
                 "LogText": {
                     "DefaultText": "I hunted a macaque.",
-                    "LocalizationKey": "COD_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_DismantleActions[0].ActionLog.LogText",
+                    "LocalizationKey": "Cod_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_DismantleActions[1].ActionLog.LogText",
                     "ParentObjectID": "506f6d5923c64811b398c59323e55ca9"
                 }
             },
             "ActionName": {
                 "DefaultText": "捂住耳朵",
-                "LocalizationKey": "COD_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_DismantleActions[0].ActionName",
+                "LocalizationKey": "Cod_Event_ScreamingZombies_ShootingBlank_ScreamingSuccess_DismantleActions[1].ActionName",
                 "ParentObjectID": "506f6d5923c64811b398c59323e55ca9"
             },
             "ActionSounds": [],
@@ -1524,8 +1524,8 @@
                     "InstantModifier": false,
                     "IsInverse": false,
                     "RateModifier": {
-                        "x": 0,
-                        "y": 0
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "Stat": {
                         "m_FileID": 0,
