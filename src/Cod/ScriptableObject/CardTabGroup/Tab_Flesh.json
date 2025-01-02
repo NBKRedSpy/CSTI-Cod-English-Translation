@@ -1,25 +1,25 @@
 {
-    "AssociatedEntry": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "IncludedCards": [],
-    "IncludedCardsWarpData": [
-        "19a17bb01ded441f82a9d2493305b3fc",
-        "c5f168d3577d4c7fbcf495c42da148c3"
-    ],
-    "IncludedCardsWarpType": 3,
-    "ShopSortingList": [],
-    "SubGroups": [],
-    "TabIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "TabIconWarpData": "Nc_InfectedPlant_Base_Blade",
-    "TabIconWarpType": 3,
-    "TabName": {
-        "DefaultText": "血肉",
-        "LocalizationKey": "Cod_Tab_InfectedMaterial_TabName",
-        "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
-    }
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [
+    "19a17bb01ded441f82a9d2493305b3fc",
+    "c5f168d3577d4c7fbcf495c42da148c3"
+  ],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabIconWarpData": "Nc_InfectedPlant_Base_Blade",
+  "TabIconWarpType": 3,
+  "TabName": {
+    "DefaultText": "血肉",
+    "LocalizationKey": "Cod_Tab_InfectedMaterial_TabName__T-UaA+If2vfW2nKfqX6GeR/fKkmJE=",
+    "ParentObjectID": "abf2e5c37c244b545a059d0a5577bdec"
+  }
 }

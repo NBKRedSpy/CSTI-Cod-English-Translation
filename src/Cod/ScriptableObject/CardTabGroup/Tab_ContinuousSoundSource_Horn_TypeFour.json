@@ -1,25 +1,25 @@
 {
-    "AssociatedEntry": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "IncludedCards": [],
-    "IncludedCardsWarpData": [
-        "5f6de998c041417aae6cdf8155617068",
-        "275789bd74a64b8bbd7bcac871e8b638",
-        "03f5fada5a174a38ac35fbfa968c1a18",
-        "ea9e6e8d454845869699b197a9804c87"
-    ],
-    "IncludedCardsWarpType": 3,
-    "ShopSortingList": [],
-    "SubGroups": [],
-    "TabIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "TabName": {
-        "DefaultText": "大大大！",
-        "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName",
-        "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
-    }
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [
+    "5f6de998c041417aae6cdf8155617068",
+    "275789bd74a64b8bbd7bcac871e8b638",
+    "03f5fada5a174a38ac35fbfa968c1a18",
+    "ea9e6e8d454845869699b197a9804c87"
+  ],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabName": {
+    "DefaultText": "大大大！",
+    "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName__T-yFYnBQz4Qx+tbQ+BfKZ6sr7ndOM=",
+    "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
+  }
 }

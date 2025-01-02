@@ -1,9 +1,9 @@
 {
-    "ActionModifiers": [],
-    "InGameName": {
-        "DefaultText": "CardTag_Decay",
-        "LocalizationKey": "CardTag_Animal_Vultures_InGameName",
-        "ParentObjectID": "a8992ee828b224649b7b73ac91605d6b"
-    },
-    "UniqueOnBoard": false
+  "ActionModifiers": [],
+  "InGameName": {
+    "DefaultText": "CardTag_Decay",
+    "LocalizationKey": "CardTag_Animal_Vultures_InGameName__T-NGEaDeF8EYi4JQiL//CSLU+GndA=",
+    "ParentObjectID": "a8992ee828b224649b7b73ac91605d6b"
+  },
+  "UniqueOnBoard": false
 }

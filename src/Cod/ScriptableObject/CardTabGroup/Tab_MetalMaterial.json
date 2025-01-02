@@ -1,23 +1,23 @@
 {
-    "AssociatedEntry": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "IncludedCards": [],
-    "IncludedCardsWarpData": [
-        "43c421518fb3408eabe2f548264fcacc",
-        "c50651e55a554eab838d0e9d5567d1a4"
-    ],
-    "IncludedCardsWarpType": 3,
-    "ShopSortingList": [],
-    "SubGroups": [],
-    "TabIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "TabName": {
-        "DefaultText": "金属材料",
-        "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName",
-        "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
-    }
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [
+    "43c421518fb3408eabe2f548264fcacc",
+    "c50651e55a554eab838d0e9d5567d1a4"
+  ],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabName": {
+    "DefaultText": "金属材料",
+    "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName__T-RA8EKnT02UZbXnI7oSHsFG3pnSY=",
+    "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
+  }
 }

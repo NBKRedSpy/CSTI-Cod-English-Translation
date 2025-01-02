@@ -1,23 +1,23 @@
 {
-    "AssociatedEntry": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "IncludedCards": [],
-    "IncludedCardsWarpData": [
-        "57460207bbf77fa4fb6720aed5d84851",
-        "ea34e8d2dcce437cacd74273094e6352"
-    ],
-    "IncludedCardsWarpType": 3,
-    "ShopSortingList": [],
-    "SubGroups": [],
-    "TabIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "TabName": {
-        "DefaultText": "木板",
-        "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName",
-        "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
-    }
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [
+    "57460207bbf77fa4fb6720aed5d84851",
+    "ea34e8d2dcce437cacd74273094e6352"
+  ],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabName": {
+    "DefaultText": "木板",
+    "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName__T-OxMmTaHBa3KGXyozzw8/mlvB4js=",
+    "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
+  }
 }

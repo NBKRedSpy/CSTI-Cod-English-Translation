@@ -1,23 +1,23 @@
 {
-    "AssociatedEntry": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "IncludedCards": [],
-    "IncludedCardsWarpData": [
-        "c7aeacc63d0540de9f20ddeb7aa3b58a",
-        "c5aed5542ffb4600b40661e337f4d2ad"
-    ],
-    "IncludedCardsWarpType": 3,
-    "ShopSortingList": [],
-    "SubGroups": [],
-    "TabIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "TabName": {
-        "DefaultText": "瓶罐容器",
-        "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName",
-        "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
-    }
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [
+    "c7aeacc63d0540de9f20ddeb7aa3b58a",
+    "c5aed5542ffb4600b40661e337f4d2ad"
+  ],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabName": {
+    "DefaultText": "瓶罐容器",
+    "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName__T-mpjJ7OT4PAM+od9/8e0rnGdliA0=",
+    "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
+  }
 }

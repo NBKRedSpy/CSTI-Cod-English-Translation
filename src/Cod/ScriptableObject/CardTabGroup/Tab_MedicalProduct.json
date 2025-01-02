@@ -1,22 +1,22 @@
 {
-    "AssociatedEntry": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "IncludedCards": [],
-    "IncludedCardsWarpData": [
-        "69203a475b134e8cb7deba4f5077932a"
-    ],
-    "IncludedCardsWarpType": 3,
-    "ShopSortingList": [],
-    "SubGroups": [],
-    "TabIcon": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "TabName": {
-        "DefaultText": "医疗用品",
-        "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName",
-        "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
-    }
+  "AssociatedEntry": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "IncludedCards": [],
+  "IncludedCardsWarpData": [
+    "69203a475b134e8cb7deba4f5077932a"
+  ],
+  "IncludedCardsWarpType": 3,
+  "ShopSortingList": [],
+  "SubGroups": [],
+  "TabIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "TabName": {
+    "DefaultText": "医疗用品",
+    "LocalizationKey": "Cod_Tab_BottlesAndJars_TabName__T-cbPh9wvz1JNPHdtlXtR3KhVkQdU=",
+    "ParentObjectID": "3ed6810cb6696944a8ad094aad735f19"
+  }
 }
